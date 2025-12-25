@@ -1,0 +1,6259 @@
+{
+  "config": {
+    "radius": 60.0,
+    "memory_bytes": 33554432,
+    "packets_per_mb": 1000,
+    "nodes_per_mb": 10,
+    "dt": 0.5,
+    "damping": 0.95,
+    "force_strength": 8.0,
+    "capture_radius": 6.0
+  },
+  "packets": {
+    "1": {
+      "id": 1,
+      "resonance": {
+        "velocity": {
+          "x": -0.13825124014587875,
+          "y": 0.020919401533782533,
+          "z": -0.2705838433081517
+        },
+        "wavelength": 0.6715703351371016,
+        "harmonics": [
+          0.6615158233376948,
+          0.26615158233376945,
+          0.12661515823337693
+        ],
+        "phase": 0.656657337600917,
+        "amplitude": 0.7896245968139939,
+        "decay": 0.7874015748031495
+      },
+      "packet_type": "Signal",
+      "memory_ref": 1000,
+      "state": "Released",
+      "position": {
+        "x": 32.17984468493979,
+        "y": -26.974937265755724,
+        "z": 41.2010630916876
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 27.613285713175422,
+      "cmb_hits": 4,
+      "content": "The starship descended through the clouds of the alien world. Captain Chen gripped the controls as sensors detected unknown life forms below. This was humanity's first contact."
+    },
+    "23": {
+      "id": 23,
+      "resonance": {
+        "velocity": {
+          "x": 0.08685768497366898,
+          "y": -0.27914633034567715,
+          "z": 0.002597825544781952
+        },
+        "wavelength": 0.6495602440653011,
+        "harmonics": [
+          0.8659062356378446,
+          0.28659062356378445,
+          0.12865906235637845
+        ],
+        "phase": 0.932854588915176,
+        "amplitude": 0.4107281902929153,
+        "decay": 0.8064516129032259
+      },
+      "packet_type": "Query",
+      "memory_ref": 23000,
+      "state": "Released",
+      "position": {
+        "x": 37.83425795813461,
+        "y": -36.91361014481157,
+        "z": 24.001824296517643
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 47.36993017993134,
+      "cmb_hits": 2,
+      "content": "Time flows like a river, but who stands on the bank to watch it pass? Perhaps we are both the water and the observer."
+    },
+    "45": {
+      "id": 45,
+      "resonance": {
+        "velocity": {
+          "x": 0.4507876786664372,
+          "y": 0.9970753980552342,
+          "z": 0.6657535126502316
+        },
+        "wavelength": 0.31021479878568814,
+        "harmonics": [
+          0.6204295975713763,
+          0.9306443963570644,
+          0.5510739939284406
+        ],
+        "phase": 0.08400000000000006,
+        "amplitude": 0.7167088570363043,
+        "decay": 0.001
+      },
+      "packet_type": "Memory",
+      "memory_ref": 45000,
+      "state": "InFlight",
+      "position": {
+        "x": -23.281686197588755,
+        "y": -12.804160018405842,
+        "z": -25.906602879744717
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 50.43346139712449,
+      "cmb_hits": 1,
+      "content": null
+    },
+    "10": {
+      "id": 10,
+      "resonance": {
+        "velocity": {
+          "x": 0.18318292115884785,
+          "y": -0.3763097834016278,
+          "z": -0.22540542038903266
+        },
+        "wavelength": 0.6876446653442904,
+        "harmonics": [
+          0.9120955461747755,
+          0.29120955461747755,
+          0.12912095546174776
+        ],
+        "phase": 0.21270301460608215,
+        "amplitude": 0.4088319998001075,
+        "decay": 0.8
+      },
+      "packet_type": "Signal",
+      "memory_ref": 10000,
+      "state": "Released",
+      "position": {
+        "x": 6.699883583210442,
+        "y": -40.66923684110307,
+        "z": -41.417166618256594
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 28.29536537304562,
+      "cmb_hits": 2,
+      "content": "The house had been empty for fifty years. When the new family moved in, they found children's handprints on the windows. From the inside. Fresh."
+    },
+    "65": {
+      "id": 65,
+      "resonance": {
+        "velocity": {
+          "x": -0.046473929523618444,
+          "y": -0.5718507743329704,
+          "z": 0.55871674010905
+        },
+        "wavelength": 0.30373010757878055,
+        "harmonics": [
+          0.6074602151575611,
+          0.9111903227363416,
+          0.5186505378939028
+        ],
+        "phase": 0.03300000000000002,
+        "amplitude": 0.6263027578882032,
+        "decay": 0.001
+      },
+      "packet_type": "Memory",
+      "memory_ref": 65000,
+      "state": "Captured",
+      "position": {
+        "x": -10.211457772775104,
+        "y": 28.912960300443967,
+        "z": -9.054601729656579
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 35.51235796485043,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "3": {
+      "id": 3,
+      "resonance": {
+        "velocity": {
+          "x": 0.03833384552252167,
+          "y": -0.353704973758335,
+          "z": 0.335623821751706
+        },
+        "wavelength": 0.7190488314560535,
+        "harmonics": [
+          1.0985230894284324,
+          0.3098523089428432,
+          0.13098523089428432
+        ],
+        "phase": 0.2228081570466262,
+        "amplitude": 0.80497417043057,
+        "decay": 0.7936507936507936
+      },
+      "packet_type": "Signal",
+      "memory_ref": 3000,
+      "state": "Released",
+      "position": {
+        "x": 7.958242308150362,
+        "y": 20.428992805613202,
+        "z": -54.97500468210367
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 37.892136860854734,
+      "cmb_hits": 4,
+      "content": "The wormhole opened like a flower blooming in reverse. Through it, travelers from a parallel Earth emerged, carrying news of a universe where gravity worked differently."
+    },
+    "19": {
+      "id": 19,
+      "resonance": {
+        "velocity": {
+          "x": 0.02902043078570974,
+          "y": -0.29291489883939364,
+          "z": -0.04892893592642628
+        },
+        "wavelength": 0.7041627362003109,
+        "harmonics": [
+          1.3478144966297114,
+          0.33478144966297113,
+          0.13347814496629712
+        ],
+        "phase": 0.3714142718355597,
+        "amplitude": 0.987603305785124,
+        "decay": 0.8264462809917356
+      },
+      "packet_type": "Signal",
+      "memory_ref": 19000,
+      "state": "Released",
+      "position": {
+        "x": 44.15265498660342,
+        "y": 31.57634249995655,
+        "z": -23.214385641797445
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 31.750085361633477,
+      "cmb_hits": 6,
+      "content": "The wolf pack moved silently through the snow. The alpha paused, ears forward, sensing prey. In winter, every hunt meant survival."
+    },
+    "34": {
+      "id": 34,
+      "resonance": {
+        "velocity": {
+          "x": 1.4081507484598024,
+          "y": 0.5479653399617455,
+          "z": 4.030245430605614
+        },
+        "wavelength": 0.4911526821128135,
+        "harmonics": [
+          0.982305364225627,
+          0.4734580463384406,
+          0.45576341056406733
+        ],
+        "phase": 0.09300000000000007,
+        "amplitude": 0.7156291583771657,
+        "decay": 0.001
+      },
+      "packet_type": "Query",
+      "memory_ref": 34000,
+      "state": "Captured",
+      "position": {
+        "x": -14.313643032209464,
+        "y": 2.5180352997450632,
+        "z": -7.280446301666581
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 52.79711655913447,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "55": {
+      "id": 55,
+      "resonance": {
+        "velocity": {
+          "x": 0.0621482913047993,
+          "y": -0.20867279148866558,
+          "z": -0.05699458550077914
+        },
+        "wavelength": 0.704036469842302,
+        "harmonics": [
+          0.4080729396846039,
+          0.11210940952690596,
+          0.5201823492115096
+        ],
+        "phase": 0.06800000000000005,
+        "amplitude": 0.7541892928817535,
+        "decay": 0.001
+      },
+      "packet_type": "Echo",
+      "memory_ref": 55000,
+      "state": "Released",
+      "position": {
+        "x": -2.8351693877015447,
+        "y": 8.881177282953097,
+        "z": -57.67481794431093
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 29.039852249732423,
+      "cmb_hits": 2,
+      "content": null
+    },
+    "67": {
+      "id": 67,
+      "resonance": {
+        "velocity": {
+          "x": -0.013207055581311095,
+          "y": -0.24896603925857713,
+          "z": -0.1080799148491393
+        },
+        "wavelength": 0.6830691240173533,
+        "harmonics": [
+          0.3661382480347066,
+          0.04920737205205983,
+          0.4153456200867667
+        ],
+        "phase": 0.07000000000000005,
+        "amplitude": 0.8278604289152545,
+        "decay": 0.001
+      },
+      "packet_type": "Echo",
+      "memory_ref": 67000,
+      "state": "Released",
+      "position": {
+        "x": 31.044596023449376,
+        "y": 4.286461978057474,
+        "z": 50.20132310821974
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 24.48994156072906,
+      "cmb_hits": 2,
+      "content": null
+    },
+    "73": {
+      "id": 73,
+      "resonance": {
+        "velocity": {
+          "x": -0.20450106488420192,
+          "y": -0.08120985453219201,
+          "z": -0.23781127002326669
+        },
+        "wavelength": 0.43624551780250415,
+        "harmonics": [
+          0.8724910356050083,
+          0.3087365534075124,
+          0.18122758901252078
+        ],
+        "phase": 0.01650000000000001,
+        "amplitude": 0.7710499690569177,
+        "decay": 0.001
+      },
+      "packet_type": "Anomaly",
+      "memory_ref": 73000,
+      "state": "Captured",
+      "position": {
+        "x": -4.273963779389516,
+        "y": -3.573560780472929,
+        "z": -49.400964788622204
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 5.423236865466762,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "57": {
+      "id": 57,
+      "resonance": {
+        "velocity": {
+          "x": 0.39701313161087676,
+          "y": -0.7375570105598785,
+          "z": -0.4382911885259256
+        },
+        "wavelength": 0.3120975043738066,
+        "harmonics": [
+          0.6241950087476132,
+          0.9362925131214199,
+          0.5604875218690331
+        ],
+        "phase": 0.04300000000000003,
+        "amplitude": 0.5718165215062967,
+        "decay": 0.001
+      },
+      "packet_type": "Memory",
+      "memory_ref": 57000,
+      "state": "Captured",
+      "position": {
+        "x": -27.369302692922044,
+        "y": 18.278472010810514,
+        "z": -0.6476615754777711
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 41.18522357542233,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "15": {
+      "id": 15,
+      "resonance": {
+        "velocity": {
+          "x": 0.14620590150321983,
+          "y": -0.3516605167924608,
+          "z": 0.29033748320509256
+        },
+        "wavelength": 0.7524699120117435,
+        "harmonics": [
+          1.4162232252275806,
+          0.34162232252275804,
+          0.1341622322522758
+        ],
+        "phase": 0.4171268124696227,
+        "amplitude": 0.4103485513417824,
+        "decay": 0.8264462809917356
+      },
+      "packet_type": "Signal",
+      "memory_ref": 15000,
+      "state": "Captured",
+      "position": {
+        "x": 2.2761086355307016,
+        "y": -2.499317392426792,
+        "z": 29.18280879111173
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 5.116661663166974,
+      "cmb_hits": 0,
+      "content": "The API endpoint accepts JSON payloads with authentication tokens. Response codes indicate success or failure. Rate limiting applies after 100 requests."
+    },
+    "16": {
+      "id": 16,
+      "resonance": {
+        "velocity": {
+          "x": -0.2287867479478175,
+          "y": -0.4385897938637031,
+          "z": -1.2466090171093467
+        },
+        "wavelength": 0.701765654503764,
+        "harmonics": [
+          0.8154387263415905,
+          0.28154387263415903,
+          0.1281543872634159
+        ],
+        "phase": 0.26231801861163184,
+        "amplitude": 0.33833825018296537,
+        "decay": 0.8064516129032259
+      },
+      "packet_type": "Signal",
+      "memory_ref": 16000,
+      "state": "Captured",
+      "position": {
+        "x": -1.331678008720835,
+        "y": -0.13816949257364958,
+        "z": -39.20013984780951
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 21.322113656690576,
+      "cmb_hits": 0,
+      "content": "Preheat oven to 350 degrees. Mix flour, sugar, and eggs until smooth. Add vanilla extract and fold in chocolate chips. Bake for 12 minutes."
+    },
+    "41": {
+      "id": 41,
+      "resonance": {
+        "velocity": {
+          "x": -0.013600169467576577,
+          "y": 0.2456756530420427,
+          "z": 0.07492592063257601
+        },
+        "wavelength": 0.3239620843425692,
+        "harmonics": [
+          0.6479241686851384,
+          0.9718862530277075,
+          0.619810421712846
+        ],
+        "phase": 0.01550000000000001,
+        "amplitude": 0.5469079544502071,
+        "decay": 0.001
+      },
+      "packet_type": "Memory",
+      "memory_ref": 41000,
+      "state": "Captured",
+      "position": {
+        "x": 3.951972907945399,
+        "y": 3.4074388307078363,
+        "z": 37.97422920658415
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 5.8643955898052464,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "36": {
+      "id": 36,
+      "resonance": {
+        "velocity": {
+          "x": -0.10952207197083251,
+          "y": 0.26273939437098354,
+          "z": -0.49359215929034095
+        },
+        "wavelength": 0.12295646738547078,
+        "harmonics": [
+          0.24591293477094156,
+          0.36886940215641234,
+          0.614782336927354
+        ],
+        "phase": 0.10000000000000007,
+        "amplitude": 0.9489959365932654,
+        "decay": 0.001
+      },
+      "packet_type": "Signal",
+      "memory_ref": 36000,
+      "state": "InFlight",
+      "position": {
+        "x": -6.261271845544718,
+        "y": 28.345514719150323,
+        "z": 29.31007590407846
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 28.961568998399503,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "32": {
+      "id": 32,
+      "resonance": {
+        "velocity": {
+          "x": -0.04094559977005504,
+          "y": 0.36619762324273925,
+          "z": -0.07145183471580344
+        },
+        "wavelength": 0.1050966163278181,
+        "harmonics": [
+          0.2101932326556362,
+          0.3152898489834543,
+          0.5254830816390905
+        ],
+        "phase": 0.005000000000000001,
+        "amplitude": 0.8972552354873542,
+        "decay": 0.001
+      },
+      "packet_type": "Signal",
+      "memory_ref": 32000,
+      "state": "Captured",
+      "position": {
+        "x": 13.326024555961533,
+        "y": 23.327248955812593,
+        "z": 26.27056547002232
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 2.2633623665295985,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "44": {
+      "id": 44,
+      "resonance": {
+        "velocity": {
+          "x": 0.24644410185221333,
+          "y": 0.44146575842528996,
+          "z": -0.0493560934019504
+        },
+        "wavelength": 0.09861444307799819,
+        "harmonics": [
+          0.19722888615599637,
+          0.2958433292339946,
+          0.4930722153899909
+        ],
+        "phase": 0.01550000000000001,
+        "amplitude": 0.8374794155808304,
+        "decay": 0.001
+      },
+      "packet_type": "Signal",
+      "memory_ref": 44000,
+      "state": "Captured",
+      "position": {
+        "x": -1.4262370668012616,
+        "y": 5.363038128197246,
+        "z": 23.214199817983904
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 4.343557976001267,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "14": {
+      "id": 14,
+      "resonance": {
+        "velocity": {
+          "x": 0.24378895587787633,
+          "y": -0.6133477686245508,
+          "z": 0.27795784599408224
+        },
+        "wavelength": 0.7326091608268033,
+        "harmonics": [
+          0.8937943708778999,
+          0.28937943708779,
+          0.128937943708779
+        ],
+        "phase": 0.7031249143804958,
+        "amplitude": 0.4272014093248887,
+        "decay": 0.819672131147541
+      },
+      "packet_type": "Signal",
+      "memory_ref": 14000,
+      "state": "Captured",
+      "position": {
+        "x": 15.650117115306664,
+        "y": -6.97087317828022,
+        "z": 21.307537043895852
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 7.459766178547502,
+      "cmb_hits": 0,
+      "content": "To implement the sorting algorithm, first partition the array around a pivot element. Recursively apply the same logic to sub-arrays until sorted."
+    },
+    "6": {
+      "id": 6,
+      "resonance": {
+        "velocity": {
+          "x": -0.019041770140734986,
+          "y": -0.14704232866835262,
+          "z": -0.5101610884628308
+        },
+        "wavelength": 0.7155090901340003,
+        "harmonics": [
+          1.0086745477350996,
+          0.30086745477350996,
+          0.130086745477351
+        ],
+        "phase": 0.027580120009909222,
+        "amplitude": 0.3844036328207398,
+        "decay": 0.78125
+      },
+      "packet_type": "Signal",
+      "memory_ref": 6000,
+      "state": "Released",
+      "position": {
+        "x": -19.376171721786424,
+        "y": 5.232769963290216,
+        "z": -55.610668127647436
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 37.05636197209534,
+      "cmb_hits": 2,
+      "content": "The wizard's apprentice accidentally turned the king into a frog. Now he had three days to find the counter-spell or face execution. Magic was harder than it looked."
+    },
+    "24": {
+      "id": 24,
+      "resonance": {
+        "velocity": {
+          "x": 0.08335012644970943,
+          "y": -0.33596590974308277,
+          "z": 0.2630055355846644
+        },
+        "wavelength": 0.6869247027069876,
+        "harmonics": [
+          1.3278845213323653,
+          0.33278845213323655,
+          0.13327884521332364
+        ],
+        "phase": 0.6798303190318704,
+        "amplitude": 0.8836023956810075,
+        "decay": 0.8064516129032259
+      },
+      "packet_type": "Query",
+      "memory_ref": 24000,
+      "state": "Released",
+      "position": {
+        "x": 1.348462766895385,
+        "y": 20.13095313851143,
+        "z": -55.43036116017333
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 49.68953980227739,
+      "cmb_hits": 4,
+      "content": "If a tree falls in the forest and no one hears it, does it make a sound? Perhaps the forest itself is always listening."
+    },
+    "25": {
+      "id": 25,
+      "resonance": {
+        "velocity": {
+          "x": 0.08744501812327558,
+          "y": -0.04651178541766872,
+          "z": 0.23098938454352985
+        },
+        "wavelength": 0.6753475230000392,
+        "harmonics": [
+          1.163827172160821,
+          0.3163827172160821,
+          0.13163827172160822
+        ],
+        "phase": 0.10211178361156703,
+        "amplitude": 0.6549614785720519,
+        "decay": 0.8333333333333334
+      },
+      "packet_type": "Signal",
+      "memory_ref": 25000,
+      "state": "Released",
+      "position": {
+        "x": 7.975688604861112,
+        "y": 44.841923068748706,
+        "z": 37.65041103193774
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 40.35284629380044,
+      "cmb_hits": 3,
+      "content": "The mayor announced new infrastructure spending today. Roads, bridges, and public transit will receive funding over the next five years."
+    },
+    "39": {
+      "id": 39,
+      "resonance": {
+        "velocity": {
+          "x": 0.06739063951833893,
+          "y": -0.4697486654159273,
+          "z": -0.5023566121094637
+        },
+        "wavelength": 0.7054566366375002,
+        "harmonics": [
+          0.4109132732750005,
+          0.11636990991250062,
+          0.5272831831875013
+        ],
+        "phase": 0.037500000000000026,
+        "amplitude": 0.32157205105590186,
+        "decay": 0.001
+      },
+      "packet_type": "Echo",
+      "memory_ref": 39000,
+      "state": "Captured",
+      "position": {
+        "x": 1.3270620779207045,
+        "y": -17.937475962629282,
+        "z": -43.95109687951938
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 22.287791276966093,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "75": {
+      "id": 75,
+      "resonance": {
+        "velocity": {
+          "x": -0.5339171859095463,
+          "y": -0.14117189127578783,
+          "z": 0.3423251034218956
+        },
+        "wavelength": 0.9645430743459713,
+        "harmonics": [
+          0.9290861486919426,
+          0.8936292230379141,
+          0.8227153717298563
+        ],
+        "phase": 0.060000000000000046,
+        "amplitude": 0.9999149999999994,
+        "decay": 0.001
+      },
+      "packet_type": "CosmicRay",
+      "memory_ref": 75000,
+      "state": "Released",
+      "position": {
+        "x": -54.330003845968804,
+        "y": -11.604145540966796,
+        "z": 20.844327298410626
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 30.8498749876457,
+      "cmb_hits": 2,
+      "content": null
+    },
+    "5": {
+      "id": 5,
+      "resonance": {
+        "velocity": {
+          "x": 0.31435502025644624,
+          "y": -0.06360894545390394,
+          "z": 0.5621605757990384
+        },
+        "wavelength": 0.6743665823272704,
+        "harmonics": [
+          1.039834598571396,
+          0.3039834598571396,
+          0.13039834598571395
+        ],
+        "phase": 0.5024523938292283,
+        "amplitude": 0.7447642473740581,
+        "decay": 0.7936507936507936
+      },
+      "packet_type": "Signal",
+      "memory_ref": 5000,
+      "state": "Captured",
+      "position": {
+        "x": -18.20745477239691,
+        "y": -6.885254497676297,
+        "z": -56.11988828582384
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 23.236154673543595,
+      "cmb_hits": 3,
+      "content": "In the enchanted forest, elves gathered to discuss the growing darkness. The old magic was fading, and only the prophecy of the chosen one offered hope."
+    },
+    "17": {
+      "id": 17,
+      "resonance": {
+        "velocity": {
+          "x": 0.14166490842429702,
+          "y": -0.43504528075102356,
+          "z": -0.34872740794368207
+        },
+        "wavelength": 0.7245880547467959,
+        "harmonics": [
+          0.6620215501277664,
+          0.26620215501277666,
+          0.12662021550127767
+        ],
+        "phase": 0.7563531267456496,
+        "amplitude": 0.644337719534561,
+        "decay": 0.8
+      },
+      "packet_type": "Signal",
+      "memory_ref": 17000,
+      "state": "Released",
+      "position": {
+        "x": -5.6101373196602715,
+        "y": -38.38265445016844,
+        "z": -45.28563429933912
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 27.903053642240973,
+      "cmb_hits": 3,
+      "content": "The secret to perfect risotto is patience. Add broth one ladle at a time, stirring constantly. The rice should be creamy but still have bite."
+    },
+    "31": {
+      "id": 31,
+      "resonance": {
+        "velocity": {
+          "x": -0.12248314863230492,
+          "y": 0.2848013398547631,
+          "z": 0.668641510537491
+        },
+        "wavelength": 0.7221776097816058,
+        "harmonics": [
+          0.44435521956321167,
+          0.1665328293448174,
+          0.6108880489080293
+        ],
+        "phase": 0.06200000000000005,
+        "amplitude": 0.6310817570533949,
+        "decay": 0.001
+      },
+      "packet_type": "Echo",
+      "memory_ref": 31000,
+      "state": "Captured",
+      "position": {
+        "x": 15.804564533782274,
+        "y": -38.15915031667758,
+        "z": -42.69022121056199
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 35.17579748857371,
+      "cmb_hits": 1,
+      "content": null
+    },
+    "21": {
+      "id": 21,
+      "resonance": {
+        "velocity": {
+          "x": 0.22498586880365573,
+          "y": 0.30473911050140245,
+          "z": 0.39764232479582057
+        },
+        "wavelength": 0.7181662122686632,
+        "harmonics": [
+          1.2037599267189973,
+          0.32037599267189976,
+          0.13203759926718997
+        ],
+        "phase": 0.3894026992345709,
+        "amplitude": 0.6886180540575536,
+        "decay": 0.8264462809917356
+      },
+      "packet_type": "Signal",
+      "memory_ref": 21000,
+      "state": "Released",
+      "position": {
+        "x": -4.411361396365721,
+        "y": -42.473814075740066,
+        "z": -39.936876450849354
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 37.624469496658286,
+      "cmb_hits": 3,
+      "content": "The eagle soared on thermal currents, scanning the meadow below. A rabbit moved. In seconds, the hunter became death from above."
+    },
+    "35": {
+      "id": 35,
+      "resonance": {
+        "velocity": {
+          "x": 0.1358000899013692,
+          "y": -0.1678533251406865,
+          "z": 0.20665834224836171
+        },
+        "wavelength": 0.7021219020193114,
+        "harmonics": [
+          0.4042438040386227,
+          0.10636570605793416,
+          0.5106095100965566
+        ],
+        "phase": 0.07000000000000005,
+        "amplitude": 0.7177997848633557,
+        "decay": 0.001
+      },
+      "packet_type": "Echo",
+      "memory_ref": 35000,
+      "state": "Released",
+      "position": {
+        "x": -10.24816338289891,
+        "y": -14.722822576074993,
+        "z": -54.757148266169814
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 28.95489708530694,
+      "cmb_hits": 2,
+      "content": null
+    },
+    "63": {
+      "id": 63,
+      "resonance": {
+        "velocity": {
+          "x": 0.23683190569975396,
+          "y": -0.2675696408325956,
+          "z": 0.420075963659726
+        },
+        "wavelength": 0.6895390996818498,
+        "harmonics": [
+          0.3790781993636996,
+          0.06861729904554936,
+          0.44769549840924894
+        ],
+        "phase": 0.048000000000000036,
+        "amplitude": 0.40216294456903884,
+        "decay": 0.001
+      },
+      "packet_type": "Echo",
+      "memory_ref": 63000,
+      "state": "Captured",
+      "position": {
+        "x": 15.90263486164115,
+        "y": -6.816225375677764,
+        "z": 50.7445492056622
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 17.9558546665711,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "33": {
+      "id": 33,
+      "resonance": {
+        "velocity": {
+          "x": -3.550383081065637,
+          "y": -1.872304232085666,
+          "z": 0.24823239160928384
+        },
+        "wavelength": 0.3054905540922164,
+        "harmonics": [
+          0.6109811081844329,
+          0.9164716622766493,
+          0.5274527704610821
+        ],
+        "phase": 0.019500000000000014,
+        "amplitude": 0.6888622928638904,
+        "decay": 0.001
+      },
+      "packet_type": "Memory",
+      "memory_ref": 33000,
+      "state": "Captured",
+      "position": {
+        "x": 5.4513441634433395,
+        "y": 10.444129414266737,
+        "z": 1.3524741786551124
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 23.985999329489314,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "7": {
+      "id": 7,
+      "resonance": {
+        "velocity": {
+          "x": 0.11187579292969585,
+          "y": -0.4896090852015792,
+          "z": -0.43016801867437354
+        },
+        "wavelength": 0.6634607916787578,
+        "harmonics": [
+          0.9216483821975707,
+          0.2921648382197571,
+          0.1292164838219757
+        ],
+        "phase": 0.45045601886418524,
+        "amplitude": 0.8148998385932651,
+        "decay": 0.78125
+      },
+      "packet_type": "Signal",
+      "memory_ref": 7000,
+      "state": "Released",
+      "position": {
+        "x": 0.2442565435315908,
+        "y": -41.3087018118079,
+        "z": -43.331473600691076
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 26.480533935509392,
+      "cmb_hits": 4,
+      "content": "She saw him across the crowded coffee shop. Their eyes met. He smiled. She dropped her latte. It was the most embarrassing and wonderful moment of her life."
+    },
+    "74": {
+      "id": 74,
+      "resonance": {
+        "velocity": {
+          "x": 0.24424001272834092,
+          "y": 0.1498337697355756,
+          "z": 0.025988722371211494
+        },
+        "wavelength": 0.024265849946221073,
+        "harmonics": [
+          0.048531699892442146,
+          0.07279754983866321,
+          0.12132924973110537
+        ],
+        "phase": 0.08000000000000006,
+        "amplitude": 0.9999499999999997,
+        "decay": 0.001
+      },
+      "packet_type": "CosmicRay",
+      "memory_ref": 74000,
+      "state": "Released",
+      "position": {
+        "x": 53.42914445266229,
+        "y": -16.893180629788407,
+        "z": 19.265542183804836
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 31.332876607450473,
+      "cmb_hits": 2,
+      "content": null
+    },
+    "68": {
+      "id": 68,
+      "resonance": {
+        "velocity": {
+          "x": 0.1368114291551537,
+          "y": 0.22871113262658863,
+          "z": 0.10531277072788794
+        },
+        "wavelength": 0.10372911947830107,
+        "harmonics": [
+          0.20745823895660215,
+          0.3111873584349032,
+          0.5186455973915054
+        ],
+        "phase": 0.01550000000000001,
+        "amplitude": 0.3261017558316018,
+        "decay": 0.001
+      },
+      "packet_type": "Anomaly",
+      "memory_ref": 68000,
+      "state": "Captured",
+      "position": {
+        "x": 1.0201914615273966,
+        "y": 1.7407776499910457,
+        "z": 40.80043785811185
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 3.2803507237048035,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "77": {
+      "id": 77,
+      "resonance": {
+        "velocity": {
+          "x": 0.12793277361809122,
+          "y": 0.2117601952115228,
+          "z": 0.20143681425198584
+        },
+        "wavelength": 0.3553987489862109,
+        "harmonics": [
+          0.7107974979724218,
+          0.06619624695863258,
+          0.7769937449310544
+        ],
+        "phase": 0.060000000000000046,
+        "amplitude": 0.6584795587103134,
+        "decay": 0.001
+      },
+      "packet_type": "CosmicRay",
+      "memory_ref": 77000,
+      "state": "Released",
+      "position": {
+        "x": -33.00831242137949,
+        "y": -15.862620861431088,
+        "z": -44.51657241621194
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 23.993876165089056,
+      "cmb_hits": 2,
+      "content": null
+    },
+    "13": {
+      "id": 13,
+      "resonance": {
+        "velocity": {
+          "x": 0.10260864812332054,
+          "y": -0.7732132998493357,
+          "z": -0.6630532760965946
+        },
+        "wavelength": 0.7031267660023838,
+        "harmonics": [
+          1.0539091505897318,
+          0.3053909150589732,
+          0.13053909150589732
+        ],
+        "phase": 0.5846900392333845,
+        "amplitude": 0.42691311504650964,
+        "decay": 0.8064516129032259
+      },
+      "packet_type": "Signal",
+      "memory_ref": 13000,
+      "state": "Released",
+      "position": {
+        "x": -7.077139639649505,
+        "y": -42.31220715793943,
+        "z": -40.21514802332813
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 81.38573411943383,
+      "cmb_hits": 2,
+      "content": "The function recursively traverses the binary tree, comparing node values at each level. Time complexity is O(n) where n is the number of nodes."
+    },
+    "53": {
+      "id": 53,
+      "resonance": {
+        "velocity": {
+          "x": -0.18928947433237436,
+          "y": 0.2424999564679438,
+          "z": 0.4331576741865989
+        },
+        "wavelength": 0.3063655469387615,
+        "harmonics": [
+          0.612731093877523,
+          0.9190966408162845,
+          0.5318277346938074
+        ],
+        "phase": 0.07200000000000005,
+        "amplitude": 0.6601262911274601,
+        "decay": 0.001
+      },
+      "packet_type": "Memory",
+      "memory_ref": 53000,
+      "state": "Captured",
+      "position": {
+        "x": 7.829194750068775,
+        "y": 0.23202555550886195,
+        "z": -49.67918012429368
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 30.689346220357333,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "69": {
+      "id": 69,
+      "resonance": {
+        "velocity": {
+          "x": 0.1407369870468503,
+          "y": -0.2342861035656378,
+          "z": 0.053667858590954305
+        },
+        "wavelength": 0.7195203371092384,
+        "harmonics": [
+          0.4390406742184767,
+          0.15856101132771494,
+          0.5976016855461919
+        ],
+        "phase": 0.06350000000000004,
+        "amplitude": 0.9067710381576284,
+        "decay": 0.001
+      },
+      "packet_type": "CosmicRay",
+      "memory_ref": 69000,
+      "state": "Released",
+      "position": {
+        "x": -43.338879351043644,
+        "y": 12.670471304083234,
+        "z": -36.12466729009445
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 48.330890153148204,
+      "cmb_hits": 2,
+      "content": null
+    },
+    "49": {
+      "id": 49,
+      "resonance": {
+        "velocity": {
+          "x": -0.42249834365144573,
+          "y": 0.6062143321249829,
+          "z": 0.11688535039023268
+        },
+        "wavelength": 0.29498286333733603,
+        "harmonics": [
+          0.5899657266746721,
+          0.8849485900120081,
+          0.47491431668668005
+        ],
+        "phase": 0.018500000000000013,
+        "amplitude": 0.6754062550621541,
+        "decay": 0.001
+      },
+      "packet_type": "Memory",
+      "memory_ref": 49000,
+      "state": "Captured",
+      "position": {
+        "x": -5.586846371433119,
+        "y": -1.7350683141911754,
+        "z": 20.79641025433228
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 12.103322331780767,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "18": {
+      "id": 18,
+      "resonance": {
+        "velocity": {
+          "x": 0.016186047778772816,
+          "y": -1.0279991194058686,
+          "z": 0.5374800710670498
+        },
+        "wavelength": 0.7126619486521018,
+        "harmonics": [
+          0.6411860635369674,
+          0.2641186063536967,
+          0.12641186063536966
+        ],
+        "phase": 0.14846520439524086,
+        "amplitude": 0.39814322893325765,
+        "decay": 0.819672131147541
+      },
+      "packet_type": "Signal",
+      "memory_ref": 18000,
+      "state": "Captured",
+      "position": {
+        "x": 7.67172289844171,
+        "y": -0.5401269576318527,
+        "z": 17.143688047968855
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 14.09950739618476,
+      "cmb_hits": 0,
+      "content": "For the marinade, combine soy sauce, ginger, garlic, and honey. Let the chicken rest in this mixture overnight. Grill over medium heat."
+    },
+    "22": {
+      "id": 22,
+      "resonance": {
+        "velocity": {
+          "x": 0.017857684303344504,
+          "y": 0.012356009880299963,
+          "z": -0.09001694035905733
+        },
+        "wavelength": 0.691604437763801,
+        "harmonics": [
+          1.2553389314811343,
+          0.32553389314811343,
+          0.13255338931481134
+        ],
+        "phase": 0.7318565401842658,
+        "amplitude": 0.4966803929613355,
+        "decay": 0.8474576271186441
+      },
+      "packet_type": "Query",
+      "memory_ref": 22000,
+      "state": "Released",
+      "position": {
+        "x": 12.485917626954615,
+        "y": -52.75239270713481,
+        "z": 18.552606729559916
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 29.507390175536237,
+      "cmb_hits": 2,
+      "content": "What is consciousness but patterns recognizing themselves? The universe evolved eyes to see itself, minds to question itself."
+    },
+    "38": {
+      "id": 38,
+      "resonance": {
+        "velocity": {
+          "x": -0.773637866205944,
+          "y": -0.0144337312144981,
+          "z": 0.2900994109368506
+        },
+        "wavelength": 0.4916413968988313,
+        "harmonics": [
+          0.9832827937976626,
+          0.47492419069649383,
+          0.45820698449415653
+        ],
+        "phase": 0.01600000000000001,
+        "amplitude": 0.8717710446279847,
+        "decay": 0.001
+      },
+      "packet_type": "Query",
+      "memory_ref": 38000,
+      "state": "Captured",
+      "position": {
+        "x": 0.15732123032416723,
+        "y": -0.2899165741649512,
+        "z": 21.458347021258053
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 11.78948735056032,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "62": {
+      "id": 62,
+      "resonance": {
+        "velocity": {
+          "x": -1.8863141371604517,
+          "y": -1.295068107370099,
+          "z": 0.0073399770805879115
+        },
+        "wavelength": 0.5038700486826005,
+        "harmonics": [
+          0.007740097365201093,
+          0.5116101460478015,
+          0.5193502434130028
+        ],
+        "phase": 0.021000000000000015,
+        "amplitude": 0.7151635592896627,
+        "decay": 0.001
+      },
+      "packet_type": "Query",
+      "memory_ref": 62000,
+      "state": "Captured",
+      "position": {
+        "x": -24.21134835566168,
+        "y": 4.312194259665405,
+        "z": 0.5161022839081576
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 28.55953972237148,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "46": {
+      "id": 46,
+      "resonance": {
+        "velocity": {
+          "x": -0.1720583790674354,
+          "y": -0.16573134668498088,
+          "z": 0.22370193974505517
+        },
+        "wavelength": 0.47706532586841677,
+        "harmonics": [
+          0.9541306517368335,
+          0.4311959776052503,
+          0.38532662934208384
+        ],
+        "phase": 0.10000000000000007,
+        "amplitude": 0.9765132381817878,
+        "decay": 0.001
+      },
+      "packet_type": "Query",
+      "memory_ref": 46000,
+      "state": "InFlight",
+      "position": {
+        "x": -5.254258890162496,
+        "y": 33.819886950279596,
+        "z": -45.94749407698381
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 63.90494665319853,
+      "cmb_hits": 1,
+      "content": null
+    },
+    "26": {
+      "id": 26,
+      "resonance": {
+        "velocity": {
+          "x": -0.11044830301611823,
+          "y": -0.32898068003619557,
+          "z": -0.0678956370099549
+        },
+        "wavelength": 0.6823716409115477,
+        "harmonics": [
+          0.8897584141260231,
+          0.2889758414126023,
+          0.12889758414126024
+        ],
+        "phase": 0.2586902833891906,
+        "amplitude": 0.8755468295474129,
+        "decay": 0.8403361344537815
+      },
+      "packet_type": "Signal",
+      "memory_ref": 26000,
+      "state": "Released",
+      "position": {
+        "x": 45.77753425241221,
+        "y": 20.844835007943992,
+        "z": 31.042782553625145
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 29.83726771325218,
+      "cmb_hits": 4,
+      "content": "Scientists discovered a new species of deep-sea fish. The creature lives at depths previously thought impossible for vertebrate life."
+    },
+    "4": {
+      "id": 4,
+      "resonance": {
+        "velocity": {
+          "x": -0.2650930044050611,
+          "y": -0.2545215116816092,
+          "z": 0.9170792667108061
+        },
+        "wavelength": 0.6653385470942779,
+        "harmonics": [
+          1.3792548783973253,
+          0.33792548783973253,
+          0.13379254878397326
+        ],
+        "phase": 0.6280926255256654,
+        "amplitude": 0.4085748109845894,
+        "decay": 0.7633587786259541
+      },
+      "packet_type": "Signal",
+      "memory_ref": 4000,
+      "state": "Released",
+      "position": {
+        "x": -29.314057428916247,
+        "y": -4.780594434107611,
+        "z": 51.29093937667484
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 51.59573881039827,
+      "cmb_hits": 2,
+      "content": "The dragon circled the ancient tower where the princess waited. But she was no damsel in distress. She raised her staff and spoke words of power that made the beast bow."
+    },
+    "48": {
+      "id": 48,
+      "resonance": {
+        "velocity": {
+          "x": 0.20115305552106455,
+          "y": 0.7501633137638489,
+          "z": 1.7988277151211947
+        },
+        "wavelength": 0.11526702154858491,
+        "harmonics": [
+          0.23053404309716982,
+          0.3458010646457547,
+          0.5763351077429245
+        ],
+        "phase": 0.06400000000000004,
+        "amplitude": 0.8898856713403037,
+        "decay": 0.001
+      },
+      "packet_type": "Signal",
+      "memory_ref": 48000,
+      "state": "Captured",
+      "position": {
+        "x": 11.00926116847267,
+        "y": 25.81072090198314,
+        "z": -8.637370587317651
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 41.581565648431194,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "51": {
+      "id": 51,
+      "resonance": {
+        "velocity": {
+          "x": 0.05246478515659819,
+          "y": -0.21697096393155196,
+          "z": 0.08909073714332973
+        },
+        "wavelength": 0.6788530100329416,
+        "harmonics": [
+          0.35770602006588326,
+          0.036559030098824774,
+          0.39426505016470825
+        ],
+        "phase": 0.08000000000000006,
+        "amplitude": 0.7926101105106695,
+        "decay": 0.001
+      },
+      "packet_type": "Echo",
+      "memory_ref": 51000,
+      "state": "Released",
+      "position": {
+        "x": -17.37121201172545,
+        "y": 12.691895108753458,
+        "z": 54.49040706370811
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 51.576397669407505,
+      "cmb_hits": 2,
+      "content": null
+    },
+    "8": {
+      "id": 8,
+      "resonance": {
+        "velocity": {
+          "x": -0.06867818247400906,
+          "y": -0.29287567553692884,
+          "z": 0.4477953462006523
+        },
+        "wavelength": 0.6887488095340757,
+        "harmonics": [
+          0.5005250667233835,
+          0.25005250667233836,
+          0.12500525066723384
+        ],
+        "phase": 0.8112136534253305,
+        "amplitude": 0.646320760018883,
+        "decay": 0.7936507936507936
+      },
+      "packet_type": "Signal",
+      "memory_ref": 8000,
+      "state": "Released",
+      "position": {
+        "x": 15.539759969229305,
+        "y": 8.689728154202033,
+        "z": -56.412924351242864
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 65.27965444629824,
+      "cmb_hits": 3,
+      "content": "After twenty years apart, they met again at their high school reunion. The spark was still there, burning brighter than ever. Some loves never truly end."
+    },
+    "40": {
+      "id": 40,
+      "resonance": {
+        "velocity": {
+          "x": 0.28816158923922325,
+          "y": 0.5306432683618464,
+          "z": -0.4710159971072298
+        },
+        "wavelength": 0.09588639340979113,
+        "harmonics": [
+          0.19177278681958226,
+          0.2876591802293734,
+          0.47943196704895563
+        ],
+        "phase": 0.014000000000000009,
+        "amplitude": 0.9195423473959432,
+        "decay": 0.001
+      },
+      "packet_type": "Signal",
+      "memory_ref": 40000,
+      "state": "Captured",
+      "position": {
+        "x": 4.059638445254833,
+        "y": 23.74187544260297,
+        "z": 19.969016350885635
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 9.778664695743478,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "29": {
+      "id": 29,
+      "resonance": {
+        "velocity": {
+          "x": 2.0542314384045115,
+          "y": 1.2137395757535434,
+          "z": 1.6202006719070086
+        },
+        "wavelength": 0.3043688012605913,
+        "harmonics": [
+          0.6087376025211826,
+          0.9131064037817739,
+          0.5218440063029566
+        ],
+        "phase": 0.09350000000000007,
+        "amplitude": 0.5639896293290999,
+        "decay": 0.001
+      },
+      "packet_type": "Memory",
+      "memory_ref": 29000,
+      "state": "InFlight",
+      "position": {
+        "x": -9.704361839613986,
+        "y": 12.374619041150437,
+        "z": -11.635706074800794
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 79.40273369804527,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "76": {
+      "id": 76,
+      "resonance": {
+        "velocity": {
+          "x": 0.40995336630944623,
+          "y": 0.1608677651752085,
+          "z": -0.029083704240770593
+        },
+        "wavelength": 0.9669333690798727,
+        "harmonics": [
+          0.9338667381597454,
+          0.9008001072396183,
+          0.8346668453993633
+        ],
+        "phase": 0.060000000000000046,
+        "amplitude": 0.9999849999999999,
+        "decay": 0.001
+      },
+      "packet_type": "CosmicRay",
+      "memory_ref": 76000,
+      "state": "Released",
+      "position": {
+        "x": -49.65723485340632,
+        "y": -24.54391970284902,
+        "z": 19.193931705706596
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 25.371702710802246,
+      "cmb_hits": 3,
+      "content": null
+    },
+    "27": {
+      "id": 27,
+      "resonance": {
+        "velocity": {
+          "x": -0.4170129798295373,
+          "y": -0.8512832764532725,
+          "z": 0.035166943265909925
+        },
+        "wavelength": 0.6590984488306093,
+        "harmonics": [
+          1.3703978033385953,
+          0.3370397803338595,
+          0.13370397803338596
+        ],
+        "phase": 0.6677898715218105,
+        "amplitude": 0.5014893102448952,
+        "decay": 0.8474576271186441
+      },
+      "packet_type": "Signal",
+      "memory_ref": 27000,
+      "state": "Released",
+      "position": {
+        "x": -42.51434838441607,
+        "y": -41.05452676951655,
+        "z": 2.364926914441191
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 38.92321225631189,
+      "cmb_hits": 2,
+      "content": "Stock markets rose sharply on news of the trade agreement. Analysts predict continued growth through the fourth quarter."
+    },
+    "56": {
+      "id": 56,
+      "resonance": {
+        "velocity": {
+          "x": 0.45197560904241113,
+          "y": 0.11659369534789825,
+          "z": -0.18285382894782468
+        },
+        "wavelength": 0.11969489004759348,
+        "harmonics": [
+          0.23938978009518697,
+          0.35908467014278045,
+          0.5984744502379674
+        ],
+        "phase": 0.10000000000000007,
+        "amplitude": 0.999849999999999,
+        "decay": 0.001
+      },
+      "packet_type": "Signal",
+      "memory_ref": 56000,
+      "state": "InFlight",
+      "position": {
+        "x": -48.18397276842327,
+        "y": 27.166678454316852,
+        "z": 12.609358220664069
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 22.615106595317933,
+      "cmb_hits": 1,
+      "content": null
+    },
+    "47": {
+      "id": 47,
+      "resonance": {
+        "velocity": {
+          "x": 0.04912514778964956,
+          "y": -0.2629014504240384,
+          "z": 0.1546463643896375
+        },
+        "wavelength": 0.6978242835188103,
+        "harmonics": [
+          0.39564856703762064,
+          0.09347285055643084,
+          0.4891214175940517
+        ],
+        "phase": 0.01550000000000001,
+        "amplitude": 0.33219635244370666,
+        "decay": 0.001
+      },
+      "packet_type": "Echo",
+      "memory_ref": 47000,
+      "state": "Captured",
+      "position": {
+        "x": 1.8657669923697637,
+        "y": -3.24416300847159,
+        "z": 35.79878373033041
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 3.537404946792001,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "2": {
+      "id": 2,
+      "resonance": {
+        "velocity": {
+          "x": 0.23929396831134267,
+          "y": -0.283556820126534,
+          "z": 0.08202330929930032
+        },
+        "wavelength": 0.7057233653276944,
+        "harmonics": [
+          0.9386883405645436,
+          0.29386883405645436,
+          0.12938688340564544
+        ],
+        "phase": 0.5896201194678083,
+        "amplitude": 0.7630658484569908,
+        "decay": 0.78125
+      },
+      "packet_type": "Signal",
+      "memory_ref": 2000,
+      "state": "Released",
+      "position": {
+        "x": 43.329440293583055,
+        "y": -33.514463794485515,
+        "z": 22.530948452021327
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 28.78574066791612,
+      "cmb_hits": 4,
+      "content": "In the year 2347, robots had become indistinguishable from humans. Dr. Yamamoto wondered if her assistant was real or synthetic. The line between machine and consciousness had blurred."
+    },
+    "20": {
+      "id": 20,
+      "resonance": {
+        "velocity": {
+          "x": 0.09036771427273878,
+          "y": -0.1794734135018095,
+          "z": -0.12491885521611905
+        },
+        "wavelength": 0.6863258519323489,
+        "harmonics": [
+          0.6685086963248934,
+          0.26685086963248933,
+          0.12668508696324893
+        ],
+        "phase": 0.07198652365848573,
+        "amplitude": 0.6706793208959365,
+        "decay": 0.819672131147541
+      },
+      "packet_type": "Signal",
+      "memory_ref": 20000,
+      "state": "Released",
+      "position": {
+        "x": 9.801967065762089,
+        "y": 11.991474909318697,
+        "z": -56.8472574735387
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 28.47583829827821,
+      "cmb_hits": 3,
+      "content": "Beneath the ocean surface, the coral reef teemed with life. Fish of every color darted between formations that had grown for centuries."
+    },
+    "72": {
+      "id": 72,
+      "resonance": {
+        "velocity": {
+          "x": -1.357669457319414,
+          "y": -0.4880913629839891,
+          "z": 0.47023590532350856
+        },
+        "wavelength": 0.5129936222510376,
+        "harmonics": [
+          0.025987244502075235,
+          0.5389808667531129,
+          0.5649681112551881
+        ],
+        "phase": 0.019500000000000014,
+        "amplitude": 0.9998049999999987,
+        "decay": 0.001
+      },
+      "packet_type": "Anomaly",
+      "memory_ref": 72000,
+      "state": "Captured",
+      "position": {
+        "x": -22.22175411943688,
+        "y": -1.604067268456619,
+        "z": -12.360862972545421
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 23.261992126797058,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "50": {
+      "id": 50,
+      "resonance": {
+        "velocity": {
+          "x": 1.0807553796734224,
+          "y": 1.8761046051516472,
+          "z": -3.271069633355368
+        },
+        "wavelength": 0.498107444808459,
+        "harmonics": [
+          0.996214889616918,
+          0.4943223344253769,
+          0.4905372240422947
+        ],
+        "phase": 0.06600000000000004,
+        "amplitude": 0.7173181014004804,
+        "decay": 0.001
+      },
+      "packet_type": "Query",
+      "memory_ref": 50000,
+      "state": "Captured",
+      "position": {
+        "x": -14.472405754669994,
+        "y": 0.4246569595750832,
+        "z": 4.40474091849117
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 51.24913117832224,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "37": {
+      "id": 37,
+      "resonance": {
+        "velocity": {
+          "x": -0.3712051070406037,
+          "y": -0.6878339618303646,
+          "z": 0.41407094948973794
+        },
+        "wavelength": 0.27768969809785354,
+        "harmonics": [
+          0.5553793961957071,
+          0.8330690942935606,
+          0.3884484904892678
+        ],
+        "phase": 0.07200000000000005,
+        "amplitude": 0.5657537355514055,
+        "decay": 0.001
+      },
+      "packet_type": "Memory",
+      "memory_ref": 37000,
+      "state": "InFlight",
+      "position": {
+        "x": 1.9028523453036117,
+        "y": 34.97533691607546,
+        "z": -8.82121628726
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 27.754887944721187,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "54": {
+      "id": 54,
+      "resonance": {
+        "velocity": {
+          "x": 1.9730228439405095,
+          "y": 2.3701212745645357,
+          "z": -4.0406455724753725
+        },
+        "wavelength": 0.5030913514945907,
+        "harmonics": [
+          0.006182702989181443,
+          0.5092740544837722,
+          0.5154567574729536
+        ],
+        "phase": 0.04900000000000004,
+        "amplitude": 0.835743777219997,
+        "decay": 0.001
+      },
+      "packet_type": "Query",
+      "memory_ref": 54000,
+      "state": "Captured",
+      "position": {
+        "x": -15.012001900223213,
+        "y": 0.1687380763538493,
+        "z": 2.65039870619488
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 44.17350264768699,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "58": {
+      "id": 58,
+      "resonance": {
+        "velocity": {
+          "x": -0.2708515624914702,
+          "y": 0.061852677403947495,
+          "z": -0.0741432194106484
+        },
+        "wavelength": 0.5053422156207322,
+        "harmonics": [
+          0.010684431241464454,
+          0.5160266468621968,
+          0.526711078103661
+        ],
+        "phase": 0.06800000000000005,
+        "amplitude": 0.8038863994259553,
+        "decay": 0.001
+      },
+      "packet_type": "Query",
+      "memory_ref": 58000,
+      "state": "Captured",
+      "position": {
+        "x": -0.8091595662744402,
+        "y": -22.002070299529628,
+        "z": 42.9964389985995
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 24.062817934758854,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "11": {
+      "id": 11,
+      "resonance": {
+        "velocity": {
+          "x": 0.018526401158862903,
+          "y": -0.24832464803505108,
+          "z": 0.3594970868619303
+        },
+        "wavelength": 0.6990750130331452,
+        "harmonics": [
+          1.0019362896067265,
+          0.30019362896067264,
+          0.13001936289606728
+        ],
+        "phase": 0.287334280181352,
+        "amplitude": 0.39186876296800965,
+        "decay": 0.7936507936507936
+      },
+      "packet_type": "Signal",
+      "memory_ref": 11000,
+      "state": "Captured",
+      "position": {
+        "x": -3.851401052255659,
+        "y": -0.9554820354097437,
+        "z": 38.469151272085575
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 4.64553872085111,
+      "cmb_hits": 0,
+      "content": "She woke at 3 AM to the sound of breathing. Something was in the room. Something that whispered her name in a voice like grinding bones."
+    },
+    "43": {
+      "id": 43,
+      "resonance": {
+        "velocity": {
+          "x": 0.07774424915991565,
+          "y": -0.2757949955782825,
+          "z": 0.0210929301752908
+        },
+        "wavelength": 0.7097849240171572,
+        "harmonics": [
+          0.4195698480343144,
+          0.12935477205147183,
+          0.5489246200857858
+        ],
+        "phase": 0.09000000000000007,
+        "amplitude": 0.8733113242110746,
+        "decay": 0.001
+      },
+      "packet_type": "Echo",
+      "memory_ref": 43000,
+      "state": "Released",
+      "position": {
+        "x": -16.003909529800893,
+        "y": -6.9423631546189934,
+        "z": 56.03199947169948
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 42.11049541484859,
+      "cmb_hits": 2,
+      "content": null
+    },
+    "9": {
+      "id": 9,
+      "resonance": {
+        "velocity": {
+          "x": 0.15304139563225863,
+          "y": 0.20232605275906412,
+          "z": -0.5547645796525592
+        },
+        "wavelength": 0.7349243297649043,
+        "harmonics": [
+          1.4676546818869451,
+          0.3467654681886945,
+          0.13467654681886945
+        ],
+        "phase": 0.05893273503062884,
+        "amplitude": 0.3073189457240338,
+        "decay": 0.7751937984496123
+      },
+      "packet_type": "Signal",
+      "memory_ref": 9000,
+      "state": "Released",
+      "position": {
+        "x": 3.5457102171033132,
+        "y": -36.22500794058819,
+        "z": 44.62786424504868
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 47.133724145418846,
+      "cmb_hits": 2,
+      "content": "He wrote her a letter every day for a year. She never replied. On the last day, she appeared at his door with all 365 letters, tear-stained and memorized."
+    },
+    "28": {
+      "id": 28,
+      "resonance": {
+        "velocity": {
+          "x": -1.4382120717825577,
+          "y": 0.4539550726544387,
+          "z": -0.14878967332173115
+        },
+        "wavelength": 0.10720614161505343,
+        "harmonics": [
+          0.21441228323010686,
+          0.3216184248451603,
+          0.5360307080752671
+        ],
+        "phase": 0.007500000000000003,
+        "amplitude": 0.9722732724771317,
+        "decay": 0.001
+      },
+      "packet_type": "Signal",
+      "memory_ref": 28000,
+      "state": "Captured",
+      "position": {
+        "x": 17.608323672179136,
+        "y": 24.987090140497198,
+        "z": 2.6188881681546925
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 8.579851682562104,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "64": {
+      "id": 64,
+      "resonance": {
+        "velocity": {
+          "x": 0.6060740556210378,
+          "y": 0.6147044944465659,
+          "z": 0.09977010792803608
+        },
+        "wavelength": 0.10918269931945196,
+        "harmonics": [
+          0.21836539863890392,
+          0.3275480979583559,
+          0.5459134965972599
+        ],
+        "phase": 0.01550000000000001,
+        "amplitude": 0.888606469984666,
+        "decay": 0.001
+      },
+      "packet_type": "Signal",
+      "memory_ref": 64000,
+      "state": "Captured",
+      "position": {
+        "x": -4.599742678602616,
+        "y": 5.357900022932316,
+        "z": -14.052782255801187
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 9.671000181856957,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "66": {
+      "id": 66,
+      "resonance": {
+        "velocity": {
+          "x": -0.5768779681508235,
+          "y": -0.18881739404411454,
+          "z": 0.07766470537660869
+        },
+        "wavelength": 0.49342608983234887,
+        "harmonics": [
+          0.9868521796646977,
+          0.48027826949704666,
+          0.4671304491617443
+        ],
+        "phase": 0.01600000000000001,
+        "amplitude": 0.7992011597283192,
+        "decay": 0.001
+      },
+      "packet_type": "Query",
+      "memory_ref": 66000,
+      "state": "Captured",
+      "position": {
+        "x": -5.114723606651963,
+        "y": -0.40669032026803414,
+        "z": 23.53277189094756
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 6.496293987163965,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "71": {
+      "id": 71,
+      "resonance": {
+        "velocity": {
+          "x": 0.09469054895706207,
+          "y": -0.6836263409941059,
+          "z": -0.11850176848748725
+        },
+        "wavelength": 0.6635519808645925,
+        "harmonics": [
+          0.3271039617291851,
+          0.9906559425937775,
+          0.31775990432296286
+        ],
+        "phase": 0.02750000000000002,
+        "amplitude": 0.7459026044580215,
+        "decay": 0.001
+      },
+      "packet_type": "Anomaly",
+      "memory_ref": 71000,
+      "state": "InFlight",
+      "position": {
+        "x": 21.152913652502793,
+        "y": -15.28656024476027,
+        "z": -35.33929005814435
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 16.360948413956905,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "61": {
+      "id": 61,
+      "resonance": {
+        "velocity": {
+          "x": -1.1970860307423348,
+          "y": 0.17002939104581455,
+          "z": 0.19965854666533442
+        },
+        "wavelength": 0.31789803685509566,
+        "harmonics": [
+          0.6357960737101913,
+          0.953694110565287,
+          0.5894901842754783
+        ],
+        "phase": 0.10000000000000007,
+        "amplitude": 0.830097783142943,
+        "decay": 0.001
+      },
+      "packet_type": "Memory",
+      "memory_ref": 61000,
+      "state": "InFlight",
+      "position": {
+        "x": 31.330215295488152,
+        "y": 19.60124677741845,
+        "z": -9.49786465130525
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 49.89245153619426,
+      "cmb_hits": 1,
+      "content": null
+    },
+    "60": {
+      "id": 60,
+      "resonance": {
+        "velocity": {
+          "x": 0.4017558048295803,
+          "y": 0.5869148972802132,
+          "z": 1.0844381708795163
+        },
+        "wavelength": 0.11689216599660965,
+        "harmonics": [
+          0.2337843319932193,
+          0.3506764979898289,
+          0.5844608299830483
+        ],
+        "phase": 0.08300000000000006,
+        "amplitude": 0.8892308559197623,
+        "decay": 0.001
+      },
+      "packet_type": "Signal",
+      "memory_ref": 60000,
+      "state": "InFlight",
+      "position": {
+        "x": -13.895036714858358,
+        "y": 16.54574116855367,
+        "z": -21.353176643738426
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 37.84825663273827,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "59": {
+      "id": 59,
+      "resonance": {
+        "velocity": {
+          "x": 0.1484549807351527,
+          "y": 1.8385498069921054,
+          "z": -0.29531859135440375
+        },
+        "wavelength": 0.7206729154716242,
+        "harmonics": [
+          0.4413458309432483,
+          0.16201874641487235,
+          0.6033645773581209
+        ],
+        "phase": 0.06950000000000005,
+        "amplitude": 0.5185838734345232,
+        "decay": 0.001
+      },
+      "packet_type": "Echo",
+      "memory_ref": 59000,
+      "state": "Captured",
+      "position": {
+        "x": -16.065737995446668,
+        "y": -36.860816323166766,
+        "z": 0.5508715249667293
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 48.010879558042134,
+      "cmb_hits": 1,
+      "content": null
+    },
+    "12": {
+      "id": 12,
+      "resonance": {
+        "velocity": {
+          "x": 0.052334510598614305,
+          "y": -0.266385057900406,
+          "z": -0.23631492080658031
+        },
+        "wavelength": 0.670994639547671,
+        "harmonics": [
+          0.5063141197790246,
+          0.25063141197790245,
+          0.12506314119779025
+        ],
+        "phase": 0.881386749087868,
+        "amplitude": 0.4652179015495491,
+        "decay": 0.8
+      },
+      "packet_type": "Signal",
+      "memory_ref": 12000,
+      "state": "Captured",
+      "position": {
+        "x": -0.31136820489101297,
+        "y": -17.68315254935671,
+        "z": 28.276947309110607
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 2.16941167125585,
+      "cmb_hits": 0,
+      "content": "The mirror showed a reflection that wasn't quite right. It smiled when she didn't. It moved when she was still. Tonight, it was reaching through."
+    },
+    "52": {
+      "id": 52,
+      "resonance": {
+        "velocity": {
+          "x": -0.09401845582207023,
+          "y": 0.2743626924049475,
+          "z": 0.028865326333243183
+        },
+        "wavelength": 0.1172436593646061,
+        "harmonics": [
+          0.2344873187292122,
+          0.35173097809381826,
+          0.5862182968230305
+        ],
+        "phase": 0.07000000000000005,
+        "amplitude": 0.9999799999999999,
+        "decay": 0.001
+      },
+      "packet_type": "Signal",
+      "memory_ref": 52000,
+      "state": "Released",
+      "position": {
+        "x": 15.005374592165746,
+        "y": -33.43831972081183,
+        "z": -46.138603633583536
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 35.0922943819179,
+      "cmb_hits": 2,
+      "content": null
+    },
+    "42": {
+      "id": 42,
+      "resonance": {
+        "velocity": {
+          "x": 2.7113495611794134,
+          "y": -3.803605119078828,
+          "z": -2.16208174954928
+        },
+        "wavelength": 0.47665873716865464,
+        "harmonics": [
+          0.9533174743373093,
+          0.429976211505964,
+          0.3832936858432734
+        ],
+        "phase": 0.06500000000000004,
+        "amplitude": 0.8924500930027017,
+        "decay": 0.001
+      },
+      "packet_type": "Query",
+      "memory_ref": 42000,
+      "state": "Captured",
+      "position": {
+        "x": -12.61682351879011,
+        "y": 3.2355503696322367,
+        "z": 1.2076034863037513
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 45.13399007712235,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "30": {
+      "id": 30,
+      "resonance": {
+        "velocity": {
+          "x": -1.4133630537139976,
+          "y": 0.6715438430701511,
+          "z": 0.7177002056893482
+        },
+        "wavelength": 0.48662494795338945,
+        "harmonics": [
+          0.9732498959067789,
+          0.4598748438601683,
+          0.4331247397669471
+        ],
+        "phase": 0.03300000000000002,
+        "amplitude": 0.8790661518006885,
+        "decay": 0.001
+      },
+      "packet_type": "Query",
+      "memory_ref": 30000,
+      "state": "InFlight",
+      "position": {
+        "x": -5.042834653867426,
+        "y": -4.572798080575947,
+        "z": -23.63781855532195
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 29.675785547101047,
+      "cmb_hits": 0,
+      "content": null
+    },
+    "70": {
+      "id": 70,
+      "resonance": {
+        "velocity": {
+          "x": 0.15364646693505718,
+          "y": 0.15964348944860107,
+          "z": -0.7534017965502554
+        },
+        "wavelength": 0.7352088948006593,
+        "harmonics": [
+          0.47041778960131864,
+          0.20562668440197784,
+          0.6760444740032967
+        ],
+        "phase": 0.05250000000000004,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "packet_type": "CosmicRay",
+      "memory_ref": 70000,
+      "state": "Captured",
+      "position": {
+        "x": 1.0379033828679751,
+        "y": -27.63089760406374,
+        "z": 52.57201017805555
+      },
+      "reuse_count": 0,
+      "born_at": 0,
+      "distance_traveled": 47.241591470629274,
+      "cmb_hits": 1,
+      "content": null
+    }
+  },
+  "nodes": {
+    "33": {
+      "id": 33,
+      "resonance": {
+        "velocity": {
+          "x": -0.492994808712731,
+          "y": 0.02189808708334469,
+          "z": 0.464363641407912
+        },
+        "wavelength": 0.49114895786100804,
+        "harmonics": [
+          0.9822979157220161,
+          0.4734468735830242,
+          0.45574478930504014
+        ],
+        "phase": 0.0,
+        "amplitude": 0.8318795599155419,
+        "decay": 0.001
+      },
+      "position": [
+        -6.118125953540479,
+        3.2631491687734795
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 16,
+      "wavelength_history": []
+    },
+    "46": {
+      "id": 46,
+      "resonance": {
+        "velocity": {
+          "x": 0.26464338980426577,
+          "y": 0.1614146619101972,
+          "z": 0.7221111828696628
+        },
+        "wavelength": 0.49114895786100804,
+        "harmonics": [
+          0.9822979157220161,
+          0.4734468735830242,
+          0.45574478930504014
+        ],
+        "phase": 0.0,
+        "amplitude": 0.8317488456298268,
+        "decay": 0.001
+      },
+      "position": [
+        -8.654492411399165,
+        1.956863597793282
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [
+        42,
+        34
+      ],
+      "total_captures": 2,
+      "supernode_id": 22,
+      "wavelength_history": [
+        0.47665873716865464,
+        0.4911526821128135
+      ]
+    },
+    "68": {
+      "id": 68,
+      "resonance": {
+        "velocity": {
+          "x": -0.007124318721146277,
+          "y": -0.04290252595913496,
+          "z": 0.1919643525047958
+        },
+        "wavelength": 0.30254283374980717,
+        "harmonics": [
+          0.6050856674996143,
+          0.9076285012494215,
+          0.512714168749036
+        ],
+        "phase": 0.0,
+        "amplitude": 0.6692812512649391,
+        "decay": 0.001
+      },
+      "position": [
+        1.2950220333819171,
+        9.481044133244072
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 30,
+      "wavelength_history": []
+    },
+    "28": {
+      "id": 28,
+      "resonance": {
+        "velocity": {
+          "x": -0.23690313424364384,
+          "y": -0.30316452181841125,
+          "z": -0.5152165741534769
+        },
+        "wavelength": 0.30882366603063405,
+        "harmonics": [
+          0.6176473320612681,
+          0.9264709980919021,
+          0.5441183301531702
+        ],
+        "phase": 0.0,
+        "amplitude": 0.5961238682218092,
+        "decay": 0.001
+      },
+      "position": [
+        -1.4185052131941844,
+        1.9621797999844541
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [
+        49
+      ],
+      "total_captures": 1,
+      "supernode_id": 11,
+      "wavelength_history": [
+        0.29498286333733603
+      ]
+    },
+    "65": {
+      "id": 65,
+      "resonance": {
+        "velocity": {
+          "x": 0.5527694810020773,
+          "y": 0.30160943849721067,
+          "z": -0.2934422348575555
+        },
+        "wavelength": 0.4926553046099885,
+        "harmonics": [
+          0.985310609219977,
+          0.47796591382996567,
+          0.4632765230499425
+        ],
+        "phase": 0.0,
+        "amplitude": 0.8422827450011197,
+        "decay": 0.001
+      },
+      "position": [
+        -7.383105392328652,
+        -0.442440262492393
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 2,
+      "supernode_id": 31,
+      "wavelength_history": [
+        0.48662494795338945,
+        0.48662494795338945
+      ]
+    },
+    "51": {
+      "id": 51,
+      "resonance": {
+        "velocity": {
+          "x": 0.07015004547153866,
+          "y": 0.16580941475411629,
+          "z": -0.6712950351754
+        },
+        "wavelength": 0.102720009048181,
+        "harmonics": [
+          0.205440018096362,
+          0.308160027144543,
+          0.513600045240905
+        ],
+        "phase": 0.0,
+        "amplitude": 0.8893271008155698,
+        "decay": 0.001
+      },
+      "position": [
+        -2.0207264134645784,
+        1.6172832521545146
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 21,
+      "wavelength_history": []
+    },
+    "82": {
+      "id": 82,
+      "resonance": {
+        "velocity": {
+          "x": -0.12418778216736658,
+          "y": -0.4943408253719756,
+          "z": -0.19253716602931967
+        },
+        "wavelength": 0.30254283374980717,
+        "harmonics": [
+          0.6050856674996143,
+          0.9076285012494215,
+          0.512714168749036
+        ],
+        "phase": 0.0,
+        "amplitude": 0.6691375012649381,
+        "decay": 0.001
+      },
+      "position": [
+        0.061754900897255105,
+        13.536760679059626
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": null,
+      "wavelength_history": []
+    },
+    "50": {
+      "id": 50,
+      "resonance": {
+        "velocity": {
+          "x": -0.22273563465946603,
+          "y": 0.49563654746713987,
+          "z": 0.5340958517852844
+        },
+        "wavelength": 0.49114895786100804,
+        "harmonics": [
+          0.9822979157220161,
+          0.4734468735830242,
+          0.45574478930504014
+        ],
+        "phase": 0.0,
+        "amplitude": 0.831710274201255,
+        "decay": 0.001
+      },
+      "position": [
+        -8.964292304538516,
+        1.4389205858096104
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [
+        50
+      ],
+      "total_captures": 1,
+      "supernode_id": 22,
+      "wavelength_history": [
+        0.498107444808459
+      ]
+    },
+    "55": {
+      "id": 55,
+      "resonance": {
+        "velocity": {
+          "x": -0.15729566766762854,
+          "y": -0.06365470345248547,
+          "z": 0.09823712894952338
+        },
+        "wavelength": 0.102720009048181,
+        "harmonics": [
+          0.205440018096362,
+          0.308160027144543,
+          0.513600045240905
+        ],
+        "phase": 0.0,
+        "amplitude": 0.8892771008155695,
+        "decay": 0.001
+      },
+      "position": [
+        -1.493423694956218,
+        2.685172397241113
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 24,
+      "wavelength_history": []
+    },
+    "15": {
+      "id": 15,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.6990750130331452,
+        "harmonics": [
+          0.39815002606629046,
+          0.09722503909943558,
+          0.49537506516572627
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "position": [
+        -4.38577222636554,
+        2.9642814140810128
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 6,
+      "supernode_id": 9,
+      "wavelength_history": []
+    },
+    "10": {
+      "id": 10,
+      "resonance": {
+        "velocity": {
+          "x": -0.049457400955344316,
+          "y": 0.04817816370956971,
+          "z": -0.13178186149941076
+        },
+        "wavelength": 0.6510095270617375,
+        "harmonics": [
+          0.3020190541234751,
+          0.9530285811852126,
+          0.2550476353086877
+        ],
+        "phase": 0.0,
+        "amplitude": 0.6850375984183505,
+        "decay": 0.001
+      },
+      "position": [
+        -4.341231048988052e-15,
+        -23.63256111618243
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [
+        12,
+        39,
+        70,
+        58
+      ],
+      "total_captures": 14,
+      "supernode_id": 4,
+      "wavelength_history": [
+        0.670994639547671,
+        0.7054566366375002,
+        0.5053422156207322,
+        0.5053422156207322,
+        0.5053422156207322,
+        0.5053422156207322,
+        0.5053422156207322,
+        0.7352088948006593,
+        0.5053422156207322,
+        0.5053422156207322,
+        0.5053422156207322,
+        0.5053422156207322,
+        0.5053422156207322,
+        0.5053422156207322
+      ]
+    },
+    "38": {
+      "id": 38,
+      "resonance": {
+        "velocity": {
+          "x": 0.010293047063094493,
+          "y": -0.013289653255296798,
+          "z": -0.5157090738112928
+        },
+        "wavelength": 0.102720009048181,
+        "harmonics": [
+          0.205440018096362,
+          0.308160027144543,
+          0.513600045240905
+        ],
+        "phase": 0.0,
+        "amplitude": 0.8821715721570836,
+        "decay": 0.001
+      },
+      "position": [
+        -3.7137021061272364,
+        -1.0993694139753647
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 18,
+      "wavelength_history": []
+    },
+    "45": {
+      "id": 45,
+      "resonance": {
+        "velocity": {
+          "x": -0.3666667039530034,
+          "y": 0.09994994648876296,
+          "z": 0.47803145605087954
+        },
+        "wavelength": 0.311060883573774,
+        "harmonics": [
+          0.622121767147548,
+          0.9331826507213219,
+          0.55530441786887
+        ],
+        "phase": 0.0,
+        "amplitude": 0.6408861639659186,
+        "decay": 0.001
+      },
+      "position": [
+        0.2139834032348773,
+        -0.3291596248432419
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 2,
+      "supernode_id": 20,
+      "wavelength_history": [
+        0.48662494795338945,
+        0.48662494795338945
+      ]
+    },
+    "7": {
+      "id": 7,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.5084318354668191,
+        "harmonics": [
+          0.016863670933638275,
+          0.5252955064004574,
+          0.5421591773340957
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "position": [
+        -27.82627810117376,
+        3.4077362408786533e-15
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [
+        72,
+        62
+      ],
+      "total_captures": 11,
+      "supernode_id": 8,
+      "wavelength_history": []
+    },
+    "6": {
+      "id": 6,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.7195203371092384,
+        "harmonics": [
+          0.4390406742184767,
+          0.15856101132771494,
+          0.5976016855461919
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "position": [
+        -31.922211340049646,
+        18.430297310305782
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 10,
+      "supernode_id": null,
+      "wavelength_history": []
+    },
+    "13": {
+      "id": 13,
+      "resonance": {
+        "velocity": {
+          "x": 0.16876824795826725,
+          "y": -0.37929225520812215,
+          "z": 0.7336061015990635
+        },
+        "wavelength": 0.6975105705848136,
+        "harmonics": [
+          0.39502114116962717,
+          0.09253171175444086,
+          0.4875528529240678
+        ],
+        "phase": 0.0,
+        "amplitude": 0.41985058460599073,
+        "decay": 0.001
+      },
+      "position": [
+        1.7525141521013499,
+        -1.2306499938526128
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [
+        15,
+        47,
+        18,
+        11
+      ],
+      "total_captures": 4,
+      "supernode_id": 9,
+      "wavelength_history": [
+        0.7524699120117435,
+        0.6978242835188103,
+        0.7126619486521018,
+        0.6990750130331452
+      ]
+    },
+    "22": {
+      "id": 22,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.11689216599660966,
+        "harmonics": [
+          0.23378433199321932,
+          0.350676497989829,
+          0.5844608299830483
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "position": [
+        -22.82627810117376,
+        -4.9999999999999964
+      ],
+      "capture_radius": 5.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 6,
+      "wavelength_history": []
+    },
+    "67": {
+      "id": 67,
+      "resonance": {
+        "velocity": {
+          "x": 0.18150529981194355,
+          "y": -0.017517983406664942,
+          "z": -0.2147689675494864
+        },
+        "wavelength": 0.6987775723611072,
+        "harmonics": [
+          0.3975551447222143,
+          0.09633271708332147,
+          0.4938878618055358
+        ],
+        "phase": 0.0,
+        "amplitude": 0.6700043668781581,
+        "decay": 0.001
+      },
+      "position": [
+        -8.862015966160993,
+        -4.668566087287324
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 29,
+      "wavelength_history": []
+    },
+    "8": {
+      "id": 8,
+      "resonance": {
+        "velocity": {
+          "x": 0.18136583761841185,
+          "y": -0.11352868398039125,
+          "z": 0.6687398411141483
+        },
+        "wavelength": 0.5318197814369893,
+        "harmonics": [
+          0.06363956287397854,
+          0.5954593443109677,
+          0.6590989071849465
+        ],
+        "phase": 0.0,
+        "amplitude": 0.844646847977961,
+        "decay": 0.001
+      },
+      "position": [
+        -20.989059248174588,
+        -12.118039006970593
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [
+        5
+      ],
+      "total_captures": 27,
+      "supernode_id": 5,
+      "wavelength_history": [
+        0.5030913514945907,
+        0.5030913514945907,
+        0.5030913514945907,
+        0.5030913514945907,
+        0.5030913514945907,
+        0.5030913514945907,
+        0.5030913514945907,
+        0.5030913514945907,
+        0.5030913514945907,
+        0.5030913514945907,
+        0.5030913514945907,
+        0.31021479878568814,
+        0.31021479878568814,
+        0.31021479878568814,
+        0.31021479878568814,
+        0.31021479878568814,
+        0.31021479878568814,
+        0.31021479878568814,
+        0.31021479878568814,
+        0.31021479878568814
+      ]
+    },
+    "21": {
+      "id": 21,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.4323883303683289,
+        "harmonics": [
+          0.8647766607366578,
+          0.29716499110498673,
+          0.16194165184164433
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "position": [
+        0.6142277736344601,
+        -2.0357185859189872
+      ],
+      "capture_radius": 5.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 5,
+      "supernode_id": null,
+      "wavelength_history": [
+        0.48662494795338945,
+        0.48662494795338945,
+        0.48662494795338945,
+        0.48662494795338945,
+        0.48662494795338945
+      ]
+    },
+    "77": {
+      "id": 77,
+      "resonance": {
+        "velocity": {
+          "x": -0.005695839184758395,
+          "y": 0.0011566570439788583,
+          "z": 0.3132698400383782
+        },
+        "wavelength": 0.48494765197820655,
+        "harmonics": [
+          0.9698953039564131,
+          0.45484295593461965,
+          0.42473825989103275
+        ],
+        "phase": 0.0,
+        "amplitude": 0.8571211827865476,
+        "decay": 0.001
+      },
+      "position": [
+        -7.289274901351195,
+        10.08100486703897
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 4,
+      "supernode_id": null,
+      "wavelength_history": [
+        0.3043688012605913,
+        0.3043688012605913,
+        0.3043688012605913,
+        0.3043688012605913
+      ]
+    },
+    "2": {
+      "id": 2,
+      "resonance": {
+        "velocity": {
+          "x": -0.0699098529213575,
+          "y": -0.037590977765238405,
+          "z": 0.6400764246294663
+        },
+        "wavelength": 0.011676910698983134,
+        "harmonics": [
+          0.023353821397966268,
+          0.0350307320969494,
+          0.05838455349491567
+        ],
+        "phase": 0.0,
+        "amplitude": 0.9331119456350245,
+        "decay": 0.001
+      },
+      "position": [
+        20.345140102854245,
+        11.746272115083546
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 28,
+      "supernode_id": 1,
+      "wavelength_history": [
+        0.3054905540922164,
+        0.3054905540922164,
+        0.3054905540922164,
+        0.3054905540922164,
+        0.3054905540922164,
+        0.3054905540922164,
+        0.3054905540922164,
+        0.3054905540922164,
+        0.3054905540922164,
+        0.3054905540922164,
+        0.3054905540922164,
+        0.3054905540922164,
+        0.3054905540922164,
+        0.3054905540922164,
+        0.3054905540922164,
+        0.6887488095340757,
+        0.3054905540922164,
+        0.6887488095340757,
+        0.3054905540922164,
+        0.3054905540922164
+      ]
+    },
+    "16": {
+      "id": 16,
+      "resonance": {
+        "velocity": {
+          "x": 0.41410640516315855,
+          "y": 0.09507549167456558,
+          "z": 0.6242244632923103
+        },
+        "wavelength": 0.10350524577798907,
+        "harmonics": [
+          0.20701049155597814,
+          0.3105157373339672,
+          0.5175262288899454
+        ],
+        "phase": 0.0,
+        "amplitude": 0.8318950346816741,
+        "decay": 0.001
+      },
+      "position": [
+        -2.7384895591899565,
+        0.6141048797474703
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [
+        44,
+        68,
+        64
+      ],
+      "total_captures": 9,
+      "supernode_id": 6,
+      "wavelength_history": [
+        0.09861444307799819,
+        0.10372911947830107,
+        0.29498286333733603,
+        0.10918269931945196,
+        0.29498286333733603,
+        0.29498286333733603,
+        0.29498286333733603,
+        0.29498286333733603,
+        0.29498286333733603
+      ]
+    },
+    "26": {
+      "id": 26,
+      "resonance": {
+        "velocity": {
+          "x": 0.5244090404839884,
+          "y": 0.8355253360366377,
+          "z": -0.03534730671600348
+        },
+        "wavelength": 0.102720009048181,
+        "harmonics": [
+          0.205440018096362,
+          0.308160027144543,
+          0.513600045240905
+        ],
+        "phase": 0.0,
+        "amplitude": 0.8823215721570845,
+        "decay": 0.001
+      },
+      "position": [
+        -5.509310831068305,
+        -3.6595222837881303
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 13,
+      "wavelength_history": []
+    },
+    "54": {
+      "id": 54,
+      "resonance": {
+        "velocity": {
+          "x": 0.19472333640843775,
+          "y": -0.25213960810343994,
+          "z": -0.01862456254349539
+        },
+        "wavelength": 0.49114895786100804,
+        "harmonics": [
+          0.9822979157220161,
+          0.4734468735830242,
+          0.45574478930504014
+        ],
+        "phase": 0.0,
+        "amplitude": 0.8316717027726834,
+        "decay": 0.001
+      },
+      "position": [
+        -9.131361612622838,
+        0.805219080005953
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [
+        54
+      ],
+      "total_captures": 1,
+      "supernode_id": 25,
+      "wavelength_history": [
+        0.5030913514945907
+      ]
+    },
+    "40": {
+      "id": 40,
+      "resonance": {
+        "velocity": {
+          "x": -0.05332985312349795,
+          "y": 0.34580113240949584,
+          "z": -0.2646870527989458
+        },
+        "wavelength": 0.3101445365743998,
+        "harmonics": [
+          0.6202890731487996,
+          0.9304336097231993,
+          0.5507226828719989
+        ],
+        "phase": 0.0,
+        "amplitude": 0.6141051132062045,
+        "decay": 0.001
+      },
+      "position": [
+        -0.520471131877227,
+        2.924928406815785
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 20,
+      "wavelength_history": []
+    },
+    "71": {
+      "id": 71,
+      "resonance": {
+        "velocity": {
+          "x": -0.015532249855611606,
+          "y": -0.0007266284189997741,
+          "z": 0.20840349944918624
+        },
+        "wavelength": 0.6987775723611072,
+        "harmonics": [
+          0.3975551447222143,
+          0.09633271708332147,
+          0.4938878618055358
+        ],
+        "phase": 0.0,
+        "amplitude": 0.709970366878158,
+        "decay": 0.001
+      },
+      "position": [
+        -8.356642278998152,
+        -5.672146499087883
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 32,
+      "wavelength_history": []
+    },
+    "3": {
+      "id": 3,
+      "resonance": {
+        "velocity": {
+          "x": 0.10965214083916626,
+          "y": 0.15077665197917914,
+          "z": 0.020355178621922737
+        },
+        "wavelength": 0.1257975421322462,
+        "harmonics": [
+          0.2515950842644924,
+          0.3773926263967386,
+          0.6289877106612309
+        ],
+        "phase": 0.0,
+        "amplitude": 0.8471743743825986,
+        "decay": 0.001
+      },
+      "position": [
+        16.399400785832054,
+        28.40459537474608
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [
+        32,
+        28,
+        48
+      ],
+      "total_captures": 22,
+      "supernode_id": 2,
+      "wavelength_history": [
+        0.1050966163278181,
+        0.10720614161505343,
+        0.27768969809785354,
+        0.10720614161505343,
+        0.27768969809785354,
+        0.10720614161505343,
+        0.27768969809785354,
+        0.10720614161505343,
+        0.27768969809785354,
+        0.10720614161505343,
+        0.27768969809785354,
+        0.10720614161505343,
+        0.27768969809785354,
+        0.27768969809785354,
+        0.27768969809785354,
+        0.27768969809785354,
+        0.27768969809785354,
+        0.27768969809785354,
+        0.27768969809785354,
+        0.11526702154858491
+      ]
+    },
+    "43": {
+      "id": 43,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.3120975043738066,
+        "harmonics": [
+          0.6241950087476132,
+          0.9362925131214199,
+          0.5604875218690331
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "position": [
+        -26.922211340049646,
+        13.430297310305782
+      ],
+      "capture_radius": 5.0,
+      "strength": 3.0,
+      "captured_packets": [
+        57
+      ],
+      "total_captures": 1,
+      "supernode_id": 17,
+      "wavelength_history": [
+        0.3120975043738066
+      ]
+    },
+    "49": {
+      "id": 49,
+      "resonance": {
+        "velocity": {
+          "x": -0.10098394188628416,
+          "y": -0.10968769595217456,
+          "z": 0.22823517462619924
+        },
+        "wavelength": 0.311060883573774,
+        "harmonics": [
+          0.622121767147548,
+          0.9331826507213219,
+          0.55530441786887
+        ],
+        "phase": 0.0,
+        "amplitude": 0.6694133068230613,
+        "decay": 0.001
+      },
+      "position": [
+        -0.18897208201376767,
+        0.4551371075819523
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 26,
+      "wavelength_history": []
+    },
+    "30": {
+      "id": 30,
+      "resonance": {
+        "velocity": {
+          "x": -0.10531954932115908,
+          "y": 0.1808087113506883,
+          "z": -0.34876644599080786
+        },
+        "wavelength": 0.102720009048181,
+        "harmonics": [
+          0.205440018096362,
+          0.308160027144543,
+          0.513600045240905
+        ],
+        "phase": 0.0,
+        "amplitude": 0.8822715721570843,
+        "decay": 0.001
+      },
+      "position": [
+        -4.926327992832149,
+        -2.7881767281957264
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 13,
+      "wavelength_history": []
+    },
+    "24": {
+      "id": 24,
+      "resonance": {
+        "velocity": {
+          "x": 0.18307622548432184,
+          "y": 0.04608574315584511,
+          "z": 0.6468983297565764
+        },
+        "wavelength": 0.30882366603063405,
+        "harmonics": [
+          0.6176473320612681,
+          0.9264709980919021,
+          0.5441183301531702
+        ],
+        "phase": 0.0,
+        "amplitude": 0.5761578682218095,
+        "decay": 0.001
+      },
+      "position": [
+        -0.665508632645745,
+        1.069444825154547
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 10,
+      "wavelength_history": []
+    },
+    "47": {
+      "id": 47,
+      "resonance": {
+        "velocity": {
+          "x": -0.10686638628628438,
+          "y": -0.06765949114128897,
+          "z": 0.5003820983293643
+        },
+        "wavelength": 0.102720009048181,
+        "harmonics": [
+          0.205440018096362,
+          0.308160027144543,
+          0.513600045240905
+        ],
+        "phase": 0.0,
+        "amplitude": 0.882071572157083,
+        "decay": 0.001
+      },
+      "position": [
+        -2.4850268334189973,
+        0.5255845428601695
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 24,
+      "wavelength_history": []
+    },
+    "17": {
+      "id": 17,
+      "resonance": {
+        "velocity": {
+          "x": -0.4073282168522055,
+          "y": -0.08025324752678874,
+          "z": -0.5873883032336077
+        },
+        "wavelength": 0.6954984439440075,
+        "harmonics": [
+          0.390996887888015,
+          0.08649533183202252,
+          0.4774922197200375
+        ],
+        "phase": 0.0,
+        "amplitude": 0.4028218937247005,
+        "decay": 0.001
+      },
+      "position": [
+        1.3924404987690597,
+        -2.459760159454644
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [
+        16
+      ],
+      "total_captures": 6,
+      "supernode_id": 14,
+      "wavelength_history": [
+        0.701765654503764,
+        0.48662494795338945,
+        0.48662494795338945,
+        0.48662494795338945,
+        0.48662494795338945,
+        0.48662494795338945
+      ]
+    },
+    "63": {
+      "id": 63,
+      "resonance": {
+        "velocity": {
+          "x": 0.2070571270320221,
+          "y": 0.09488147048837693,
+          "z": 0.44183788355837017
+        },
+        "wavelength": 0.10021060654810024,
+        "harmonics": [
+          0.20042121309620048,
+          0.30063181964430075,
+          0.5010530327405012
+        ],
+        "phase": 0.0,
+        "amplitude": 0.929080386710622,
+        "decay": 0.001
+      },
+      "position": [
+        -3.4783626729384864,
+        0.24591151602126046
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 27,
+      "wavelength_history": []
+    },
+    "44": {
+      "id": 44,
+      "resonance": {
+        "velocity": {
+          "x": 0.7233966677636523,
+          "y": 0.24857624721142887,
+          "z": 0.08965510525369288
+        },
+        "wavelength": 0.6957414183952244,
+        "harmonics": [
+          0.3914828367904488,
+          0.08722425518567345,
+          0.4787070919761218
+        ],
+        "phase": 0.0,
+        "amplitude": 0.5087818441263992,
+        "decay": 0.001
+      },
+      "position": [
+        2.4769817741210436,
+        -9.917319375728514
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 19,
+      "wavelength_history": []
+    },
+    "11": {
+      "id": 11,
+      "resonance": {
+        "velocity": {
+          "x": -0.04756871984511471,
+          "y": -0.05339068760015236,
+          "z": 0.08375056849118671
+        },
+        "wavelength": 0.8010597190289126,
+        "harmonics": [
+          0.6021194380578252,
+          0.403179157086738,
+          0.005298595144562768
+        ],
+        "phase": 0.0,
+        "amplitude": 0.6108197345047642,
+        "decay": 0.001
+      },
+      "position": [
+        19.925662997013866,
+        -34.512260685323156
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [
+        31
+      ],
+      "total_captures": 18,
+      "supernode_id": 3,
+      "wavelength_history": [
+        0.7221776097816058,
+        0.7221776097816058,
+        0.7221776097816058,
+        0.7221776097816058,
+        0.7221776097816058,
+        0.7221776097816058,
+        0.7221776097816058,
+        0.7221776097816058,
+        0.7221776097816058,
+        0.7221776097816058,
+        0.7221776097816058,
+        0.7221776097816058,
+        0.7221776097816058,
+        0.7221776097816058,
+        0.7221776097816058,
+        0.7221776097816058,
+        0.7221776097816058,
+        0.7221776097816058
+      ]
+    },
+    "9": {
+      "id": 9,
+      "resonance": {
+        "velocity": {
+          "x": -0.11611713295411936,
+          "y": 0.3131478808174473,
+          "z": -0.1453943231409527
+        },
+        "wavelength": 0.6666040102292751,
+        "harmonics": [
+          0.33320802045855014,
+          0.9998120306878251,
+          0.33302005114637545
+        ],
+        "phase": 0.0,
+        "amplitude": 0.6067970081443406,
+        "decay": 0.001
+      },
+      "position": [
+        -18.566482081394224,
+        -32.15809028279192
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [
+        59
+      ],
+      "total_captures": 1,
+      "supernode_id": 4,
+      "wavelength_history": [
+        0.7206729154716242
+      ]
+    },
+    "81": {
+      "id": 81,
+      "resonance": {
+        "velocity": {
+          "x": -0.13685138194561983,
+          "y": -0.2803087445828769,
+          "z": -0.26053470723030875
+        },
+        "wavelength": 0.11984784114322462,
+        "harmonics": [
+          0.23969568228644925,
+          0.3595435234296739,
+          0.5992392057161231
+        ],
+        "phase": 0.0,
+        "amplitude": 0.9460755975043426,
+        "decay": 0.001
+      },
+      "position": [
+        -23.97998746861713,
+        22.5151022251865
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 36,
+      "wavelength_history": []
+    },
+    "76": {
+      "id": 76,
+      "resonance": {
+        "velocity": {
+          "x": 0.0647886849041301,
+          "y": -0.07517055404720298,
+          "z": 0.47850910761081217
+        },
+        "wavelength": 0.30254283374980717,
+        "harmonics": [
+          0.6050856674996143,
+          0.9076285012494215,
+          0.512714168749036
+        ],
+        "phase": 0.0,
+        "amplitude": 0.6692012512649386,
+        "decay": 0.001
+      },
+      "position": [
+        1.5806363456902908,
+        12.522250989088679
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": null,
+      "wavelength_history": []
+    },
+    "31": {
+      "id": 31,
+      "resonance": {
+        "velocity": {
+          "x": 0.032264152711693334,
+          "y": 0.10162581945638809,
+          "z": -0.013530482773693682
+        },
+        "wavelength": 0.6952001475910107,
+        "harmonics": [
+          0.39040029518202135,
+          0.08560044277303192,
+          0.4760007379550535
+        ],
+        "phase": 0.0,
+        "amplitude": 0.40662049646085136,
+        "decay": 0.001
+      },
+      "position": [
+        1.3155841246309343,
+        -6.994348254388391
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 15,
+      "wavelength_history": []
+    },
+    "27": {
+      "id": 27,
+      "resonance": {
+        "velocity": {
+          "x": 0.02265557026549495,
+          "y": -0.014813410830194627,
+          "z": -0.3699270095170516
+        },
+        "wavelength": 0.6952001475910107,
+        "harmonics": [
+          0.39040029518202135,
+          0.08560044277303192,
+          0.4760007379550535
+        ],
+        "phase": 0.0,
+        "amplitude": 0.38983377038008793,
+        "decay": 0.001
+      },
+      "position": [
+        1.5211462928890216,
+        -5.466284688571103
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 14,
+      "wavelength_history": []
+    },
+    "14": {
+      "id": 14,
+      "resonance": {
+        "velocity": {
+          "x": 0.3955490647960897,
+          "y": 0.1425893053530052,
+          "z": -0.7237599095683367
+        },
+        "wavelength": 0.32070368853761777,
+        "harmonics": [
+          0.6414073770752355,
+          0.9621110656128533,
+          0.6035184426880889
+        ],
+        "phase": 0.0,
+        "amplitude": 0.5900197171437686,
+        "decay": 0.001
+      },
+      "position": [
+        0.5098720982073784,
+        0.007961379717449183
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [
+        41
+      ],
+      "total_captures": 3,
+      "supernode_id": 11,
+      "wavelength_history": [
+        0.43624551780250415,
+        0.3239620843425692,
+        0.43624551780250415
+      ]
+    },
+    "52": {
+      "id": 52,
+      "resonance": {
+        "velocity": {
+          "x": 0.40804275194318196,
+          "y": 0.1768025727190057,
+          "z": 0.012009849274865815
+        },
+        "wavelength": 0.6957414183952244,
+        "harmonics": [
+          0.3914828367904488,
+          0.08722425518567345,
+          0.4787070919761218
+        ],
+        "phase": 0.0,
+        "amplitude": 0.6132259970460713,
+        "decay": 0.001
+      },
+      "position": [
+        3.5747492974558353,
+        -11.40807467459443
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 23,
+      "wavelength_history": []
+    },
+    "12": {
+      "id": 12,
+      "resonance": {
+        "velocity": {
+          "x": 0.10069521334225666,
+          "y": -0.030606586891564647,
+          "z": 0.1813371024563833
+        },
+        "wavelength": 0.7893494894635409,
+        "harmonics": [
+          0.5786989789270818,
+          0.36804846839062266,
+          0.9467474473177044
+        ],
+        "phase": 0.0,
+        "amplitude": 0.7120881257126424,
+        "decay": 0.001
+      },
+      "position": [
+        19.699866091309026,
+        -11.373722990816862
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [
+        14,
+        63
+      ],
+      "total_captures": 52,
+      "supernode_id": 3,
+      "wavelength_history": [
+        0.6635519808645925,
+        0.6635519808645925,
+        0.6635519808645925,
+        0.6635519808645925,
+        0.6635519808645925,
+        0.6635519808645925,
+        0.6635519808645925,
+        0.6635519808645925,
+        0.6635519808645925,
+        0.6635519808645925,
+        0.6635519808645925,
+        0.6635519808645925,
+        0.6635519808645925,
+        0.6635519808645925,
+        0.6635519808645925,
+        0.6635519808645925,
+        0.6635519808645925,
+        0.6635519808645925,
+        0.6635519808645925,
+        0.6635519808645925
+      ]
+    },
+    "23": {
+      "id": 23,
+      "resonance": {
+        "velocity": {
+          "x": -0.03604364489445234,
+          "y": 0.04221120486109872,
+          "z": 0.18533849963722662
+        },
+        "wavelength": 0.6952001475910107,
+        "harmonics": [
+          0.39040029518202135,
+          0.08560044277303192,
+          0.4760007379550535
+        ],
+        "phase": 0.0,
+        "amplitude": 0.3851682564205366,
+        "decay": 0.001
+      },
+      "position": [
+        1.4909355769926929,
+        -3.9588846899930825
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 9,
+      "wavelength_history": []
+    },
+    "60": {
+      "id": 60,
+      "resonance": {
+        "velocity": {
+          "x": 0.08058072019421517,
+          "y": 0.16447028692524024,
+          "z": -0.8844337578459311
+        },
+        "wavelength": 0.6700955687254376,
+        "harmonics": [
+          0.34019113745087526,
+          0.010286706176312777,
+          0.35047784362718826
+        ],
+        "phase": 0.0,
+        "amplitude": 0.6698330071702117,
+        "decay": 0.001
+      },
+      "position": [
+        -0.1470294774155863,
+        -11.482192409979778
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 29,
+      "wavelength_history": []
+    },
+    "32": {
+      "id": 32,
+      "resonance": {
+        "velocity": {
+          "x": 0.18883719826131487,
+          "y": 0.11569364915084897,
+          "z": -0.6251571099144259
+        },
+        "wavelength": 0.31036153299655606,
+        "harmonics": [
+          0.6207230659931121,
+          0.9310845989896681,
+          0.5518076649827803
+        ],
+        "phase": 0.0,
+        "amplitude": 0.6094952696839929,
+        "decay": 0.001
+      },
+      "position": [
+        -1.7868761365344976,
+        3.6754600128304955
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 17,
+      "wavelength_history": []
+    },
+    "59": {
+      "id": 59,
+      "resonance": {
+        "velocity": {
+          "x": -0.11422637770128627,
+          "y": 0.309834993671356,
+          "z": 0.42480547457332757
+        },
+        "wavelength": 0.10021060654810024,
+        "harmonics": [
+          0.20042121309620048,
+          0.30063181964430075,
+          0.5010530327405012
+        ],
+        "phase": 0.0,
+        "amplitude": 0.9290973867106223,
+        "decay": 0.001
+      },
+      "position": [
+        -3.647543351949183,
+        -0.6587063654640005
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 27,
+      "wavelength_history": []
+    },
+    "39": {
+      "id": 39,
+      "resonance": {
+        "velocity": {
+          "x": -0.033274157529126415,
+          "y": -0.05238477057191513,
+          "z": -0.7690393926181215
+        },
+        "wavelength": 0.6955413435980189,
+        "harmonics": [
+          0.3910826871960378,
+          0.08662403079405667,
+          0.47770671799009445
+        ],
+        "phase": 0.0,
+        "amplitude": 0.4668375409036543,
+        "decay": 0.001
+      },
+      "position": [
+        2.8144237838167347,
+        -8.588353347601121
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 7,
+      "supernode_id": 19,
+      "wavelength_history": [
+        0.48662494795338945,
+        0.48662494795338945,
+        0.48662494795338945,
+        0.48662494795338945,
+        0.48662494795338945,
+        0.48662494795338945,
+        0.48662494795338945
+      ]
+    },
+    "69": {
+      "id": 69,
+      "resonance": {
+        "velocity": {
+          "x": 0.44039881512672335,
+          "y": 0.3907046332614963,
+          "z": -0.03064601305705717
+        },
+        "wavelength": 0.4926553046099885,
+        "harmonics": [
+          0.985310609219977,
+          0.47796591382996567,
+          0.4632765230499425
+        ],
+        "phase": 0.0,
+        "amplitude": 0.8422487450011193,
+        "decay": 0.001
+      },
+      "position": [
+        -7.372811789482865,
+        0.6977976368583734
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 31,
+      "wavelength_history": []
+    },
+    "75": {
+      "id": 75,
+      "resonance": {
+        "velocity": {
+          "x": -0.1776904306476912,
+          "y": 0.21695795520458566,
+          "z": -0.16483828589862445
+        },
+        "wavelength": 0.6985048382211185,
+        "harmonics": [
+          0.39700967644223706,
+          0.09551451466335559,
+          0.49252419110559265
+        ],
+        "phase": 0.0,
+        "amplitude": 0.6834668952408304,
+        "decay": 0.001
+      },
+      "position": [
+        6.5529630417859535,
+        -18.688697318759
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 35,
+      "wavelength_history": []
+    },
+    "1": {
+      "id": 1,
+      "resonance": {
+        "velocity": {
+          "x": -0.024002928707467786,
+          "y": 0.014649787905887937,
+          "z": 0.22361669920498362
+        },
+        "wavelength": 0.01,
+        "harmonics": [
+          0.02,
+          0.03,
+          0.05
+        ],
+        "phase": 0.0,
+        "amplitude": 0.6471843032822592,
+        "decay": 0.001
+      },
+      "position": [
+        20.383195101205352,
+        0.0
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 1,
+      "wavelength_history": []
+    },
+    "83": {
+      "id": 83,
+      "resonance": {
+        "velocity": {
+          "x": -0.23492278529169922,
+          "y": 0.05334223364306611,
+          "z": 0.7879774556883623
+        },
+        "wavelength": 0.11984784114322462,
+        "harmonics": [
+          0.23969568228644925,
+          0.3595435234296739,
+          0.5992392057161231
+        ],
+        "phase": 0.0,
+        "amplitude": 0.9460255975043422,
+        "decay": 0.001
+      },
+      "position": [
+        -22.78009377627545,
+        24.019311447340282
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": null,
+      "wavelength_history": []
+    },
+    "58": {
+      "id": 58,
+      "resonance": {
+        "velocity": {
+          "x": -0.4942222149249509,
+          "y": -0.3202398332357001,
+          "z": -0.6638643843816294
+        },
+        "wavelength": 0.48823760018576967,
+        "harmonics": [
+          0.9764752003715393,
+          0.4647128005573089,
+          0.44118800092884847
+        ],
+        "phase": 0.0,
+        "amplitude": 0.8223104124400318,
+        "decay": 0.001
+      },
+      "position": [
+        -7.349615259351302,
+        6.062764911938803
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 1,
+      "supernode_id": 28,
+      "wavelength_history": [
+        0.704036469842302
+      ]
+    },
+    "19": {
+      "id": 19,
+      "resonance": {
+        "velocity": {
+          "x": 0.058926367743919246,
+          "y": 0.07148795676078071,
+          "z": -0.19158006399251232
+        },
+        "wavelength": 0.4927390942137071,
+        "harmonics": [
+          0.9854781884274142,
+          0.4782172826411213,
+          0.4636954710685357
+        ],
+        "phase": 0.0,
+        "amplitude": 0.7924100598373078,
+        "decay": 0.001
+      },
+      "position": [
+        -5.5644479542126675,
+        3.6973919322469415
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 8,
+      "wavelength_history": []
+    },
+    "62": {
+      "id": 62,
+      "resonance": {
+        "velocity": {
+          "x": -0.44708660322531946,
+          "y": 0.01775116040424538,
+          "z": 0.4977405133817822
+        },
+        "wavelength": 0.48494765197820655,
+        "harmonics": [
+          0.9698953039564131,
+          0.45484295593461965,
+          0.42473825989103275
+        ],
+        "phase": 0.0,
+        "amplitude": 0.8572678494532152,
+        "decay": 0.001
+      },
+      "position": [
+        -5.458096964376499,
+        8.644955635721304
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 28,
+      "wavelength_history": []
+    },
+    "29": {
+      "id": 29,
+      "resonance": {
+        "velocity": {
+          "x": 0.4608685615742691,
+          "y": 0.5544915140466342,
+          "z": 0.03248877675112938
+        },
+        "wavelength": 0.49114895786100804,
+        "harmonics": [
+          0.9822979157220161,
+          0.4734468735830242,
+          0.45574478930504014
+        ],
+        "phase": 0.0,
+        "amplitude": 0.8033552742012565,
+        "decay": 0.001
+      },
+      "position": [
+        -5.176603763398019,
+        3.522457724322687
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 12,
+      "wavelength_history": []
+    },
+    "34": {
+      "id": 34,
+      "resonance": {
+        "velocity": {
+          "x": 0.09747303725411781,
+          "y": 0.05369957836939326,
+          "z": 0.009548538077267405
+        },
+        "wavelength": 0.102720009048181,
+        "harmonics": [
+          0.205440018096362,
+          0.308160027144543,
+          0.513600045240905
+        ],
+        "phase": 0.0,
+        "amplitude": 0.8822215721570839,
+        "decay": 0.001
+      },
+      "position": [
+        -4.335374612891058,
+        -1.9277201086266846
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 18,
+      "wavelength_history": []
+    },
+    "64": {
+      "id": 64,
+      "resonance": {
+        "velocity": {
+          "x": -0.6616106581500073,
+          "y": 0.2536270251859854,
+          "z": 0.41005894248902913
+        },
+        "wavelength": 0.30254283374980717,
+        "harmonics": [
+          0.6050856674996143,
+          0.9076285012494215,
+          0.512714168749036
+        ],
+        "phase": 0.0,
+        "amplitude": 0.6693312512649394,
+        "decay": 0.001
+      },
+      "position": [
+        0.9728138875619052,
+        7.47847000944877
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 30,
+      "wavelength_history": []
+    },
+    "70": {
+      "id": 70,
+      "resonance": {
+        "velocity": {
+          "x": -0.0048589609743859,
+          "y": -0.12453357866037751,
+          "z": 0.021950870496992268
+        },
+        "wavelength": 0.09595234334397376,
+        "harmonics": [
+          0.19190468668794752,
+          0.2878570300319213,
+          0.4797617167198688
+        ],
+        "phase": 0.0,
+        "amplitude": 0.9433860489142295,
+        "decay": 0.001
+      },
+      "position": [
+        -7.06054828482865,
+        10.43881106007813
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 33,
+      "wavelength_history": []
+    },
+    "5": {
+      "id": 5,
+      "resonance": {
+        "velocity": {
+          "x": -0.007756034232605843,
+          "y": 0.031081846009019688,
+          "z": 0.13636768219062423
+        },
+        "wavelength": 0.36571251040795805,
+        "harmonics": [
+          0.7314250208159161,
+          0.09713753122387425,
+          0.8285625520397901
+        ],
+        "phase": 0.0,
+        "amplitude": 0.5462767852247048,
+        "decay": 0.001
+      },
+      "position": [
+        -14.35308034110593,
+        24.860264395913518
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [
+        65
+      ],
+      "total_captures": 9,
+      "supernode_id": 10,
+      "wavelength_history": [
+        0.30373010757878055,
+        0.30373010757878055,
+        0.30373010757878055,
+        0.30373010757878055,
+        0.30373010757878055,
+        0.30373010757878055,
+        0.30373010757878055,
+        0.30373010757878055,
+        0.30373010757878055
+      ]
+    },
+    "18": {
+      "id": 18,
+      "resonance": {
+        "velocity": {
+          "x": -0.40372261559961353,
+          "y": -0.03119369535243688,
+          "z": -0.3727696874542549
+        },
+        "wavelength": 0.32040747073716763,
+        "harmonics": [
+          0.6408149414743353,
+          0.961222412211503,
+          0.6020373536858381
+        ],
+        "phase": 0.0,
+        "amplitude": 0.5939066955704556,
+        "decay": 0.001
+      },
+      "position": [
+        -0.46514383424481115,
+        0.11604084343038537
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [
+        73
+      ],
+      "total_captures": 1,
+      "supernode_id": 7,
+      "wavelength_history": [
+        0.43624551780250415
+      ]
+    },
+    "53": {
+      "id": 53,
+      "resonance": {
+        "velocity": {
+          "x": -0.40902421502531,
+          "y": 0.30004161658497774,
+          "z": 0.47854043550892983
+        },
+        "wavelength": 0.311060883573774,
+        "harmonics": [
+          0.622121767147548,
+          0.9331826507213219,
+          0.55530441786887
+        ],
+        "phase": 0.0,
+        "amplitude": 0.6693690211087754,
+        "decay": 0.001
+      },
+      "position": [
+        -0.408833269783164,
+        1.3596430588280393
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 26,
+      "wavelength_history": []
+    },
+    "56": {
+      "id": 56,
+      "resonance": {
+        "velocity": {
+          "x": -0.46509445010670475,
+          "y": -0.3358112464058953,
+          "z": 0.3476071741717761
+        },
+        "wavelength": 0.6737082363501651,
+        "harmonics": [
+          0.34741647270033016,
+          0.021124709050495127,
+          0.3685411817508255
+        ],
+        "phase": 0.0,
+        "amplitude": 0.6361364455153512,
+        "decay": 0.001
+      },
+      "position": [
+        -1.5339344106826946,
+        -13.007312501565846
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 32,
+      "wavelength_history": []
+    },
+    "36": {
+      "id": 36,
+      "resonance": {
+        "velocity": {
+          "x": 0.9049026355642419,
+          "y": 0.1860974098195803,
+          "z": 0.03722778247501405
+        },
+        "wavelength": 0.31036153299655606,
+        "harmonics": [
+          0.6207230659931121,
+          0.9310845989896681,
+          0.5518076649827803
+        ],
+        "phase": 0.0,
+        "amplitude": 0.6094497141284371,
+        "decay": 0.001
+      },
+      "position": [
+        -2.694998136841743,
+        4.438361081814912
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 17,
+      "wavelength_history": []
+    },
+    "72": {
+      "id": 72,
+      "resonance": {
+        "velocity": {
+          "x": 0.2607509530837457,
+          "y": 0.32445758056334906,
+          "z": 0.4539592835193801
+        },
+        "wavelength": 0.30254283374980717,
+        "harmonics": [
+          0.6050856674996143,
+          0.9076285012494215,
+          0.512714168749036
+        ],
+        "phase": 0.0,
+        "amplitude": 0.6692412512649388,
+        "decay": 0.001
+      },
+      "position": [
+        1.3520076643601104,
+        10.887754247468926
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 34,
+      "wavelength_history": []
+    },
+    "73": {
+      "id": 73,
+      "resonance": {
+        "velocity": {
+          "x": -0.1268845869165016,
+          "y": 0.28507481007214464,
+          "z": -0.40080809651315474
+        },
+        "wavelength": 0.490046292888838,
+        "harmonics": [
+          0.980092585777676,
+          0.47013887866651394,
+          0.4502314644441898
+        ],
+        "phase": 0.0,
+        "amplitude": 0.8438424869463999,
+        "decay": 0.001
+      },
+      "position": [
+        -5.439587810046833,
+        1.670653226782514
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": null,
+      "wavelength_history": []
+    },
+    "79": {
+      "id": 79,
+      "resonance": {
+        "velocity": {
+          "x": -0.40643573655689225,
+          "y": -0.015840933595171584,
+          "z": 0.5615485115841918
+        },
+        "wavelength": 0.6985048382211185,
+        "harmonics": [
+          0.39700967644223706,
+          0.09551451466335559,
+          0.49252419110559265
+        ],
+        "phase": 0.0,
+        "amplitude": 0.683443561907497,
+        "decay": 0.001
+      },
+      "position": [
+        6.851355926072958,
+        -19.508941364977158
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 35,
+      "wavelength_history": []
+    },
+    "57": {
+      "id": 57,
+      "resonance": {
+        "velocity": {
+          "x": 0.7281964092610256,
+          "y": -0.4265502157639711,
+          "z": 0.4245413460993369
+        },
+        "wavelength": 0.30367123933836776,
+        "harmonics": [
+          0.6073424786767355,
+          0.9110137180151032,
+          0.5183561966918389
+        ],
+        "phase": 0.0,
+        "amplitude": 0.6711405981751852,
+        "decay": 0.001
+      },
+      "position": [
+        4.736494549311295,
+        5.2076415829061515
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [
+        33,
+        53
+      ],
+      "total_captures": 2,
+      "supernode_id": 34,
+      "wavelength_history": [
+        0.3054905540922164,
+        0.3063655469387615
+      ]
+    },
+    "37": {
+      "id": 37,
+      "resonance": {
+        "velocity": {
+          "x": -0.07417098664772921,
+          "y": -0.14081680450478617,
+          "z": 0.5179830194572986
+        },
+        "wavelength": 0.49114895786100804,
+        "harmonics": [
+          0.9822979157220161,
+          0.4734468735830242,
+          0.45574478930504014
+        ],
+        "phase": 0.0,
+        "amplitude": 0.831835274201256,
+        "decay": 0.001
+      },
+      "position": [
+        -6.837990493065157,
+        2.875638043991527
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 16,
+      "wavelength_history": []
+    },
+    "41": {
+      "id": 41,
+      "resonance": {
+        "velocity": {
+          "x": -0.018546812942607988,
+          "y": -0.02646698264357074,
+          "z": -0.4556943732472544
+        },
+        "wavelength": 0.49114895786100804,
+        "harmonics": [
+          0.9822979157220161,
+          0.4734468735830242,
+          0.45574478930504014
+        ],
+        "phase": 0.0,
+        "amplitude": 0.83179098848697,
+        "decay": 0.001
+      },
+      "position": [
+        -7.810166211006681,
+        2.4344420291156688
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 25,
+      "wavelength_history": []
+    },
+    "20": {
+      "id": 20,
+      "resonance": {
+        "velocity": {
+          "x": 0.17774768060499427,
+          "y": -0.35105720318950845,
+          "z": -0.004296531212613998
+        },
+        "wavelength": 0.102720009048181,
+        "harmonics": [
+          0.205440018096362,
+          0.308160027144543,
+          0.513600045240905
+        ],
+        "phase": 0.0,
+        "amplitude": 0.8823682388237516,
+        "decay": 0.001
+      },
+      "position": [
+        -6.107713447918627,
+        -4.45111086289156
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 11,
+      "supernode_id": 6,
+      "wavelength_history": [
+        0.7352088948006593,
+        0.7352088948006593,
+        0.7352088948006593,
+        0.7352088948006593,
+        0.7352088948006593,
+        0.7352088948006593,
+        0.7352088948006593,
+        0.7352088948006593,
+        0.7352088948006593,
+        0.7352088948006593,
+        0.7352088948006593
+      ]
+    },
+    "48": {
+      "id": 48,
+      "resonance": {
+        "velocity": {
+          "x": -0.014418336961598733,
+          "y": 0.005867454601337268,
+          "z": 0.15899190770379948
+        },
+        "wavelength": 0.6957414183952244,
+        "harmonics": [
+          0.3914828367904488,
+          0.08722425518567345,
+          0.4787070919761218
+        ],
+        "phase": 0.0,
+        "amplitude": 0.5775291611277943,
+        "decay": 0.001
+      },
+      "position": [
+        3.1244193018197755,
+        -10.455834320922854
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 23,
+      "wavelength_history": []
+    },
+    "35": {
+      "id": 35,
+      "resonance": {
+        "velocity": {
+          "x": 0.7539938494591621,
+          "y": 0.19771652602841908,
+          "z": -0.4910110945095578
+        },
+        "wavelength": 0.694879632308308,
+        "harmonics": [
+          0.3897592646166159,
+          0.08463889692492366,
+          0.47439816154154
+        ],
+        "phase": 0.0,
+        "amplitude": 0.43908910290054326,
+        "decay": 0.001
+      },
+      "position": [
+        1.8188747093631814,
+        -7.61790942317327
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 15,
+      "wavelength_history": []
+    },
+    "4": {
+      "id": 4,
+      "resonance": {
+        "velocity": {
+          "x": 0.8193511088817823,
+          "y": 0.15340405449966502,
+          "z": 0.3402580915842041
+        },
+        "wavelength": 0.18738124390462355,
+        "harmonics": [
+          0.3747624878092471,
+          0.5621437317138707,
+          0.9369062195231177
+        ],
+        "phase": 0.0,
+        "amplitude": 0.8877676286092987,
+        "decay": 0.001
+      },
+      "position": [
+        1.7242421519513307e-15,
+        28.15901128638584
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [
+        40
+      ],
+      "total_captures": 1,
+      "supernode_id": 2,
+      "wavelength_history": [
+        0.09588639340979113
+      ]
+    },
+    "25": {
+      "id": 25,
+      "resonance": {
+        "velocity": {
+          "x": -0.025588426370468452,
+          "y": 0.03345304472073576,
+          "z": -0.1113783021579897
+        },
+        "wavelength": 0.49145668797313735,
+        "harmonics": [
+          0.9829133759462747,
+          0.47437006391941194,
+          0.45728343986568687
+        ],
+        "phase": 0.0,
+        "amplitude": 0.8105310137516779,
+        "decay": 0.001
+      },
+      "position": [
+        -3.7418898827346143,
+        2.67095267019704
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [
+        38,
+        66
+      ],
+      "total_captures": 2,
+      "supernode_id": 12,
+      "wavelength_history": [
+        0.4916413968988313,
+        0.49342608983234887
+      ]
+    },
+    "78": {
+      "id": 78,
+      "resonance": {
+        "velocity": {
+          "x": 0.011517957650534115,
+          "y": -0.6373533230986983,
+          "z": -0.6808464488555711
+        },
+        "wavelength": 0.11984784114322462,
+        "harmonics": [
+          0.23969568228644925,
+          0.3595435234296739,
+          0.5992392057161231
+        ],
+        "phase": 0.0,
+        "amplitude": 0.9461255975043429,
+        "decay": 0.001
+      },
+      "position": [
+        -25.158398073202175,
+        21.30624214480395
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 36,
+      "wavelength_history": []
+    },
+    "66": {
+      "id": 66,
+      "resonance": {
+        "velocity": {
+          "x": -0.03173055095003431,
+          "y": -0.013667306953476942,
+          "z": -0.3928123277299412
+        },
+        "wavelength": 0.09595234334397376,
+        "harmonics": [
+          0.19190468668794752,
+          0.2878570300319213,
+          0.4797617167198688
+        ],
+        "phase": 0.0,
+        "amplitude": 0.9434360489142298,
+        "decay": 0.001
+      },
+      "position": [
+        -7.533970445638478,
+        9.522277633748043
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 33,
+      "wavelength_history": []
+    },
+    "80": {
+      "id": 80,
+      "resonance": {
+        "velocity": {
+          "x": -0.03427771940054649,
+          "y": -0.013926181308728679,
+          "z": -0.3442388709928527
+        },
+        "wavelength": 0.30254283374980717,
+        "harmonics": [
+          0.6050856674996143,
+          0.9076285012494215,
+          0.512714168749036
+        ],
+        "phase": 0.0,
+        "amplitude": 0.6691675012649383,
+        "decay": 0.001
+      },
+      "position": [
+        1.2253505032694054,
+        13.42929976308622
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 37,
+      "wavelength_history": []
+    },
+    "74": {
+      "id": 74,
+      "resonance": {
+        "velocity": {
+          "x": -0.2833523035494111,
+          "y": 0.48835132033275325,
+          "z": -0.1440639182254383
+        },
+        "wavelength": 0.11984784114322462,
+        "harmonics": [
+          0.23969568228644925,
+          0.3595435234296739,
+          0.5992392057161231
+        ],
+        "phase": 0.0,
+        "amplitude": 0.9461755975043432,
+        "decay": 0.001
+      },
+      "position": [
+        -26.33745436932891,
+        20.3908379399257
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": null,
+      "wavelength_history": []
+    },
+    "42": {
+      "id": 42,
+      "resonance": {
+        "velocity": {
+          "x": 0.0071304187868657,
+          "y": 0.09758453710299465,
+          "z": -0.02832769108000182
+        },
+        "wavelength": 0.102720009048181,
+        "harmonics": [
+          0.205440018096362,
+          0.308160027144543,
+          0.513600045240905
+        ],
+        "phase": 0.0,
+        "amplitude": 0.8821215721570832,
+        "decay": 0.001
+      },
+      "position": [
+        -3.097871517970424,
+        -0.2942975577880418
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 21,
+      "wavelength_history": []
+    },
+    "61": {
+      "id": 61,
+      "resonance": {
+        "velocity": {
+          "x": -0.04856924950665381,
+          "y": -0.03062546759783457,
+          "z": -0.4030992579881661
+        },
+        "wavelength": 0.30367123933836776,
+        "harmonics": [
+          0.6073424786767355,
+          0.9110137180151032,
+          0.5183561966918389
+        ],
+        "phase": 0.0,
+        "amplitude": 0.671090598175185,
+        "decay": 0.001
+      },
+      "position": [
+        3.315177062876204,
+        5.794954981296031
+      ],
+      "capture_radius": 6.0,
+      "strength": 3.0,
+      "captured_packets": [],
+      "total_captures": 0,
+      "supernode_id": 37,
+      "wavelength_history": []
+    }
+  },
+  "supernodes": {
+    "13": {
+      "id": 13,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.102720009048181,
+        "harmonics": [
+          0.205440018096362,
+          0.308160027144543,
+          0.513600045240905
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        26,
+        30
+      ],
+      "center": [
+        -5.217819411950227,
+        -3.2238495059919283
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 0
+    },
+    "26": {
+      "id": 26,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.311060883573774,
+        "harmonics": [
+          0.622121767147548,
+          0.9331826507213219,
+          0.55530441786887
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        53,
+        49
+      ],
+      "center": [
+        -0.2989026758984658,
+        0.9073900832049958
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 0
+    },
+    "16": {
+      "id": 16,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.49114895786100804,
+        "harmonics": [
+          0.9822979157220161,
+          0.4734468735830242,
+          0.45574478930504014
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        33,
+        37
+      ],
+      "center": [
+        -6.478058223302818,
+        3.069393606382503
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 0
+    },
+    "4": {
+      "id": 4,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.6588067686455064,
+        "harmonics": [
+          0.3176135372910127,
+          0.9764203059365191,
+          0.294033843227532
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        9,
+        10
+      ],
+      "center": [
+        -9.283241040697114,
+        -27.895325699487174
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 15
+    },
+    "2": {
+      "id": 2,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.15658939301843489,
+        "harmonics": [
+          0.31317878603686977,
+          0.46976817905530466,
+          0.7829469650921744
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        4,
+        3
+      ],
+      "center": [
+        8.199700392916027,
+        28.28180333056596
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 22
+    },
+    "6": {
+      "id": 6,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.10770580694092657,
+        "harmonics": [
+          0.21541161388185315,
+          0.3231174208227797,
+          0.5385290347046329
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        16,
+        20,
+        22
+      ],
+      "center": [
+        -10.557493702760782,
+        -2.9456686610480283
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 13
+    },
+    "21": {
+      "id": 21,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.102720009048181,
+        "harmonics": [
+          0.205440018096362,
+          0.308160027144543,
+          0.513600045240905
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        42,
+        51
+      ],
+      "center": [
+        -2.559298965717501,
+        0.6614928471832364
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 0
+    },
+    "24": {
+      "id": 24,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.102720009048181,
+        "harmonics": [
+          0.205440018096362,
+          0.308160027144543,
+          0.513600045240905
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        55,
+        47
+      ],
+      "center": [
+        -1.9892252641876076,
+        1.6053784700506413
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 0
+    },
+    "1": {
+      "id": 1,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.010838455349491568,
+        "harmonics": [
+          0.021676910698983136,
+          0.0325153660484747,
+          0.05419227674745784
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        1,
+        2
+      ],
+      "center": [
+        20.3641676020298,
+        5.873136057541773
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 27
+    },
+    "23": {
+      "id": 23,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.6957414183952244,
+        "harmonics": [
+          0.3914828367904488,
+          0.08722425518567345,
+          0.4787070919761218
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        52,
+        48
+      ],
+      "center": [
+        3.3495842996378054,
+        -10.931954497758642
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 0
+    },
+    "25": {
+      "id": 25,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.49114895786100804,
+        "harmonics": [
+          0.9822979157220161,
+          0.4734468735830242,
+          0.45574478930504014
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        54,
+        41
+      ],
+      "center": [
+        -8.47076391181476,
+        1.619830554560811
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 1
+    },
+    "33": {
+      "id": 33,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.09595234334397376,
+        "harmonics": [
+          0.19190468668794752,
+          0.2878570300319213,
+          0.4797617167198688
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        70,
+        66
+      ],
+      "center": [
+        -7.297259365233565,
+        9.980544346913087
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 0
+    },
+    "37": {
+      "id": 37,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.30310703654408744,
+        "harmonics": [
+          0.6062140730881749,
+          0.9093211096322623,
+          0.5155351827204373
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        80,
+        61
+      ],
+      "center": [
+        2.2702637830728047,
+        9.612127372191125
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 0
+    },
+    "3": {
+      "id": 3,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.7952046042462267,
+        "harmonics": [
+          0.5904092084924535,
+          0.3856138127386801,
+          0.9760230212311338
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        11,
+        12
+      ],
+      "center": [
+        19.812764544161446,
+        -22.942991838070007
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 69
+    },
+    "22": {
+      "id": 22,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.49114895786100804,
+        "harmonics": [
+          0.9822979157220161,
+          0.4734468735830242,
+          0.45574478930504014
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        46,
+        50
+      ],
+      "center": [
+        -8.80939235796884,
+        1.6978920918014462
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 3
+    },
+    "15": {
+      "id": 15,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.6950398899496593,
+        "harmonics": [
+          0.3900797798993185,
+          0.08511966984897779,
+          0.4751994497482963
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        31,
+        35
+      ],
+      "center": [
+        1.567229416997058,
+        -7.306128838780831
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 0
+    },
+    "28": {
+      "id": 28,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.4865926260819881,
+        "harmonics": [
+          0.9731852521639762,
+          0.4597778782459643,
+          0.4329631304099406
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        58,
+        62
+      ],
+      "center": [
+        -6.403856111863901,
+        7.353860273830054
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 0
+    },
+    "12": {
+      "id": 12,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.4913028229170727,
+        "harmonics": [
+          0.9826056458341454,
+          0.47390846875121806,
+          0.45651411458536373
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        29,
+        25
+      ],
+      "center": [
+        -4.459246823066317,
+        3.0967051972598636
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 0
+    },
+    "7": {
+      "id": 7,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.3266699301060082,
+        "harmonics": [
+          0.6533398602120164,
+          0.9800097903180246,
+          0.6333496505300409
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        18
+      ],
+      "center": [
+        -0.46514383424481115,
+        0.11604084343038537
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 6
+    },
+    "5": {
+      "id": 5,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.5131814299317616,
+        "harmonics": [
+          0.02636285986352327,
+          0.5395442897952849,
+          0.5659071496588082
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        8
+      ],
+      "center": [
+        -20.989059248174588,
+        -12.118039006970593
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 30
+    },
+    "32": {
+      "id": 32,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.6862429043556362,
+        "harmonics": [
+          0.37248580871127235,
+          0.05872871306690852,
+          0.43121452177818087
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        71,
+        56
+      ],
+      "center": [
+        -4.9452883448404235,
+        -9.339729500326865
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 0
+    },
+    "17": {
+      "id": 17,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.3109401901223062,
+        "harmonics": [
+          0.6218803802446125,
+          0.9328205703669187,
+          0.5547009506115312
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        32,
+        36,
+        43
+      ],
+      "center": [
+        -10.46802853780863,
+        7.181372801650396
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 1
+    },
+    "20": {
+      "id": 20,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.3106027100740869,
+        "harmonics": [
+          0.6212054201481738,
+          0.9318081302222607,
+          0.5530135503704345
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        45,
+        40
+      ],
+      "center": [
+        -0.15324386432117487,
+        1.2978843909862716
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 2
+    },
+    "27": {
+      "id": 27,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.10021060654810024,
+        "harmonics": [
+          0.20042121309620048,
+          0.30063181964430075,
+          0.5010530327405012
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        63,
+        59
+      ],
+      "center": [
+        -3.5629530124438347,
+        -0.20639742472137002
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 0
+    },
+    "18": {
+      "id": 18,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.102720009048181,
+        "harmonics": [
+          0.205440018096362,
+          0.308160027144543,
+          0.513600045240905
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        38,
+        34
+      ],
+      "center": [
+        -4.0245383595091475,
+        -1.5135447613010247
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 0
+    },
+    "35": {
+      "id": 35,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.6985048382211185,
+        "harmonics": [
+          0.39700967644223706,
+          0.09551451466335559,
+          0.49252419110559265
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        75,
+        79
+      ],
+      "center": [
+        6.702159483929456,
+        -19.09881934186808
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 0
+    },
+    "34": {
+      "id": 34,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.30310703654408744,
+        "harmonics": [
+          0.6062140730881749,
+          0.9093211096322623,
+          0.5155351827204373
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        72,
+        57
+      ],
+      "center": [
+        3.0442511068357025,
+        8.04769791518754
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 0
+    },
+    "29": {
+      "id": 29,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.6844365705432724,
+        "harmonics": [
+          0.3688731410865449,
+          0.05330971162981735,
+          0.42218285271636224
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        67,
+        60
+      ],
+      "center": [
+        -4.504522721788289,
+        -8.075379248633551
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 0
+    },
+    "30": {
+      "id": 30,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.30254283374980717,
+        "harmonics": [
+          0.6050856674996143,
+          0.9076285012494215,
+          0.512714168749036
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        68,
+        64
+      ],
+      "center": [
+        1.1339179604719112,
+        8.479757071346421
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 0
+    },
+    "36": {
+      "id": 36,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.11984784114322462,
+        "harmonics": [
+          0.23969568228644925,
+          0.3595435234296739,
+          0.5992392057161231
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        81,
+        78
+      ],
+      "center": [
+        -24.569192770909652,
+        21.910672184995224
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 0
+    },
+    "9": {
+      "id": 9,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.6972619104029898,
+        "harmonics": [
+          0.3945238208059796,
+          0.0917857312089696,
+          0.48630955201494874
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        23,
+        13,
+        15
+      ],
+      "center": [
+        -0.3807741657571657,
+        -0.7417510899215608
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 0
+    },
+    "14": {
+      "id": 14,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.6953492957675091,
+        "harmonics": [
+          0.3906985915350183,
+          0.08604788730252722,
+          0.47674647883754595
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        17,
+        27
+      ],
+      "center": [
+        1.4567933958290407,
+        -3.9630224240128733
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 5
+    },
+    "31": {
+      "id": 31,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.4926553046099885,
+        "harmonics": [
+          0.985310609219977,
+          0.47796591382996567,
+          0.4632765230499425
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        65,
+        69
+      ],
+      "center": [
+        -7.377958590905759,
+        0.1276786871829902
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 2
+    },
+    "8": {
+      "id": 8,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.5097585346975304,
+        "harmonics": [
+          0.019517069395060815,
+          0.5292756040925912,
+          0.548792673487652
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        19,
+        7
+      ],
+      "center": [
+        -16.69536302769321,
+        1.8486959661234725
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 0
+    },
+    "11": {
+      "id": 11,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.3147636772841259,
+        "harmonics": [
+          0.6295273545682518,
+          0.9442910318523777,
+          0.5738183864206294
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        28,
+        14
+      ],
+      "center": [
+        -0.454316557493403,
+        0.9850705898509516
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 0
+    },
+    "19": {
+      "id": 19,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.6956413809966216,
+        "harmonics": [
+          0.3912827619932433,
+          0.08692414298986506,
+          0.47820690498310814
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        39,
+        44
+      ],
+      "center": [
+        2.6457027789688894,
+        -9.252836361664817
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 5
+    },
+    "10": {
+      "id": 10,
+      "resonance": {
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "wavelength": 0.33726808821929605,
+        "harmonics": [
+          0.6745361764385921,
+          0.011804264657888197,
+          0.6863404410964802
+        ],
+        "phase": 0.0,
+        "amplitude": 1.0,
+        "decay": 0.001
+      },
+      "member_ids": [
+        24,
+        5
+      ],
+      "center": [
+        -7.509294486875837,
+        12.964854610534033
+      ],
+      "affinity_threshold": 0.6,
+      "packets_sorted": 2
+    }
+  },
+  "tick": 200,
+  "cmb_stats": {
+    "total_hits": 94,
+    "bounces": 94,
+    "cosmic_rays_created": 6,
+    "discoveries": 0
+  },
+  "discoveries": [],
+  "fission_events": 3,
+  "garbage_collected": 31,
+  "learning": {
+    "nodes_learned": 68,
+    "total_accesses": 0,
+    "successful_accesses": 0,
+    "rejections": 0,
+    "boosts": 0,
+    "locks": 0,
+    "age": 0,
+    "seed_nodes": 0
+  },
+  "next_packet_id": 78,
+  "next_node_id": 84,
+  "next_supernode_id": 38
+}
