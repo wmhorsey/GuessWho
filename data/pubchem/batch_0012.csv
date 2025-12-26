@@ -1,0 +1,101 @@
+"CID","Title","MolecularFormula","ConnectivitySMILES","MolecularWeight"
+1201,"Calanolide","C22H26O5","CCCC1=CC(=O)OC2=C1C3=C(C=CC(O3)(C)C)C4=C2C(C(C(O4)C)C)O",370.4
+1202,"CID 1202","C22H36O3","CCCCCC(C=CC1CC2CC(C2)C1CC=CCCCC(=O)O)O",348.5
+1203,"2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-1-benzopyran-3,5,7-triol","C15H14O6","C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O",290.27
+1204,"(-)-Epibatidine-L-tartrate","C11H13ClN2","C1CC2C(CC1N2)C3=CN=C(C=C3)Cl",208.69
+1205,"4-[2-(1,6-dimethylpiperidin-2-yl)ethenyl]-3-methyl-3a,4,4a,5,6,7,8,8a,9,9a-decahydro-3H-benzo[f][2]benzofuran-1-one","C22H35NO2","CC1CCCC(N1C)C=CC2C3CCCCC3CC4C2C(OC4=O)C",345.5
+1206,"DL-methamphetamine","C10H15N","CC(CC1=CC=CC=C1)NC",149.23
+1207,"10,11-Dihydro-5-methyl-5H-dibenzo(a,d)cyclohepten-5,10-imine","C16H15N","CC12C3=CC=CC=C3CC(N1)C4=CC=CC=C24",221.30
+1208,"1,2,3,4,5,6-Hexahydro-6,11-dimethyl-2,6-methano-3-benzazocin-8-ol","C14H19NO","CC1C2CC3=C(C1(CCN2)C)C=C(C=C3)O",217.31
+1209,"2-Amino-3-(3,5-dioxo-1,2,4-oxadiazolidin-2-yl)propanoic acid","C5H7N3O5","C(C(C(=O)O)N)N1C(=O)NC(=O)O1",189.13
+1210,"Tubocurarine,d","C37H42N2O6+2","C[NH+]1CCC2=CC(=C3C=C2C1CC4=CC=C(C=C4)OC5=C6C(CC7=CC(=C(C=C7)O)O3)[N+](CCC6=CC(=C5O)OC)(C)C)OC",610.7
+1211,"7',12'-Dihydroxy-6,6'-dimethoxy-2,2',2'-trimethyltubocuraran-2'-ium","C37H41N2O6+","CN1CCC2=CC(=C3C=C2C1CC4=CC=C(C=C4)OC5=C6C(CC7=CC(=C(C=C7)O)O3)[N+](CCC6=CC(=C5O)OC)(C)C)OC",609.7
+1212,"2-(4-(1H-Tetrazol-5-yl)phenyl)-2-aminopropanoic acid","C10H11N5O2","CC(C1=CC=C(C=C1)C2=NNN=N2)(C(=O)O)N",233.23
+1213,"Octahydro-4,8a-dimethyl-4a(2H)-naphthol","C12H22O","CC1CCCC2(C1(CCCC2)O)C",182.30
+1214,"1-Amino-1,3-cyclobutanedicarboxylic acid","C6H9NO4","C1C(CC1(C(=O)O)N)C(=O)O",159.14
+1215,"2,3-Dichloro-alpha-methylbenzylamine","C8H9Cl2N","CC(C1=C(C(=CC=C1)Cl)Cl)N",190.07
+1216,"2-Amino-5-phosphonovaleric Acid","C5H12NO5P","C(CC(C(=O)O)N)CP(=O)(O)O",197.13
+1217,"2-Amino-2-(3-hydroxyphenyl)acetic acid","C8H9NO3","C1=CC(=CC(=C1)O)C(C(=O)O)N",167.16
+1218,"SK&F 81297","C16H16ClNO2","C1CNCC(C2=CC(=C(C(=C21)Cl)O)O)C3=CC=CC=C3",289.75
+1219,"7-hydroxy-2-(di-N-propylamino)tetralin","C16H25NO","CCCN(CCC)C1CCC2=C(C1)C=C(C=C2)O",247.38
+1220,"8-OH-Dpat","C16H25NO","CCCN(CCC)C1CCC2=C(C1)C(=CC=C2)O",247.38
+1221,"alpha-AMINO-3-HYDROXY-5-METHYL-4-ISOXAZOLEPROPIONIC ACID","C7H10N2O4","CC1=C(C(=O)NO1)CC(C(=O)O)N",186.17
+1222,"alpha-Methyl-4-carboxyphenylglycine","C10H11NO4","CC(C1=CC=C(C=C1)C(=O)O)(C(=O)O)N",209.20
+1223,"6-Ethyl-1,2,3,4,5,6-hexahydro-3-((1-hydroxycyclopropyl)methyl)-11,11-dimethyl-2,6-methano-3-benzazocin-8-ol","C20H29NO2","CCC12CCN(C(C1(C)C)CC3=C2C=C(C=C3)O)CC4(CC4)O",315.4
+1224,"3-Tert-butyl-2,3,4,4a,8,9,13b,14-octahydro-1h-benzo[6,7]cyclohepta[1,2,3-de]pyrido[2,1-a]isoquinolin-3-ol","C25H31NO","CC(C)(C)C1(CCN2CC3C4=CC=CC=C4CCC5=C3C(=CC=C5)C2C1)O",361.5
+1225,"Skf 82958","C19H20ClNO2","C=CCN1CCC2=C(C(=C(C=C2C(C1)C3=CC=CC=C3)O)O)Cl",329.8
+1226,"2,3-Piperidinedicarboxylic acid","C7H11NO4","C1CC(C(NC1)C(=O)O)C(=O)O",173.17
+1227,"1-Methyl-5-(pyridin-2-yl)pyrrolidin-2-one","C10H12N2O","CN1C(CCC1=O)C2=CC=CC=N2",176.21
+1228,"3-(2-Carboxypiperazin-4-yl)propyl-1-phosphonic acid","C8H17N2O5P","C1CN(CC(N1)C(=O)O)CCCP(=O)(O)O",252.20
+1229,"2,5-Dimethoxy-4-iodoamphetamine","C11H16INO2","CC(CC1=CC(=C(C=C1OC)I)OC)N",321.15
+1230,"2-[6-(4-Chlorophenoxy)hexyl]oxirane-2-carboxylate","C15H18ClO4-","C1C(O1)(CCCCCCOC2=CC=C(C=C2)Cl)C(=O)[O-]",297.75
+1231,"2-(6-(4-Chlorophenoxy)hexyl)oxirane-2-carboxylic acid","C15H19ClO4","C1C(O1)(CCCCCCOC2=CC=C(C=C2)Cl)C(=O)O",298.76
+1232,"1-Hydroxy-3-amino-2-pyrrolidone","C4H8N2O2","C1CN(C(=O)C1N)O",116.12
+1233,"Ibotenic Acid","C5H6N2O4","C1=C(ONC1=O)C(C(=O)O)N",158.11
+1234,"Gallopamil","C28H40N2O5","CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C(=C2)OC)OC)OC",484.6
+1235,"Alazocine","C17H23NO","CC1C2CC3=C(C1(CCN2CC=C)C)C=C(C=C3)O",257.37
+1236,"(+/-)-Niguldipine","C36H39N3O6","CC1=C(C(C(=C(N1)C)C(=O)OCCCN2CCC(CC2)(C3=CC=CC=C3)C4=CC=CC=C4)C5=CC(=CC=C5)[N+](=O)[O-])C(=O)OC",609.7
+1237,"(+-)-Normetanephrine","C9H13NO3","COC1=C(C=CC(=C1)C(CN)O)O",183.20
+1238,"Octoclothepine","C19H21ClN2S","CN1CCN(CC1)C2CC3=CC=CC=C3SC4=C2C=C(C=C4)Cl",344.9
+1239,"N(8)-Bromoacetyl-N(1)-3'-(4-indolyloxy)-2'-hydroxypropyl-1,8-diamino-4-menthane","C23H34BrN3O3","CC1(CCC(CC1)C(C)(C)NC(=O)CBr)NCC(COC2=CC=CC3=C2C=CN3)O",480.4
+1240,"2-(N-phenethyl-N-propyl)amino-5-hydroxytetralin","C21H27NO","CCCN(CCC1=CC=CC=C1)C2CCC3=C(C2)C=CC=C3O",309.4
+1241,"Skf 77434","C19H21NO2","C=CCN1CCC2=CC(=C(C=C2C(C1)C3=CC=CC=C3)O)O",295.4
+1242,"Skf 38393","C16H17NO2","C1CNCC(C2=CC(=C(C=C21)O)O)C3=CC=CC=C3",255.31
+1243,"1H-3-benzazepin-7-ol, 8-bromo-2,3,4,5-tetrahydro-3-methyl-5-phenyl-","C17H18BrNO","CN1CCC2=CC(=C(C=C2C(C1)C3=CC=CC=C3)O)Br",332.2
+1244,"","C11H18N2O2S","CCCC(C)C1(C(=O)NC(=NC1=O)S)CC",242.34
+1245,"Vanillylmandelic Acid","C9H10O5","COC1=C(C=CC(=C1)C(C(=O)O)O)O",198.17
+1246,"Methoxynaltrexone,3","C21H25NO4","COC1=C2C3=C(CC4C5(C3(CCN4CC6CC6)C(O2)C(=O)CC5)O)C=C1",355.4
+1247,"18-Hydroxy-10,10,16,17-tetramethyl-6-propyl-3,9,15-trioxatetracyclo[12.4.0.02,7.08,13]octadeca-1(14),2(7),5,8(13)-tetraen-4-one","C22H28O5","CCCC1=CC(=O)OC2=C1C3=C(CCC(O3)(C)C)C4=C2C(C(C(O4)C)C)O",372.5
+1248,"6,6-Dimethyl-5-(8-oxo-6,8-dihydrofuro[3,4-e][1,3]benzodioxol-6-yl)-5,6,7,8-tetrahydro[1,3]dioxolo[4,5-g]isoquinolin-6-ium","C21H20NO6+","C[N+]1(CCC2=CC3=C(C=C2C1C4C5=C(C6=C(C=C5)OCO6)C(=O)O4)OCO3)C",382.4
+1249,"Flavan-3,3',4',5,5',7-hexol","C15H14O7","C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)O",306.27
+1250,"1,3a,8-Trimethyl-1,2,3,3a,8,8a-hexahydropyrrolo[2,3-b]indol-5-ol","C13H18N2O","CC12CCN(C1N(C3=C2C=C(C=C3)O)C)C",218.29
+1251,"2-(1,1,7-trimethyl-6-methylidene-3,4,5,7,8,9-hexahydro-2H-benzo[7]annulen-5-yl)benzene-1,4-diol","C21H28O2","CC1CCC2=C(CCCC2(C)C)C(C1=C)C3=C(C=CC(=C3)O)O",312.4
+1252,"14-Hydroxy-6,6,10-trimethyl-13-oxatetracyclo[9.8.0.02,7.014,19]nonadeca-1(11),2(7),15,18-tetraen-17-one","C21H26O3","CC1CCC2=C(CCCC2(C)C)C3=C1COC4(C3=CC(=O)C=C4)O",326.4
+1253,"Acanthus ilicifolius Linn","C15H18N2O","CC=C1C2CC3=C(C1(CC(=C2)C)N)C=CC(=O)N3",242.32
+1254,"Menthol","C10H20O","CC1CCC(C(C1)O)C(C)C",156.26
+1255,"N-Norcodeine","C17H19NO3","COC1=C2C3=C(CC4C5C3(CCN4)C(O2)C(C=C5)O)C=C1",285.34
+1256,"Perillic Acid","C10H14O2","CC(=C)C1CCC(=CC1)C(=O)O",166.22
+1257,"5-Propyl-1,4,4a,6,7,8,8a,9-octahydropyrazolo[3,4-g]quinoline","C13H21N3","CCCN1CCCC2C1CC3=C(C2)NN=C3",219.33
+1258,"9-Methyl-9-oxido-3-oxa-9-azatricyclo[3.3.1.0~2,4~]non-7-yl 3-hydroxy-2-phenylpropanoate","C17H21NO5","C[N+]1(C2CC(CC1C3C2O3)OC(=O)C(CO)C4=CC=CC=C4)[O-]",319.4
+1259,"4-amino-N-[2-(8,11-dioxo-10-propan-2-yl-2-oxa-9,12-diazabicyclo[13.2.2]nonadeca-1(17),15,18-trien-13-yl)-2-hydroxyethyl]-N-(3-methylbutyl)benzenesulfonamide","C32H48N4O6S","CC(C)CCN(CC(C1CC2=CC=C(C=C2)OCCCCCC(=O)NC(C(=O)N1)C(C)C)O)S(=O)(=O)C3=CC=C(C=C3)N",616.8
+1260,"1-(4-butoxyphenyl)sulfonyl-N-hydroxy-4-(methanesulfonamido)pyrrolidine-2-carboxamide","C16H25N3O7S2","CCCCOC1=CC=C(C=C1)S(=O)(=O)N2CC(CC2C(=O)NO)NS(=O)(=O)C",435.5
+1261,"3-[2-Borono-2-[(2-phenylacetyl)amino]ethyl]benzoic acid","C17H18BNO5","B(C(CC1=CC(=CC=C1)C(=O)O)NC(=O)CC2=CC=CC=C2)(O)O",327.1
+1262,"","C11H15N4O7P","C1=C(C2=C(N1)C(=O)N=CN2)C3C(C(C(N3)COP(=O)(O)O)O)O",346.23
+1263,"2-[4-Phenyl-2-(sulfanylmethyl)butanoyl]imino-2-[5-(tetrazol-1-ylmethyl)thiophen-2-yl]acetic acid","C19H19N5O3S2","C1=CC=C(C=C1)CCC(CS)C(=O)N=C(C2=CC=C(S2)CN3C=NN=N3)C(=O)O",429.5
+1264,"(2-{[4-({4-[(4-Formylamino-1-methyl-1h-imidazole-2-carbonyl)-amino]-1-methyl-1h-imidazole-2-carbonyl}-amino)-1-methyl-1h-imidazole-2-carbonyl]-amino}-ethyl)-dimethyl-ammonium","C20H28N11O4+","CN1C=C(N=C1C(=O)NC2=CN(C(=N2)C(=O)NC3=CN(C(=N3)C(=O)NCC[NH+](C)C)C)C)NC=O",486.5
+1265,"N-(2-(((2-(Dimethylamino)ethyl)amino)carbonyl)-1-methyl-1H-imidazol-4-yl)-4-(((4-(formylamino)-1-methyl-1H-imidazol-2-yl)carbonyl)amino)-1-methyl-1H-imidazole-2-carboxamide","C20H27N11O4","CN1C=C(N=C1C(=O)NC2=CN(C(=N2)C(=O)NC3=CN(C(=N3)C(=O)NCCN(C)C)C)C)NC=O",485.5
+1266,"Aza-cyclooctadecosine-9-carbonitrile","C26H21N5O2","C1CN2C3=CC=CC4=C3C=C(C=C4)OC5=C(C=CC(=C5)CN6C=NC=C6CNC1C2=O)C#N",435.5
+1267,"31-Oxo-20-oxa-2,6,11,13-tetrazahexacyclo[19.6.2.12,5.115,19.09,13.024,28]hentriaconta-1(27),9,11,15(30),16,18,21(29),22,24(28),25-decaene-18-carbonitrile","C27H23N5O2","C1CN2C3=CC=CC4=C3C=C(C=C4)OC5=C(C=CC(=C5)CN6C=NC=C6CCNC1C2=O)C#N",449.5
+1268,"2-[2-(Benzylamino)-2-oxo-1-[(2-phenylacetyl)amino]ethyl]-5,5-dimethyl-1,3-thiazolidine-4-carboxylic acid","C23H27N3O4S","CC1(C(NC(S1)C(C(=O)NCC2=CC=CC=C2)NC(=O)CC3=CC=CC=C3)C(=O)O)C",441.5
+1269,"tert-butyl N-[5-benzyl-3-hydroxy-6-[[1-(1H-imidazol-2-yl)-2-methylpropyl]amino]-6-oxo-1-phenylhexan-2-yl]carbamate","C31H42N4O4","CC(C)C(C1=NC=CN1)NC(=O)C(CC2=CC=CC=C2)CC(C(CC3=CC=CC=C3)NC(=O)OC(C)(C)C)O",534.7
+1270,"2-[[3-Amino-2-hydroxy-4-(4-nitrophenyl)butanoyl]amino]-4-methylpentanoic acid","C16H23N3O6","CC(C)CC(C(=O)O)NC(=O)C(C(CC1=CC=C(C=C1)[N+](=O)[O-])N)O",353.37
+1271,"(alpha-Carboxycyclopropyl)glycine","C6H9NO4","C1C(C1C(=O)O)C(C(=O)O)N",159.14
+1272,"3-Formyl-2-[[(4-methylphenyl)sulfonylamino]methyl]pentanoic acid","C14H19NO5S","CCC(C=O)C(CNS(=O)(=O)C1=CC=C(C=C1)C)C(=O)O",313.37
+1273,"3-Formyl-2-[[(4-nitrophenyl)sulfonylamino]methyl]pentanoic acid","C13H16N2O7S","CCC(C=O)C(CNS(=O)(=O)C1=CC=C(C=C1)[N+](=O)[O-])C(=O)O",344.34
+1274,"2-Amino-3,5-tetradecadiene","C14H27N","CCCCCCCCC=CC=CC(C)N",209.37
+1275,"naphth-2-oyl-DL-Val-DL-Pro-DL-Asn(Mes)(Mes)-al","C26H32N4O7S","CC(C)C(C(=O)N1CCCC1C(=O)NC(CC(=O)NS(=O)(=O)C)C=O)NC(=O)C2=CC3=CC=CC=C3C=C2",544.6
+1276,"3-Ethyl-1-(4-methylphenyl)sulfonyl-4-oxoazetidine-2-carboxylic acid","C13H15NO5S","CCC1C(N(C1=O)S(=O)(=O)C2=CC=C(C=C2)C)C(=O)O",297.33
+1277,"[5-Acetamido-4-hydroxy-6-(1,2,3-trihydroxypropyl)oxan-2-yl]phosphonic acid","C10H20NO9P","CC(=O)NC1C(CC(OC1C(C(CO)O)O)P(=O)(O)O)O",329.24
+1278,"(4-Benzyl-piperidin-1-yl)-(5-amidinomethyl-3ah-indol-2-yl-methanone","C22H25N4O+","C1CN(CCC1CC2=CC=CC=C2)C(=O)C3=CC4C=C(C=CC4=N3)C(=[NH2+])N",361.5
+1279,"2-(4-benzylpiperidine-1-carbonyl)-3aH-indole-5-carboximidamide","C22H24N4O","C1CN(CCC1CC2=CC=CC=C2)C(=O)C3=CC4C=C(C=CC4=N3)C(=N)N",360.5
+1280,"6-methyl-4-(methylamino)-7,7-dioxo-5,6-dihydro-4H-thieno[2,3-b]thiopyran-2-sulfonamide","C9H14N2O4S3","CC1CC(C2=C(S1(=O)=O)SC(=C2)S(=O)(=O)N)NC",310.4
+1281,"[amino-[2-(1H-benzimidazol-2-ylmethyl)-3H-benzimidazol-5-yl]methylidene]azanium","C16H15N6+","C1=CC=C2C(=C1)NC(=N2)CC3=NC4=C(N3)C=C(C=C4)C(=[NH2+])N",291.33
+1282,"Hemi-Babim","C16H14N6","C1=CC=C2C(=C1)NC(=N2)CC3=NC4=C(N3)C=C(C=C4)C(=N)N",290.32
+1283,"5-Iodo-5,6-dihydrouracil","C4H5IN2O2","C1C(C(=O)NC(=O)N1)I",240.00
+1284,"Propyl 6-(1-acetyloxyethyl)-7-oxo-4-thia-1-azabicyclo[3.2.0]hept-2-ene-2-carboxylate","C13H17NO5S","CCCOC(=O)C1=CSC2N1C(=O)C2C(C)OC(=O)C",299.34
+1285,"6,14-Dimethyl-3-methylidene-2-oxo-3a,4,5,8,9,12,13,15a-octahydrocyclotetradeca[b]furan-10-carboxylic acid","C20H26O4","CC1=CCCC(=CCCC(=CC2C(CC1)C(=C)C(=O)O2)C)C(=O)O",330.4
+1286,"Dimethylmatairesinol","C22H26O6","COC1=C(C=C(C=C1)CC2COC(=O)C2CC3=CC(=C(C=C3)OC)OC)OC",386.4
+1287,"Tea, ext.","C22H18O11","C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O",458.4
+1288,"(+)-Indolactam V","C17H23N3O2","CC(C)C1C(=O)NC(CC2=CNC3=C2C(=CC=C3)N1C)CO",301.4
+1289,"N'-hydroxy-N-[1-(methylamino)-1-oxo-3-phenylpropan-2-yl]-2-(2-methylpropyl)butanediamide","C18H27N3O4","CC(C)CC(CC(=O)NO)C(=O)NC(CC1=CC=CC=C1)C(=O)NC",349.4
+1290,"[[2-(4-Iodophenyl)acetyl]amino]methylphosphinic acid","C9H11INO3P","C1=CC(=CC=C1CC(=O)NCP(=O)O)I",339.07
+1291,"4-(Ethylamino)-2-(2-methoxyethyl)-1,1-dioxo-3,4-dihydrothieno[3,2-e]thiazine-6-sulfonamide","C11H19N3O5S3","CCNC1CN(S(=O)(=O)C2=C1C=C(S2)S(=O)(=O)N)CCOC",369.5
+1292,"Mandelic Acid","C8H8O3","C1=CC=C(C=C1)C(C(=O)O)O",152.15
+1293,"N-(1-hydroxypropan-2-yl)icosa-5,8,11,14-tetraenamide","C23H39NO2","CCCCCC=CCC=CCC=CCC=CCCCC(=O)NC(C)CO",361.6
+1294,"2-[Chloro(methyl)phosphoryl]oxybutoxybenzene","C11H16ClO3P","CCC(COC1=CC=CC=C1)OP(=O)(C)Cl",262.67
+1295,"2-(Diphenylmethyl)pyrrolidine","C17H19N","C1CC(NC1)C(C2=CC=CC=C2)C3=CC=CC=C3",237.34
+1296,"2-(3-Methoxyphenyl)-4-(methylamino)-1,1-dioxo-1,2,3,4-tetrahydro-1lambda~6~-thieno[3,2-e][1,2]thiazine-6-sulfonamide","C14H17N3O5S3","CNC1CN(S(=O)(=O)C2=C1C=C(S2)S(=O)(=O)N)C3=CC(=CC=C3)OC",403.5
+1297,"4-Carboxy-3-hydroxyphenylglycine","C9H9NO5","C1=CC(=C(C=C1C(C(=O)O)N)O)C(=O)O",211.17
+1298,"","C15H20N2O3S2","CC(C)OC(=O)N1C(C(=NC2=C1C=C(C=C2)OC)S)CSC",340.5
+1299,"3-(5-Fluoro-2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)alanine","C7H8FN3O4","C1=C(C(=O)NC(=O)N1CC(C(=O)O)N)F",217.15
+1300,"(s)-5-Iodowillardiine","C7H8IN3O4","C1=C(C(=O)NC(=O)N1CC(C(=O)O)N)I",325.06

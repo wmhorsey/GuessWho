@@ -1,0 +1,101 @@
+"CID","Title","MolecularFormula","ConnectivitySMILES","MolecularWeight"
+6901,"Hexachlorobutadiene","C4Cl6","C(=C(Cl)Cl)(C(=C(Cl)Cl)Cl)Cl",260.8
+6902,"D-Arabinopyranose","C5H10O5","C1C(C(C(C(O1)O)O)O)O",150.13
+6903,"1-Hexadecanaminium, N,N,N-trimethyl-, salt with 2,3,4,5,6-pentachlorophenol (1:1)","C25H42Cl5NO","CCCCCCCCCCCCCCCC[N+](C)(C)C.C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)[O-]",549.9
+6904,"L-(-)-Sorbose","C6H12O6","C(C(C(C(C(=O)CO)O)O)O)O",180.16
+6905,"Hexabromobenzene","C6Br6","C1(=C(C(=C(C(=C1Br)Br)Br)Br)Br)Br",551.5
+6906,"Pentabromotoluene","C7H3Br5","CC1=C(C(=C(C(=C1Br)Br)Br)Br)Br",486.62
+6907,"1,2,3,4,5-Pentabromo-6-chlorocyclohexane","C6H6Br5Cl","C1(C(C(C(C(C1Br)Br)Br)Br)Br)Cl",513.08
+6908,"Hexamethylbenzene","C12H18","CC1=C(C(=C(C(=C1C)C)C)C)C",162.27
+6909,"Trichloroisocyanuric Acid","C3Cl3N3O3","C1(=O)N(C(=O)N(C(=O)N1Cl)Cl)Cl",232.41
+6910,"(+)-Dibutyl tartrate","C12H22O6","CCCCOC(=O)C(C(C(=O)OCCCC)O)O",262.30
+6911,"2,6-Di-tert-butyl-4-(methoxymethyl)phenol","C16H26O2","CC(C)(C)C1=CC(=CC(=C1O)C(C)(C)C)COC",250.38
+6912,"(2S,4R)-Pentane-1,2,3,4,5-Pentol","C5H12O5","C(C(C(C(CO)O)O)O)O",152.15
+6913,"2,4,6-Trimethylaniline","C9H13N","CC1=CC(=C(C(=C1)C)N)C",135.21
+6914,"2,4,6-Trichlorophenol","C6H3Cl3O","C1=C(C=C(C(=C1Cl)O)Cl)Cl",197.4
+6915,"2-Ethylbutyric acid","C6H12O2","CCC(CC)C(=O)O",116.16
+6916,"Diethylcarbamoyl chloride","C5H10ClNO","CCN(CC)C(=O)Cl",135.59
+6917,"N-vinyl-2-pyrrolidone","C6H9NO","C=CN1CCCC1=O",111.14
+6918,"Thiophene-3-carboxylic acid","C5H4O2S","C1=CSC=C1C(=O)O",128.15
+6919,"2-Furancarboxylic acid","C5H4O3","C1=COC(=C1)C(=O)O",112.08
+6920,"2-Acetylthiophene","C6H6OS","CC(=O)C1=CC=CS1",126.18
+6921,"1-Chloro-2-(trifluoromethyl)benzene","C7H4ClF3","C1=CC=C(C(=C1)C(F)(F)F)Cl",180.55
+6922,"2-(Trifluoromethyl)aniline","C7H6F3N","C1=CC=C(C(=C1)C(F)(F)F)N",161.12
+6923,"2-Tert-Butylphenol","C10H14O","CC(C)(C)C1=CC=CC=C1O",150.22
+6924,"2-Methylbenzenesulfonamide","C7H9NO2S","CC1=CC=CC=C1S(=O)(=O)N",171.22
+6925,"2-Methylbenzenesulfonic acid","C7H8O3S","CC1=CC=CC=C1S(=O)(=O)O",172.20
+6926,"2-Aminobenzenesulfonic acid","C6H7NO3S","C1=CC=C(C(=C1)N)S(=O)(=O)O",173.19
+6927,"3-Amino-5-chloro-2-hydroxybenzenesulfonic acid","C6H6ClNO4S","C1=C(C=C(C(=C1N)O)S(=O)(=O)O)Cl",223.63
+6928,"2,2'-Methylenebis(4-ethyl-6-tert-butylphenol)","C25H36O2","CCC1=CC(=C(C(=C1)C(C)(C)C)O)CC2=C(C(=CC(=C2)CC)C(C)(C)C)O",368.6
+6929,"Butylated hydroxymethylphenol","C15H24O2","CC(C)(C)C1=CC(=CC(=C1O)C(C)(C)C)CO",236.35
+6930,"7-Acetyl-6-ethyl-1,1,4,4-tetramethyltetralin","C18H26O","CCC1=CC2=C(C=C1C(=O)C)C(CCC2(C)C)(C)C",258.4
+6931,"4-Nitro-3-trifluoromethylphenol","C7H4F3NO3","C1=CC(=C(C=C1O)C(F)(F)F)[N+](=O)[O-]",207.11
+6932,"2-tert-Butyl-4-hydroxyanisole","C11H16O2","CC(C)(C)C1=C(C=CC(=C1)O)OC",180.24
+6933,"6-Chlorometanilic acid","C6H6ClNO3S","C1=CC(=C(C=C1N)S(=O)(=O)O)Cl",207.64
+6934,"2-Amino-5-methylbenzenesulfonic acid","C7H9NO3S","CC1=CC(=C(C=C1)N)S(=O)(=O)O",187.22
+6935,"2-Chloro-p-toluidine-5-sulfonic acid","C7H8ClNO3S","CC1=CC(=C(C=C1Cl)N)S(=O)(=O)O",221.66
+6936,"C Amine","C7H8ClNO3S","CC1=CC(=C(C=C1Cl)S(=O)(=O)O)N",221.66
+6937,"6-tert-Butyl-m-cresol","C11H16O","CC1=CC(=C(C=C1)C(C)(C)C)O",164.24
+6938,"2,4-Dimethylbenzenesulfonic acid","C8H10O3S","CC1=CC(=C(C=C1)S(=O)(=O)O)C",186.23
+6939,"Benzenesulfonic acid, 4-(acetylamino)-2-amino-","C8H10N2O4S","CC(=O)NC1=CC(=C(C=C1)S(=O)(=O)O)N",230.24
+6940,"2-Bromobenzoic acid","C7H5BrO2","C1=CC=C(C(=C1)C(=O)O)Br",201.02
+6941,"2-Iodobenzoic acid","C7H5IO2","C1=CC=C(C(=C1)C(=O)O)I",248.02
+6942,"Anthranilamide","C7H8N2O","C1=CC=C(C(=C1)C(=O)N)N",136.15
+6943,"2-Isopropylphenol","C9H12O","CC(C)C1=CC=CC=C1O",136.19
+6944,"2-Nitrotoluene","C7H7NO2","CC1=CC=CC=C1[N+](=O)[O-]",137.14
+6945,"1-Chloro-2-nitrobenzene","C6H4ClNO2","C1=CC=C(C(=C1)[N+](=O)[O-])Cl",157.55
+6946,"2-Nitroaniline","C6H6N2O2","C1=CC=C(C(=C1)N)[N+](=O)[O-]",138.12
+6947,"2-Nitrophenol","C6H5NO3","C1=CC=C(C(=C1)[N+](=O)[O-])O",139.11
+6948,"2,3,5-Triiodobenzoic acid","C7H3I3O2","C1=C(C=C(C(=C1C(=O)O)I)I)I",499.81
+6949,"1,4-Dimethyl-7-(propan-2-ylidene)-1,2,3,4,5,6,7,8-octahydroazulene","C15H24","CC1CCC(=C(C)C)CC2=C1CCC2C",204.35
+6950,"Dinoseb","C10H12N2O5","CCC(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])O",240.21
+6951,"2,5-Dichloro-3-nitrobenzoic acid","C7H3Cl2NO4","C1=C(C=C(C(=C1C(=O)O)Cl)[N+](=O)[O-])Cl",236.01
+6952,"4-Chloro-2,6-dinitrophenol","C6H3ClN2O5","C1=C(C=C(C(=C1[N+](=O)[O-])O)[N+](=O)[O-])Cl",218.55
+6953,"Picryl Chloride","C6H2ClN3O6","C1=C(C=C(C(=C1[N+](=O)[O-])Cl)[N+](=O)[O-])[N+](=O)[O-]",247.55
+6954,"Picric Acid","C6H3N3O7","C1=C(C=C(C(=C1[N+](=O)[O-])O)[N+](=O)[O-])[N+](=O)[O-]",229.10
+6955,"Phthaloyl chloride","C8H4Cl2O2","C1=CC=C(C(=C1)C(=O)Cl)C(=O)Cl",203.02
+6956,"Phthalamide","C8H8N2O2","C1=CC=C(C(=C1)C(=O)N)C(=O)N",164.16
+6957,"Phthalamic acid","C8H7NO3","C1=CC=C(C(=C1)C(=O)N)C(=O)O",165.15
+6958,"3,4,5,6-Tetrahydrophthalic acid","C8H10O4","C1CCC(=C(C1)C(=O)O)C(=O)O",170.16
+6959,"2,4-Dinitrobenzenesulfonic acid","C6H4N2O7S","C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])S(=O)(=O)O",248.17
+6960,"Tri-n-octyl trimellitate","C33H54O6","CCCCCCCCOC(=O)C1=CC(=C(C=C1)C(=O)OCCCCCCCC)C(=O)OCCCCCCCC",546.8
+6961,"Pyromellitic Acid","C10H6O8","C1=C(C(=CC(=C1C(=O)O)C(=O)O)C(=O)O)C(=O)O",254.15
+6962,"4-Sulfophthalic acid","C8H6O7S","C1=CC(=C(C=C1S(=O)(=O)O)C(=O)O)C(=O)O",246.20
+6963,"Butyl decyl phthalate","C22H34O4","CCCCCCCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCC",362.5
+6964,"4-Chlorophthalic acid","C8H5ClO4","C1=CC(=C(C=C1Cl)C(=O)O)C(=O)O",200.57
+6965,"Santoflex DD","C24H39N","CCCCCCCCCCCCC1=CC2=C(C=C1)NC(C=C2C)(C)C",341.6
+6966,"Pyromellitic dianhydride","C10H2O6","C1=C2C(=CC3=C1C(=O)OC3=O)C(=O)OC2=O",218.12
+6967,"2,4-Dinitrophenyl dimethyldithiocarbamate","C9H9N3O4S2","CN(C)C(=S)SC1=C(C=C(C=C1)[N+](=O)[O-])[N+](=O)[O-]",287.3
+6968,"","C29H33N9O12","C1=CC(=CC=C1C(=O)NC(CCC(=O)NC(CCC(=O)NC(CCC(=O)O)C(=O)O)C(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)N=C(N3)N",699.6
+6969,"4-Nitrophthalimide","C8H4N2O4","C1=CC2=C(C=C1[N+](=O)[O-])C(=O)NC2=O",192.13
+6970,"5-Methyl-2-(propan-2-yl)cyclohexyl 2-hydroxybenzoate","C17H24O3","CC1CCC(C(C1)OC(=O)C2=CC=CC=C2O)C(C)C",276.4
+6971,"N-acetylanthranilic acid","C9H9NO3","CC(=O)NC1=CC=CC=C1C(=O)O",179.17
+6972,"5-Bromosalicylic acid","C7H5BrO3","C1=CC(=C(C=C1Br)C(=O)O)O",217.02
+6973,"5-Methylsalicylic acid","C8H8O3","CC1=CC(=C(C=C1)O)C(=O)O",152.15
+6974,"Nitro-p-xylene","C8H9NO2","CC1=CC(=C(C=C1)C)[N+](=O)[O-]",151.16
+6975,"Benzene, 4-chloro-1-methyl-2-nitro-","C7H6ClNO2","CC1=C(C=C(C=C1)Cl)[N+](=O)[O-]",171.58
+6976,"4-Chloro-3-nitrotoluene","C7H6ClNO2","CC1=CC(=C(C=C1)Cl)[N+](=O)[O-]",171.58
+6977,"2,5-Dichloronitrobenzene","C6H3Cl2NO2","C1=CC(=C(C=C1Cl)[N+](=O)[O-])Cl",192.00
+6978,"4-Methyl-2-nitroaniline","C7H8N2O2","CC1=CC(=C(C=C1)N)[N+](=O)[O-]",152.15
+6979,"4-Chloro-2-nitroaniline","C6H5ClN2O2","C1=CC(=C(C=C1Cl)[N+](=O)[O-])N",172.57
+6980,"4-Chloro-2-nitrophenol","C6H4ClNO3","C1=CC(=C(C=C1Cl)[N+](=O)[O-])O",173.55
+6981,"","C6H8O6","C(C(C1C(=O)C(=C(O1)O)O)O)O",176.12
+6982,"Chlorothymol","C10H13ClO","CC1=CC(=C(C=C1Cl)C(C)C)O",184.66
+6983,"2,4,5-Trichloronitrobenzene","C6H2Cl3NO2","C1=C(C(=CC(=C1Cl)Cl)Cl)[N+](=O)[O-]",226.4
+6984,"2-sec-Butylphenol","C10H14O","CCC(C)C1=CC=CC=C1O",150.22
+6985,"2,4-Dimethylacetophenone","C10H12O","CC1=CC(=C(C=C1)C(=O)C)C",148.20
+6986,"p-Menthan-3-one","C10H18O","CC1CCC(C(=O)C1)C(C)C",154.25
+6987,"(+-)-Piperitone","C10H16O","CC1=CC(=O)C(CC1)C(C)C",152.23
+6988,"p-Menth-4(8)-en-3-one","C10H16O","CC1CCC(=C(C)C)C(=O)C1",152.23
+6989,"Thymol","C10H14O","CC1=CC(=C(C=C1)C(C)C)O",150.22
+6990,"2',4'-Dihydroxyacetophenone","C8H8O3","CC(=O)C1=C(C=C(C=C1)O)O",152.15
+6991,"4-Nitro-m-xylene","C8H9NO2","CC1=CC(=C(C=C1)[N+](=O)[O-])C",151.16
+6992,"o-Xylyl bromide","C8H9Br","CC1=CC=CC=C1CBr",185.06
+6993,"2-Methylbenzylamine","C8H11N","CC1=CC=CC=C1CN",121.18
+6994,"2-Methylbenzyl alcohol","C8H10O","CC1=CC=CC=C1CO",122.16
+6995,"1-Chloro-2-ethylbenzene","C8H9Cl","CCC1=CC=CC=C1Cl",140.61
+6996,"2-Chlorobenzaldehyde","C7H5ClO","C1=CC=C(C(=C1)C=O)Cl",140.56
+6997,"2-Ethylphenol","C8H10O","CCC1=CC=CC=C1O",122.16
+6998,"Salicylaldehyde","C7H6O2","C1=CC=C(C(=C1)C=O)O",122.12
+6999,"Mercufenol Chloride","C6H5ClHgO","C1=CC=C(C(=C1)O)[Hg]Cl",329.15
+7000,"2-Methoxyaniline","C7H9NO","COC1=CC=CC=C1N",123.15

@@ -1,0 +1,101 @@
+"CID","Title","MolecularFormula","ConnectivitySMILES","MolecularWeight"
+49201,"","C12H18N2O2S","CCC(C)C1(C(=O)NC(=NC1=O)S)CC(=C)C",254.35
+49202,"Barbituric acid, 5-butyl-5-(3-methyl-2-butenyl)-","C13H20N2O3","CCCCC1(C(=O)NC(=O)NC1=O)CC=C(C)C",252.31
+49203,"Barbituric acid, 5-sec-butyl-5-(3-methyl-2-butenyl)-","C13H20N2O3","CCC(C)C1(C(=O)NC(=O)NC1=O)CC=C(C)C",252.31
+49204,"5-Butyl-5-(2-methylbutyl)pyrimidine-2,4,6(1H,3H,5H)-trione","C13H22N2O3","CCCCC1(C(=O)NC(=O)NC1=O)CC(C)CC",254.33
+49205,"5-But-2-en-2-yl-5-butyl-1,3-diazinane-2,4,6-trione","C12H18N2O3","CCCCC1(C(=O)NC(=O)NC1=O)C(=CC)C",238.28
+49206,"","C9H14N2O2S","CCC(C)C1(C(=O)NC(=NC1=O)S)C",214.29
+49207,"","C15H25N2NaO2S2","CCCCCSC(C)C1(C(=NC(=NC1=O)S)[O-])CCCC.[Na+]",352.5
+49208,"","C15H26N2O2S2","CCCCCSC(C)C1(C(=O)NC(=NC1=O)S)CCCC",330.5
+49209,"","C16H19N2NaO3","CCCCC1(C(=O)NC(=NC1=O)[O-])CCC2=CC=CC=C2.[Na+]",310.32
+49210,"5-Butyl-5-(2-phenylethyl)-1,3-diazinane-2,4,6-trione","C16H20N2O3","CCCCC1(C(=O)NC(=O)NC1=O)CCC2=CC=CC=C2",288.34
+49211,"","C16H19N2NaO3","CCC(C)C1(C(=O)NC(=NC1=O)[O-])CCC2=CC=CC=C2.[Na+]",310.32
+49212,"5-Butan-2-yl-5-phenethyl-1,3-diazinane-2,4,6-trione","C16H20N2O3","CCC(C)C1(C(=O)NC(=O)NC1=O)CCC2=CC=CC=C2",288.34
+49213,"","C14H15N2NaO3","CCCCC1(C(=O)NC(=NC1=O)[O-])C2=CC=CC=C2.[Na+]",282.27
+49214,"5-Butyl-5-(1-propenyl)barbituric acid","C11H16N2O3","CCCCC1(C(=O)NC(=O)NC1=O)C=CC",224.26
+49215,"","C11H18N2O2S","CCCC1(C(=O)NC(=NC1=O)S)C(C)CC",242.34
+49216,"","C12H19N2NaO3S","CCCCSC(C)C1(C(=O)NC(=NC1=O)[O-])CC.[Na+]",294.35
+49217,"5-(1-Butylsulfanylethyl)-5-ethyl-1,3-diazinane-2,4,6-trione","C12H20N2O3S","CCCCSC(C)C1(C(=O)NC(=O)NC1=O)CC",272.37
+49218,"","C12H19N2NaO3S","CCCCSCCC1(C(=O)NC(=NC1=O)[O-])CC.[Na+]",294.35
+49219,"5-(2-Butylsulfanylethyl)-5-ethyl-1,3-diazinane-2,4,6-trione","C12H20N2O3S","CCCCSCCC1(C(=O)NC(=O)NC1=O)CC",272.37
+49220,"","C12H19N2NaO2S2","CCCCSC(C)C1(C(=NC(=NC1=O)S)[O-])CC.[Na+]",310.4
+49221,"","C12H20N2O2S2","CCCCSC(C)C1(C(=O)NC(=NC1=O)S)CC",288.4
+49222,"","C12H19N2NaO2S2","CCCCSCCC1(C(=NC(=NC1=O)S)[O-])CC.[Na+]",310.4
+49223,"","C12H20N2O2S2","CCCCSCCC1(C(=O)NC(=NC1=O)S)CC",288.4
+49224,"","C13H21N2NaO3S","CCCCSC(C)C1(C(=O)NC(=NC1=O)[O-])CCC.[Na+]",308.37
+49225,"5-(1-Butylsulfanylethyl)-5-propyl-1,3-diazinane-2,4,6-trione","C13H22N2O3S","CCCCSC(C)C1(C(=O)NC(=O)NC1=O)CCC",286.39
+49226,"","C11H17N2NaO3S","CCCCSCC1(C(=O)N=C(N(C1=O)C)[O-])C.[Na+]",280.32
+49227,"5-(Butylsulfanylmethyl)-1,5-dimethyl-1,3-diazinane-2,4,6-trione","C11H18N2O3S","CCCCSCC1(C(=O)NC(=O)N(C1=O)C)C",258.34
+49228,"","C12H19N2NaO3S","CCCCSCC1(C(=O)N=C(N(C1=O)C)[O-])CC.[Na+]",294.35
+49229,"5-(Butylsulfanylmethyl)-5-ethyl-1-methyl-1,3-diazinane-2,4,6-trione","C12H20N2O3S","CCCCSCC1(C(=O)NC(=O)N(C1=O)C)CC",272.37
+49230,"","C11H17N2NaO3S","CCC(C)SCC1(C(=O)NC(=NC1=O)[O-])CC.[Na+]",280.32
+49231,"5-(sec-Butylthiomethyl)-5-ethyl-2-sodiooxy-4,6(1H,5H)-pyrimidinedione","C11H18N2O3S","CCC(C)SCC1(C(=O)NC(=O)NC1=O)CC",258.34
+49232,"","C11H17N2NaO3S","CCC1(C(=O)NC(=NC1=O)[O-])CSC(C)(C)C.[Na+]",280.32
+49233,"5-(Tert-butylsulfanylmethyl)-5-ethyl-1,3-diazinane-2,4,6-trione","C11H18N2O3S","CCC1(C(=O)NC(=O)NC1=O)CSC(C)(C)C",258.34
+49234,"","C14H23N2NaO3S","CCCCSCC1(C(=O)N=C(N(C1=O)C)[O-])CC(C)C.[Na+]",322.40
+49235,"5-(Butylsulfanylmethyl)-1-methyl-5-(2-methylpropyl)-1,3-diazinane-2,4,6-trione","C14H24N2O3S","CCCCSCC1(C(=O)NC(=O)N(C1=O)C)CC(C)C",300.42
+49236,"","C12H19N2NaO3S","CCCCSCC1(C(=O)NC(=NC1=O)[O-])C(C)C.[Na+]",294.35
+49237,"5-(Butylsulfanylmethyl)-5-propan-2-yl-1,3-diazinane-2,4,6-trione","C12H20N2O3S","CCCCSCC1(C(=O)NC(=O)NC1=O)C(C)C",272.37
+49238,"","C10H15N2NaO3S","CCCCSCC1(C(=O)NC(=NC1=O)[O-])C.[Na+]",266.29
+49239,"5-(Butylthiomethyl)-5-methyl-2-sodiooxy-4,6(1H,5H)-pyrimidinedione","C10H16N2O3S","CCCCSCC1(C(=O)NC(=O)NC1=O)C",244.31
+49240,"","C13H21N2NaO3S","CCCCSCC1(C(=O)N=C(N(C1=O)C)[O-])CCC.[Na+]",308.37
+49241,"5-(Butylsulfanylmethyl)-1-methyl-5-propyl-1,3-diazinane-2,4,6-trione","C13H22N2O3S","CCCCSCC1(C(=O)NC(=O)N(C1=O)C)CCC",286.39
+49242,"","C13H21N2NaO3S","CCCCSCCCC1(C(=O)NC(=NC1=O)[O-])CC.[Na+]",308.37
+49243,"5-(3-Butylsulfanylpropyl)-5-ethyl-1,3-diazinane-2,4,6-trione","C13H22N2O3S","CCCCSCCCC1(C(=O)NC(=O)NC1=O)CC",286.39
+49244,"","C13H21N2NaO2S2","CCCCSCCCC1(C(=NC(=NC1=O)S)[O-])CC.[Na+]",324.4
+49245,"","C13H22N2O2S2","CCCCSCCCC1(C(=O)NC(=NC1=O)S)CC",302.5
+49246,"Barbituric acid, 5-butyl-5-vinyl-","C10H14N2O3","CCCCC1(C(=O)NC(=O)NC1=O)C=C",210.23
+49247,"Barbituric acid, 1-carbamoylmethyl-5,5-diallyl-","C12H15N3O4","C=CCC1(C(=O)NC(=O)N(C1=O)CC(=O)N)CC=C",265.26
+49248,"5-Ethyl-5-pent-1-enyl-1,3-diazinane-2,4,6-trione","C11H16N2O3","CCCC=CC1(C(=O)NC(=O)NC1=O)CC",224.26
+49249,"","C13H21N2NaO3S","CCCCCSC(C)C1(C(=O)NC(=NC1=O)[O-])CC.[Na+]",308.37
+49250,"5-Ethyl-5-(1-pentylsulfanylethyl)-1,3-diazinane-2,4,6-trione","C13H22N2O3S","CCCCCSC(C)C1(C(=O)NC(=O)NC1=O)CC",286.39
+49251,"","C13H21N2NaO2S2","CCCCCSC(C)C1(C(=NC(=NC1=O)S)[O-])CC.[Na+]",324.4
+49252,"","C13H22N2O2S2","CCCCCSC(C)C1(C(=O)NC(=NC1=O)S)CC",302.5
+49253,"","C12H19N2NaO3S","CCCCCSCC1(C(=O)NC(=NC1=O)[O-])CC.[Na+]",294.35
+49254,"5-Ethyl-5-(pentylsulfanylmethyl)-1,3-diazinane-2,4,6-trione","C12H20N2O3S","CCCCCSCC1(C(=O)NC(=O)NC1=O)CC",272.37
+49255,"","C14H15N2NaO4","CCC1(C(=O)NC(=NC1=O)[O-])CCOC2=CC=CC=C2.[Na+]",298.27
+49256,"5-Ethyl-5-(2-phenoxyethyl)-1,3-diazinane-2,4,6-trione","C14H16N2O4","CCC1(C(=O)NC(=O)NC1=O)CCOC2=CC=CC=C2",276.29
+49257,"","C15H17N2NaO4","CCC1(C(=O)NC(=NC1=O)[O-])CCCOC2=CC=CC=C2.[Na+]",312.30
+49258,"5-Ethyl-5-(3-phenoxypropyl)-1,3-diazinane-2,4,6-trione","C15H18N2O4","CCC1(C(=O)NC(=O)NC1=O)CCCOC2=CC=CC=C2",290.31
+49259,"","C18H23N2NaO3","CCC1(C(=O)NC(=NC1=O)[O-])CCCCCCC2=CC=CC=C2.[Na+]",338.4
+49260,"5-Ethyl-5-(6-phenylhexyl)-1,3-diazinane-2,4,6-trione","C18H24N2O3","CCC1(C(=O)NC(=O)NC1=O)CCCCCCC2=CC=CC=C2",316.4
+49261,"5-Methyl-5-pent-2-en-3-yl-1,3-diazinane-2,4,6-trione","C10H14N2O3","CCC(=CC)C1(C(=O)NC(=O)NC1=O)C",210.23
+49262,"5-Pent-2-en-3-yl-5-propyl-1,3-diazinane-2,4,6-trione","C12H18N2O3","CCCC1(C(=O)NC(=O)NC1=O)C(=CC)CC",238.28
+49263,"Barbituric acid, 5-ethyl-5-(1-propoxyethyl)-","C11H18N2O4","CCCOC(C)C1(C(=O)NC(=O)NC1=O)CC",242.27
+49264,"Barbituric acid, 5-ethyl-5-(propoxymethyl)-","C10H16N2O4","CCCOCC1(C(=O)NC(=O)NC1=O)CC",228.24
+49265,"5-Ethyl-5-hept-3-en-4-yl-1,3-diazinane-2,4,6-trione","C13H20N2O3","CCCC(=CCC)C1(C(=O)NC(=O)NC1=O)CC",252.31
+49266,"","C13H21N2NaO3","CCCC(CCC)C1(C(=O)NC(=NC1=O)[O-])CC.[Na+]",276.31
+49267,"5-Ethyl-5-heptan-4-yl-1,3-diazinane-2,4,6-trione","C13H22N2O3","CCCC(CCC)C1(C(=O)NC(=O)NC1=O)CC",254.33
+49268,"5-(2-Methylprop-2-enyl)-5-pentan-3-yl-1,3-diazinane-2,4,6-trione","C13H20N2O3","CCC(CC)C1(C(=O)NC(=O)NC1=O)CC(=C)C",252.31
+49269,"","C14H23N2NaO3S","CCCCCCC1(C(=O)NC(=NC1=O)[O-])C(C)SCC.[Na+]",322.40
+49270,"5-(1-Ethylsulfanylethyl)-5-hexyl-1,3-diazinane-2,4,6-trione","C14H24N2O3S","CCCCCCC1(C(=O)NC(=O)NC1=O)C(C)SCC",300.42
+49271,"","C14H23N2NaO2S2","CCCCCCC1(C(=NC(=NC1=O)S)[O-])C(C)SCC.[Na+]",338.5
+49272,"","C14H24N2O2S2","CCCCCCC1(C(=O)NC(=NC1=O)S)C(C)SCC",316.5
+49273,"","C12H19N2NaO3S","CCSC(C)C1(C(=O)NC(=NC1=O)[O-])CC(C)C.[Na+]",294.35
+49274,"5-(1-Ethylsulfanylethyl)-5-(2-methylpropyl)-1,3-diazinane-2,4,6-trione","C12H20N2O3S","CCSC(C)C1(C(=O)NC(=O)NC1=O)CC(C)C",272.37
+49275,"","C13H21N2NaO3S","CCCCCCC1(C(=O)NC(=NC1=O)[O-])CSCC.[Na+]",308.37
+49276,"5-(Ethylsulfanylmethyl)-5-hexyl-1,3-diazinane-2,4,6-trione","C13H22N2O3S","CCCCCCC1(C(=O)NC(=O)NC1=O)CSCC",286.39
+49277,"","C12H19N2NaO3S","CCSCC1(C(=O)N=C(N(C1=O)C)[O-])CC(C)C.[Na+]",294.35
+49278,"5-(Ethylsulfanylmethyl)-1-methyl-5-(2-methylpropyl)-1,3-diazinane-2,4,6-trione","C12H20N2O3S","CCSCC1(C(=O)NC(=O)N(C1=O)C)CC(C)C",272.37
+49279,"","C11H17N2NaO2S2","CCSCC1(C(=NC(=NC1=O)S)[O-])CC(C)C.[Na+]",296.4
+49280,"","C11H18N2O2S2","CCSCC1(C(=O)NC(=NC1=O)S)CC(C)C",274.4
+49281,"","C11H17N2NaO3S","CCSCC1(C(=O)N=C(N(C1=O)C)[O-])C(C)C.[Na+]",280.32
+49282,"5-(Ethylsulfanylmethyl)-1-methyl-5-propan-2-yl-1,3-diazinane-2,4,6-trione","C11H18N2O3S","CCSCC1(C(=O)NC(=O)N(C1=O)C)C(C)C",258.34
+49283,"","C11H15N2NaO3S","CCSCC1(C(=O)NC(=NC1=O)[O-])CC(=C)C.[Na+]",278.31
+49284,"5-[(Ethylmercapto)methyl]-5-(2-methylallyl)barbituric acid","C11H16N2O3S","CCSCC1(C(=O)NC(=O)NC1=O)CC(=C)C",256.32
+49285,"","C12H19N2NaO3S","CCCC(C)C1(C(=O)NC(=NC1=O)[O-])CSCC.[Na+]",294.35
+49286,"5-(Ethylsulfanylmethyl)-5-pentan-2-yl-1,3-diazinane-2,4,6-trione","C12H20N2O3S","CCCC(C)C1(C(=O)NC(=O)NC1=O)CSCC",272.37
+49287,"","C11H17N2NaO3S","CCCC1(C(=O)N=C(N(C1=O)C)[O-])CSCC.[Na+]",280.32
+49288,"5-(Ethylsulfanylmethyl)-1-methyl-5-propyl-1,3-diazinane-2,4,6-trione","C11H18N2O3S","CCCC1(C(=O)NC(=O)N(C1=O)C)CSCC",258.34
+49289,"Barbituric acid, 5-ethyl-5-vinyl-","C8H10N2O3","CCC1(C(=O)NC(=O)NC1=O)C=C",182.18
+49290,"Barbituric acid, 5-hexyl-5-methyl-","C11H18N2O3","CCCCCCC1(C(=O)NC(=O)NC1=O)C",226.27
+49291,"5-Hexyl-5-(2-methylprop-2-enyl)-1,3-diazinane-2,4,6-trione","C14H22N2O3","CCCCCCC1(C(=O)NC(=O)NC1=O)CC(=C)C",266.34
+49292,"Barbituric acid, 5-hexyl-5-phenyl-","C16H20N2O3","CCCCCCC1(C(=O)NC(=O)NC1=O)C2=CC=CC=C2",288.34
+49293,"","C10H15N2NaO2S2","CC(C)CC1(C(=NC(=NC1=O)S)[O-])CSC.[Na+]",282.4
+49294,"","C10H16N2O2S2","CC(C)CC1(C(=O)NC(=NC1=O)S)CSC",260.4
+49295,"","C14H15N2NaO3","CC(C)CC1(C(=O)NC(=NC1=O)[O-])C2=CC=CC=C2.[Na+]",282.27
+49296,"Barbituric acid, 5-(2-isopentenyl)-5-isopropyl-","C12H18N2O3","CC(C)C1(C(=O)NC(=O)NC1=O)CC=C(C)C",238.28
+49297,"Barbituric acid, 5-(2-isopentenyl)-5-isopropyl-1-methyl-","C13H20N2O3","CC(C)C1(C(=O)NC(=O)N(C1=O)C)CC=C(C)C",252.31
+49298,"5-(3-Methylbut-1-enyl)-5-propyl-1,3-diazinane-2,4,6-trione","C12H18N2O3","CCCC1(C(=O)NC(=O)NC1=O)C=CC(C)C",238.28
+49299,"Barbituric acid, 5-isopentyl-5-isopropenyl-","C12H18N2O3","CC(C)CCC1(C(=O)NC(=O)NC1=O)C(=C)C",238.28
+49300,"Barbituric acid, 5-isopentyl-5-methyl-","C10H16N2O3","CC(C)CCC1(C(=O)NC(=O)NC1=O)C",212.25

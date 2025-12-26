@@ -1,0 +1,101 @@
+"CID","Title","MolecularFormula","ConnectivitySMILES","MolecularWeight"
+12201,"Diethyl 2-butenedioate","C8H12O4","CCOC(=O)C=CC(=O)OCC",172.18
+12202,"Nonan-5-ol","C9H20O","CCCCC(CCCC)O",144.25
+12203,"4-Decanone","C10H20O","CCCCCCC(=O)CCC",156.26
+12204,"Diethyl azelate","C13H24O4","CCOC(=O)CCCCCCCC(=O)OCC",244.33
+12205,"1,4-Diaminobenzene dihydrochloride","C6H10Cl2N2","C1=CC(=CC=C1N)N.Cl.Cl",181.06
+12206,"Methyl valerate","C6H12O2","CCCCC(=O)OC",116.16
+12207,"4-Iodotoluene","C7H7I","CC1=CC=C(C=C1)I",218.03
+12208,"p-Diiodobenzene","C6H4I2","C1=CC(=CC=C1I)I",329.90
+12209,"2-Methylbutyl Acetate","C7H14O2","CCC(C)COC(=O)C",130.18
+12210,"Ethyl iso-amyl ketone","C8H16O","CCC(=O)CCC(C)C",128.21
+12211,"Glycerol 1-mononitrate","C3H7NO5","C(C(CO[N+](=O)[O-])O)O",137.09
+12212,"5-Methylhexan-2-one oxime","C7H15NO","CC(C)CCC(=NO)C",129.20
+12213,"2-(1-Methylpropylidene)hydrazinecarboxamide","C5H11N3O","CCC(=NNC(=O)N)C",129.16
+12214,"1,2,3-Trihydroxypropyl propanoate","C6H12O5","CCC(=O)OC(C(CO)O)O",164.16
+12215,"Dimethyl but-2-enedioate","C6H8O4","COC(=O)C=CC(=O)OC",144.12
+12216,"3-Nonanol","C9H20O","CCCCCCC(CC)O",144.25
+12217,"Amyl propionate","C8H16O2","CCCCCOC(=O)CC",144.21
+12218,"Ethyl(methyl)ammonium chloride","C3H10ClN","CC[NH2+]C.[Cl-]",95.57
+12219,"N-Methylethylamine","C3H9N","CCNC",59.11
+12220,"But-2-ene","C4H8","CC=CC",56.11
+12221,"3-Chloro-1-propyne","C3H3Cl","C#CCCl",74.51
+12222,"Propynal","C3H2O","C#CC=O",54.05
+12223,"1,2-Difluoroethane","C2H4F2","C(CF)F",66.05
+12224,"1,2-Diiodoethane","C2H4I2","C(CI)I",281.86
+12225,"Iodoethanol","C2H5IO","C(CI)O",171.96
+12226,"Ethane, isocyano-","C3H5N","CC[N+]#[C-]",55.08
+12227,"N-Hydroxymethanimidamide","CH4N2O","C(=NO)N",60.056
+12228,"Methyl Isocyanate","C2H3NO","CN=C=O",57.05
+12229,"Hydrazinecarboxaldehyde","CH4N2O","C(=O)NN",60.056
+12230,"Ethyl methyl sulfide","C3H8S","CCSC",76.16
+12231,"Methyl nitrite","CH3NO2","CON=O",61.040
+12232,"Dimethyl Disulfide","C2H6S2","CSSC",94.20
+12233,"3,3-Dimethyl-1-butanol","C6H14O","CC(C)(C)CCO",102.17
+12234,"Trimethyl(1-sulfanylethyl)azanium","C5H14NS+","CC([N+](C)(C)C)S",120.24
+12235,"2,4-Dimethyl-2-pentanol","C7H16O","CC(C)CC(C)(C)O",116.20
+12236,"Diethyl methyl diethylamidodiphosphate","C9H23NO6P2","CCN(CC)P(=O)(OC)OP(=O)(OCC)OCC",303.23
+12237,"4034 HC","C7H19NO6P2","CCOP(=O)(OCC)OP(=O)(N(C)C)OC",275.18
+12238,"2-Methyl-2-butanol acetate","C7H14O2","CCC(C)(C)OC(=O)C",130.18
+12239,"Sulfuric acid, dibutyl ester","C8H18O4S","CCCCOS(=O)(=O)OCCCC",210.29
+12240,"2-Methylhexan-2-ol","C7H16O","CCCCC(C)(C)O",116.20
+12241,"2,2,2-Trichloroethylacetate","C4H5Cl3O2","CC(=O)OCC(Cl)(Cl)Cl",191.44
+12242,"2-Methyl-2-heptanol","C8H18O","CCCCCC(C)(C)O",130.23
+12243,"2-Methyl-2-pentene","C6H12","CCC=C(C)C",84.16
+12244,"Isovaleronitrile","C5H9N","CC(C)CC#N",83.13
+12245,"2-Chloropentane","C5H11Cl","CCCC(C)Cl",106.59
+12246,"2-Pentanamine","C5H13N","CCCC(C)N",87.16
+12247,"4-Penten-2-OL","C5H10O","CC(CC=C)O",86.13
+12248,"Pentenone","C5H8O","CC=CC(=O)C",84.12
+12249,"N-Methylisobutylamine","C5H13N","CC(C)CNC",87.16
+12250,"Ether, isobutyl methyl","C5H12O","CC(C)COC",88.15
+12251,"Methoxyacetic Acid","C3H6O3","COCC(=O)O",90.08
+12252,"2-Nitroethanol","C2H5NO3","C(CO)[N+](=O)[O-]",91.07
+12253,"Ethylacetamide","C4H9NO","CCNC(=O)C",87.12
+12254,"Ethylurea","C3H8N2O","CCNC(=O)N",88.11
+12255,"","C3H8N2S","CCN=C(N)S",104.18
+12256,"Ethyl isopropyl ether","C5H12O","CCOC(C)C",88.15
+12257,"Isopropyl formate","C4H8O2","CC(C)OC=O",88.11
+12258,"","C3H7NOS","CCOC(=N)S",105.16
+12259,"Ethyl Nitrate","C2H5NO3","CCO[N+](=O)[O-]",91.07
+12260,"2,4-Dimethylpent-2-ene","C7H14","CC(C)C=C(C)C",98.19
+12261,"2,4-Dichloropentane","C5H10Cl2","CC(CC(C)Cl)Cl",141.04
+12262,"2,4-Pentanediol","C5H12O2","CC(CC(C)O)O",104.15
+12263,"Diacetamide","C4H7NO2","CC(=O)NC(=O)C",101.10
+12264,"Diisopropyl sulfide","C6H14S","CC(C)SC(C)C",118.24
+12265,"2,5-Dimethylpyrrole","C6H9N","CC1=CC=C(N1)C",95.14
+12266,"2,5-Dimethylfuran","C6H8O","CC1=CC=C(O1)C",96.13
+12267,"2,2,2-Trifluoro-N-nitroso-N-(2,2,2-trifluoroethyl)ethanamine","C4H4F6N2O","C(C(F)(F)F)N(CC(F)(F)F)N=O",210.08
+12268,"3-Iodotoluene","C7H7I","CC1=CC(=CC=C1)I",218.03
+12269,"1-Chloro-3-iodobenzene","C6H4ClI","C1=CC(=CC(=C1)I)Cl",238.45
+12270,"Benzene, 1,3-diiodo-","C6H4I2","C1=CC(=CC(=C1)I)I",329.90
+12271,"3-Iodoaniline","C6H6IN","C1=CC(=CC(=C1)I)N",219.02
+12272,"3-Iodophenol","C6H5IO","C1=CC(=CC(=C1)I)O",220.01
+12273,"","C5H5NO2","C1=CNC(=CC1=O)O",111.10
+12274,"2,6-Dibromopyridine","C5H3Br2N","C1=CC(=NC(=C1)Br)Br",236.89
+12275,"Benzene, 1,3-bis(chloromethyl)-","C8H8Cl2","C1=CC(=CC(=C1)CCl)CCl",175.05
+12276,"Isophthalonitrile","C8H4N2","C1=CC(=CC(=C1)C#N)C#N",128.13
+12277,"DI-Sec-butylamine","C8H19N","CCC(C)NC(C)CC",129.24
+12278,"2-Pentyl acetate","C7H14O2","CCCC(C)OC(=O)C",130.18
+12279,"1,3,5-Tribromobenzene","C6H3Br3","C1=C(C=C(C=C1Br)Br)Br",314.80
+12280,"3,5-Dibromophenol","C6H4Br2O","C1=C(C=C(C=C1Br)Br)O",251.90
+12281,"3,5-Dichloroaniline","C6H5Cl2N","C1=C(C=C(C=C1Cl)Cl)N",162.01
+12282,"Benzene, 1,3,5-triiodo-","C6H3I3","C1=C(C=C(C=C1I)I)I",455.80
+12283,"6-Methyluracil","C5H6N2O2","CC1=CC(=O)NC(=O)N1",126.11
+12284,"3-Methylglutaric acid","C6H10O4","CC(CC(=O)O)CC(=O)O",146.14
+12285,"2,4,6-Heptanetrione","C7H10O3","CC(=O)CC(=O)CC(=O)C",142.15
+12286,"3-Bromopyridine","C5H4BrN","C1=CC(=CN=C1)Br",158.00
+12287,"3-Chloropyridine","C5H4ClN","C1=CC(=CN=C1)Cl",113.54
+12288,"4-Chloropyridine","C5H4ClN","C1=CN=CC=C1Cl",113.54
+12289,"Iodocyclohexane","C6H11I","C1CCC(CC1)I",210.06
+12290,"4-Hydroxypyridine","C5H5NO","C1=CNC=CC1=O",95.10
+12291,"N-Methylpiperidine","C6H13N","CN1CCCCC1",99.17
+12292,"(+-)-3-Methyladipic acid","C7H12O4","CC(CCC(=O)O)CC(=O)O",160.17
+12293,"Propyl hexanoate","C9H18O2","CCCCCC(=O)OCCC",158.24
+12294,"Butyl hexanoate","C10H20O2","CCCCCC(=O)OCCCC",172.26
+12295,"1-Ethyl hexanedioate","C8H14O4","CCOC(=O)CCCCC(=O)O",174.19
+12296,"4-Methyl-1-pentanol","C6H14O","CC(C)CCCO",102.17
+12297,"2-Hexanol","C6H14O","CCCCC(C)O",102.17
+12298,"Pentanamide","C5H11NO","CCCCC(=O)N",101.15
+12299,"2-Pentenoic acid","C5H8O2","CCC=CC(=O)O",100.12
+12300,"4-Chlorobutanoic acid","C4H7ClO2","C(CC(=O)O)CCl",122.55

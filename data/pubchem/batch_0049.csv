@@ -1,0 +1,101 @@
+"CID","Title","MolecularFormula","ConnectivitySMILES","MolecularWeight"
+4901,"Pregnane-3,20-diol","C21H36O2","CC(C1CCC2C1(CCC3C2CCC4C3(CCC(C4)O)C)C)O",320.5
+4902,"(17-acetyl-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-yl) sulfate","C21H31O5S-","CC(=O)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)OS(=O)(=O)[O-])C)C",395.5
+4903,"(17-acetyl-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-yl) hydrogen sulfate","C21H32O5S","CC(=O)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)OS(=O)(=O)O)C)C",396.5
+4904,"Pridinol","C20H25NO","C1CCN(CC1)CCC(C2=CC=CC=C2)(C3=CC=CC=C3)O",295.4
+4905,"3-(Diphenylmethylene)-1,1-Diethyl-2-Methylpyrrolidinium","C22H28N+","CC[N+]1(CCC(=C(C2=CC=CC=C2)C3=CC=CC=C3)C1C)CC",306.5
+4906,"Prilocaine","C13H20N2O","CCCNC(C)C(=O)NC1=CC=CC=C1C",220.31
+4907,"2,2-Bis(hydroxymethyl)-1,4-dimethylpiperidin-3-one","C9H17NO3","CC1CCN(C(C1=O)(CO)CO)C",187.24
+4908,"Primaquine","C15H21N3O","CC(CCCN)NC1=C2C(=CC(=C1)OC)C=CC=N2",259.35
+4909,"Primidone","C12H14N2O2","CCC1(C(=O)NCNC1=O)C2=CC=CC=C2",218.25
+4910,"Proadifen","C23H31NO2","CCCC(C1=CC=CC=C1)(C2=CC=CC=C2)C(=O)OCCN(CC)CC",353.5
+4911,"Probenecid","C13H19NO4S","CCCN(CCC)S(=O)(=O)C1=CC=C(C=C1)C(=O)O",285.36
+4912,"Probucol","C31H48O2S2","CC(C)(C)C1=CC(=CC(=C1O)C(C)(C)C)SC(C)(C)SC2=CC(=C(C(=C2)C(C)(C)C)O)C(C)(C)C",516.8
+4913,"Procainamide","C13H21N3O","CCN(CC)CCNC(=O)C1=CC=C(C=C1)N",235.33
+4914,"Procaine","C13H20N2O2","CCN(CC)CCOC(=O)C1=CC=C(C=C1)N",236.31
+4915,"Procarbazine","C12H19N3O","CC(C)NC(=O)C1=CC=C(C=C1)CNNC",221.30
+4916,"8-Hydroxy-5-(1-hydroxy-2-((1-methylethyl)amino)butyl)-2(1H)-quinolinone","C16H22N2O3","CCC(C(C1=C2C=CC(=O)NC2=C(C=C1)O)O)NC(C)C",290.36
+4917,"Prochlorperazine","C20H24ClN3S","CN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)Cl",373.9
+4918,"H-DL-Arg-DL-Tyr-DL-Val-DL-Pro-DL-xiThr-OH","C29H46N8O8","CC(C)C(C(=O)N1CCCC1C(=O)NC(C(C)O)C(=O)O)NC(=O)C(CC2=CC=C(C=C2)O)NC(=O)C(CCCN=C(N)N)N",634.7
+4919,"Procyclidine","C19H29NO","C1CCC(CC1)C(CCN2CCCC2)(C3=CC=CC=C3)O",287.4
+4920,"1-acetyl-9a,11a-dimethyl-1H,2H,3H,3aH,3bH,4H,5H,7H,8H,9H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-one","C21H30O2","CC(=O)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C",314.5
+4921,"Proglumetacin","C46H58ClN5O8","CCCN(CCC)C(=O)C(CCC(=O)OCCCN1CCN(CC1)CCOC(=O)CC2=C(N(C3=C2C=C(C=C3)OC)C(=O)C4=CC=C(C=C4)Cl)C)NC(=O)C5=CC=CC=C5",844.4
+4922,"Proglumide","C18H26N2O4","CCCN(CCC)C(=O)C(CCC(=O)O)NC(=O)C1=CC=CC=C1",334.4
+4923,"N1-(4-Chlorophenyl)-N5-isopropylbiguanide","C11H16ClN5","CC(C)N=C(N)N=C(N)NC1=CC=C(C=C1)Cl",253.73
+4924,"Disodium;1-[oxido(oxidoimino)azaniumyl]pyrrolidine-2-carboxylate","C5H7N3Na2O4","C1CC(N(C1)[N+](=N[O-])[O-])C(=O)[O-].[Na+].[Na+]",219.11
+4925,"1-[Nitroso(oxido)amino]pyrrolidine-2-carboxylic acid","C5H8N3O4-","C1CC(N(C1)N(N=O)[O-])C(=O)O",174.13
+4926,"Promazine","C17H20N2S","CN(C)CCCN1C2=CC=CC=C2SC3=CC=CC=C31",284.4
+4927,"Promethazine","C17H20N2S","CC(CN1C2=CC=CC=C2SC3=CC=CC=C31)N(C)C",284.4
+4928,"Prometon","C10H19N5O","CC(C)NC1=NC(=NC(=N1)OC)NC(C)C",225.29
+4929,"Prometryn","C10H19N5S","CC(C)NC1=NC(=NC(=N1)SC)NC(C)C",241.36
+4930,"Pronethalol","C15H19NO","CC(C)NCC(C1=CC2=CC=CC=C2C=C1)O",229.32
+4931,"Propachlor","C11H14ClNO","CC(C)N(C1=CC=CC=C1)C(=O)CCl",211.69
+4932,"Propafenone","C21H27NO3","CCCNCC(COC1=CC=CC=C1C(=O)CCC2=CC=CC=C2)O",341.4
+4933,"Propanil","C9H9Cl2NO","CCC(=O)NC1=CC(=C(C=C1)Cl)Cl",218.08
+4934,"Propantheline","C23H30NO3+","CC(C)[N+](C)(CCOC(=O)C1C2=CC=CC=C2OC3=CC=CC=C13)C(C)C",368.5
+4935,"Proparacaine","C16H26N2O3","CCCOC1=C(C=C(C=C1)C(=O)OCCN(CC)CC)N",294.39
+4936,"Propargite","C19H26O4S","CC(C)(C)C1=CC=C(C=C1)OC2CCCCC2OS(=O)OCC#C",350.5
+4937,"Propazine","C9H16ClN5","CC(C)NC1=NC(=NC(=N1)Cl)NC(C)C",229.71
+4938,"Propentofylline","C15H22N4O3","CCCN1C=NC2=C1C(=O)N(C(=O)N2C)CCCCC(=O)C",306.36
+4939,"Propidium","C27H34N4+2","CC[N+](C)(CC)CCC[N+]1=C2C=C(C=CC2=C3C=CC(=CC3=C1C4=CC=CC=C4)N)N",414.6
+4940,"Propiomazine","C20H24N2OS","CCC(=O)C1=CC2=C(C=C1)SC3=CC=CC=C3N2CC(C)N(C)C",340.5
+4941,"N-[1-[[5-(diaminomethylideneamino)-1-oxopentan-2-yl]amino]-4-methyl-1-oxopentan-2-yl]-4-methyl-2-(propanoylamino)pentanamide","C21H40N6O4","CCC(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)NC(CCCN=C(N)N)C=O",440.6
+4942,"Propiverine","C23H29NO3","CCCOC(C1=CC=CC=C1)(C2=CC=CC=C2)C(=O)OC3CCN(CC3)C",367.5
+4943,"Propofol","C12H18O","CC(C)C1=C(C(=CC=C1)C(C)C)O",178.27
+4944,"Propoxur","C11H15NO3","CC(C)OC1=CC=CC=C1OC(=O)NC",209.24
+4945,"Benzeneethanol, alpha-(2-(dimethylamino)-1-methylethyl)-alpha-phenyl-","C19H25NO","CC(CN(C)C)C(CC1=CC=CC=C1)(C2=CC=CC=C2)O",283.4
+4946,"Propranolol","C16H21NO2","CC(C)NCC(COC1=CC=CC2=CC=CC=C21)O",259.34
+4947,"Propyl Gallate","C10H12O5","CCCOC(=O)C1=CC(=C(C(=C1)O)O)O",212.20
+4948,"Cefatrizine (stereochemistry undefined)","C18H18N6O5S2","C1C(=C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=C(C=C3)O)N)C(=O)O)CSC4=NNN=C4",462.5
+4949,"Propyliodone","C10H11I2NO3","CCCOC(=O)CN1C=C(C(=O)C(=C1)I)I",447.01
+4950,"","C7H10N2OS","CCCC1=CC(=O)N=C(N1)S",170.23
+4951,"Caradrin","C30H42O8","CC1C(C(C(C(O1)OC2CCC3(C4CCC5(C(CCC5(C4CCC3=C2)O)C6=COC(=O)C=C6)C)C)O)O)O",530.6
+4952,"7-[2-(3-Hydroxyoct-1-enyl)-5-oxocyclopent-3-en-1-yl]heptanoic acid","C20H32O4","CCCCCC(C=CC1C=CC(=O)C1CCCCCCC(=O)O)O",336.5
+4953,"Prostaglandin A6","C20H30O4","CCCCCC(C=CC1C=CC(=O)C1CC=CCCCC(=O)O)O",334.4
+4954,"15-Hydroxy-9-oxoprosta-8(12),13-dien-1-oic acid","C20H32O4","CCCCCC(C=CC1=C(C(=O)CC1)CCCCCCC(=O)O)O",336.5
+4955,"7-[2-(3-Hydroxyoct-1-enyl)-5-oxocyclopenten-1-yl]hept-5-enoic acid","C20H30O4","CCCCCC(C=CC1=C(C(=O)CC1)CC=CCCCC(=O)O)O",334.4
+4956,"9,15-Dihydroxy-11-oxoprosta-5,13-dien-1-oic acid","C20H32O5","CCCCCC(C=CC1C(C(CC1=O)O)CC=CCCCC(=O)O)O",352.5
+4957,"prostaglandin F1a","C20H36O5","CCCCCC(C=CC1C(CC(C1CCCCCCC(=O)O)O)O)O",356.5
+4958,"7-[6-(3-Hydroperoxyoct-1-enyl)-2,3-dioxabicyclo[2.2.1]heptan-5-yl]hept-5-enoic acid","C20H32O6","CCCCCC(C=CC1C2CC(C1CC=CCCCC(=O)O)OO2)OO",368.5
+4959,"6-[5-Hydroxy-4-(3-hydroxyoct-1-enyl)-3,3a,4,5,6,6a-hexahydrocyclopenta[b]furan-2-ylidene]hexanoate","C21H33O5-","CCCCCC(C=CC1C(CC2C1CC(=CCCCCC(=O)[O-])O2)O)O",365.5
+4960,"6-[5-Hydroxy-4-(3-hydroxyoct-1-enyl)-3,3a,4,5,6,6a-hexahydrocyclopenta[b]furan-2-ylidene]hexanoic acid","C21H34O5","CCCCCC(C=CC1C(CC2C1CC(=CCCCCC(=O)O)O2)O)O",366.5
+4961,"7-[5-(3-Hydroxyoct-1-enyl)-4-oxocyclopent-2-en-1-yl]hept-5-enoic acid","C20H30O4","CCCCCC(C=CC1C(C=CC1=O)CC=CCCCC(=O)O)O",334.4
+4962,"[1,6-Dihydroxy-8-(hydroxymethyl)-4,12,12,15-tetramethyl-5-oxo-13-tetracyclo[8.5.0.02,6.011,13]pentadeca-3,8-dienyl] acetate","C22H30O6","CC1CC2(C(C2(C)C)C3C1(C4C=C(C(=O)C4(CC(=C3)CO)O)C)O)OC(=O)C",390.5
+4963,"Prosultiamine","C15H24N4O2S2","CCCSSC(=C(C)N(CC1=CN=C(N=C1N)C)C=O)CCO",356.5
+4964,"2-Bromo-1-(4-hydroxyphenyl)ethanone","C8H7BrO2","C1=CC(=CC=C1C(=O)CBr)O",215.04
+4965,"Bromomethyl 4-methoxyphenyl ketone","C9H9BrO2","COC1=CC=C(C=C1)C(=O)CBr",229.07
+4966,"2-[4-(2-bromoacetyl)phenoxy]acetic Acid","C10H9BrO4","C1=CC(=CC=C1C(=O)CBr)OCC(=O)O",273.08
+4967,"","C9H12N2S","CCCC1=NC=CC(=C1)C(=N)S",180.27
+4968,"PGlu-3-methyl-His-Pro-NH2","C16H21N5O5","C1CC(N(C1)C(=O)C(CC2=CN=CN2)NC(=O)C3CCC(=O)N3)C(=O)O",363.37
+4969,"Protokylol","C18H21NO5","CC(CC1=CC2=C(C=C1)OCO2)NCC(C3=CC(=C(C=C3)O)O)O",331.4
+4970,"Protopine","C20H19NO5","CN1CCC2=CC3=C(C=C2C(=O)CC4=C(C1)C5=C(C=C4)OCO5)OCO3",353.4
+4971,"protoporphyrin IX","C34H34N4O4","CC1=C(C2=CC3=NC(=CC4=NC(=CC5=C(C(=C(N5)C=C1N2)C=C)C)C(=C4CCC(=O)O)C)C(=C3C)CCC(=O)O)C=C",562.7
+4972,"Cobalt protoporphyrin IX (CoPP)","C34H32CoN4O4","CC1=C(C2=CC3=NC(=CC4=C(C(=C([N-]4)C=C5C(=C(C(=N5)C=C1[N-]2)C=C)C)C=C)C)C(=C3CCC(=O)O)C)CCC(=O)O.[Co+2]",619.6
+4973,"Ferroprotoporphyrin IX","C34H32FeN4O4","CC1=C(C2=CC3=NC(=CC4=C(C(=C([N-]4)C=C5C(=C(C(=N5)C=C1[N-]2)C)C=C)C)C=C)C(=C3CCC(=O)O)C)CCC(=O)O.[Fe+2]",616.5
+4974,"Puroverine","C41H63NO14","CCC(C)C(=O)OC1C(C2C(CN3CC(CCC3C2(C)O)C)C4C1(C5C(C(C6C7(C5(C4)OC6(C(CC7)OC(=O)C(C)(CC)O)O)C)OC(=O)C)OC(=O)C)O)O",793.9
+4975,"Protoveratrine","C41H63NO15","CCC(C)C(=O)OC1C(C2C(CN3CC(CCC3C2(C)O)C)C4C1(C5C(C(C6C7(C5(C4)OC6(C(CC7)OC(=O)C(C)(C(C)O)O)O)C)OC(=O)C)OC(=O)C)O)O",809.9
+4976,"Protriptyline","C19H21N","CNCCCC1C2=CC=CC=C2C=CC3=CC=CC=C13",263.4
+4977,"Proxyphylline","C10H14N4O3","CC(CN1C=NC2=C1C(=O)N(C(=O)N2C)C)O",238.24
+4978,"Pseudohypericin","C30H16O9","CC1=CC(=O)C2=C(C3=C(C=C(C4=C3C5=C2C1=C6C(=CC(=O)C7=C(C8=C(C=C(C4=C8C5=C67)O)O)O)CO)O)O)O",520.4
+4979,"","C16H12O6","COC1=C2C(=C(C(=CO2)C3=CC=C(C=C3)O)O)C(=CC1=O)O",300.26
+4980,"Psilocin","C12H16N2O","CN(C)CCC1=CNC2=C1C(=CC=C2)O",204.27
+4981,"7H-Furo(3,2-g)(1)benzopyran-7-one, 4-(2,3-dihydroxy-3-methylbutyl)-9-methoxy-","C17H18O6","CC(C)(C(CC1=C2C=CC(=O)OC2=C(C3=C1C=CO3)OC)O)O",318.32
+4982,"2-(2-Amino-3-hydroxyoctadec-4-enoxy)-6-(hydroxymethyl)oxane-3,4,5-triol","C24H47NO7","CCCCCCCCCCCCCC=CC(C(COC1C(C(C(C(O1)CO)O)O)O)N)O",461.6
+4983,"1-Hydroxy-4,4,5,5-tetramethyl-3-oxido-2-phenylimidazol-3-ium","C13H18N2O2","CC1(C([N+](=C(N1O)C2=CC=CC=C2)[O-])(C)C)C",234.29
+4984,"2-amino-N-[5-[6-(dimethylamino)purin-9-yl]-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl]-3-(4-methoxyphenyl)propanamide","C22H29N7O5","CN(C)C1=NC=NC2=C1N=CN2C3C(C(C(O3)CO)NC(=O)C(CC4=CC=C(C=C4)OC)N)O",471.5
+4985,"","C11H8O5","C1=CC2=CC(=O)C(=C(C2=C(C(=C1)O)O)O)O",220.18
+4986,"6-N-(3-chlorophenyl)-2-N-(2-methylpentan-3-yl)-9-propan-2-ylpurine-2,6-diamine","C20H27ClN6","CCC(C(C)C)NC1=NC(=C2C(=N1)N(C=N2)C(C)C)NC3=CC(=CC=C3)Cl",386.9
+4987,"2-[[6-(3-Chloroanilino)-9-propan-2-ylpurin-2-yl]amino]-3-methylbutan-1-ol","C19H25ClN6O","CC(C)C(CO)NC1=NC(=C2C(=N1)N(C=N2)C(C)C)NC3=CC(=CC=C3)Cl",388.9
+4988,"10-hydroxy-4,4,6a,12b-tetramethyl-2,3,4a,5,6,12a-hexahydro-1H-benzo[a]xanthen-9-one","C21H28O3","CC1(CCCC2(C1CCC3(C2C=C4C=C(C(=O)C=C4O3)O)C)C)C",328.4
+4989,"1-methyl-2-(2-thiophen-2-ylethenyl)-5,6-dihydro-4H-pyrimidine","C11H14N2S","CN1CCCN=C1C=CC2=CC=CS2",206.31
+4990,"Pyridinolcarbamate","C11H15N3O4","CNC(=O)OCC1=NC(=CC=C1)COC(=O)NC",253.25
+4991,"Pyridostigmine","C9H13N2O2+","C[N+]1=CC=CC(=C1)OC(=O)N(C)C",181.21
+4992,"Pyrilamine","C17H23N3O","CN(C)CCN(CC1=CC=C(C=C1)OC)C2=CC=CC=N2",285.4
+4993,"Pyrimethamine","C12H13ClN4","CCC1=C(C(=NC(=N1)N)N)C2=CC=C(C=C2)Cl",248.71
+4994,"Pyrithyldione","C9H13NO2","CCC1(C(=O)C=CNC1=O)CC",167.20
+4995,"Dihydrogen diphosphate","H2O7P2-2","OP(=O)([O-])OP(=O)(O)[O-]",175.96
+4996,"Pyroxamide","C13H19N3O3","C1=CC(=CN=C1)NC(=O)CCCCCCC(=O)NO",265.31
+4997,"4-(3,7-dimethylocta-2,6-dienyl)-1H-pyrrole-2-carboxylic acid","C15H21NO2","CC(=CCCC(=CCC1=CNC(=C1)C(=O)O)C)C",247.33
+4998,"2,12-Dimethoxypicrasa-2,12-diene-1,11,16-trione","C22H28O6","CC1C=C(C(=O)C2(C1CC3C4(C2C(=O)C(=C(C4CC(=O)O3)C)OC)C)C)OC",388.5
+4999,"Quazepam","C17H11ClF4N2S","C1C(=S)N(C2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F)CC(F)(F)F",386.8
+5000,"","C11H10ClN3O","CC1C(=O)N=C2N1CC3=C(N2)C=CC=C3Cl",235.67

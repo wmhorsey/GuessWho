@@ -1,0 +1,101 @@
+"CID","Title","MolecularFormula","ConnectivitySMILES","MolecularWeight"
+23901,"4,4,4a,4b,5,5-Hexachlorodecahydro-1H-cyclopenta[cd]cyclopropa[a]pentalene-2-carbaldehyde","C12H10Cl6O","C1C(C2CC(C3(C2C1C4C3(C4(Cl)Cl)Cl)Cl)(Cl)Cl)C=O",382.9
+23902,"1,1-Dibutylhydrazine","C8H20N2","CCCCN(CCCC)N",144.26
+23903,"(1E)-Propanal ethylhydrazone","C5H12N2","CCC=NNCC",100.16
+23904,"Tris(3-chloro-2-hydroxypropyl)isocyanurate","C12H18Cl3N3O6","C(C(CCl)O)N1C(=O)N(C(=O)N(C1=O)CC(CCl)O)CC(CCl)O",406.6
+23905,"2-(3-Pyridinylmethylene)propanedinitrile","C9H5N3","C1=CC(=CN=C1)C=C(C#N)C#N",155.16
+23906,"2-Ethylhexyl 2-ethylhexanoate","C16H32O2","CCCCC(CC)COC(=O)C(CC)CCCC",256.42
+23907,"Aziridine, 1,1'-hexamethylenedicarbonyldi-","C12H20N2O2","C1CN1C(=O)CCCCCCC(=O)N2CC2",224.30
+23908,"s-Triazine, 2-amino-4-anilino-6-methyl-","C10H11N5","CC1=NC(=NC(=N1)NC2=CC=CC=C2)N",201.23
+23909,"Butyrophenone, 4-(dimethylamino)-2'-phenethyl-, hydrochloride","C20H26ClNO","C[NH+](C)CCCC(=O)C1=CC=CC=C1CCC2=CC=CC=C2.[Cl-]",331.9
+23910,"4-(Dimethylamino)-1-[2-(2-phenylethyl)phenyl]butan-1-one","C20H25NO","CN(C)CCCC(=O)C1=CC=CC=C1CCC2=CC=CC=C2",295.4
+23911,"6-Aminobenzo(a)pyrene","C20H13N","C1=CC=C2C(=C1)C3=C4C(=C2N)C=CC5=CC=CC(=C54)C=C3",267.3
+23912,"Dysprosium","Dy","[Dy]",162.500
+23913,"Einsteinium","Es","[Es]",252.0830
+23914,"3-(2-Ethylphenyl)-2-methyl-4(3H)-quinazolinone","C17H16N2O","CCC1=CC=CC=C1N2C(=NC3=CC=CC=C3C2=O)C",264.32
+23915,"1,2,3,10,11,12-Hexamethoxy-6,7-dimethyl-5,6,7,8-tetrahydrodibenzo(a,c)(8)annulen-6-ol","C24H32O7","CC1CC2=CC(=C(C(=C2C3=C(C(=C(C=C3CC1(C)O)OC)OC)OC)OC)OC)OC",432.5
+23916,"5-Decene","C10H20","CCCCC=CCCCC",140.27
+23917,"N,N,N-Trimethyl-3-(2-oxopyrrolidin-1-yl)propan-1-aminium iodide","C10H21IN2O","C[N+](C)(C)CCCN1CCCC1=O.[I-]",312.19
+23918,"Trimethyl-[3-(2-oxopyrrolidin-1-yl)propyl]azanium","C10H21N2O+","C[N+](C)(C)CCCN1CCCC1=O",185.29
+23919,"2-(Diethylamino)ethyl-[2-(3-methylbutoxy)-2-oxo-1-phenylethyl]azanium chloride","C19H33ClN2O2","CCN(CC)CC[NH2+]C(C1=CC=CC=C1)C(=O)OCCC(C)C.[Cl-]",356.9
+23920,"17-alpha-Mercaptoestra-1,3,5(10)-trien-3-ol","C18H24OS","CC12CCC3C(C1CCC2S)CCC4=C3C=CC(=C4)O",288.4
+23921,"Cetylpyridinium acetate","C23H41NO2","CCCCCCCCCCCCCCCC[N+]1=CC=CC=C1.CC(=O)[O-]",363.6
+23922,"Ammonium, hexamethylenebis((carboxymethyl)dimethyl-, dichloride, diheptyl ester","C28H58Cl2N2O4","CCCCCCCOC(=O)C[N+](C)(C)CCCCCC[N+](C)(C)CC(=O)OCCCCCCC.[Cl-].[Cl-]",557.7
+23923,"(2-Heptoxy-2-oxoethyl)-[6-[(2-heptoxy-2-oxoethyl)-dimethylazaniumyl]hexyl]-dimethylazanium","C28H58N2O4+2","CCCCCCCOC(=O)C[N+](C)(C)CCCCCC[N+](C)(C)CC(=O)OCCCCCCC",486.8
+23924,"Iridium","Ir","[Ir]",192.22
+23925,"Iron","Fe","[Fe]",55.84
+23926,"Lanthanum","La","[La]",138.9055
+23927,"Plumbylidyne","H2Pb","[PbH2]",209
+23928,"","HLi","[LiH]",8.0
+23929,"Lutetium","Lu","[Lu]",174.9667
+23930,"Manganese","Mn","[Mn]",54.93804
+23931,"Mercury","Hg","[Hg]",200.59
+23932,"Molybdenum","Mo","[Mo]",95.95
+23933,"Neptunium","Np","[Np]",237.048172
+23934,"Neodymium","Nd","[Nd]",144.24
+23935,"Neon","Ne","[Ne]",20.180
+23936,"Niobium","Nb","[Nb]",92.90637
+23937,"Osmium","Os","[Os]",190.2
+23938,"Palladium","Pd","[Pd]",106.42
+23939,"Platinum","Pt","[Pt]",195.08
+23940,"Plutonium","Pu","[Pu]",244.06420
+23941,"Polonium hydride (PoH2)","H2Po","[PoH2]",210.998
+23942,"Praseodymium","Pr","[Pr]",140.90766
+23943,"Mendelevium","Md","[Md]",258.09843
+23944,"Promethium","Pm","[Pm]",144.91276
+23945,"Protactinium","Pa","[Pa]",231.03588
+23946,"","H2Ra","[RaH2]",228.041
+23947,"Rhenium","Re","[Re]",186.207
+23948,"Rhodium","Rh","[Rh]",102.9055
+23949,"","HRb","[RbH]",86.476
+23950,"Ruthenium","Ru","[Ru]",101.1
+23951,"Samarium","Sm","[Sm]",150.4
+23952,"Scandium","Sc","[Sc]",44.95591
+23953,"Silane","H4Si","[SiH4]",32.117
+23954,"Silver","Ag","[Ag]",107.868
+23955,"","H2Sr","[SrH2]",89.64
+23956,"Tantalum","Ta","[Ta]",180.9479
+23957,"Technetium","Tc","[Tc]",96.90636
+23958,"Terbium","Tb","[Tb]",158.92535
+23959,"Thalliumhydrid","HTl","[TlH]",205.391
+23960,"Thorium","Th","[Th]",232.038
+23961,"Thulium","Tm","[Tm]",168.93422
+23962,"Dihydridotin","H2Sn","[SnH2]",120.73
+23963,"Titanium","Ti","[Ti]",47.867
+23964,"Tungsten","W","[W]",183.84
+23965,"Actinium","Ac","[Ac]",227.02775
+23966,"Americium","Am","[Am]",243.061380
+23967,"Antimony, mol. (Sb2)","Sb2","[Sb]#[Sb]",243.52
+23968,"Argon","Ar","[Ar]",39.9
+23969,"Arsine","AsH3","[AsH3]",77.946
+23970,"","BaH2","[BaH2]",139.34
+23971,"Berkelium","Bk","[Bk]",247.07031
+23972,"","BeH2","[BeH2]",11.028
+23973,"Cadmium","Cd","[Cd]",112.41
+23974,"Cerium","Ce","[Ce]",140.116
+23975,"","CsH","[CsH]",133.9134
+23976,"Chromium","Cr","[Cr]",51.996
+23977,"CID 23977","Co2","[Co]=[Co]",117.86639
+23978,"Copper","Cu","[Cu]",63.55
+23979,"Curium","Cm","[Cm]",247.07035
+23980,"Erbium","Er","[Er]",167.26
+23981,"Europium","Eu","[Eu]",151.964
+23982,"Gadolinium","Gd","[Gd]",157.25
+23983,"Gallium hydride (GaH3)","GaH3","[GaH3]",72.747
+23984,"Germanium tetrahydride","GeH4","[GeH4]",76.66
+23985,"Gold","Au","[Au]",196.96657
+23986,"Hafnium","Hf","[Hf]",178.49
+23987,"Helium","He","[He]",4.00260
+23988,"Holmium","Ho","[Ho]",164.93033
+23989,"Uranium","U","[U]",238.0289
+23990,"Vanadium","V","[V]",50.9415
+23991,"Xenon","Xe","[Xe]",131.29
+23992,"Ytterbium","Yb","[Yb]",173.05
+23993,"Yttrium","Y","[Y]",88.90584
+23994,"Zinc","Zn","[Zn]",65.4
+23995,"Zirconium","Zr","[Zr]",91.22
+23996,"Hydrogen astatide","AtH","[AtH]",210.9951
+23997,"Californium","Cf","[Cf]",251.07959
+23998,"Fermium","Fm","[Fm]",257.09511
+23999,"","FrH","[FrH]",224.0277
+24000,"Indigane","H3In","[InH3]",117.842

@@ -1,0 +1,101 @@
+"CID","Title","MolecularFormula","ConnectivitySMILES","MolecularWeight"
+11401,"Benzyl alcohol, alpha-(tert-butylaminomethyl)-3-fluoro-, hydrobromide","C12H19BrFNO","CC(C)(C)NCC(C1=CC(=CC=C1)F)O.Br",292.19
+11402,"2-(Tert-butylamino)-1-(3-fluorophenyl)ethanol","C12H18FNO","CC(C)(C)NCC(C1=CC(=CC=C1)F)O",211.28
+11403,"2-(Butylamino)-1-(3-fluorophenyl)ethan-1-ol--hydrogen bromide (1/1)","C12H19BrFNO","CCCCNCC(C1=CC(=CC=C1)F)O.Br",292.19
+11404,"2-(Butylamino)-1-(3-fluorophenyl)ethan-1-ol","C12H18FNO","CCCCNCC(C1=CC(=CC=C1)F)O",211.28
+11405,"2-(2-(Methylamino)propyl)phenol","C10H15NO","CC(CC1=CC=CC=C1O)NC",165.23
+11406,"Allyl benzoate","C10H10O2","C=CCOC(=O)C1=CC=CC=C1",162.18
+11407,"Mercuric benzoate","C14H10HgO4","C1=CC=C(C=C1)C(=O)[O-].C1=CC=C(C=C1)C(=O)[O-].[Hg+2]",442.82
+11408,"Benzoic acid, 5-fluoropentyl ester","C12H15FO2","C1=CC=C(C=C1)C(=O)OCCCCCF",210.24
+11409,"Butyl 2-furoate","C9H12O3","CCCCOC(=O)C1=CC=CO1",168.19
+11410,"","C7H6N2S","C1=CC=C2C(=C1)NC(=N2)S",150.20
+11411,"","C10H8N2OS","C1=CC=C(C=C1)C=C2C(=O)N=C(N2)S",204.25
+11412,"3,4-Dimethylhexane","C8H18","CCC(C)C(C)CC",114.23
+11413,"Dipotassium Oxalate","C2K2O4","C(=O)(C(=O)[O-])[O-].[K+].[K+]",166.22
+11414,"1,2-Dibromobenzene","C6H4Br2","C1=CC=C(C(=C1)Br)Br",235.90
+11415,"1-Bromo-2-iodobenzene","C6H4BrI","C1=CC=C(C(=C1)Br)I",282.90
+11416,"1,2-Dimethylcyclohexane","C8H16","CC1CCCCC1C",112.21
+11417,"3,4-Dimethylpyridine","C7H9N","CC1=C(C=NC=C1)C",107.15
+11418,"2-Methylcyclohexanol","C7H14O","CC1CCCCC1O",114.19
+11419,"2-Methylcyclohexanone","C7H12O","CC1CCCCC1=O",112.17
+11420,"2,3-Lutidine","C7H9N","CC1=C(N=CC=C1)C",107.15
+11421,"1,2-Benzoquinone","C6H4O2","C1=CC(=O)C(=O)C=C1",108.09
+11422,"2-Bromo-4-methylaniline","C7H8BrN","CC1=CC(=C(C=C1)N)Br",186.05
+11423,"4-Bromo-2-methylaniline","C7H8BrN","CC1=C(C=CC(=C1)Br)N",186.05
+11424,"4-Methyltropolone","C8H8O2","CC1=CC(=O)C(=CC=C1)O",136.15
+11425,"13-Docosenoic acid, 13,14-diiodo-, ethyl ester","C24H44I2O2","CCCCCCCCC(=C(CCCCCCCCCCCC(=O)OCC)I)I",618.4
+11426,"Diethyl cystinate","C10H20N2O4S2","CCOC(=O)C(CSSCC(C(=O)OCC)N)N",296.4
+11427,"alpha-Hydroxy-gamma-methylmercaptobutyric acid","C5H10O3S","CSCCC(C(=O)O)O",150.20
+11428,"3-Pentanol","C5H12O","CCC(CC)O",88.15
+11429,"1,2-Butanediol","C4H10O2","CCC(CO)O",90.12
+11430,"Potassium Carbonate","CK2O3","C(=O)([O-])[O-].[K+].[K+]",138.205
+11431,"Carbonic acid, rubidium salt (1:2)","CO3Rb2","C(=O)([O-])[O-].[Rb+].[Rb+]",230.944
+11432,"4-Amino-1,2,4-triazole","C2H4N4","C1=NN=CN1N",84.08
+11433,"Acetic acid;[2-hydroxy-5-(2,4,4-trimethylpentan-2-yl)phenyl]mercury","C16H25HgO3","CC(=O)O.CC(C)(C)CC(C)(C)C1=CC(=C(C=C1)O)[Hg]",465.96
+11434,"[2-Hydroxy-5-(2,4,4-trimethylpentan-2-yl)phenyl]mercury","C14H21HgO","CC(C)(C)CC(C)(C)C1=CC(=C(C=C1)O)[Hg]",405.91
+11435,"","C5H6N2O2S","CC(=O)N1CC(=O)N=C1S",158.18
+11436,"","C13H8N3NaO5","C1=CC(=CC(=C1)[N+](=O)[O-])N=NC2=CC(=C(C=C2)O)C(=O)[O-].[Na+]",309.21
+11437,"2-Hydroxy-5-((3-(hydroxy(oxido)amino)phenyl)diazenyl)benzoic acid","C13H9N3O5","C1=CC(=CC(=C1)[N+](=O)[O-])N=NC2=CC(=C(C=C2)O)C(=O)O",287.23
+11438,"Mercuric succinimide","C8H8HgN2O4","C1CC(=O)N=C1[O-].C1CC(=O)N=C1[O-].[Hg+2]",396.75
+11439,"Succinimide","C4H5NO2","C1CC(=O)NC1=O",99.09
+11440,"Benzoic acid, 4-hydroxy-2-methyl-5-(1-methylethyl)-","C11H14O3","CC1=CC(=C(C=C1C(=O)O)C(C)C)O",194.23
+11441,"1-Bromo-2,4-dinitrobenzene","C6H3BrN2O4","C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])Br",247.00
+11442,"Allethrins","C19H26O3","CC1=C(C(=O)CC1OC(=O)C2C(C2(C)C)C=C(C)C)CC=C",302.4
+11443,"Toluene 2,4-Diisocyanate","C9H6N2O2","CC1=C(C=C(C=C1)N=C=O)N=C=O",174.16
+11444,"beta-Ala-3-methyl-His","C10H16N4O3","CN1C=NC=C1CC(C(=O)O)NC(=O)CCN",240.26
+11445,"2,2'-Dimethylazobenzene","C14H14N2","CC1=CC=CC=C1N=NC2=CC=CC=C2C",210.27
+11446,"Pentanoic acid, 2-bromo-","C5H9BrO2","CCCC(C(=O)O)Br",181.03
+11447,"2,3-Dimethylhexane","C8H18","CCCC(C)C(C)C",114.23
+11448,"tert-Butyl methacrylate","C8H14O2","CC(=C)C(=O)OC(C)(C)C",142.20
+11449,"2,3-Octanedione","C8H14O2","CCCCCC(=O)C(=O)C",142.20
+11450,"Phenol, 3-(1,1-dimethylethyl)-","C10H14O","CC(C)(C)C1=CC(=CC=C1)O",150.22
+11451,"m-Phenolsulfonic acid","C6H6O4S","C1=CC(=CC(=C1)S(=O)(=O)O)O",174.18
+11452,"","C8H9AsNNaO4","CC(=O)NC1=CC(=CC=C1)[As](=O)(O)[O-].[Na+]",281.07
+11453,"(3-Acetamidophenyl)arsonic acid","C8H10AsNO4","CC(=O)NC1=CC(=CC=C1)[As](=O)(O)O",259.09
+11454,"(1-Bromoethyl)benzene","C8H9Br","CC(C1=CC=CC=C1)Br",185.06
+11455,"3-Methylacetophenone","C9H10O","CC1=CC(=CC=C1)C(=O)C",134.17
+11456,"3-Bromobenzoic acid","C7H5BrO2","C1=CC(=CC(=C1)Br)C(=O)O",201.02
+11457,"Benzene, 1-bromo-3-nitro-","C6H4BrNO2","C1=CC(=CC(=C1)Br)[N+](=O)[O-]",202.01
+11458,"6-O-alpha-D-Galactopyranosyl-beta-D-glucopyranose","C12H22O11","C(C1C(C(C(C(O1)OCC2C(C(C(C(O2)O)O)O)O)O)O)O)O",342.30
+11459,"3,5-Dinitrophenol","C6H4N2O5","C1=C(C=C(C=C1[N+](=O)[O-])O)[N+](=O)[O-]",184.11
+11460,"3-Methoxyacetophenone","C9H10O2","CC(=O)C1=CC(=CC=C1)OC",150.17
+11461,"3-Methoxybenzoic Acid","C8H8O3","COC1=CC=CC(=C1)C(=O)O",152.15
+11462,"1-Bromo-4-isopropylbenzene","C9H11Br","CC(C)C1=CC=C(C=C1)Br",199.09
+11463,"Terpinolene","C10H16","CC1=CCC(=C(C)C)CC1",136.23
+11464,"4-Bromobenzoic acid","C7H5BrO2","C1=CC(=CC=C1C(=O)O)Br",201.02
+11465,"4-bromo-N,N-dimethylaniline","C8H10BrN","CN(C)C1=CC=C(C=C1)Br",200.08
+11466,"1-Bromo-4-nitrobenzene","C6H4BrNO2","C1=CC(=CC=C1[N+](=O)[O-])Br",202.01
+11467,"Gamma-Terpineol","C10H18O","CC(=C1CCC(CC1)(C)O)C",154.25
+11468,"p-Menth-3-en-1-ol","C10H18O","CC(C)C1=CCC(CC1)(C)O",154.25
+11469,"2-(Methoxymethyl)-5-nitrofuran","C6H7NO4","COCC1=CC=C(O1)[N+](=O)[O-]",157.12
+11470,"4-Acetylbenzoic Acid","C9H8O3","CC(=O)C1=CC=C(C=C1)C(=O)O",164.16
+11471,"4,4'-Azobisbenzoic acid","C14H10N2O4","C1=CC(=CC=C1C(=O)O)N=NC2=CC=C(C=C2)C(=O)O",270.24
+11472,"4-Hydroxymethylpyridine","C6H7NO","C1=CN=CC=C1CO",109.13
+11473,"Nitrosobenzene","C6H5NO","C1=CC=C(C=C1)N=O",107.11
+11474,"Piconol","C6H7NO","C1=CC=NC(=C1)CO",109.13
+11475,"3-Ethylaniline","C8H11N","CCC1=CC(=CC=C1)N",121.18
+11476,"3-Methylbenzyl alcohol","C8H10O","CC1=CC(=CC=C1)CO",122.16
+11477,"3-Chlorobenzaldehyde","C7H5ClO","C1=CC(=CC(=C1)Cl)C=O",140.56
+11478,"Methenamine Mandelate","C14H20N4O3","C1N2CN3CN1CN(C2)C3.C1=CC=C(C=C1)C(C(=O)O)O",292.33
+11479,"(3R)-2-amino-3-hydroxy-3-phenylpropanoic acid","C9H11NO3","C1=CC=C(C=C1)C(C(C(=O)O)N)O",181.19
+11480,"N'-(3-Chlorophenyl)-N,N-dimethylurea","C9H11ClN2O","CN(C)C(=O)NC1=CC(=CC=C1)Cl",198.65
+11481,"Benzpyrinium Bromide","C15H17BrN2O2","CN(C)C(=O)OC1=C[N+](=CC=C1)CC2=CC=CC=C2.[Br-]",337.21
+11482,"Benzpyrinium","C15H17N2O2+","CN(C)C(=O)OC1=C[N+](=CC=C1)CC2=CC=CC=C2",257.31
+11483,"2-Chloroethyl n-(3-chlorophenyl)carbamate","C9H9Cl2NO2","C1=CC(=CC(=C1)Cl)NC(=O)OCCCl",234.08
+11484,"2-(3,5-Dichlorophenoxy)acetic acid","C8H6Cl2O3","C1=C(C=C(C=C1Cl)Cl)OCC(=O)O",221.03
+11485,"Chloroacetanilide","C8H8ClNO","C1=CC=C(C=C1)NC(=O)CCl",169.61
+11486,"Diphenylamine sulfate","C12H13NO4S","C1=CC=C(C=C1)NC2=CC=CC=C2.OS(=O)(=O)O",267.30
+11487,"Diphenylamine","C12H11N","C1=CC=C(C=C1)NC2=CC=CC=C2",169.22
+11488,"Diphenylmercury","C12H10Hg","C1=CC=C(C=C1)[Hg]C2=CC=CC=C2",354.80
+11489,"","C18H14N3NaO3S","C1=CC=C(C=C1)NC2=CC=C(C=C2)N=NC3=CC(=CC=C3)S(=O)(=O)[O-].[Na+]",375.4
+11490,"4-(Phenylamino)-3'-sulfoazobenzene","C18H15N3O3S","C1=CC=C(C=C1)NC2=CC=C(C=C2)N=NC3=CC(=CC=C3)S(=O)(=O)O",353.4
+11491,"1,2-Bis(3-methylphenyl)diazene","C14H14N2","CC1=CC(=CC=C1)N=NC2=CC=CC(=C2)C",210.27
+11492,"m-Tyramine","C8H11NO","C1=CC(=CC(=C1)O)CCN",137.18
+11493,"N-(3-Chlorophenyl)acetamide","C8H8ClNO","CC(=O)NC1=CC(=CC=C1)Cl",169.61
+11494,"Acetamide, N-(3-methoxyphenyl)-","C9H11NO2","CC(=O)NC1=CC(=CC=C1)OC",165.19
+11495,"(3,4-Dichlorophenoxy)acetic acid","C8H6Cl2O3","C1=CC(=C(C=C1OCC(=O)O)Cl)Cl",221.03
+11496,"3-(3-Hydroxyphenyl)-2-propenoic acid","C9H8O3","C1=CC(=CC(=C1)O)C=CC(=O)O",164.16
+11497,"3-Chlorophenoxyacetic acid","C8H7ClO3","C1=CC(=CC(=C1)Cl)OCC(=O)O",186.59
+11498,"Trolnitrate phosphate","C6H18N4O17P2","C(CO[N+](=O)[O-])N(CCO[N+](=O)[O-])CCO[N+](=O)[O-].OP(=O)(O)O.OP(=O)(O)O",480.17
+11499,"Trolnitrate","C6H12N4O9","C(CO[N+](=O)[O-])N(CCO[N+](=O)[O-])CCO[N+](=O)[O-]",284.18
+11500,"N-Benzylacetamide","C9H11NO","CC(=O)NCC1=CC=CC=C1",149.19

@@ -1,0 +1,101 @@
+"CID","Title","MolecularFormula","ConnectivitySMILES","MolecularWeight"
+7901,"2-Chloro-N,N-dimethylethylamine","C4H10ClN","CN(C)CCCl",107.58
+7902,"2-(Dimethylamino)ethanol","C4H11NO","CN(C)CCO",89.14
+7903,"1-Nitropropane","C3H7NO2","CCC[N+](=O)[O-]",89.09
+7904,"Vinyl Acetate","C4H6O2","CC(=O)OC=C",86.09
+7905,"Acetic acid;methylmercury","C3H7HgO2","CC(=O)O.C[Hg]",275.68
+7906,"Methyl mercury","CH3Hg","C[Hg]",215.63
+7907,"2,4-Dimethylpentane","C7H16","CC(C)CC(C)C",100.20
+7908,"1,3-Dimethylbutylamine","C6H15N","CC(C)CC(C)N",101.19
+7909,"Methyl Isobutyl Ketone","C6H12O","CC(C)CC(=O)C",100.16
+7910,"4-Methyl-2-Pentanol","C6H14O","CC(C)CC(C)O",102.17
+7911,"Malonamide","C3H6N2O2","C(C(=O)N)C(=O)N",102.09
+7912,"Diisopropylamine","C6H15N","CC(C)NC(C)C",101.19
+7913,"Biuret","C2H5N3O2","C(=O)(N)NC(=O)N",103.08
+7914,"Diisopropyl Ether","C6H14O","CC(C)OC(C)C",102.17
+7915,"Isopropyl Acetate","C5H10O2","CC(C)OC(=O)C",102.13
+7916,"Isopropenyl acetate","C5H8O2","CC(=C)OC(=O)C",100.12
+7917,"Isopropyl chloroformate","C4H7ClO2","CC(C)OC(=O)Cl",122.55
+7918,"Acetic Anhydride","C4H6O3","CC(=O)OC(=O)C",102.09
+7919,"Proxan","C4H8OS2","CC(C)OC(=S)S",136.2
+7920,"3-Methyl-2-pyrazolin-5-one","C4H6N2O","CC1=NNC(=O)C1",98.10
+7921,"Gamma-Valerolactone","C5H8O2","CC1CCC(=O)O1",100.12
+7922,"Succinic anhydride","C4H4O3","C1CC(=O)OC1=O",100.07
+7923,"Maleic Anhydride","C4H2O3","C1=CC(=O)OC1=O",98.06
+7924,"Propylene Carbonate","C4H6O3","CC1COC(=O)O1",102.09
+7925,"Pyrazoxone","C8H15N2O4P","CCOP(=O)(OCC)OC1=NNC(=C1)C",234.19
+7926,"Pyrazothion","C8H15N2O3PS","CCOP(=S)(OCC)OC1=NNC(=C1)C",250.26
+7927,"1,3-Dibromobenzene","C6H4Br2","C1=CC(=CC(=C1)Br)Br",235.90
+7928,"1-Bromo-3-chlorobenzene","C6H4BrCl","C1=CC(=CC(=C1)Br)Cl",191.45
+7929,"M-Xylene","C8H10","CC1=CC(=CC=C1)C",106.16
+7930,"3-Thiocresol","C7H8S","CC1=CC(=CC=C1)S",124.21
+7931,"3-Chlorotoluene","C7H7Cl","CC1=CC(=CC=C1)Cl",126.58
+7932,"3-Chloroaniline","C6H6ClN","C1=CC(=CC(=C1)Cl)N",127.57
+7933,"3-Chlorophenol","C6H5ClO","C1=CC(=CC(=C1)Cl)O",128.55
+7934,"m-Toluidine","C7H9N","CC1=CC(=CC=C1)N",107.15
+7935,"M-Phenylenediamine","C6H8N2","C1=CC(=CC(=C1)N)N",108.14
+7936,"2,4-Dimethylpyridine","C7H9N","CC1=CC(=NC=C1)C",107.15
+7937,"2,6-Lutidine","C7H9N","CC1=NC(=CC=C1)C",107.15
+7938,"2,6-Dimethylpyrazine","C6H8N2","CC1=CN=CC(=N1)C",108.14
+7939,"2-Amino-4-methylpyrimidine","C5H7N3","CC1=NC(=NC=C1)N",109.13
+7940,"Glutaric anhydride","C5H6O3","C1CC(=O)OC(=O)C1",114.10
+7941,"m-Divinylbenzene","C10H10","C=CC1=CC(=CC=C1)C=C",130.19
+7942,"1,3-Diacetoxybenzene","C10H10O4","CC(=O)OC1=CC(=CC=C1)OC(=O)C",194.18
+7943,"Dimethyl malonate","C5H8O4","COC(=O)CC(=O)OC",132.11
+7944,"bis(2-Chloro-1-methylethyl) ether","C6H12Cl2O","CC(CCl)OC(C)CCl",171.06
+7945,"Ethyl isovalerate","C7H14O2","CCOC(=O)CC(C)C",130.18
+7946,"Propylene glycol methyl ether acetate","C6H12O3","CC(COC)OC(=O)C",132.16
+7947,"Mesitylene","C9H12","CC1=CC(=CC(=C1)C)C",120.19
+7948,"3,5-Dimethylphenol","C8H10O","CC1=CC(=CC(=C1)O)C",122.16
+7949,"3,5-Dimethylaniline","C8H11N","CC1=CC(=CC(=C1)N)C",121.18
+7950,"1,3,5-Trichlorobenzene","C6H3Cl3","C1=C(C=C(C=C1Cl)Cl)Cl",181.4
+7951,"3,5-Diaminotoluene","C7H10N2","CC1=CC(=CC(=C1)N)N",122.17
+7952,"1,3,5-Trimethyl-1,3,5-triazacyclohexane","C6H15N3","CN1CN(CN(C1)C)C",129.20
+7953,"2,4,6-Trimethylpyridine","C8H11N","CC1=CC(=NC(=C1)C)C",121.18
+7954,"Cyanuric chloride","C3Cl3N3","C1(=NC(=NC(=N1)Cl)Cl)Cl",184.41
+7955,"Melamine","C3H6N6","C1(=NC(=NC(=N1)N)N)N",126.12
+7956,"Cyanuric acid","C3H3N3O3","C1(=O)NC(=O)NC(=O)N1",129.07
+7957,"2,6-Dimethyl-4-heptanol","C9H20O","CC(C)CC(CC(C)C)O",144.25
+7958,"Isobutyl ketone","C9H18O","CC(C)CC(=O)CC(C)C",142.24
+7959,"4-Methyl-2-pentyl acetate","C8H16O2","CC(C)CC(C)OC(=O)C",144.21
+7960,"Cyclohexyl bromide","C6H11Br","C1CCC(CC1)Br",163.06
+7961,"Bromobenzene","C6H5Br","C1=CC=C(C=C1)Br",157.01
+7962,"Methylcyclohexane","C7H14","CC1CCCCC1",98.19
+7963,"4-Methylpyridine","C6H7N","CC1=CC=NC=C1",93.13
+7964,"Chlorobenzene","C6H5Cl","C1=CC=C(C=C1)Cl",112.55
+7965,"Cyclohexylamine","C6H13N","C1CCC(CC1)N",99.17
+7966,"Cyclohexanol","C6H12O","C1CCC(CC1)O",100.16
+7967,"Cyclohexanone","C6H10O","C1CCC(=O)CC1",98.14
+7968,"4H-pyran-4-one","C5H4O2","C1=COC=CC1=O",96.08
+7969,"Thiophenol","C6H6S","C1=CC=C(C=C1)S",110.18
+7970,"3-Methylpyridine","C6H7N","CC1=CN=CC=C1",93.13
+7971,"3-Hydroxypyridine","C5H5NO","C1=CC(=CN=C1)O",95.10
+7972,"4-Methylmorpholine","C5H11NO","CN1CCOCC1",101.15
+7973,"2-Bromopyridine","C5H4BrN","C1=CC=NC(=C1)Br",158.00
+7974,"2-Methylpiperidine","C6H13N","CC1CCCCN1",99.17
+7975,"2-Methylpyridine","C6H7N","CC1=CC=CC=N1",93.13
+7976,"2-Methylpyrazine","C5H6N2","CC1=NC=CN=C1",94.11
+7977,"2-Chloropyridine","C5H4ClN","C1=CC=NC(=C1)Cl",113.54
+7978,"2-Aminopyrimidine","C4H5N3","C1=CN=C(N=C1)N",95.10
+7979,"Triethylene Glycol Dimethacrylate","C14H22O6","CC(=C)C(=O)OCCOCCOCCOC(=O)C(=C)C",286.32
+7980,"Tetraethylene glycol, dimethacrylate","C16H26O7","CC(=C)C(=O)OCCOCCOCCOCCOC(=O)C(=C)C",330.37
+7981,"Butyl isovalerate","C9H18O2","CCCCOC(=O)CC(C)C",158.24
+7982,"3,7-Dimethylocta-3,6-dienyl 3-methylbutanoate","C15H26O2","CC(C)CC(=O)OCCC(=CCC=C(C)C)C",238.37
+7983,"Butyl butyrate","C8H16O2","CCCCOC(=O)CCC",144.21
+7984,"Hexadecanolide","C16H30O2","C1CCCCCCCC(=O)OCCCCCCC1",254.41
+7985,"Dihexyl azelate","C21H40O4","CCCCCCOC(=O)CCCCCCCC(=O)OCCCCCC",356.5
+7986,"Dibutyl Sebacate","C18H34O4","CCCCOC(=O)CCCCCCCCC(=O)OCCCC",314.5
+7987,"Bis(2-ethoxyethyl) adipate","C14H26O6","CCOCCOC(=O)CCCCC(=O)OCCOCC",290.35
+7988,"","C9H20N2S","CCCCNC(=NCCCC)S",188.34
+7989,"5-Hexene-2-one","C6H10O","CC(=O)CCC=C",98.14
+7990,"3-Hexyn-2-ol","C6H10O","CCC#CC(C)O",98.14
+7991,"Pentanoic Acid","C5H10O2","CCCCC(=O)O",102.13
+7992,"Vinyl isobutyl ether","C6H12O","CC(C)COC=C",100.16
+7993,"N,N-Dimethyl-1,3-propanediamine","C5H14N2","CN(C)CCCN",102.18
+7994,"2-(Isopropylamino)ethanol","C5H13NO","CC(C)NCCO",103.16
+7995,"","C4H8N2S","C=CCN=C(N)S",116.19
+7996,"Isopropylethanediol","C5H12O2","CC(C)OCCO",104.15
+7997,"Propyl Acetate","C5H10O2","CCCOC(=O)C",102.13
+7998,"Propyl chloroformate","C4H7ClO2","CCCOC(=O)Cl",122.55
+7999,"Ethylmercury acetate","C4H8HgO2","CC[Hg+].CC(=O)[O-]",288.70
+8000,"Boron trifluoride etherate","C4H10BF3O","B(F)(F)F.CCOCC",141.93

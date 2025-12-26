@@ -1,0 +1,101 @@
+"CID","Title","MolecularFormula","ConnectivitySMILES","MolecularWeight"
+49401,"5H-Dibenzo(a,d)cycloheptene-delta(sup 5),gamma-propylamine, 10,11-dihydro-N-methoxy-N-methyl-","C20H23NO","CN(CCC=C1C2=CC=CC=C2CCC3=CC=CC=C31)OC",293.4
+49402,"5H-Dibenzo(a,d)cycloheptene-delta(sup 5),gamma-propylamine, 10,11-dihydro-beta,beta,N,N-tetramethyl-","C22H27N","CC(C)(CN(C)C)C=C1C2=CC=CC=C2CCC3=CC=CC=C31",305.5
+49403,"5H-Dibenzo(a,d)cycloheptene-delta(sup 5),gamma-propylamine, 10,11-dihydro-beta,N,N-trimethyl-","C21H25N","CC(CN(C)C)C=C1C2=CC=CC=C2CCC3=CC=CC=C31",291.4
+49404,"3-(5,6-dimethoxy-2-tricyclo[9.4.0.03,8]pentadeca-1(15),3,5,7,9,11,13-heptaenylidene)-N,N-dimethylpropan-1-amine","C22H25NO2","CN(C)CCC=C1C2=CC=CC=C2C=CC3=CC(=C(C=C31)OC)OC",335.4
+49405,"","C25H27NO6S","C[NH+](C)CCC=C1C2=CC=CC=C2C=CC3=C1C=C(C=C3)S(=O)(=O)C.C(=CC(=O)[O-])C(=O)O",469.6
+49406,"5-(3-dimethylaminopropylidene)-3-methylsulfonyl-5H-dibenzo[a,d]cycloheptene","C21H23NO2S","CN(C)CCC=C1C2=CC=CC=C2C=CC3=C1C=C(C=C3)S(=O)(=O)C",353.5
+49407,"5H-Dibenzo(a,d)cyclohepten-5-ol, 10,11-dihydro-5-(2-(4-methylpiperazinyl)ethyl)-","C22H28N2O","CN1CCN(CC1)CCC2(C3=CC=CC=C3CCC4=CC=CC=C42)O",336.5
+49408,"5H-Dibenzo(a,d)cyclohepten-5-ol, 10,11-dihydro-5-(2-(1-methyl-2-piperidyl)ethyl)-","C23H29NO","CN1CCCCC1CCC2(C3=CC=CC=C3CCC4=CC=CC=C42)O",335.5
+49409,"5H-Dibenzo(a,d)cyclohepten-5-ol, 10,11-dihydro-5-(1-methyl-3-pyrrolidinylmethyl)-","C21H25NO","CN1CCC(C1)CC2(C3=CC=CC=C3CCC4=CC=CC=C42)O",307.4
+49410,"","C17H17NO","C1CC2=C(C=C1)C=CC(C3=CC=CC=C3C2)C(=O)N",251.32
+49411,"","C21H28ClN","C[NH+](C)CCCC1C=CC2=C(CCC=C2)CC3=CC=CC=C13.[Cl-]",329.9
+49412,"","C21H27N","CN(C)CCCC1C=CC2=C(CCC=C2)CC3=CC=CC=C13",293.4
+49413,"","C21H26ClN","C[NH+](C)CCC=C1C=CC2=C(CCC=C2)CC3=CC=CC=C31.[Cl-]",327.9
+49414,"","C21H25N","CN(C)CCC=C1C=CC2=C(CCC=C2)CC3=CC=CC=C31",291.4
+49415,"","C22H28ClN","CC(C[NH+](C)C)C=C1C=CC2=C(CCC=C2)CC3=CC=CC=C31.[Cl-]",341.9
+49416,"","C22H27N","CC(CN(C)C)C=C1C=CC2=C(CCC=C2)CC3=CC=CC=C31",305.5
+49417,"","C24H34Cl2N2","CN1CCN(CC1)CCCC2=CC3=C(CC4=C(C=CCC4)C=CC3)C=C2.Cl.Cl",421.4
+49418,"","C24H32N2","CN1CCN(CC1)CCCC2=CC3=C(CC4=C(C=CCC4)C=CC3)C=C2",348.5
+49419,"","C24H32ClN","C[NH+]1CCCCC1CCC2C=CC3=C(CCC=C3)CC4=CC=CC=C24.[Cl-]",370.0
+49420,"","C24H31N","CN1CCCCC1CCC2C=CC3=C(CCC=C3)CC4=CC=CC=C24",333.5
+49421,"1-Methyl-3-(6-tricyclo[10.4.0.03,8]hexadeca-1(12),3(8),4,6,10,13-hexaenylmethyl)pyrrolidine","C22H27N","CN1CCC(C1)CC2=CC3=C(CC4=C(C=CCC4)C=CC3)C=C2",305.5
+49422,"11H-Dibenzo(b,e)(1,4)diazepin-11-one, 5,10-dihydro-5-(2-(diethylamino)ethyl)-10-(3-(dimethylamino)propyl)-, dihydrochloride","C24H36Cl2N4O","CC[NH+](CC)CCN1C2=CC=CC=C2C(=O)N(C3=CC=CC=C31)CCC[NH+](C)C.[Cl-].[Cl-]",467.5
+49423,"11-[2-(Diethylamino)ethyl]-5-[3-(dimethylamino)propyl]benzo[b][1,4]benzodiazepin-6-one","C24H34N4O","CCN(CC)CCN1C2=CC=CC=C2C(=O)N(C3=CC=CC=C31)CCCN(C)C",394.6
+49424,"N,N-Dibenzyl-2-bromoprop-2-en-1-amine--hydrogen chloride (1/1)","C17H19BrClN","C=C(C[NH+](CC1=CC=CC=C1)CC2=CC=CC=C2)Br.[Cl-]",352.7
+49425,"N,N-dibenzyl-2-bromoprop-2-en-1-amine","C17H18BrN","C=C(CN(CC1=CC=CC=C1)CC2=CC=CC=C2)Br",316.2
+49426,"Dibenzylamine, N-(2-chloroethyl)-p,p'-dimethoxy-, hydrochloride","C18H23Cl2NO2","COC1=CC=C(C=C1)C[NH+](CCCl)CC2=CC=C(C=C2)OC.[Cl-]",356.3
+49427,"2-chloro-N,N-bis[(4-methoxyphenyl)methyl]ethanamine","C18H22ClNO2","COC1=CC=C(C=C1)CN(CCCl)CC2=CC=C(C=C2)OC",319.8
+49428,"Dibenzylamine, N-(2-chloroethyl)-m,m'-dimethyl-, hydrochloride","C18H23Cl2N","CC1=CC(=CC=C1)C[NH+](CCCl)CC2=CC=CC(=C2)C.[Cl-]",324.3
+49429,"2-chloro-N,N-bis[(3-methylphenyl)methyl]ethanamine","C18H22ClN","CC1=CC(=CC=C1)CN(CCCl)CC2=CC=CC(=C2)C",287.8
+49430,"Dibenzylamine, N-(2-chloroethyl)-o,o'-dimethyl-, hydrochloride","C18H23Cl2N","CC1=CC=CC=C1C[NH+](CCCl)CC2=CC=CC=C2C.[Cl-]",324.3
+49431,"2-chloro-N,N-bis[(2-methylphenyl)methyl]ethanamine","C18H22ClN","CC1=CC=CC=C1CN(CCCl)CC2=CC=CC=C2C",287.8
+49432,"Dibenzylamine, N-(2-chloroethyl)-4-methoxy-, hydrochloride","C17H21Cl2NO","COC1=CC=C(C=C1)C[NH+](CCCl)CC2=CC=CC=C2.[Cl-]",326.3
+49433,"N-benzyl-2-chloro-N-[(4-methoxyphenyl)methyl]ethanamine","C17H20ClNO","COC1=CC=C(C=C1)CN(CCCl)CC2=CC=CC=C2",289.8
+49434,"N-Benzyl-N-(2-chloroethyl)-1-phenylethan-1-amine--hydrogen chloride (1/1)","C17H21Cl2N","CC(C1=CC=CC=C1)[NH+](CCCl)CC2=CC=CC=C2.[Cl-]",310.3
+49435,"N-benzyl-N-(2-chloroethyl)-1-phenylethanamine","C17H20ClN","CC(C1=CC=CC=C1)N(CCCl)CC2=CC=CC=C2",273.8
+49436,"3-(Dibenzylamino)propanenitrile--hydrogen chloride (1/1)","C17H19ClN2","C1=CC=C(C=C1)C[NH+](CCC#N)CC2=CC=CC=C2.[Cl-]",286.8
+49437,"3-(Dibenzylamino)propanenitrile","C17H18N2","C1=CC=C(C=C1)CN(CCC#N)CC2=CC=CC=C2",250.34
+49438,"","C22H22ClN","C1=CC=C(C=C1)C[NH+](CC2=CC=CC=C2)C=CC3=CC=CC=C3.[Cl-]",335.9
+49439,"N-Styryldibenzylamine","C22H21N","C1=CC=C(C=C1)CN(CC2=CC=CC=C2)C=CC3=CC=CC=C3",299.4
+49440,"3-Chloro-N-(2-chloroethyl)-N-ethylpropan-1-amine--hydrogen chloride (1/1)","C7H16Cl3N","CC[NH+](CCCCl)CCCl.[Cl-]",220.6
+49441,"3-chloro-N-(2-chloroethyl)-N-ethylpropan-1-amine","C7H15Cl2N","CCN(CCCCl)CCCl",184.10
+49442,"","C17H24ClNO3","CCC1=C(OC2=C(C(=O)C=CC2=C1O)C[NH+](CC)CC)C.[Cl-]",325.8
+49443,"","C17H23NO3","CCC1=C(OC2=C(C(=O)C=CC2=C1O)CN(CC)CC)C",289.4
+49444,"Chromone, 8-(diethylaminomethyl)-2-ethyl-7-methoxy-3-methyl-, hydrochloride","C18H26ClNO3","CCC1=C(C(=O)C2=C(O1)C(=C(C=C2)OC)C[NH+](CC)CC)C.[Cl-]",339.9
+49445,"8-(Diethylaminomethyl)-2-ethyl-7-methoxy-3-methylchromen-4-one","C18H25NO3","CCC1=C(C(=O)C2=C(O1)C(=C(C=C2)OC)CN(CC)CC)C",303.4
+49446,"Chromone, 8-(diethylamino)methyl-7-hydroxy-2-methyl-, hydrochloride","C15H20ClNO3","CC[NH+](CC)CC1=C(C=CC2=C1OC(=CC2=O)C)O.[Cl-]",297.78
+49447,"8-(Diethylaminomethyl)-7-hydroxy-2-methylchromen-4-one","C15H19NO3","CCN(CC)CC1=C(C=CC2=C1OC(=CC2=O)C)O",261.32
+49448,"","C15H20ClNO3","CC[NH+](CC)CC1=C2C(=C(C(=CO2)C)O)C=CC1=O.[Cl-]",297.78
+49449,"","C15H19NO3","CCN(CC)CC1=C2C(=C(C(=CO2)C)O)C=CC1=O",261.32
+49450,"","C18H26ClNO3","CCC1=C(OC2=C(C(=O)C=CC2=C1O)C[NH+](CC)CC)CC.[Cl-]",339.9
+49451,"","C18H25NO3","CCC1=C(OC2=C(C(=O)C=CC2=C1O)CN(CC)CC)CC",303.4
+49452,"","C16H22ClNO3","CCC1=C(OC2=C(C(=O)C=CC2=C1O)C[NH+](C)C)CC.[Cl-]",311.80
+49453,"","C16H21NO3","CCC1=C(OC2=C(C(=O)C=CC2=C1O)CN(C)C)CC",275.34
+49454,"","C19H26ClNO3","CCC1=C(OC2=C(C(=O)C=CC2=C1O)C[NH+]3CCCCC3)CC.[Cl-]",351.9
+49455,"","C19H25NO3","CCC1=C(OC2=C(C(=O)C=CC2=C1O)CN3CCCCC3)CC",315.4
+49456,"Chromone, 2,3-diethyl-7-methoxy-8-(morpholinomethyl)-, hydrochloride","C19H26ClNO4","CCC1=C(OC2=C(C1=O)C=CC(=C2C[NH+]3CCOCC3)OC)CC.[Cl-]",367.9
+49457,"2,3-Diethyl-7-methoxy-8-(morpholin-4-ylmethyl)chromen-4-one","C19H25NO4","CCC1=C(OC2=C(C1=O)C=CC(=C2CN3CCOCC3)OC)CC",331.4
+49458,"Chromone, 2,3-diethyl-7-methoxy-8-(piperidinomethyl)-, hydrochloride","C20H28ClNO3","CCC1=C(OC2=C(C1=O)C=CC(=C2C[NH+]3CCCCC3)OC)CC.[Cl-]",365.9
+49459,"2,3-Diethyl-7-methoxy-8-(piperidin-1-ylmethyl)chromen-4-one","C20H27NO3","CCC1=C(OC2=C(C1=O)C=CC(=C2CN3CCCCC3)OC)CC",329.4
+49460,"Chromone, 8-(dimethylamino)methyl-2-ethyl-7-hydroxy-, hydrochloride","C14H18ClNO3","CCC1=CC(=O)C2=C(O1)C(=C(C=C2)O)C[NH+](C)C.[Cl-]",283.75
+49461,"8-[(Dimethylamino)methyl]-2-ethyl-7-hydroxychromen-4-one","C14H17NO3","CCC1=CC(=O)C2=C(O1)C(=C(C=C2)O)CN(C)C",247.29
+49462,"","C15H20ClNO3","CCC1=C(C(=C2C=CC(=O)C(=C2O1)C[NH+](C)C)O)C.[Cl-]",297.78
+49463,"","C15H19NO3","CCC1=C(C(=C2C=CC(=O)C(=C2O1)CN(C)C)O)C",261.32
+49464,"","C15H20ClNO3","CCC1=C(OC2=C(C(=O)C=CC2=C1O)C[NH+](C)C)C.[Cl-]",297.78
+49465,"","C15H19NO3","CCC1=C(OC2=C(C(=O)C=CC2=C1O)CN(C)C)C",261.32
+49466,"","C13H16ClNO3","CC1=COC2=C(C(=O)C=CC2=C1O)C[NH+](C)C.[Cl-]",269.72
+49467,"","C13H15NO3","CC1=COC2=C(C(=O)C=CC2=C1O)CN(C)C",233.26
+49468,"","C14H18ClNO3","CC1=C(OC2=C(C(=O)C=CC2=C1O)C[NH+](C)C)C.[Cl-]",283.75
+49469,"","C14H17NO3","CC1=C(OC2=C(C(=O)C=CC2=C1O)CN(C)C)C",247.29
+49470,"","C13H16ClNO3","CC1=C(OC2=C(C(=O)C=CC2=C1O)C[NH2+]C)C.[Cl-]",269.72
+49471,"","C13H15NO3","CC1=C(OC2=C(C(=O)C=CC2=C1O)CNC)C",233.26
+49472,"","C17H22ClNO3","CC1=C(OC2=C(C(=O)C=CC2=C1O)C[NH+]3CCCCC3)C.[Cl-]",323.8
+49473,"","C17H21NO3","CC1=C(OC2=C(C(=O)C=CC2=C1O)CN3CCCCC3)C",287.35
+49474,"Chromone, 2,3-dimethyl-7-methoxy-8-(methylaminomethyl)-, hydrochloride","C14H18ClNO3","CC1=C(OC2=C(C1=O)C=CC(=C2C[NH2+]C)OC)C.[Cl-]",283.75
+49475,"7-Methoxy-2,3-dimethyl-8-(methylaminomethyl)chromen-4-one","C14H17NO3","CC1=C(OC2=C(C1=O)C=CC(=C2CNC)OC)C",247.29
+49476,"Chromone, 2,3-dimethyl-7-methoxy-8-(piperidinomethyl)-, hydrochloride","C18H24ClNO3","CC1=C(OC2=C(C1=O)C=CC(=C2C[NH+]3CCCCC3)OC)C.[Cl-]",337.8
+49477,"7-Methoxy-2,3-dimethyl-8-(piperidin-1-ylmethyl)chromen-4-one","C18H23NO3","CC1=C(OC2=C(C1=O)C=CC(=C2CN3CCCCC3)OC)C",301.4
+49478,"","C19H20ClNO3","CCC1=C(OC2=C(C(=O)C=CC2=C1O)C[NH2+]C3=CC=CC=C3)C.[Cl-]",345.8
+49479,"","C19H19NO3","CCC1=C(OC2=C(C(=O)C=CC2=C1O)CNC3=CC=CC=C3)C",309.4
+49480,"","C14H18ClNO3","CCC1=C(C(=C2C=CC(=O)C(=C2O1)C[NH2+]C)O)C.[Cl-]",283.75
+49481,"","C14H17NO3","CCC1=C(C(=C2C=CC(=O)C(=C2O1)CNC)O)C",247.29
+49482,"","C14H18ClNO3","CCC1=C(OC2=C(C(=O)C=CC2=C1O)C[NH2+]C)C.[Cl-]",283.75
+49483,"","C14H17NO3","CCC1=C(OC2=C(C(=O)C=CC2=C1O)CNC)C",247.29
+49484,"","C17H22ClNO4","CCC1=C(C(=C2C=CC(=O)C(=C2O1)C[NH+]3CCOCC3)O)C.[Cl-]",339.8
+49485,"","C17H21NO4","CCC1=C(C(=C2C=CC(=O)C(=C2O1)CN3CCOCC3)O)C",303.35
+49486,"","C17H22ClNO4","CCC1=C(OC2=C(C(=O)C=CC2=C1O)C[NH+]3CCOCC3)C.[Cl-]",339.8
+49487,"","C17H21NO4","CCC1=C(OC2=C(C(=O)C=CC2=C1O)CN3CCOCC3)C",303.35
+49488,"","C18H24ClNO3","CCC1=C(C(=C2C=CC(=O)C(=C2O1)C[NH+]3CCCCC3)O)C.[Cl-]",337.8
+49489,"","C18H23NO3","CCC1=C(C(=C2C=CC(=O)C(=C2O1)CN3CCCCC3)O)C",301.4
+49490,"","C18H24ClNO3","CCC1=C(OC2=C(C(=O)C=CC2=C1O)C[NH+]3CCCCC3)C.[Cl-]",337.8
+49491,"","C18H23NO3","CCC1=C(OC2=C(C(=O)C=CC2=C1O)CN3CCCCC3)C",301.4
+49492,"Chromone, 2-ethyl-7-hydroxy-8-morpholinomethyl-, hydrochloride","C16H20ClNO4","CCC1=CC(=O)C2=C(O1)C(=C(C=C2)O)C[NH+]3CCOCC3.[Cl-]",325.79
+49493,"2-Ethyl-7-hydroxy-8-(morpholin-4-ylmethyl)chromen-4-one","C16H19NO4","CCC1=CC(=O)C2=C(O1)C(=C(C=C2)O)CN3CCOCC3",289.33
+49494,"Chromone, 2-ethyl-7-hydroxy-8-piperidinomethyl-, hydrochloride","C17H22ClNO3","CCC1=CC(=O)C2=C(O1)C(=C(C=C2)O)C[NH+]3CCCCC3.[Cl-]",323.8
+49495,"2-Ethyl-7-hydroxy-8-(piperidin-1-ylmethyl)chromen-4-one","C17H21NO3","CCC1=CC(=O)C2=C(O1)C(=C(C=C2)O)CN3CCCCC3",287.35
+49496,"Chromone, 2-ethyl-7-methoxy-3-methyl-8-(morpholinomethyl)-, hydrochloride","C18H24ClNO4","CCC1=C(C(=O)C2=C(O1)C(=C(C=C2)OC)C[NH+]3CCOCC3)C.[Cl-]",353.8
+49497,"2-Ethyl-7-methoxy-3-methyl-8-(morpholin-4-ylmethyl)chromen-4-one","C18H23NO4","CCC1=C(C(=O)C2=C(O1)C(=C(C=C2)OC)CN3CCOCC3)C",317.4
+49498,"Chromone, 3-ethyl-7-methoxy-2-methyl-8-(morpholinomethyl)-, hydrochloride","C18H24ClNO4","CCC1=C(OC2=C(C1=O)C=CC(=C2C[NH+]3CCOCC3)OC)C.[Cl-]",353.8
+49499,"3-Ethyl-7-methoxy-2-methyl-8-(morpholin-4-ylmethyl)chromen-4-one","C18H23NO4","CCC1=C(OC2=C(C1=O)C=CC(=C2CN3CCOCC3)OC)C",317.4
+49500,"Chromone, 3-ethyl-7-methoxy-2-methyl-8-(piperidinomethyl)-, hydrochloride","C19H26ClNO3","CCC1=C(OC2=C(C1=O)C=CC(=C2C[NH+]3CCCCC3)OC)C.[Cl-]",351.9

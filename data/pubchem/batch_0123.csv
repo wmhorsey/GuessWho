@@ -1,0 +1,101 @@
+"CID","Title","MolecularFormula","ConnectivitySMILES","MolecularWeight"
+12301,"Ethoxyacetic acid","C4H8O3","CCOCC(=O)O",104.10
+12302,"1-Nitrobutane","C4H9NO2","CCCC[N+](=O)[O-]",103.12
+12303,"Propylurea","C4H10N2O","CCCNC(=O)N",102.14
+12304,"Propane, 1-(1-methylethoxy)-","C6H14O","CCCOC(C)C",102.17
+12305,"2-Chloroethyl chloroformate","C3H4Cl2O2","C(CCl)OC(=O)Cl",142.97
+12306,"Propyl carbamate","C4H9NO2","CCCOC(=O)N",103.12
+12307,"n-PROPYL NITRATE","C3H7NO3","CCCO[N+](=O)[O-]",105.09
+12308,"3-Bromo-1-propanol","C3H7BrO","C(CO)CBr",138.99
+12309,"1-Pentyne","C5H8","CCCC#C",68.12
+12310,"2-Pentyne","C5H8","CCC#CC",68.12
+12311,"1,3-Butadiene, 1-chloro-","C4H5Cl","C=CC=CCl",88.53
+12312,"1-Chloro-1,2-butadiene","C4H5Cl","CC=C=CCl",88.53
+12313,"3-Chloro-1-propanol","C3H7ClO","C(CO)CCl",94.54
+12314,"1,3-Diiodopropane","C3H6I2","C(CI)CI",295.89
+12315,"N-Methylpropylamine","C4H11N","CCCNC",73.14
+12316,"2-Chloroethyl methyl ether","C3H7ClO","COCCCl",94.54
+12317,"Ethane, 1-fluoro-2-methoxy-","C3H7FO","COCCF",78.09
+12318,"Diethylmercury","C4H10Hg","CC[Hg]CC",258.71
+12319,"Ethylformamide","C3H7NO","CCNC=O",73.09
+12320,"Ethyl Vinyl Sulfide","C4H8S","CCSC=C",88.17
+12321,"Ethene, 1,1'-thiobis-","C4H6S","C=CSC=C",86.16
+12322,"2,5-Dimethyl-1,5-hexadiene","C8H14","CC(=C)CCC(=C)C",110.20
+12323,"5-Methyl-2-hexanol","C7H16O","CC(C)CCC(C)O",116.20
+12324,"But-2-enedioyl dichloride","C4H2Cl2O2","C(=CC(=O)Cl)C(=O)Cl",152.96
+12325,"S-(E-1,2-Dichlorovinyl)-L-cysteine","C5H7Cl2NO2S","C(C(C(=O)O)N)SC(=CCl)Cl",216.08
+12326,"Arginine hydrochloride, D-","C6H15ClN4O2","C(CC(C(=O)O)N)CN=C(N)N.Cl",210.66
+12327,"Ethyl undecanoate","C13H26O2","CCCCCCCCCCC(=O)OCC",214.34
+12328,"monoMethyl adipate","C7H12O4","COC(=O)CCCCC(=O)O",160.17
+12329,"Dimethyladipate","C8H14O4","COC(=O)CCCCC(=O)OC",174.19
+12330,"2-Methyl-2-heptene","C8H16","CCCCC=C(C)C",112.21
+12331,"5-Methyl-1-hexanol","C7H16O","CC(C)CCCCO",116.20
+12332,"Hexanamide","C6H13NO","CCCCCC(=O)N",115.17
+12333,"3-Nitropentane","C5H11NO2","CCC(CC)[N+](=O)[O-]",117.15
+12334,"1-Propanol, 3-chloro-, acetate","C5H9ClO2","CC(=O)OCCCCl",136.58
+12335,"1-Iodopentane","C5H11I","CCCCCI",198.05
+12336,"4-Chlorobutyronitrile","C4H6ClN","C(CC#N)CCl",103.55
+12337,"1,4-Diiodobutane","C4H8I2","C(CCI)CI",309.92
+12338,"Butyl methyl ether","C5H12O","CCCCOC",88.15
+12339,"Butyl methyl sulfide","C5H12S","CCCCSC",104.22
+12340,"Ethyl propyl ether","C5H12O","CCCOCC",88.15
+12341,"Ethane, 1-chloro-2-ethoxy-","C4H9ClO","CCOCCCl",108.57
+12342,"1,2-Hydrazinedicarboxaldehyde","C2H4N2O2","C(=O)NNC=O",88.07
+12343,"1,4-Cyclohexadiene","C6H8","C1C=CCC=C1",80.13
+12344,"5-Methylhexanoic acid","C7H14O2","CC(C)CCCC(=O)O",130.18
+12345,"Methyl diacetate","C5H8O4","CC(=O)OCOC(=O)C",132.11
+12346,"Isobutyl ether","C8H18O","CC(C)COCC(C)C",130.23
+12347,"2-Chlorooctane","C8H17Cl","CCCCCCC(C)Cl",148.67
+12348,"Amyl Acetate","C7H14O2","CCCCCOC(=O)C",130.18
+12349,"Carbamic acid, (2-ethoxyethyl) ester","C5H11NO3","CCOCCOC(=O)N",133.15
+12350,"1-Heptyne","C7H12","CCCCCC#C",96.17
+12351,"","C7H15N","C.CCCCCC#N",113.20
+12352,"Hexanenitrile","C6H11N","CCCCCC#N",97.16
+12353,"1,5-Dichloropentane","C5H10Cl2","C(CCCl)CCCl",141.04
+12354,"1,5-Diiodopentane","C5H10I2","C(CCI)CCI",323.94
+12355,"Ethyl butyl ether","C6H14O","CCCCOCC",102.17
+12356,"Ethanol, 2-methoxy-, 1-formate","C4H8O3","COCCOC=O",104.10
+12357,"Butyl thiocyanate","C5H9NS","CCCCSC#N",115.20
+12358,"Dipropylmercury","C6H14Hg","CCC[Hg]CCC",286.77
+12359,"Mercury, bis(fulminato-kappaC)-","C2HgN2O2","[C-]#[N+][O-].[C-]#[N+][O-].[Hg+2]",284.63
+12360,"Fulminate","CNO-","[C-]#[N+][O-]",42.017
+12361,"2-(Chloroethoxy)ethanol","C4H9ClO2","C(COCCCl)O",124.56
+12362,"Bis(methoxymethyl)ether","C4H10O3","COCOCOC",106.12
+12363,"Cycloheptene","C7H12","C1CCC=CCC1",96.17
+12364,"Hexanediamide","C6H12N2O2","C(CCC(=O)N)CC(=O)N",144.17
+12365,"Methanediol, 1,1-dinitrate","CH2N2O6","C(O[N+](=O)[O-])O[N+](=O)[O-]",138.04
+12366,"Ethyl palmitate","C18H36O2","CCCCCCCCCCCCCCCC(=O)OCC",284.5
+12367,"2-Nonanol","C9H20O","CCCCCCCC(C)O",144.25
+12368,"1,6-Dibromohexane","C6H12Br2","C(CCCBr)CCBr",243.97
+12369,"1-Bromoheptane","C7H15Br","CCCCCCCBr",179.10
+12370,"1-Octyne","C8H14","CCCCCCC#C",110.20
+12371,"1-Chloroheptane","C7H15Cl","CCCCCCCCl",134.65
+12372,"Heptanenitrile","C7H13N","CCCCCCC#N",111.18
+12373,"1,6-Diiodohexane","C6H12I2","C(CCCI)CCI",337.97
+12374,"1,6-Hexanediol","C6H14O2","C(CCCO)CCO",118.17
+12375,"Ethylene glycol diethyl ether","C6H14O2","CCOCCOCC",118.17
+12376,"Glycol diformate","C4H6O4","C(COC=O)OC=O",118.09
+12377,"Dipropyl disulfide","C6H14S2","CCCSSCCC",150.3
+12378,"CID 12378","C8H8","C1=CC=CC=CC=C1",104.15
+12379,"","C12H23NaO2","CCCCCCCCCCCC(=O)[O-].[Na+]",222.30
+12380,"1-Iodooctane","C8H17I","CCCCCCCCI",240.12
+12381,"1,7-Heptanediol","C7H16O2","C(CCCO)CCCO",132.20
+12382,"Dibutylmercury","C8H18Hg","CCCC[Hg]CCCC",314.82
+12383,"Propane, 1,1'-oxybis(3-chloro-","C6H12Cl2O","C(COCCCCl)CCl",171.06
+12384,"Diethylene glycol monomethyl ether acetate","C7H14O4","CC(=O)OCCOCCOC",162.18
+12385,"Octanedinitrile","C8H12N2","C(CCCC#N)CCC#N",136.19
+12386,"Butyl disulfide","C8H18S2","CCCCSSCCCC",178.4
+12387,"Octyl nitrite","C8H17NO2","CCCCCCCCON=O",159.23
+12388,"Tridecane","C13H28","CCCCCCCCCCCCC",184.36
+12389,"Tetradecane","C14H30","CCCCCCCCCCCCCC",198.39
+12390,"Tridecanenitrile","C13H25N","CCCCCCCCCCCCC#N",195.34
+12391,"Pentadecane","C15H32","CCCCCCCCCCCCCCC",212.41
+12392,"Heptane, 1,1'-oxybis-","C14H30O","CCCCCCCOCCCCCCC",214.39
+12393,"Cetyl Acetate","C18H36O2","CCCCCCCCCCCCCCCCOC(=O)C",284.5
+12394,"1-Bromopentadecane","C15H31Br","CCCCCCCCCCCCCCCBr",291.31
+12395,"1-Hexadecene","C16H32","CCCCCCCCCCCCCCC=C",224.42
+12396,"1-Hexadecyne","C16H30","CCCCCCCCCCCCCCC#C",222.41
+12397,"1-Pentadecanol","C15H32O","CCCCCCCCCCCCCCCO",228.41
+12398,"Heptadecane","C17H36","CCCCCCCCCCCCCCCCC",240.5
+12399,"Dicaprylyl Ether","C16H34O","CCCCCCCCOCCCCCCCC",242.44
+12400,"Methyl triacontanate","C31H62O2","CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)OC",466.8

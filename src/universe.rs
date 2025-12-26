@@ -114,6 +114,73 @@ pub enum AccessResult {
     Rejected,
 }
 
+/// A single match from a resonant search
+#[derive(Debug, Clone)]
+pub struct SearchMatch {
+    /// The packet that matched
+    pub packet_id: PacketId,
+    /// Memory reference (the actual data address)
+    pub memory_ref: u64,
+    /// How strongly it resonated with the query
+    pub affinity: f64,
+    /// Which node it was found at (0 if drifting)
+    pub node_id: NodeId,
+    /// Content preview (if available)
+    pub content: Option<String>,
+    /// How the match was found
+    pub found_via: MatchSource,
+}
+
+/// How a search match was discovered
+#[derive(Debug, Clone, PartialEq)]
+pub enum MatchSource {
+    /// Found via resonance path (query traveled to this node)
+    ResonancePath,
+    /// Found nearby while traveling
+    NearbyDrift,
+    /// Found via CMB boundary scan (keyword match)
+    CmbScan,
+}
+
+/// Result of a resonant search
+#[derive(Debug)]
+pub struct SearchResult {
+    /// The original query
+    pub query: String,
+    /// The query's resonance signature
+    pub query_resonance: Resonance,
+    /// How many hops the query took through the field
+    pub hops: usize,
+    /// Nodes visited during the search
+    pub nodes_visited: Vec<NodeId>,
+    /// Matches found, ordered by affinity
+    pub matches: Vec<SearchMatch>,
+}
+
+impl SearchResult {
+    /// Get the top N matches
+    pub fn top(&self, n: usize) -> &[SearchMatch] {
+        &self.matches[..self.matches.len().min(n)]
+    }
+    
+    /// Get memory references for all matches
+    pub fn memory_refs(&self) -> Vec<u64> {
+        self.matches.iter().map(|m| m.memory_ref).collect()
+    }
+    
+    /// Display a summary
+    pub fn summary(&self) -> String {
+        format!(
+            "Query '{}' [λ={:.3}] → {} hops, {} nodes, {} matches",
+            self.query,
+            self.query_resonance.wavelength,
+            self.hops,
+            self.nodes_visited.len(),
+            self.matches.len()
+        )
+    }
+}
+
 /// The observable universe
 #[derive(Serialize, Deserialize)]
 pub struct Universe {
@@ -207,6 +274,22 @@ impl Universe {
         let mut packet = Packet::new(id, packet_type, memory_ref, self.config.radius);
         packet.born_at = self.tick;
 
+        self.packets.insert(id, packet);
+        Some(id)
+    }
+    
+    /// Insert a pre-built packet into the universe
+    pub fn insert_packet(&mut self, mut packet: Packet) -> Option<PacketId> {
+        if self.packets.len() >= self.config.max_packets() {
+            return None;
+        }
+        
+        packet.born_at = self.tick;
+        let id = packet.id;
+        if id >= self.next_packet_id {
+            self.next_packet_id = id + 1;
+        }
+        
         self.packets.insert(id, packet);
         Some(id)
     }
@@ -474,15 +557,21 @@ impl Universe {
 
     /// Garbage collection - remove packets that have been drifting too long
     /// without finding a home. These are flagged as trash.
+    /// 
+    /// NOTE: We're now more lenient. A packet needs to:
+    /// 1. Be drifting for 500+ ticks (not 100)
+    /// 2. Hit the CMB 5+ times (not 2)
+    /// This gives packets more time to find resonant nodes.
     fn garbage_collect(&mut self) {
         let current_tick = self.tick;
         let mut trash: Vec<PacketId> = Vec::new();
 
         for packet in self.packets.values() {
-            // Packets drifting for 100+ ticks without capture = garbage
+            // Packets drifting for 500+ ticks without capture AND 
+            // hit boundary 5+ times = truly lost
             if packet.state == PacketState::InFlight 
-               && current_tick - packet.born_at > 100 
-               && packet.cmb_hits >= 2  // Hit boundary multiple times = lost
+               && current_tick - packet.born_at > 500 
+               && packet.cmb_hits >= 5  // Hit boundary many times = really lost
             {
                 trash.push(packet.id);
             }
@@ -501,13 +590,206 @@ impl Universe {
     // EVENT-DRIVEN ACCESS — Called by external searches/system calls
     // ═══════════════════════════════════════════════════════════════════
 
-    /// Search for content by resonance — THE PRIMARY ACCESS MECHANISM
+    /// Search by sending a query packet through the field
     /// 
-    /// When you search, you're not searching content — you're resonating.
-    /// The search query becomes a resonance signature, and we find packets
-    /// that resonate with it.
+    /// The search query becomes a PACKET that travels through the universe.
+    /// It's attracted to nodes with similar resonance. When it arrives at
+    /// a node, we retrieve the memory addresses of captured packets there.
     /// 
-    /// Returns packets ordered by affinity to the search resonance.
+    /// This is the TRUE search — the query resonates through the field.
+    pub fn search_resonant(&mut self, query: &str, max_hops: usize) -> SearchResult {
+        use crate::semantic::words_to_resonance;
+        use crate::packet::Position;
+        
+        let query_resonance = words_to_resonance(query);
+        
+        // Start from center
+        let mut position = Position::new(0.0, 0.0, 0.0);
+        let mut visited_nodes: Vec<NodeId> = Vec::new();
+        let mut matches: Vec<SearchMatch> = Vec::new();
+        let mut hops = 0;
+        
+        // The query packet travels through the field
+        while hops < max_hops {
+            hops += 1;
+            
+            // Find the most resonant node from current position
+            let mut best_node: Option<(NodeId, f64, (f64, f64))> = None;
+            
+            for node in self.nodes.values() {
+                if visited_nodes.contains(&node.id) {
+                    continue;
+                }
+                
+                let affinity = query_resonance.affinity(&node.resonance);
+                if affinity > 0.2 {
+                    // Calculate distance from current position
+                    let dx = node.position.0 - position.x;
+                    let dy = node.position.1 - position.y;
+                    let dist = (dx * dx + dy * dy).sqrt();
+                    
+                    // Score = affinity / distance (closer & more resonant = better)
+                    let score = affinity / (dist + 1.0);
+                    
+                    if best_node.is_none() || score > best_node.unwrap().1 {
+                        best_node = Some((node.id, score, node.position));
+                    }
+                }
+            }
+            
+            match best_node {
+                Some((node_id, _score, node_pos)) => {
+                    // Move to this node
+                    position = Position::new(node_pos.0, node_pos.1, 0.0);
+                    visited_nodes.push(node_id);
+                    
+                    // Retrieve matches from this node
+                    if let Some(node) = self.nodes.get(&node_id) {
+                        for &packet_id in &node.captured_packets {
+                            if let Some(packet) = self.packets.get(&packet_id) {
+                                // Calculate affinity from resonance
+                                let resonance_affinity = query_resonance.affinity(&packet.resonance);
+                                
+                                // BONUS: Check content for keyword matches (semantic boost)
+                                let content_bonus = if let Some(ref content) = packet.content {
+                                    let query_words: Vec<&str> = query.split_whitespace()
+                                        .map(|w| w.trim_matches(|c: char| !c.is_alphanumeric()))
+                                        .filter(|w| w.len() > 2)
+                                        .collect();
+                                    let content_lower = content.to_lowercase();
+                                    let matching_words = query_words.iter()
+                                        .filter(|w| content_lower.contains(&w.to_lowercase()))
+                                        .count();
+                                    if !query_words.is_empty() {
+                                        (matching_words as f64 / query_words.len() as f64) * 0.5
+                                    } else {
+                                        0.0
+                                    }
+                                } else {
+                                    0.0
+                                };
+                                
+                                let total_affinity = (resonance_affinity + content_bonus).min(1.0);
+                                
+                                if total_affinity > 0.3 {
+                                    matches.push(SearchMatch {
+                                        packet_id,
+                                        memory_ref: packet.memory_ref,
+                                        affinity: total_affinity,
+                                        node_id,
+                                        content: packet.content.clone(),
+                                        found_via: MatchSource::ResonancePath,
+                                    });
+                                }
+                            }
+                        }
+                    }
+                    
+                    // Also check nearby packets (not yet captured)
+                    for packet in self.packets.values() {
+                        if packet.state != PacketState::InFlight {
+                            continue;
+                        }
+                        let dx = packet.position.x - position.x;
+                        let dy = packet.position.y - position.y;
+                        let dist = (dx * dx + dy * dy).sqrt();
+                        
+                        if dist < 10.0 {
+                            let resonance_affinity = query_resonance.affinity(&packet.resonance);
+                            
+                            // BONUS: Check content for keyword matches
+                            let content_bonus = if let Some(ref content) = packet.content {
+                                let query_words: Vec<&str> = query.split_whitespace()
+                                    .map(|w| w.trim_matches(|c: char| !c.is_alphanumeric()))
+                                    .filter(|w| w.len() > 2)
+                                    .collect();
+                                let content_lower = content.to_lowercase();
+                                let matching_words = query_words.iter()
+                                    .filter(|w| content_lower.contains(&w.to_lowercase()))
+                                    .count();
+                                if !query_words.is_empty() {
+                                    (matching_words as f64 / query_words.len() as f64) * 0.5
+                                } else {
+                                    0.0
+                                }
+                            } else {
+                                0.0
+                            };
+                            
+                            let total_affinity = (resonance_affinity + content_bonus).min(1.0);
+                            
+                            if total_affinity > 0.3 {
+                                matches.push(SearchMatch {
+                                    packet_id: packet.id,
+                                    memory_ref: packet.memory_ref,
+                                    affinity: total_affinity,
+                                    node_id: 0, // Not at a node
+                                    content: packet.content.clone(),
+                                    found_via: MatchSource::NearbyDrift,
+                                });
+                            }
+                        }
+                    }
+                }
+                None => {
+                    // No more resonant nodes to visit
+                    break;
+                }
+            }
+        }
+        
+        // FINAL PASS: CMB boundary check - scan ALL content for keyword matches
+        // This is the "final scan at the end to add more context" that catches
+        // what resonance alone might have missed
+        for packet in self.packets.values() {
+            if packet.state == PacketState::Released {
+                continue;
+            }
+            if matches.iter().any(|m| m.packet_id == packet.id) {
+                continue; // Already found
+            }
+            
+            if let Some(ref content) = packet.content {
+                let query_words: Vec<&str> = query.split_whitespace()
+                    .map(|w| w.trim_matches(|c: char| !c.is_alphanumeric()))
+                    .filter(|w| w.len() > 2)
+                    .collect();
+                let content_lower = content.to_lowercase();
+                let matching_words = query_words.iter()
+                    .filter(|w| content_lower.contains(&w.to_lowercase()))
+                    .count();
+                
+                // If any keywords match, include with lower affinity (found via CMB scan)
+                if matching_words > 0 {
+                    let content_affinity = matching_words as f64 / query_words.len() as f64;
+                    matches.push(SearchMatch {
+                        packet_id: packet.id,
+                        memory_ref: packet.memory_ref,
+                        affinity: content_affinity * 0.8, // CMB scan penalty
+                        node_id: 0,
+                        content: packet.content.clone(),
+                        found_via: MatchSource::CmbScan,
+                    });
+                }
+            }
+        }
+        
+        // Sort by affinity
+        matches.sort_by(|a, b| b.affinity.partial_cmp(&a.affinity).unwrap());
+        matches.dedup_by(|a, b| a.packet_id == b.packet_id);
+        
+        self.learning.total_accesses += 1;
+        
+        SearchResult {
+            query: query.to_string(),
+            query_resonance,
+            hops,
+            nodes_visited: visited_nodes,
+            matches,
+        }
+    }
+
+    /// Simple search (legacy) — scans all packets without traveling
     pub fn search_by_resonance(&self, query_resonance: &Resonance) -> Vec<&Packet> {
         let mut results: Vec<(&Packet, f64)> = self.packets.values()
             .filter(|p| p.state != PacketState::Released)

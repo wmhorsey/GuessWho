@@ -253,6 +253,12 @@ impl Packet {
             content: Some(content.to_string()),
         }
     }
+    
+    /// Set resonance for this packet (builder pattern)
+    pub fn with_resonance(mut self, resonance: Resonance) -> Self {
+        self.resonance = resonance;
+        self
+    }
 
     /// Update position based on resonance velocity
     pub fn update_position(&mut self, dt: f64) {

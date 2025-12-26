@@ -1,0 +1,101 @@
+"CID","Title","MolecularFormula","ConnectivitySMILES","MolecularWeight"
+5301,"19-Ethenyl-18-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-17-oxa-3,13-diazapentacyclo[11.8.0.02,10.04,9.015,20]henicosa-4,6,8,15-tetraen-14-one","C26H32N2O8","C=CC1C2CC3C4C(CCN3C(=O)C2=COC1OC5C(C(C(C(O5)CO)O)O)O)C6=CC=CC=C6N4",500.5
+5302,"Strobane","C10H10Cl8","CC1(C2(C(C(C(C1(C2Cl)Cl)(C(Cl)Cl)Cl)Cl)Cl)Cl)C",413.8
+5303,"3,5,14-trihydroxy-13-methyl-17-(5-oxo-2H-furan-3-yl)-2,3,4,6,7,8,9,11,12,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthrene-10-carboxaldehyde","C23H32O6","CC12CCC3C(C1(CCC2C4=CC(=O)OC4)O)CCC5(C3(CCC(C5)O)C=O)O",404.5
+5304,"Strychnin","C21H22N2O2","C1CN2CC3=CCOC4CC(=O)N5C6C4C3CC2C61C7=CC=CC=C75",334.4
+5305,"2-cyano-3-[4-hydroxy-3,5-di(propan-2-yl)phenyl]-N-(3-phenylpropyl)-2-propenamide","C25H30N2O2","CC(C)C1=CC(=CC(=C1O)C(C)C)C=C(C#N)C(=O)NCCCC2=CC=CC=C2",390.5
+5306,"4-[4-[(2-oxo-1H-indol-3-ylidene)methyl]phenyl]piperazine-1-carbaldehyde","C20H19N3O2","C1CN(CCN1C=O)C2=CC=C(C=C2)C=C3C4=CC=CC=C4NC3=O",333.4
+5307,"(Z)-3-(4-methyl-2-((2-oxoindolin-3-ylidene)methyl)-1H-pyrrol-3-yl)propanoic acid","C17H16N2O3","CC1=CNC(=C1CCC(=O)O)C=C2C3=CC=CC=C3NC2=O",296.32
+5308,"5-Chloro-3-[(3,5-dimethyl-1H-pyrrol-2-yl)methylene]-1,3-dihydroindol-2-one","C15H13ClN2O","CC1=CC(=C(N1)C=C2C3=C(C=CC(=C3)Cl)NC2=O)C",272.73
+5309,"2,3-dihydro-N,N-dimethyl-2-oxo-3-((4,5,6,7-tetrahydro-1H-indol-2-yl)methylene)-1H-Indole-5-sulfonamide","C19H21N3O3S","CN(C)S(=O)(=O)C1=CC2=C(C=C1)NC(=O)C2=CC3=CC4=C(N3)CCCC4",371.5
+5310,"9,11,11-Trimethyl-2-methylidenetricyclo[4.3.2.01,5]undecan-3-one","C15H22O","CC1CCC2C3C1(CC2(C)C)C(=C)C(=O)C3",218.33
+5311,"Vorinostat","C14H20N2O3","C1=CC=C(C=C1)NC(=O)CCCCCCC(=O)NO",264.32
+5312,"Succinylacetone","C7H10O4","CC(=O)CC(=O)CCC(=O)O",158.15
+5313,"4-[2-[3-[[4-[[[5-(6-Aminopurin-9-yl)-4-hydroxy-3-phosphonooxyoxolan-2-yl]methoxy-hydroxyphosphoryl]oxy-hydroxyphosphoryl]oxy-2-hydroxy-3,3-dimethylbutanoyl]amino]propanoylamino]ethylamino]-4-oxobutanoic acid","C25H41N8O19P3","CC(C)(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)C(C(=O)NCCC(=O)NCCNC(=O)CCC(=O)O)O",850.6
+5314,"Succinylcholine","C14H30N2O4+2","C[N+](C)(C)CCOC(=O)CCC(=O)OCC[N+](C)(C)C",290.40
+5315,"Succinylsulfathiazole","C13H13N3O5S2","C1=CC(=CC=C1NC(=O)CCC(=O)O)S(=O)(=O)NC2=NC=CS2",355.4
+5316,"3,3-Dimethyl-7-oxo-4-thia-1-azabicyclo(3.2.0)heptane-2-carboxylic acid 4,4-dioxide","C8H11NO5S","CC1(C(N2C(S1(=O)=O)CC2=O)C(=O)O)C",233.24
+5317,"3,3-Dimethyl-7-oxo-6-[2-phenyl(sulfo)acetamido]-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid","C16H18N2O7S2","CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)S(=O)(=O)O)C(=O)O)C",414.5
+5318,"Sulconazole","C18H15Cl3N2S","C1=CC(=CC=C1CSC(CN2C=CN=C2)C3=C(C=C(C=C3)Cl)Cl)Cl",397.7
+5319,"Sulfabenzamide","C13H12N2O3S","C1=CC=C(C=C1)C(=O)NS(=O)(=O)C2=CC=C(C=C2)N",276.31
+5320,"Sulfacetamide","C8H10N2O3S","CC(=O)NS(=O)(=O)C1=CC=C(C=C1)N",214.24
+5321,"4-amino-N-(6-chloropyridazin-4-yl)benzenesulfonamide","C10H9ClN4O2S","C1=CC(=CC=C1N)S(=O)(=O)NC2=CC(=NN=C2)Cl",284.72
+5322,"Sulfacytine","C12H14N4O3S","CCN1C=CC(=NC1=O)NS(=O)(=O)C2=CC=C(C=C2)N",294.33
+5323,"Sulfadimethoxine","C12H14N4O4S","COC1=NC(=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N)OC",310.33
+5324,"Sulfaguanidine","C7H10N4O2S","C1=CC(=CC=C1N)S(=O)(=O)N=C(N)N",214.25
+5325,"Sulfamerazine","C11H12N4O2S","CC1=NC(=NC=C1)NS(=O)(=O)C2=CC=C(C=C2)N",264.31
+5326,"Sulfameter","C11H12N4O3S","COC1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N",280.31
+5327,"Sulfamethazine","C12H14N4O2S","CC1=CC(=NC(=N1)NS(=O)(=O)C2=CC=C(C=C2)N)C",278.33
+5328,"Sulfamethizole","C9H10N4O2S2","CC1=NN=C(S1)NS(=O)(=O)C2=CC=C(C=C2)N",270.3
+5329,"Sulfamethoxazole","C10H11N3O3S","CC1=CC(=NO1)NS(=O)(=O)C2=CC=C(C=C2)N",253.28
+5330,"Sulfamethoxypyridazine","C11H12N4O3S","COC1=NN=C(C=C1)NS(=O)(=O)C2=CC=C(C=C2)N",280.31
+5331,"(11,11-Dimethyl-4,4-dioxo-3,5,8,10,12-pentaoxa-4lambda6-thiatricyclo[7.3.0.02,6]dodecan-9-yl)methyl sulfamate","C9H15NO10S2","CC1(OC2C3C(COC2(O1)COS(=O)(=O)N)OS(=O)(=O)O3)C",361.4
+5332,"Sulfamonomethoxine","C11H12N4O3S","COC1=NC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N",280.31
+5333,"Sulfanilamide","C6H8N2O2S","C1=CC(=CC=C1N)S(=O)(=O)N",172.21
+5334,"Sulfanitran","C14H13N3O5S","CC(=O)NC1=CC=C(C=C1)S(=O)(=O)NC2=CC=C(C=C2)[N+](=O)[O-]",335.34
+5335,"Sulfaphenazole","C15H14N4O2S","C1=CC=C(C=C1)N2C(=CC=N2)NS(=O)(=O)C3=CC=C(C=C3)N",314.4
+5336,"Sulfapyridine","C11H11N3O2S","C1=CC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N",249.29
+5337,"Benzenesulfonamide, 4-amino-N-2-quinoxalinyl-, ion(1-)","C14H11N4O2S-","C1=CC=C2C(=C1)N=CC(=N2)[N-]S(=O)(=O)C3=CC=C(C=C3)N",299.33
+5338,"Sulfaquinoxaline","C14H12N4O2S","C1=CC=C2C(=C1)N=CC(=N2)NS(=O)(=O)C3=CC=C(C=C3)N",300.34
+5339,"Sulfasalazine","C18H14N4O5S","C1=CC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N=NC3=CC(=C(C=C3)O)C(=O)O",398.4
+5340,"Sulfathiazole","C9H9N3O2S2","C1=CC(=CC=C1N)S(=O)(=O)NC2=NC=CS2",255.3
+5341,"","C7H9N3O2S2","C1=CC(=CC=C1N)S(=O)(=O)N=C(N)S",231.3
+5342,"Sulfinpyrazone","C23H20N2O3S","C1=CC=C(C=C1)N2C(=O)C(C(=O)N2C3=CC=CC=C3)CCS(=O)C4=CC=CC=C4",404.5
+5343,"Sulfisomidine","C12H14N4O2S","CC1=CC(=NC(=N1)C)NS(=O)(=O)C2=CC=C(C=C2)N",278.33
+5344,"Sulfisoxazole","C11H13N3O3S","CC1=C(ON=C1C)NS(=O)(=O)C2=CC=C(C=C2)N",267.31
+5345,"3,3'-(Tetrabromophthalidylidene)bis(6-hydroxybenzenesulfonic acid)","C20H10Br4O10S2","C1=CC(=C(C=C1C2(C3=C(C(=C(C(=C3Br)Br)Br)Br)C(=O)O2)C4=CC(=C(C=C4)O)S(=O)(=O)O)S(=O)(=O)O)O",794.0
+5346,"Sulfolipid 18:0","C43H82O12S","CCCCCCCCCCCCCCCCCC(=O)OCC(COC1C(C(C(C(O1)CS(=O)(=O)O)O)O)O)OC(=O)CCCCCCCCCCCCCCC",823.2
+5347,"[6-(2-Hexadecanoyloxy-3-octadec-15-enoyloxypropoxy)-3,4,5-trihydroxyoxan-2-yl]methanesulfonic acid","C43H80O12S","CCCCCCCCCCCCCCCC(=O)OC(COC1C(C(C(C(O1)CS(=O)(=O)O)O)O)O)COC(=O)CCCCCCCCCCCCCC=CCC",821.2
+5348,"[6-(2-Hexadecanoyloxy-3-octadeca-12,15-dienoyloxypropoxy)-3,4,5-trihydroxyoxan-2-yl]methanesulfonic acid","C43H78O12S","CCCCCCCCCCCCCCCC(=O)OC(COC1C(C(C(C(O1)CS(=O)(=O)O)O)O)O)COC(=O)CCCCCCCCCCC=CCC=CCC",819.1
+5349,"[6-(2-Hexadecanoyloxy-3-octadeca-9,12,15-trienoyloxypropoxy)-3,4,5-trihydroxyoxan-2-yl]methanesulfonic acid","C43H76O12S","CCCCCCCCCCCCCCCC(=O)OC(COC1C(C(C(C(O1)CS(=O)(=O)O)O)O)O)COC(=O)CCCCCCCC=CCC=CCC=CCC",817.1
+5350,"Sulforaphane","C6H11NOS2","CS(=O)CCCCN=C=S",177.3
+5351,"Sulfoxone","C14H16N2O6S3","C1=CC(=CC=C1NCS(=O)O)S(=O)(=O)C2=CC=C(C=C2)NCS(=O)O",404.5
+5352,"5-Fluoro-2-methyl-1-((4-(methylsulfinyl)phenyl)methylene)-1H-indene-3-acetic acid","C20H17FO3S","CC1=C(C2=C(C1=CC3=CC=C(C=C3)S(=O)C)C=CC(=C2)F)CC(=O)O",356.4
+5353,"Sulmazole","C14H13N3O2S","COC1=C(C=CC(=C1)S(=O)C)C2=NC3=C(N2)C=CC=N3",287.34
+5354,"4-((1-Methylethyl)thio)-alpha-(1-(octylamino)ethyl)benzenemethanol","C20H35NOS","CCCCCCCCNC(C)C(C1=CC=C(C=C1)SC(C)C)O",337.6
+5355,"Sulpiride","C15H23N3O4S","CCN1CCCC1CNC(=O)C2=C(C=CC(=C2)S(=O)(=O)N)OC",341.4
+5356,"Sulthiame","C10H14N2O4S2","C1CCS(=O)(=O)N(C1)C2=CC=C(C=C2)S(=O)(=O)N",290.4
+5357,"Sultopride","C17H26N2O4S","CCN1CCCC1CNC(=O)C2=C(C=CC(=C2)S(=O)(=O)CC)OC",354.5
+5358,"Sumatriptan","C14H21N3O2S","CNS(=O)(=O)CC1=CC2=C(C=C1)NC=C2CCN(C)C",295.40
+5359,"Suprofen","C14H12O3S","CC(C1=CC=C(C=C1)C(=O)C2=CC=CS2)C(=O)O",260.31
+5360,"Suramin (sodium salt)","C51H34N6Na6O23S6","CC1=C(C=C(C=C1)C(=O)NC2=C3C(=CC(=CC3=C(C=C2)S(=O)(=O)[O-])S(=O)(=O)[O-])S(=O)(=O)[O-])NC(=O)C4=CC(=CC=C4)NC(=O)NC5=CC=CC(=C5)C(=O)NC6=C(C=CC(=C6)C(=O)NC7=C8C(=CC(=CC8=C(C=C7)S(=O)(=O)[O-])S(=O)(=O)[O-])S(=O)(=O)[O-])C.[Na+].[Na+].[Na+].[Na+].[Na+].[Na+]",1429.2
+5361,"Suramin","C51H40N6O23S6","CC1=C(C=C(C=C1)C(=O)NC2=C3C(=CC(=CC3=C(C=C2)S(=O)(=O)O)S(=O)(=O)O)S(=O)(=O)O)NC(=O)C4=CC(=CC=C4)NC(=O)NC5=CC=CC(=C5)C(=O)NC6=C(C=CC(=C6)C(=O)NC7=C8C(=CC(=CC8=C(C=C7)S(=O)(=O)O)S(=O)(=O)O)S(=O)(=O)O)C",1297.3
+5362,"Suxibuzone","C24H26N2O6","CCCCC1(C(=O)N(N(C1=O)C2=CC=CC=C2)C3=CC=CC=C3)COC(=O)CCC(=O)O",438.5
+5363,"Octahydroindolizine-1,2,8-triol","C8H15NO3","C1CC(C2C(C(CN2C1)O)O)O",173.21
+5364,"3,13,15,25,35,37-Hexahydroxy-11,33-bis[3-hydroxy-6-(4-methoxy-6-methyloxan-2-yl)-4-methylhexan-2-yl]-17,39-dimethoxy-6,12,16,28,34,38-hexamethyl-10,32,45,46-tetraoxatricyclo[39.3.1.119,23]hexatetraconta-5,7,27,29-tetraene-9,31-dione","C78H136O20","CC1CC(CC(O1)CCC(C)C(C(C)C2C(C(CC(C(C(CC3CCCC(O3)CC(CC=C(C=CC(=O)OC(C(C(CC(C(C(CC4CCCC(O4)CC(CC=C(C=CC(=O)O2)C)O)OC)C)O)O)C)C(C)C(C(C)CCC5CC(CC(O5)C)OC)O)C)O)OC)C)O)O)C)O)OC",1393.9
+5365,"4-Methylglutamic acid","C6H11NO4","CC(CC(C(=O)O)N)C(=O)O",161.16
+5366,"(3R,4R,5E,10E,12E,14S,26R,26aS)-26-[[2-(diethylamino)ethyl]sulfonyl]-8,9,14,15,24,25,26,26a-octahydro-14-hydroxy-3-isopropyl-4,12-dimethyl-3H-21,18-nitrilo-1H,22H-pyrrolo[2,1-c][1,8,4,19]-dioxadiazacyclotetracosine-1,7,16,22(4H,17H)-tetrone","C34H50N4O9S","CCN(CC)CCS(=O)(=O)C1CCN2C1C(=O)OC(C(C=CC(=O)NCC=CC(=CC(CC(=O)CC3=NC(=CO3)C2=O)O)C)C)C(C)C",690.8
+5367,"Methyl reserpate, 4-ethoxycarbonyl-3,5-dimethoxybenzoic acid ester","C35H42N2O11","CCOC(=O)OC1=C(C=C(C=C1OC)C(=O)OC2CC3CN4CCC5=C(C4CC3C(C2OC)C(=O)OC)NC6=C5C=CC(=C6)OC)OC",666.7
+5368,"T0156","C31H29N5O7","CC1=NC=CC(=C1)CN2C(=C(C3=C(C2=O)C(=NC=C3)OCC4=NC=CC=N4)C5=CC(=C(C(=C5)OC)OC)OC)C(=O)OC",583.6
+5369,"T-1032 free base","C32H29N3O7","COC1=CC(=CC(=C1OC)OC)C2=C(N(C(=O)C3=C2C=CC(=C3)OCC4=CC=CC=N4)C5=CC=C(C=C5)N)C(=O)OC",567.6
+5370,"(2R,4S)-azetidine-2,4-dicarboxylic acid","C5H7NO4","C1C(NC1C(=O)O)C(=O)O",145.11
+5371,"5-[2-[5-(5-Hydroxy-6-methylheptan-2-yl)-4a-methyl-2,3,4,5,6,7,8,8a-octahydronaphthalen-1-ylidene]ethylidene]-4-methylidenecyclohexane-1,3-diol","C28H46O3","CC(C)C(CCC(C)C1CCCC2C1(CCCC2=CC=C3CC(CC(C3=C)O)O)C)O",430.7
+5372,"Tacrolimus-13C,D2","C44H69NO12","CC1CC(C2C(CC(C(O2)(C(=O)C(=O)N3CCCCC3C(=O)OC(C(C(CC(=O)C(C=C(C1)C)CC=C)O)C)C(=CC4CCC(C(C4)OC)O)C)O)C)OC)OC",804.0
+5373,"Tamampicillin","C24H23N3O6S","CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)N)C(=O)OC4C5=CC=CC=C5C(=O)O4)C",481.5
+5374,"Talipexole","C10H15N3S","C=CCN1CCC2=C(CC1)SC(=N2)N",209.31
+5375,"N-(1-Methyl-2,6-dioxo-1,3-diazinane-4-carbonyl)histidylprolinamide","C17H23N7O5","CN1C(=O)CC(NC1=O)C(=O)NC(CC2=CN=CN2)C(=O)N3CCCC3C(=O)N",405.4
+5376,"(E,Z)-Tamoxifen","C26H29NO","CCC(=C(C1=CC=CC=C1)C2=CC=C(C=C2)OCCN(C)C)C3=CC=CC=C3",371.5
+5377,"3-(1-{4-[2-(Dimethylamino)ethoxy]phenyl}-2-phenylbut-1-en-1-yl)phenol","C26H29NO2","CCC(=C(C1=CC=C(C=C1)OCCN(C)C)C2=CC(=CC=C2)O)C3=CC=CC=C3",387.5
+5378,"2-{4-[4-(pyrimidin-2-yl)piperazin-1-yl]butyl}hexahydro-1H-4,7-methanoisoindole-1,3(2H)-dione","C21H29N5O2","C1CC2CC1C3C2C(=O)N(C3=O)CCCCN4CCN(CC4)C5=NC=CC=N5",383.5
+5379,"Gatifloxacin","C19H22FN3O4","CC1CN(CCN1)C2=C(C=C3C(=C2OC)N(C=C(C3=O)C(=O)O)C4CC4)F",375.4
+5380,"Butyl 2-oxo-2-((3-(2H-tetrazol-5-yl)phenyl)amino)acetate","C13H15N5O3","CCCCOC(=O)C(=O)NC1=CC=CC(=C1)C2=NNN=N2",289.29
+5381,"Tazarotene","C21H21NO2S","CCOC(=O)C1=CN=C(C=C1)C#CC2=CC3=C(C=C2)SCCC3(C)C",351.5
+5382,"Tcpobop","C16H8Cl4N2O2","C1=CC(=CC=C1OC2=C(C=C(C=N2)Cl)Cl)OC3=C(C=C(C=N3)Cl)Cl",402.1
+5383,"Tebuthiuron","C9H16N4OS","CC(C)(C)C1=NN=C(S1)N(C)C(=O)NC",228.32
+5384,"Cardiolite (TN)","C36H72N6O6Tc","CC(C)(CN=[CH-])OC.CC(C)(CN=[CH-])OC.CC(C)(CN=[CH-])OC.CC(C)(CN=[CH-])OC.CC(C)(CN=[CH-])OC.CC(C)(CN=[CH-])OC.[Tc+6]",781.9
+5385,"N-(2-methoxy-2-methylpropyl)methanimine","C6H13NO","CC(C)(CN=C)OC",115.17
+5386,"Tegafur","C8H9FN2O3","C1CC(OC1)N2C=C(C(=O)NC2=O)F",200.17
+5387,"Telenzepine","C19H22N4O2S","CC1=C2C(=CS1)C(=O)NC3=CC=CC=C3N2C(=O)CN4CCN(CC4)C",370.5
+5388,"3-[2-(hydroxymethyl)-1-methylpiperidin-1-ium-1-yl]-N-[6-[3-[2-(hydroxymethyl)-1-methylpiperidin-1-ium-1-yl]propanoylamino]-9,10-dioxoanthracen-2-yl]propanamide","C34H46N4O6+2","C[N+]1(CCCCC1CO)CCC(=O)NC2=CC3=C(C=C2)C(=O)C4=C(C3=O)C=CC(=C4)NC(=O)CC[N+]5(CCCCC5CO)C",606.8
+5389,"N,N'-(9,10-Dihydro-9,10-dioxo-2,6-anthracenediyl)bis-1-piperidinepropanamide","C30H36N4O4","C1CCN(CC1)CCC(=O)NC2=CC3=C(C=C2)C(=O)C4=C(C3=O)C=CC(=C4)NC(=O)CCN5CCCCC5",516.6
+5390,"3,6-Bis(3-piperidinopropionamido)acridine","C29H37N5O2","C1CCN(CC1)CCC(=O)NC2=CC3=C(C=C2)C=C4C=CC(=CC4=N3)NC(=O)CCN5CCCCC5",487.6
+5391,"Temazepam","C16H13ClN2O2","CN1C2=C(C=C(C=C2)Cl)C(=NC(C1=O)O)C3=CC=CC=C3",300.74
+5392,"Temephos","C16H20O6P2S3","COP(=S)(OC)OC1=CC=C(C=C1)SC2=CC=C(C=C2)OP(=S)(OC)OC",466.5
+5393,"Temocapil","C23H28N2O5S2","CCOC(=O)C(CCC1=CC=CC=C1)NC2CSC(CN(C2=O)CC(=O)O)C3=CC=CS3",476.6
+5394,"Temozolomide","C6H6N6O2","CN1C(=O)N2C=NC(=C2N=N1)C(=O)N",194.15
+5395,"1,4-Dihydroxy-2,2,6,6-tetramethylpiperidine","C9H19NO2","CC1(CC(CC(N1O)(C)C)O)C",173.25
+5396,"9-(4-Hydroxy-3,5-dimethoxyphenyl)-8-oxo-5,5a,6,8,8a,9-hexahydro-2H-furo(3',4':6,7)naphtho(2,3-d)(1,3)dioxol-5-yl 4,6-O-((thiophen-2-yl)methylidene)hexopyranoside","C32H32O13S","COC1=CC(=CC(=C1O)OC)C2C3C(COC3=O)C(C4=CC5=C(C=C24)OCO5)OC6C(C(C7C(O6)COC(O7)C8=CC=CS8)O)O",656.7
+5397,"","C13H11N3O4S2","CN1C(=C(NC2=CC=CC=N2)O)C(=O)C3=C(S1(=O)=O)C=CS3",337.4
+5398,"12-Benzylidene-1,6,7-trimethyl-3-(2-methylpropyl)-1,4,7,10-tetrazacyclododecane-2,5,8,11-tetrone","C22H30N4O4","CC1C(=O)NC(C(=O)N(C(=CC2=CC=CC=C2)C(=O)NCC(=O)N1C)C)CC(C)C",414.5
+5399,"(5Z,9Z,13E)-Geranylgeranylacetone","C23H38O","CC(=CCCC(=CCCC(=CCCC(=CCCC(=O)C)C)C)C)C",330.5
+5400,"2-[(Dimethylamino)methyl]-2,3-dihydroinden-1-one","C12H15NO","CN(C)CC1CC2=CC=CC=C2C1=O",189.25

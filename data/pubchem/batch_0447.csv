@@ -1,0 +1,101 @@
+"CID","Title","MolecularFormula","ConnectivitySMILES","MolecularWeight"
+44701,"8-(Methylamino)-5,6,7,8-tetrahydronaphthalene-1,2-diol--hydrogen iodide (1/1)","C11H16INO2","C[NH2+]C1CCCC2=C1C(=C(C=C2)O)O.[I-]",321.15
+44702,"8-(Methylamino)-5,6,7,8-tetrahydronaphthalene-1,2-diol","C11H15NO2","CNC1CCCC2=C1C(=C(C=C2)O)O",193.24
+44703,"2-(2-Ethyl-7-methoxy-1-methyl-1,2,3,4-tetrahydronaphthalen-1-yl)-N,N-dimethylethan-1-amine--hydrogen chloride (1/1)","C18H30ClNO","CCC1CCC2=C(C1(C)CC[NH+](C)C)C=C(C=C2)OC.[Cl-]",311.9
+44704,"2-(2-ethyl-7-methoxy-1-methyl-3,4-dihydro-2H-naphthalen-1-yl)-N,N-dimethylethanamine","C18H29NO","CCC1CCC2=C(C1(C)CCN(C)C)C=C(C=C2)OC",275.4
+44705,"1-Naphthaleneethylamine, 1,2,3,4-tetrahydro-N,N-dimethyl-7-methoxy-1-propyl-, hydrochloride","C18H30ClNO","CCCC1(CCCC2=C1C=C(C=C2)OC)CC[NH+](C)C.[Cl-]",311.9
+44706,"2-(7-methoxy-1-propyl-3,4-dihydro-2H-naphthalen-1-yl)-N,N-dimethylethanamine","C18H29NO","CCCC1(CCCC2=C1C=C(C=C2)OC)CCN(C)C",275.4
+44707,"N,N-Dimethyl-2-(1-methyl-1,2,3,4-tetrahydronaphthalen-1-yl)ethan-1-amine--hydrogen chloride (1/1)","C15H24ClN","CC1(CCCC2=CC=CC=C21)CC[NH+](C)C.[Cl-]",253.81
+44708,"N,N-Dimethyl-2-(1-methyl-1,2,3,4-tetrahydronaphthalen-1-yl)ethan-1-amine","C15H23N","CC1(CCCC2=CC=CC=C21)CCN(C)C",217.35
+44709,"2-(7-Methoxy-1,2-dimethyl-1,2,3,4-tetrahydronaphthalen-1-yl)-N,N-dimethylethan-1-amine--hydrogen bromide (1/1)","C17H28BrNO","CC1CCC2=C(C1(C)CC[NH+](C)C)C=C(C=C2)OC.[Br-]",342.3
+44710,"2-(7-methoxy-1,2-dimethyl-3,4-dihydro-2H-naphthalen-1-yl)-N,N-dimethylethanamine","C17H27NO","CC1CCC2=C(C1(C)CCN(C)C)C=C(C=C2)OC",261.4
+44711,"1-Naphthaleneethylamine, 1,2,3,4-tetrahydro-N,N,1,2-tetramethyl-, hydrochloride","C16H26ClN","CC1CCC2=CC=CC=C2C1(C)CC[NH+](C)C.[Cl-]",267.84
+44712,"2-(1,2-Dimethyl-1,2,3,4-tetrahydronaphthalen-1-yl)-N,N-dimethylethan-1-amine","C16H25N","CC1CCC2=CC=CC=C2C1(C)CCN(C)C",231.38
+44713,"alpha-(Dimethylaminomethyl)-7-methoxy-1-naphthalenemethanol","C15H19NO2","CN(C)CC(C1=CC=CC2=C1C=C(C=C2)OC)O",245.32
+44714,"7-Methoxy-alpha-(piperidinomethyl)-1-naphthalenemethanol","C18H23NO2","COC1=CC2=C(C=CC=C2C(CN3CCCCC3)O)C=C1",285.4
+44715,"alpha-(Piperidinomethyl)-1-naphthalenemethanol","C17H21NO","C1CCN(CC1)CC(C2=CC=CC3=CC=CC=C32)O",255.35
+44716,"1-Naphthalenemethanol, 1,2,3,4-tetrahydro-1-amino-5-methoxy-, hydrochloride","C12H18ClNO2","COC1=CC=CC2=C1CCCC2C([NH3+])O.[Cl-]",243.73
+44717,"Amino-(5-methoxy-1,2,3,4-tetrahydronaphthalen-1-yl)methanol","C12H17NO2","COC1=CC=CC2=C1CCCC2C(N)O",207.27
+44718,"(6-Chloro-5-methoxy-1,2,3,4-tetrahydronaphthalen-1-yl)(dimethylamino)methanol--hydrogen bromide (1/1)","C14H21BrClNO2","C[NH+](C)C(C1CCCC2=C1C=CC(=C2OC)Cl)O.[Br-]",350.68
+44719,"(6-Chloro-5-methoxy-1,2,3,4-tetrahydronaphthalen-1-yl)-(dimethylamino)methanol","C14H20ClNO2","CN(C)C(C1CCCC2=C1C=CC(=C2OC)Cl)O",269.77
+44720,"(Dimethylamino)(5-methoxy-1,2,3,4-tetrahydronaphthalen-1-yl)methanol--hydrogen chloride (1/1)","C14H22ClNO2","C[NH+](C)C(C1CCCC2=C1C=CC=C2OC)O.[Cl-]",271.78
+44721,"Dimethylamino-(5-methoxy-1,2,3,4-tetrahydronaphthalen-1-yl)methanol","C14H21NO2","CN(C)C(C1CCCC2=C1C=CC=C2OC)O",235.32
+44722,"4-Methoxy-N,N-dimethyl-8-(pyrrolidin-1-yl)-5,6,7,8-tetrahydronaphthalene-1-sulfonamide--hydrogen chloride (1/1)","C17H27ClN2O3S","CN(C)S(=O)(=O)C1=C2C(CCCC2=C(C=C1)OC)[NH+]3CCCC3.[Cl-]",374.9
+44723,"4-methoxy-N,N-dimethyl-8-pyrrolidin-1-yl-5,6,7,8-tetrahydronaphthalene-1-sulfonamide","C17H26N2O3S","CN(C)S(=O)(=O)C1=C2C(CCCC2=C(C=C1)OC)N3CCCC3",338.5
+44724,"2-naphthalenesulfonic acid, 3,3'-methylenedi-, mercury salt","C21H14HgO6S2","C1=CC=C2C=C(C(=CC2=C1)CC3=CC4=CC=CC=C4C=C3S(=O)(=O)[O-])S(=O)(=O)[O-].[Hg+2]",627.1
+44725,"Dipotassium 3,3'-methylenedi(naphthalene-2-sulphonate)","C21H14K2O6S2","C1=CC=C2C=C(C(=CC2=C1)CC3=CC4=CC=CC=C4C=C3S(=O)(=O)[O-])S(=O)(=O)[O-].[K+].[K+]",504.7
+44726,"4-(Dimethylamino)-N-methyl-1-phenyl-1,2,3,4-tetrahydronaphthalene-1-carboximidic acid--hydrogen chloride (1/1)","C20H25ClN2O","CNC(=O)C1(CCC(C2=CC=CC=C21)[NH+](C)C)C3=CC=CC=C3.[Cl-]",344.9
+44727,"(1R,4R)-4-(dimethylamino)-N-methyl-1-phenyl-3,4-dihydro-2H-naphthalene-1-carboxamide","C20H24N2O","CNC(=O)C1(CCC(C2=CC=CC=C21)N(C)C)C3=CC=CC=C3",308.4
+44728,"4-(Dimethylamino)-1-phenyl-1,2,3,4-tetrahydronaphthalene-1-carboximidic acid--hydrogen chloride (1/1)","C19H23ClN2O","C[NH+](C)C1CCC(C2=CC=CC=C12)(C3=CC=CC=C3)C(=O)N.[Cl-]",330.8
+44729,"(1R,4R)-4-(dimethylamino)-1-phenyl-3,4-dihydro-2H-naphthalene-1-carboxamide","C19H22N2O","CN(C)C1CCC(C2=CC=CC=C12)(C3=CC=CC=C3)C(=O)N",294.4
+44730,"","C23H26N2O5","C[NH+](C)C1CCC(C2=CC=CC=C12)(C3=CC=CC=C3)C(=O)N.C(=CC(=O)[O-])C(=O)O",410.5
+44731,"(1R)-4-(dimethylamino)-1-phenyl-3,4-dihydro-2H-naphthalene-1-carboxamide","C19H22N2O","CN(C)C1CCC(C2=CC=CC=C12)(C3=CC=CC=C3)C(=O)N",294.4
+44732,"1-Naphthamidine, N-benzyl-N-ethyl-4-methoxy-, hydrochloride","C21H23ClN2O","CC[NH+](CC1=CC=CC=C1)C(=N)C2=CC=C(C3=CC=CC=C32)OC.[Cl-]",354.9
+44733,"N-benzyl-N-ethyl-4-methoxynaphthalene-1-carboximidamide","C21H22N2O","CCN(CC1=CC=CC=C1)C(=N)C2=CC=C(C3=CC=CC=C32)OC",318.4
+44734,"1-Naphthamidine, N,N-bis(sec-butyl)-4-ethoxy-, hydrochloride","C21H31ClN2O","CCC(C)[NH+](C(C)CC)C(=N)C1=CC=C(C2=CC=CC=C21)OCC.[Cl-]",362.9
+44735,"N,N-di(butan-2-yl)-4-ethoxynaphthalene-1-carboximidamide","C21H30N2O","CCC(C)N(C(C)CC)C(=N)C1=CC=C(C2=CC=CC=C21)OCC",326.5
+44736,"N,N-Di(butan-2-yl)-4-methoxynaphthalene-1-carboximidamide--hydrogen chloride (1/1)","C20H29ClN2O","CCC(C)[NH+](C(C)CC)C(=N)C1=CC=C(C2=CC=CC=C21)OC.[Cl-]",348.9
+44737,"N,N-di(butan-2-yl)-4-methoxynaphthalene-1-carboximidamide","C20H28N2O","CCC(C)N(C(C)CC)C(=N)C1=CC=C(C2=CC=CC=C21)OC",312.4
+44738,"(4-Butoxynaphthalene-1-carboximidoyl)-dimethylazanium chloride","C17H23ClN2O","CCCCOC1=CC=C(C2=CC=CC=C21)C(=N)[NH+](C)C.[Cl-]",306.8
+44739,"4-butoxy-N,N-dimethylnaphthalene-1-carboximidamide","C17H22N2O","CCCCOC1=CC=C(C2=CC=CC=C21)C(=N)N(C)C",270.37
+44740,"1-Naphthamidine, N-butyl-4-methoxy-N-(p-methoxyphenyl)-, hydrochloride","C23H27ClN2O2","CCCC[NH+](C1=CC=C(C=C1)OC)C(=N)C2=CC=C(C3=CC=CC=C32)OC.[Cl-]",398.9
+44741,"N-butyl-4-methoxy-N-(4-methoxyphenyl)naphthalene-1-carboximidamide","C23H26N2O2","CCCCN(C1=CC=C(C=C1)OC)C(=N)C2=CC=C(C3=CC=CC=C32)OC",362.5
+44742,"N,N-Dibutyl-4-ethoxynaphthalene-1-carboximidamide--hydrogen chloride (1/1)","C21H31ClN2O","CCCC[NH+](CCCC)C(=N)C1=CC=C(C2=CC=CC=C21)OCC.[Cl-]",362.9
+44743,"N,N-dibutyl-4-ethoxynaphthalene-1-carboximidamide","C21H30N2O","CCCCN(CCCC)C(=N)C1=CC=C(C2=CC=CC=C21)OCC",326.5
+44744,"N,N-Dibutyl-4-methoxynaphthalene-1-carboximidamide--hydrogen chloride (1/1)","C20H29ClN2O","CCCC[NH+](CCCC)C(=N)C1=CC=C(C2=CC=CC=C21)OC.[Cl-]",348.9
+44745,"N,N-dibutyl-4-methoxynaphthalene-1-carboximidamide","C20H28N2O","CCCCN(CCCC)C(=N)C1=CC=C(C2=CC=CC=C21)OC",312.4
+44746,"N,N-Diethyl-4-methoxynaphthalene-1-carboximidamide--hydrogen chloride (1/1)","C16H21ClN2O","CC[NH+](CC)C(=N)C1=CC=C(C2=CC=CC=C21)OC.[Cl-]",292.80
+44747,"N,N-diethyl-4-methoxynaphthalene-1-carboximidamide","C16H20N2O","CCN(CC)C(=N)C1=CC=C(C2=CC=CC=C21)OC",256.34
+44748,"1-Naphthamidine, N,N-dihexyl-4-methoxy-, hydrochloride","C24H37ClN2O","CCCCCC[NH+](CCCCCC)C(=N)C1=CC=C(C2=CC=CC=C21)OC.[Cl-]",405.0
+44749,"N,N-dihexyl-4-methoxynaphthalene-1-carboximidamide","C24H36N2O","CCCCCCN(CCCCCC)C(=N)C1=CC=C(C2=CC=CC=C21)OC",368.6
+44750,"4-Ethoxy-N,N-bis(2-methylpropyl)naphthalene-1-carboximidamide--hydrogen chloride (1/1)","C21H31ClN2O","CCOC1=CC=C(C2=CC=CC=C21)C(=N)[NH+](CC(C)C)CC(C)C.[Cl-]",362.9
+44751,"4-ethoxy-N,N-bis(2-methylpropyl)naphthalene-1-carboximidamide","C21H30N2O","CCOC1=CC=C(C2=CC=CC=C21)C(=N)N(CC(C)C)CC(C)C",326.5
+44752,"4-Methoxy-N,N-bis(2-methylpropyl)naphthalene-1-carboximidamide--hydrogen chloride (1/1)","C20H29ClN2O","CC(C)C[NH+](CC(C)C)C(=N)C1=CC=C(C2=CC=CC=C21)OC.[Cl-]",348.9
+44753,"4-methoxy-N,N-bis(2-methylpropyl)naphthalene-1-carboximidamide","C20H28N2O","CC(C)CN(CC(C)C)C(=N)C1=CC=C(C2=CC=CC=C21)OC",312.4
+44754,"1-Naphthamidine, N,N-diisopentyl-4-ethoxy-, hydrochloride","C23H35ClN2O","CCOC1=CC=C(C2=CC=CC=C21)C(=N)[NH+](CCC(C)C)CCC(C)C.[Cl-]",391.0
+44755,"4-ethoxy-N,N-bis(3-methylbutyl)naphthalene-1-carboximidamide","C23H34N2O","CCOC1=CC=C(C2=CC=CC=C21)C(=N)N(CCC(C)C)CCC(C)C",354.5
+44756,"1-Naphthamidine, N,N-diisopentyl-4-methoxy-, hydrochloride","C22H33ClN2O","CC(C)CC[NH+](CCC(C)C)C(=N)C1=CC=C(C2=CC=CC=C21)OC.[Cl-]",377.0
+44757,"4-methoxy-N,N-bis(3-methylbutyl)naphthalene-1-carboximidamide","C22H32N2O","CC(C)CCN(CCC(C)C)C(=N)C1=CC=C(C2=CC=CC=C21)OC",340.5
+44758,"4-Methoxy-N,N-di(propan-2-yl)naphthalene-1-carboximidamide--hydrogen chloride (1/1)","C18H25ClN2O","CC(C)[NH+](C(C)C)C(=N)C1=CC=C(C2=CC=CC=C21)OC.[Cl-]",320.9
+44759,"4-methoxy-N,N-di(propan-2-yl)naphthalene-1-carboximidamide","C18H24N2O","CC(C)N(C(C)C)C(=N)C1=CC=C(C2=CC=CC=C21)OC",284.4
+44760,"N-Benzyl-4-methoxy-N-methyl-8-(pyrrolidin-1-yl)-5,6,7,8-tetrahydronaphthalene-1-sulfonamide--hydrogen chloride (1/1)","C23H31ClN2O3S","CN(CC1=CC=CC=C1)S(=O)(=O)C2=C3C(CCCC3=C(C=C2)OC)[NH+]4CCCC4.[Cl-]",451.0
+44761,"N-benzyl-4-methoxy-N-methyl-8-pyrrolidin-1-yl-5,6,7,8-tetrahydronaphthalene-1-sulfonamide","C23H30N2O3S","CN(CC1=CC=CC=C1)S(=O)(=O)C2=C3C(CCCC3=C(C=C2)OC)N4CCCC4",414.6
+44762,"1-Naphthalenesulfinic acid, 8,8'-trithiodi-, disodium salt, dihydrate","C20H12Na2O4S5","C1=CC2=C(C=C(C=C2)S(=O)[O-])C(=C1)SSSC3=CC=CC4=C3C=C(C=C4)S(=O)[O-].[Na+].[Na+]",522.6
+44763,"8-[(7-Sulfinonaphthalen-1-yl)trisulfanyl]naphthalene-2-sulfinic acid","C20H14O4S5","C1=CC2=C(C=C(C=C2)S(=O)O)C(=C1)SSSC3=CC=CC4=C3C=C(C=C4)S(=O)O",478.7
+44764,"1-Naphthamide, 1,2,3,4-tetrahydro-4-(dimethylamino)-N,N-dimethyl-1-phenyl-, hydrochloride, dihydrate, (Z)-","C21H27ClN2O","C[NH+](C)C1CCC(C2=CC=CC=C12)(C3=CC=CC=C3)C(=O)N(C)C.[Cl-]",358.9
+44765,"","C21H26N2O","CN(C)C1CCC(C2=CC=CC=C12)(C3=CC=CC=C3)C(=O)N(C)C",322.4
+44766,"Benzilic acid, 2-(piperidinoamino)ethyl ester, hydrochloride","C21H27ClN2O3","C1CC[NH+](CC1)NCCOC(=O)C(C2=CC=CC=C2)(C3=CC=CC=C3)O.[Cl-]",390.9
+44767,"2-(Piperidin-1-ylamino)ethyl 2-hydroxy-2,2-diphenylacetate","C21H26N2O3","C1CCN(CC1)NCCOC(=O)C(C2=CC=CC=C2)(C3=CC=CC=C3)O",354.4
+44768,"1,4-Butanediol, 2,3-dichloro-, (+,-)-","C4H8Cl2O2","C(C(C(CO)Cl)Cl)O",159.01
+44769,"4-Methoxy-N-methyl-8-(pyrrolidin-1-yl)-5,6,7,8-tetrahydronaphthalene-1-sulfonamide--hydrogen chloride (1/1)","C16H25ClN2O3S","CNS(=O)(=O)C1=C2C(CCCC2=C(C=C1)OC)[NH+]3CCCC3.[Cl-]",360.9
+44770,"4-methoxy-N-methyl-8-pyrrolidin-1-yl-5,6,7,8-tetrahydronaphthalene-1-sulfonamide","C16H24N2O3S","CNS(=O)(=O)C1=C2C(CCCC2=C(C=C1)OC)N3CCCC3",324.4
+44771,"Bicyclo(2.2.2)octane-2-methylamine, 3-(m-chlorophenyl)-N,N-dimethyl-, hydrochloride, (E)-","C17H25Cl2N","C[NH+](C)CC1C2CCC(C1C3=CC(=CC=C3)Cl)CC2.[Cl-]",314.3
+44772,"1-[(2R)-3-(3-chlorophenyl)-2-bicyclo[2.2.2]octanyl]-N,N-dimethylmethanamine","C17H24ClN","CN(C)CC1C2CCC(C1C3=CC(=CC=C3)Cl)CC2",277.8
+44773,"2,7-Naphthalenediamidine","C12H12N4","C1=CC(=CC2=C1C=CC(=C2)C(=N)N)C(=N)N",212.25
+44774,"N,3-Dimethylhexan-3-amine--hydrogen chloride (1/1)","C8H20ClN","CCCC(C)(CC)[NH2+]C.[Cl-]",165.70
+44775,"NA2FB N-Glycan","C8H19N","CCCC(C)(CC)NC",129.24
+44776,"2-amino-3-(1H-imidazol-5-yl)propanethioic S-acid","C6H9N3OS","C1=C(NC=N1)CC(C(=O)S)N",171.22
+44777,"dl-6-Dimethylamino-4,4-diphenyl-5-methyl-3-hexanone hydrochloride, monohydrate","C21H28ClNO","CCC(=O)C(C1=CC=CC=C1)(C2=CC=CC=C2)C(C)C[NH+](C)C.[Cl-]",345.9
+44778,"N-Ethyl-2-(furan-2-yl)-2-hydroxyethanimidic acid","C8H11NO3","CCNC(=O)C(C1=CC=CO1)O",169.18
+44779,"N-(6-(Dimethylamino)-4,4-diphenyl-3-heptylidene)acetamide hydrochloride","C23H31ClN2O","CCC(=NC(=O)C)C(CC(C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2.Cl",387.0
+44780,"N-[6-(dimethylamino)-4,4-diphenylheptan-3-ylidene]acetamide","C23H30N2O","CCC(=NC(=O)C)C(CC(C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2",350.5
+44781,"5-Chloro-N,N-dimethyl-4,4-diphenylheptan-2-amine--hydrogen chloride (1/1)","C21H29Cl2N","CCC(C(CC(C)[NH+](C)C)(C1=CC=CC=C1)C2=CC=CC=C2)Cl.[Cl-]",366.4
+44782,"5-chloro-N,N-dimethyl-4,4-diphenylheptan-2-amine","C21H28ClN","CCC(C(CC(C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2)Cl",329.9
+44783,"Heptanedioic acid, 4-acetyl-4-methyl-, diallyl ester","C16H24O5","CC(=O)C(C)(CCC(=O)OCC=C)CCC(=O)OCC=C",296.36
+44784,"Heptane-2,4-diyl bis(hydrogen carbonimidate)","C9H18N2O4","CCCC(CC(C)OC(=O)N)OC(=O)N",218.25
+44785,"4-Ethyl-3,5-heptanedione dioxime","C9H18N2O2","CCC(C(=NO)CC)C(=NO)CC",186.25
+44786,"2-Hydroxy-4,6,6-trimethylheptanenitrile","C10H19NO","CC(CC(C#N)O)CC(C)(C)C",169.26
+44787,"Heptanethiol, 7-amino-","C7H17NS","C(CCCN)CCCS",147.28
+44788,"3-Ethyl-2-hydroxyheptanoic acid","C9H18O3","CCCCC(CC)C(C(=O)O)O",174.24
+44789,"2-Heptanol, 2,4-dimethyl-6-methylamino-, hydrochloride","C10H24ClNO","CC(CC(C)[NH2+]C)CC(C)(C)O.[Cl-]",209.76
+44790,"2,4-Dimethyl-6-(methylamino)heptan-2-ol","C10H23NO","CC(CC(C)NC)CC(C)(C)O",173.30
+44791,"2,5-Dimethyl-6-(methylamino)heptan-2-ol--hydrogen chloride (1/1)","C10H24ClNO","CC(CCC(C)(C)O)C(C)[NH2+]C.[Cl-]",209.76
+44792,"2,5-Dimethyl-6-(methylamino)heptan-2-ol","C10H23NO","CC(CCC(C)(C)O)C(C)NC",173.30
+44793,"3-Heptanone, 7-dimethylamino-4,4-diphenyl-, hydrochloride","C21H28ClNO","CCC(=O)C(CCC[NH+](C)C)(C1=CC=CC=C1)C2=CC=CC=C2.[Cl-]",345.9
+44794,"7-(Dimethylamino)-4,4-diphenylheptan-3-one","C21H27NO","CCC(=O)C(CCCN(C)C)(C1=CC=CC=C1)C2=CC=CC=C2",309.4
+44795,"N,N,N-Trimethyl-5-oxo-4,4-diphenylheptan-2-aminium chloride","C22H30ClNO","CCC(=O)C(CC(C)[N+](C)(C)C)(C1=CC=CC=C1)C2=CC=CC=C2.[Cl-]",359.9
+44796,"Trimethyl-(5-oxo-4,4-diphenylheptan-2-yl)azanium","C22H30NO+","CCC(=O)C(CC(C)[N+](C)(C)C)(C1=CC=CC=C1)C2=CC=CC=C2",324.5
+44797,"3-Heptanone, 4,4-diphenyl-7-pyrrolidinyl-","C23H29NO","CCC(=O)C(CCCN1CCCC1)(C2=CC=CC=C2)C3=CC=CC=C3",335.5
+44798,"","C13H20ClNO","CCCCCCC(=O)C1=CC=C(C=C1)[NH3+].[Cl-]",241.76
+44799,"4-Aminoheptanoylphenone","C13H19NO","CCCCCCC(=O)C1=CC=C(C=C1)N",205.30
+44800,"","C21H28ClN","CC=CC(CC(C)[NH+](C)C)(C1=CC=CC=C1)C2=CC=CC=C2.[Cl-]",329.9

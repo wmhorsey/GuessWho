@@ -1,0 +1,11 @@
+# Common organic compounds
+CCO	Ethanol
+CC(C)=O	Acetone
+c1ccccc1	Benzene
+Cc1ccccc1	Toluene
+CC(=O)O	Acetic acid
+CO	Methanol
+CC(=O)OC1=CC=CC=C1C(O)=O	Aspirin
+CC(=O)NC1=CC=C(O)C=C1	Acetaminophen
+NCC(O)=O	Glycine
+CC(N)C(O)=O	Alanine

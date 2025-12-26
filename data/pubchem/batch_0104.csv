@@ -1,0 +1,101 @@
+"CID","Title","MolecularFormula","ConnectivitySMILES","MolecularWeight"
+10401,"epsilon-CAPROLACTONE","C6H10O2","C1CCC(=O)OCC1",114.14
+10402,"Citronellic acid","C10H18O2","CC(CCC=C(C)C)CC(=O)O",170.25
+10403,"Cyclooctanone","C8H14O","C1CCCC(=O)CCC1",126.20
+10404,"Dixanthogen","C6H10O2S4","CCOC(=S)SSC(=S)OCC",242.4
+10405,"5-Nonanone","C9H18O","CCCCC(=O)CCCC",142.24
+10406,"Octamylamine","C13H29N","CC(C)CCCC(C)NCCC(C)C",199.38
+10407,"7,11-Dimethyl-3-methylene-1,6,10-dodecatriene","C15H24","CC(=CCCC(=CCCC(=C)C=C)C)C",204.35
+10408,"6,10,14-Trimethyl-2-pentadecanone","C18H36O","CC(C)CCCC(C)CCCC(C)CCCC(=O)C",268.5
+10409,"Cyclopentadecanone","C15H28O","C1CCCCCCCC(=O)CCCCCC1",224.38
+10410,"","C4H6FNaO2","C(CC(=O)[O-])CF.[Na+]",128.08
+10411,"4-fluorobutanoic Acid","C4H7FO2","C(CC(=O)O)CF",106.10
+10412,"","C4H7NaO3","C(CC(=O)[O-])CO.[Na+]",126.09
+10413,"4-Hydroxybutyric Acid","C4H8O3","C(CC(=O)O)CO",104.10
+10414,"Chlorazodine","C2H4Cl2N6","C(=NCl)(N)N=NC(=NCl)N",183.00
+10415,"N,6-Dimethyl-2-heptanamine","C9H21N","CC(C)CCCC(C)NC",143.27
+10416,"Malvalic acid","C18H32O2","CCCCCCCCC1=C(C1)CCCCCCC(=O)O",280.4
+10417,"Phytomonic acid","C19H36O2","CCCCCCC1CC1CCCCCCCCCC(=O)O",296.5
+10418,"1,2-Epoxy-3-fluoropropane","C3H5FO","C1C(O1)CF",76.07
+10419,"Dimethylacetylene","C4H6","CC#CC",54.09
+10420,"Acetonitrile, fluoro-","C2H2FN","C(C#N)F",59.04
+10421,"Dimethyldiazene","C2H6N2","CN=NC",58.08
+10422,"Azetidine","C3H7N","C1CNC1",57.09
+10423,"Oxetane","C3H6O","C1COC1",58.08
+10424,"N,N,N-Trimethylprop-2-en-1-aminium hydroxide","C6H15NO","C[N+](C)(C)CC=C.[OH-]",117.19
+10425,"Allyl-trimethyl-ammonium","C6H14N+","C[N+](C)(C)CC=C",100.18
+10426,"Diphosgene","C2Cl4O2","C(=O)(OC(Cl)(Cl)Cl)Cl",197.8
+10427,"Methanedisulfonic acid","CH4O6S2","C(S(=O)(=O)O)S(=O)(=O)O",176.17
+10428,"(+-)-Mevalonolactone","C6H10O3","CC1(CCOC(=O)C1)O",130.14
+10429,"1-Chloro-3-methyl-2-butene","C5H9Cl","CC(=CCCl)C",104.58
+10430,"Isovaleric Acid","C5H10O2","CC(C)CC(=O)O",102.13
+10431,"Arsinous acid, As,As-dimethyl-, anhydride","C4H12As2O","C[As](C)O[As](C)C",225.98
+10432,"","C3H4N2OS","C1C(=O)NC(=N1)S",116.14
+10433,"1,3-Cyclohexanediol","C6H12O2","C1CC(CC(C1)O)O",116.16
+10434,"1,3-Cyclohexanedione","C6H8O2","C1CC(=O)CC(=O)C1",112.13
+10435,"1,3,5-Triazine-2,4-diamine","C3H5N5","C1=NC(=NC(=N1)N)N",111.11
+10436,"Orcinol","C7H8O2","CC1=CC(=CC(=C1)O)O",124.14
+10437,"","C4H4N2O2S","C1C(=O)NC(=NC1=O)S",144.15
+10438,"Phorone","C9H14O","CC(=CC(=O)C=C(C)C)C",138.21
+10439,"2-Aminopyridine","C5H6N2","C1=CC=NC(=C1)N",94.11
+10440,"18-Pentatriacontanone","C35H70O","CCCCCCCCCCCCCCCCCC(=O)CCCCCCCCCCCCCCCCC",506.9
+10441,"10-Nonadecanone","C19H38O","CCCCCCCCCC(=O)CCCCCCCCC",282.5
+10442,"1,3-Propanediol","C3H8O2","C(CO)CO",76.09
+10443,"Dicyanamide","C2HN3","C(#N)NC#N",67.05
+10444,"Thiazolidine","C3H7NS","C1CSCN1",89.16
+10445,"","C2H4N2S4","C(=N)(S)SSC(=N)S",184.3
+10446,"Neophytadiene","C20H38","CC(C)CCCC(C)CCCC(C)CCCC(=C)C=C",278.5
+10447,"6-Methyloctanoic acid","C9H18O2","CCC(C)CCCCC(=O)O",158.24
+10448,"3-(Methylthio)-1-propanol","C4H10OS","CSCCCO",106.19
+10449,"1-Fluoro-2-isocyanatoethane","C3H4FNO","C(CF)N=C=O",89.07
+10450,"1,3-Dioxane","C4H8O2","C1COCOC1",88.11
+10451,"1,3-Dithiane","C4H8S2","C1CSCSC1",120.2
+10452,"1,4-Dithiane","C4H8S2","C1CSCCS1",120.2
+10453,"Isophytol","C20H40O","CC(C)CCCC(C)CCCC(C)CCCC(C)(C=C)O",296.5
+10454,"Cheirolin","C5H9NO2S2","CS(=O)(=O)CCCN=C=S",179.3
+10455,"Iberin","C5H9NOS2","CS(=O)CCCN=C=S",163.3
+10456,"N-(2-carboxyethyl)-beta-alanine","C6H11NO4","C(CNCCC(=O)O)C(=O)O",161.16
+10457,"Suberic acid","C8H14O4","C(CCCC(=O)O)CCC(=O)O",174.19
+10458,"Tridecanedioic acid","C13H24O4","C(CCCCCC(=O)O)CCCCCC(=O)O",244.33
+10459,"Hexadecanedioic acid","C16H30O4","C(CCCCCCCC(=O)O)CCCCCCC(=O)O",286.41
+10460,"Hexenal","C6H10O","CCCC=CC=O",98.14
+10461,"Sulfur Mustard","C4H8Cl2S","C(CCl)SCCCl",159.08
+10462,"Dinitroethylene diamine","C2H6N4O4","C(CN[N+](=O)[O-])N[N+](=O)[O-]",150.09
+10463,"Heptadeca-8,10,12-triene-4,6-diyne-1,14-diol","C17H22O2","CCCC(C=CC=CC=CC#CC#CCCCO)O",258.35
+10464,"Undecane, 1-fluoro-","C11H23F","CCCCCCCCCCCF",174.30
+10465,"Heptadecanoic Acid","C17H34O2","CCCCCCCCCCCCCCCCC(=O)O",270.5
+10466,"16-Hydroxyhexadecanoic acid","C16H32O3","C(CCCCCCCC(=O)O)CCCCCCCO",272.42
+10467,"Eicosanoic Acid","C20H40O2","CCCCCCCCCCCCCCCCCCCC(=O)O",312.5
+10468,"Pentacosanoic acid","C25H50O2","CCCCCCCCCCCCCCCCCCCCCCCCC(=O)O",382.7
+10469,"Hexacosanoic Acid","C26H52O2","CCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O",396.7
+10470,"Octacosanoic acid","C28H56O2","CCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O",424.7
+10471,"Triacontanoic acid","C30H60O2","CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)O",452.8
+10472,"1-Tetracosanol","C24H50O","CCCCCCCCCCCCCCCCCCCCCCCCO",354.7
+10473,"Dimethylamine, hydrochloride","C2H8ClN","CNC.Cl",81.54
+10474,"Potassium silver cyanide","C2AgKN2","[C-]#N.[C-]#N.[K+].[Ag+]",199.00
+10475,"Silver cyanide","CAgN","[C-]#N.[Ag+]",133.886
+10476,"Cyanogen Bromide","CBrN","C(#N)Br",105.92
+10477,"Cyanogen Chloride","CClN","C(#N)Cl",61.47
+10478,"Cyanogen iodide","CIN","C(#N)I",152.922
+10479,"Dimethylcadmium","C2H6Cd","[CH3-].[CH3-].[Cd+2]",142.48
+10480,"Hartshorn salt","CH8N2O3","C(=O)(O)O.N.N",96.09
+10481,"Guanidine Nitrate","CH6N4O3","C(=N)(N)N.[N+](=O)(O)[O-]",122.08
+10482,"Acetyl bromide","C2H3BrO","CC(=O)Br",122.95
+10483,"Acetyl iodide","C2H3IO","CC(=O)I",169.95
+10484,"Thioacetic acid","C2H4OS","CC(=O)S",76.12
+10485,"t-Butyl bromide","C4H9Br","CC(C)(C)Br",137.02
+10486,"tert-BUTYL CHLORIDE","C4H9Cl","CC(C)(C)Cl",92.57
+10487,"Carbon tetraiodide","CI4","C(I)(I)(I)I",519.628
+10488,"2-Hydroxy-N,N,N-trimethylethan-1-aminium hexonate","C11H25NO8","C[N+](C)(C)CCO.C(C(C(C(C(C(=O)[O-])O)O)O)O)O",299.32
+10489,"Amylene dichloride","C5H10Cl2","CC(C(C)(C)Cl)Cl",141.04
+10490,"[(3S,8R,10S,13R,14R,17R)-3,8,14-trihydroxy-13-methyl-17-(6-oxopyran-3-yl)-2,3,6,7,9,11,12,15,16,17-decahydro-1H-cyclopenta[a]phenanthren-10-yl]methyl acetate","C26H34O7","CC(=O)OCC12CCC(C=C1CCC3(C2CCC4(C3(CCC4C5=COC(=O)C=C5)O)C)O)O",458.5
+10491,"Perfluorooctyl iodide","C8F17I","C(C(C(C(C(F)(F)I)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F",545.96
+10492,"(1R,2S,4S)-1,7,7-trimethylbicyclo(2.2.1)heptan-2-ol","C10H18O","CC1(C2CCC1(C(C2)O)C)C",154.25
+10493,"Sinoside","C30H44O9","CC1C(C(CC(O1)OC2CCC3(C(C2)CCC4C3C(CC5(C4(CCC5C6=CC(=O)OC6)O)C)O)C=O)OC)O",548.7
+10494,"Oleanolic Acid","C30H48O3","CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C2C1)C)C(=O)O)C",456.7
+10495,"3-Epioleandrigenin","C25H36O6","CC(=O)OC1CC2(C3CCC4CC(CCC4(C3CCC2(C1C5=CC(=O)OC5)C)C)O)O",432.5
+10496,"1,7-Dioxadispiro(4.0.4.2)dodeca-3,9-diene-2,8-dione","C10H8O4","C1CC2(C13C=CC(=O)O3)C=CC(=O)O2",192.17
+10497,"3-[(1R,3S,5S,10R,11R,13R,14S,17R)-1,3,5,11,14-pentahydroxy-10-(hydroxymethyl)-13-methyl-2,3,4,6,7,8,9,11,12,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-17-yl]-2H-furan-5-one","C23H34O8","CC12CC(C3C(C1(CCC2C4=CC(=O)OC4)O)CCC5(C3(C(CC(C5)O)O)CO)O)O",438.5
+10498,"","C18H19NO4","CN1CCC23C4C(=O)C=CC2(C1CC5=C3C(=C(C=C5)OC)O4)O",313.3
+10499,"Hymenin","C15H18O4","CC1CCC2C(C3(C1(C=CC3=O)O)C)OC(=O)C2=C",262.30
+10500,"(10S,13S,14S,16R)-6,10,19-trimethyl-24-oxa-4-azaheptacyclo[12.12.0.02,11.04,9.015,25.018,23.019,25]hexacosane-10,12,13,14,16,22,23-heptol","C27H43NO8","CC1CCC2C(C3C(CN2C1)C4CC56C(C4(C(C3O)O)O)C(CC7C5(CCC(C7(O6)O)O)C)O)(C)O",509.6

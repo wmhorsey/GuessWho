@@ -1,0 +1,101 @@
+"CID","Title","MolecularFormula","ConnectivitySMILES","MolecularWeight"
+35501,"2-Azido-4,6-bis(trichloromethyl)-1,3,5-triazine","C5Cl6N6","C1(=NC(=NC(=N1)N=[N+]=[N-])C(Cl)(Cl)Cl)C(Cl)(Cl)Cl",356.8
+35502,"1-Hydroxy-6-imino-4-(trichloromethyl)-1,3,5-triazin-2-amine","C4H4Cl3N5O","C1(=NC(=N)N(C(=N1)N)O)C(Cl)(Cl)Cl",244.46
+35503,"1-Hydroxy-6-methyl-4-(trichloromethyl)-1,3,5-triazin-2-imine","C5H5Cl3N4O","CC1=NC(=NC(=N)N1O)C(Cl)(Cl)Cl",243.5
+35504,"1,3,5-Tris(4-chlorophenyl)-1,3,5-triazinane","C21H18Cl3N3","C1N(CN(CN1C2=CC=C(C=C2)Cl)C3=CC=C(C=C3)Cl)C4=CC=C(C=C4)Cl",418.7
+35505,"1-[3,5-Bis(2,2,2-trichloroacetyl)-1,3,5-triazinan-1-yl]-2,2,2-trichloroethanone","C9H6Cl9N3O3","C1N(CN(CN1C(=O)C(Cl)(Cl)Cl)C(=O)C(Cl)(Cl)Cl)C(=O)C(Cl)(Cl)Cl",523.2
+35506,"Hexahydro-1,3,5-tripropionyl-s-triazine","C12H21N3O3","CCC(=O)N1CN(CN(C1)C(=O)CC)C(=O)CC",255.31
+35507,"1-[3,5-Bis(2,2,3-trichloropropanoyl)-1,3,5-triazinan-1-yl]-2,2,3-trichloropropan-1-one","C12H12Cl9N3O3","C1N(CN(CN1C(=O)C(CCl)(Cl)Cl)C(=O)C(CCl)(Cl)Cl)C(=O)C(CCl)(Cl)Cl",565.3
+35508,"1,3,5-Tris(trichloromethyl)-1,3,5-triazinane","C6H6Cl9N3","C1N(CN(CN1C(Cl)(Cl)Cl)C(Cl)(Cl)Cl)C(Cl)(Cl)Cl",439.2
+35509,"1,2-Dihydro-2,2,4,6-tetraphenyl-1,3,5-triazine","C27H21N3","C1=CC=C(C=C1)C2=NC(N=C(N2)C3=CC=CC=C3)(C4=CC=CC=C4)C5=CC=CC=C5",387.5
+35510,"1-(4-Chloro-phenyl)-6-methyl-1,6-dihydro-[1,3,5]triazine-2,4-diamine","C10H12ClN5","CC1N=C(N=C(N1C2=CC=C(C=C2)Cl)N)N",237.69
+35511,"1-(4-chlorophenyl)-2-propan-2-yl-2H-1,3,5-triazine-4,6-diamine","C12H16ClN5","CC(C)C1N=C(N=C(N1C2=CC=C(C=C2)Cl)N)N",265.74
+35512,"1-(3,4-dichlorophenyl)-2-propan-2-yl-2H-1,3,5-triazine-4,6-diamine","C12H15Cl2N5","CC(C)C1N=C(N=C(N1C2=CC(=C(C=C2)Cl)Cl)N)N",300.18
+35513,"6,6-Dimethyl-1-(3-nitrophenyl)-1,3,5-triazine-2,4-diamine","C11H14N6O2","CC1(N=C(N=C(N1C2=CC(=CC=C2)[N+](=O)[O-])N)N)C",262.27
+35514,"1-Ethyl-1,3,5-triazinane-2,4,6-trione","C5H7N3O3","CCN1C(=O)NC(=O)NC1=O",157.13
+35515,"6-Phenyl-2,4-dioxohexahydro-1,3,5-triazine","C9H9N3O2","C1=CC=C(C=C1)C2NC(=O)NC(=O)N2",191.19
+35516,"4-amino-2-phenyl-2,5-dihydro-1H-1,3,5-triazin-6-one","C9H10N4O","C1=CC=C(C=C1)C2NC(=O)NC(=N2)N",190.20
+35517,"","C9H9N3S2","C1=CC=C(C=C1)C2N=C(NC(=N2)S)S",223.3
+35518,"4,6-Dimethyl-1,3,5-triazinan-2-one","C5H11N3O","CC1NC(NC(=O)N1)C",129.16
+35519,"2,4-Dimethyl-1,2,3,4-tetrahydro-1,3,5-triazin-6-amine","C5H12N4","CC1NC(N=C(N1)N)C",128.18
+35520,"4,6-Bis(trichloromethyl)-1,3,5-triazinan-2-one","C5H5Cl6N3O","C1(NC(NC(=O)N1)C(Cl)(Cl)Cl)C(Cl)(Cl)Cl",335.8
+35521,"","C5H5Cl6N3S","C1(NC(N=C(N1)S)C(Cl)(Cl)Cl)C(Cl)(Cl)Cl",351.9
+35522,"Tetrahydro-4,6-diisopropyl-S-triazin-2(1H)-one","C9H19N3O","CC(C)C1NC(NC(=O)N1)C(C)C",185.27
+35523,"[6-(Dimethylamino)-8a-hydroxy-1,5-dimethyl-4,7-dioxo-1,1a,2,4,7,8,8a,8b-octahydroazireno[2',3':3,4]pyrrolo[1,2-a]indol-8-yl]methyl hydrogen carbonimidate","C17H22N4O5","CC1=C(C(=O)C2=C(C1=O)N3CC4C(C3(C2COC(=O)N)O)N4C)N(C)C",362.4
+35524,"1,4a-Dimethyl-7-(propan-2-yl)decahydronaphthalene","C15H28","CC1CCCC2(C1CC(CC2)C(C)C)C",208.38
+35525,"1,3-Bis(prop-1-enyl)imidazolidin-2-one","C9H14N2O","CC=CN1CCN(C1=O)C=CC",166.22
+35526,"1,3-Diethyl-2-imidazolidinethione","C7H14N2S","CCN1CCN(C1=S)CC",158.27
+35527,"2-Imidazolidinethione, 1,3-dibutyl-","C11H22N2S","CCCCN1CCN(C1=S)CCCC",214.37
+35528,"3-Benzothiazolinecarboxylic acid, ethyl ester","C10H11NO2S","CCOC(=O)N1CSC2=CC=CC=C21",209.27
+35529,"Ethyl 2-methoxy-1,3-benzoxazole-3(2H)-carboxylate","C11H13NO4","CCOC(=O)N1C(OC2=CC=CC=C21)OC",223.22
+35530,"1-Naphthamidine, 1-butoxy-N,N-dioctyl-, monohydrochloride","C31H51ClN2O","CCCCCCCC[NH+](CCCCCCCC)C(=N)C1=CC=C(C2=CC=CC=C21)OCCCC.[Cl-]",503.2
+35531,"4-butoxy-N,N-dioctylnaphthalene-1-carboximidamide","C31H50N2O","CCCCCCCCN(CCCCCCCC)C(=N)C1=CC=C(C2=CC=CC=C21)OCCCC",466.7
+35532,"1-Naphthamidine, N,N-diheptyl-4-ethoxy-, monohydrochloride","C27H43ClN2O","CCCCCCC[NH+](CCCCCCC)C(=N)C1=CC=C(C2=CC=CC=C21)OCC.[Cl-]",447.1
+35533,"4-ethoxy-N,N-diheptylnaphthalene-1-carboximidamide","C27H42N2O","CCCCCCCN(CCCCCCC)C(=N)C1=CC=C(C2=CC=CC=C21)OCC",410.6
+35534,"1-Naphthamidine, N,N-diheptyl-4-propoxy-, monohydrochloride","C28H45ClN2O","CCCCCCC[NH+](CCCCCCC)C(=N)C1=CC=C(C2=CC=CC=C21)OCCC.[Cl-]",461.1
+35535,"N,N-diheptyl-4-propoxynaphthalene-1-carboximidamide","C28H44N2O","CCCCCCCN(CCCCCCC)C(=N)C1=CC=C(C2=CC=CC=C21)OCCC",424.7
+35536,"2,4-Bis(1,1-dichloroethyl)-6-methylsulfanyl-1,3,5-triazine","C8H9Cl4N3S","CC(C1=NC(=NC(=N1)SC)C(C)(Cl)Cl)(Cl)Cl",321.1
+35537,"2-Phenylsulfanyl-4,6-bis(1,1,2-trichloroethyl)-1,3,5-triazine","C13H9Cl6N3S","C1=CC=C(C=C1)SC2=NC(=NC(=N2)C(CCl)(Cl)Cl)C(CCl)(Cl)Cl",452.0
+35538,"2-Methylsulfanyl-4,6-bis(1,1,2,2,2-pentachloroethyl)-1,3,5-triazine","C8H3Cl10N3S","CSC1=NC(=NC(=N1)C(C(Cl)(Cl)Cl)(Cl)Cl)C(C(Cl)(Cl)Cl)(Cl)Cl",527.7
+35539,"2,4-Diphenyl-6-phenylsulfanyl-1,3,5-triazine","C21H15N3S","C1=CC=C(C=C1)C2=NC(=NC(=N2)SC3=CC=CC=C3)C4=CC=CC=C4",341.4
+35540,"[4-chloro-6-(dimethylcarbamothioylsulfanyl)-1,3,5-triazin-2-yl] N,N-dimethylcarbamodithioate","C9H12ClN5S4","CN(C)C(=S)SC1=NC(=NC(=N1)Cl)SC(=S)N(C)C",353.9
+35541,"[4-chloro-6-(diethylcarbamothioylsulfanyl)-1,3,5-triazin-2-yl] N,N-diethylcarbamodithioate","C13H20ClN5S4","CCN(CC)C(=S)SC1=NC(=NC(=N1)Cl)SC(=S)N(CC)CC",410.1
+35542,"","C11H16ClN5S4","CC(C)N=C(S)SC1=NC(=NC(=N1)Cl)SC(=NC(C)C)S",382.0
+35543,"","C17H12ClN5S4","C1=CC=C(C=C1)N=C(S)SC2=NC(=NC(=N2)Cl)SC(=NC3=CC=CC=C3)S",450.0
+35544,"","C17H10Cl3N5S4","C1=CC(=CC=C1N=C(S)SC2=NC(=NC(=N2)Cl)SC(=NC3=CC=C(C=C3)Cl)S)Cl",518.9
+35545,"[4-(dimethylamino)-6-(dimethylcarbamothioylsulfanyl)-1,3,5-triazin-2-yl] N,N-dimethylcarbamodithioate","C11H18N6S4","CN(C)C1=NC(=NC(=N1)SC(=S)N(C)C)SC(=S)N(C)C",362.6
+35546,"[4-(diethylamino)-6-(diethylcarbamothioylsulfanyl)-1,3,5-triazin-2-yl] N,N-diethylcarbamodithioate","C17H30N6S4","CCN(CC)C1=NC(=NC(=N1)SC(=S)N(CC)CC)SC(=S)N(CC)CC",446.7
+35547,"[4,6-bis(diethylcarbamothioylsulfanyl)-1,3,5-triazin-2-yl] N,N-diethylcarbamodithioate","C18H30N6S6","CCN(CC)C(=S)SC1=NC(=NC(=N1)SC(=S)N(CC)CC)SC(=S)N(CC)CC",522.9
+35548,"(4,6-Dimethoxy-1,3,5-triazin-2-yl)sulfanyl-diethoxy-sulfanylidene-lambda5-phosphane","C9H16N3O4PS2","CCOP(=S)(OCC)SC1=NC(=NC(=N1)OC)OC",325.3
+35549,"(4,6-Dimethyl-1,3,5-triazin-2-yl)sulfanyl-diethoxy-sulfanylidene-lambda5-phosphane","C9H16N3O2PS2","CCOP(=S)(OCC)SC1=NC(=NC(=N1)C)C",293.4
+35550,"2,2,2-Trichloro-1-[[4-methyl-6-(trichloromethyl)-1,3,5-triazin-2-yl]amino]ethanol","C7H6Cl6N4O","CC1=NC(=NC(=N1)NC(C(Cl)(Cl)Cl)O)C(Cl)(Cl)Cl",374.9
+35551,"2,2,2-Trichloro-1-[[4-methyl-6-[(2,2,2-trichloro-1-hydroxyethyl)amino]-1,3,5-triazin-2-yl]amino]ethanol","C8H9Cl6N5O2","CC1=NC(=NC(=N1)NC(C(Cl)(Cl)Cl)O)NC(C(Cl)(Cl)Cl)O",419.9
+35552,"2,2,2-Trichloro-1-[[4-[(2,2,2-trichloro-1-hydroxyethyl)amino]-6-(trichloromethyl)-1,3,5-triazin-2-yl]amino]ethanol","C8H6Cl9N5O2","C1(=NC(=NC(=N1)NC(C(Cl)(Cl)Cl)O)NC(C(Cl)(Cl)Cl)O)C(Cl)(Cl)Cl",523.2
+35553,"Tris(2-methylpropyl) 1,3,5-triazine-2,4,6-tricarboxylate","C18H27N3O6","CC(C)COC(=O)C1=NC(=NC(=N1)C(=O)OCC(C)C)C(=O)OCC(C)C",381.4
+35554,"2-N,4-N,6-N-trimethyl-1,3,5-triazine-2,4,6-tricarboxamide","C9H12N6O3","CNC(=O)C1=NC(=NC(=N1)C(=O)NC)C(=O)NC",252.23
+35555,"Diethyl 6-(trichloromethyl)-1,3,5-triazine-2,4-dicarboxylate","C10H10Cl3N3O4","CCOC(=O)C1=NC(=NC(=N1)C(Cl)(Cl)Cl)C(=O)OCC",342.6
+35556,"Ethyl 4,6-bis(trichloromethyl)-1,3,5-triazine-2-carboxylate","C8H5Cl6N3O2","CCOC(=O)C1=NC(=NC(=N1)C(Cl)(Cl)Cl)C(Cl)(Cl)Cl",387.9
+35557,"(4,6-Dithiocyanato-1,3,5-triazin-2-yl) thiocyanate","C6N6S3","C(#N)SC1=NC(=NC(=N1)SC#N)SC#N",252.3
+35558,"2-Isothiocyanato-4,6-bis(trichloromethyl)-1,3,5-triazine","C6Cl6N4S","C(=NC1=NC(=NC(=N1)C(Cl)(Cl)Cl)C(Cl)(Cl)Cl)=S",372.9
+35559,"","C7H8Cl2N4OS","CC(C)OC(=NC1=NC(=NC(=N1)Cl)Cl)S",267.14
+35560,"","C12H10Cl3N5S","CC1=NC(=NC(=N1)N=C(NC2=CC=CC=C2)S)C(Cl)(Cl)Cl",362.7
+35561,"1,1-dichloro-N-[4-chloro-6-(dichloromethylideneamino)-1,3,5-triazin-2-yl]methanimine","C5Cl5N5","C1(=NC(=NC(=N1)Cl)N=C(Cl)Cl)N=C(Cl)Cl",307.3
+35562,"1-[4-Methyl-6-(trichloromethyl)-1,3,5-triazin-2-yl]-3-propan-2-ylurea","C9H12Cl3N5O","CC1=NC(=NC(=N1)NC(=O)NC(C)C)C(Cl)(Cl)Cl",312.6
+35563,"Trimethyl 1,3,5-triazine-2,4,6-tricarboxylate","C9H9N3O6","COC(=O)C1=NC(=NC(=N1)C(=O)OC)C(=O)OC",255.18
+35564,"6-Diethoxyphosphinothioylsulfanyl-1,3,5-triazine-2,4-diamine","C7H14N5O2PS2","CCOP(=S)(OCC)SC1=NC(=NC(=N1)N)N",295.3
+35565,"Nintedanib Impurity 92","C9H15N3S3","CCSC1=NC(=NC(=N1)SCC)SCC",261.4
+35566,"2,4,6-Tris(prop-2-enylsulfanyl)-1,3,5-triazine","C12H15N3S3","C=CCSC1=NC(=NC(=N1)SCC=C)SCC=C",297.5
+35567,"2-(Chloromethyl)-4,6-dimethoxy-1,3,5-triazine","C6H8ClN3O2","COC1=NC(=NC(=N1)CCl)OC",189.60
+35568,"2,4-Diethoxy-6-(trichloromethyl)-1,3,5-triazine","C8H10Cl3N3O2","CCOC1=NC(=NC(=N1)C(Cl)(Cl)Cl)OCC",286.5
+35569,"2,4-Di(propan-2-yloxy)-6-(trichloromethyl)-1,3,5-triazine","C10H14Cl3N3O2","CC(C)OC1=NC(=NC(=N1)C(Cl)(Cl)Cl)OC(C)C",314.6
+35570,"2,4-Dibutoxy-6-(trichloromethyl)-1,3,5-triazine","C12H18Cl3N3O2","CCCCOC1=NC(=NC(=N1)C(Cl)(Cl)Cl)OCCCC",342.6
+35571,"2-(Bromomethyl)-4,6-dimethoxy-1,3,5-triazine","C6H8BrN3O2","COC1=NC(=NC(=N1)CBr)OC",234.05
+35572,"2-(Dibromomethyl)-4,6-dimethoxy-1,3,5-triazine","C6H7Br2N3O2","COC1=NC(=NC(=N1)C(Br)Br)OC",312.95
+35573,"2-Methoxy-4-methyl-6-(trichloromethyl)-1,3,5-triazine","C6H6Cl3N3O","CC1=NC(=NC(=N1)OC)C(Cl)(Cl)Cl",242.5
+35574,"2-Ethoxy-4-methyl-6-(trichloromethyl)-1,3,5-triazine","C7H8Cl3N3O","CCOC1=NC(=NC(=N1)C(Cl)(Cl)Cl)C",256.5
+35575,"2-Methyl-4-propan-2-yloxy-6-(trichloromethyl)-1,3,5-triazine","C8H10Cl3N3O","CC1=NC(=NC(=N1)OC(C)C)C(Cl)(Cl)Cl",270.5
+35576,"2-Butoxy-4-methyl-6-(trichloromethyl)-1,3,5-triazine","C9H12Cl3N3O","CCCCOC1=NC(=NC(=N1)C(Cl)(Cl)Cl)C",284.6
+35577,"2-Hexoxy-4-methyl-6-(trichloromethyl)-1,3,5-triazine","C11H16Cl3N3O","CCCCCCOC1=NC(=NC(=N1)C(Cl)(Cl)Cl)C",312.6
+35578,"2-Methoxy-4,6-bis(trichloromethyl)-S-triazine","C6H3Cl6N3O","COC1=NC(=NC(=N1)C(Cl)(Cl)Cl)C(Cl)(Cl)Cl",345.8
+35579,"2-Ethoxy-4,6-bis(trichloromethyl)-1,3,5-triazine","C7H5Cl6N3O","CCOC1=NC(=NC(=N1)C(Cl)(Cl)Cl)C(Cl)(Cl)Cl",359.8
+35580,"2-Propoxy-4,6-bis(trichloromethyl)-1,3,5-triazine","C8H7Cl6N3O","CCCOC1=NC(=NC(=N1)C(Cl)(Cl)Cl)C(Cl)(Cl)Cl",373.9
+35581,"2-Prop-2-enoxy-4,6-bis(trichloromethyl)-1,3,5-triazine","C8H5Cl6N3O","C=CCOC1=NC(=NC(=N1)C(Cl)(Cl)Cl)C(Cl)(Cl)Cl",371.9
+35582,"2-Propan-2-yloxy-4,6-bis(trichloromethyl)-1,3,5-triazine","C8H7Cl6N3O","CC(C)OC1=NC(=NC(=N1)C(Cl)(Cl)Cl)C(Cl)(Cl)Cl",373.9
+35583,"2-Butoxy-4,6-bis(trichloromethyl)-1,3,5-triazine","C9H9Cl6N3O","CCCCOC1=NC(=NC(=N1)C(Cl)(Cl)Cl)C(Cl)(Cl)Cl",387.9
+35584,"2-Pentoxy-4,6-bis(trichloromethyl)-1,3,5-triazine","C10H11Cl6N3O","CCCCCOC1=NC(=NC(=N1)C(Cl)(Cl)Cl)C(Cl)(Cl)Cl",401.9
+35585,"2-Hexoxy-4,6-bis(trichloromethyl)-1,3,5-triazine","C11H13Cl6N3O","CCCCCCOC1=NC(=NC(=N1)C(Cl)(Cl)Cl)C(Cl)(Cl)Cl",415.9
+35586,"2-Dodecoxy-4,6-bis(trichloromethyl)-1,3,5-triazine","C17H25Cl6N3O","CCCCCCCCCCCCOC1=NC(=NC(=N1)C(Cl)(Cl)Cl)C(Cl)(Cl)Cl",500.1
+35587,"2-Methoxy-4-phenyl-6-(trichloromethyl)-1,3,5-triazine","C11H8Cl3N3O","COC1=NC(=NC(=N1)C(Cl)(Cl)Cl)C2=CC=CC=C2",304.6
+35588,"2-Ethoxy-4-phenyl-6-(trichloromethyl)-1,3,5-triazine","C12H10Cl3N3O","CCOC1=NC(=NC(=N1)C(Cl)(Cl)Cl)C2=CC=CC=C2",318.6
+35589,"2-(4-Chlorophenyl)-4-methoxy-6-(trichloromethyl)-1,3,5-triazine","C11H7Cl4N3O","COC1=NC(=NC(=N1)C(Cl)(Cl)Cl)C2=CC=C(C=C2)Cl",339.0
+35590,"2-Methoxy-4,6-bis(tribromomethyl)-1,3,5-triazine","C6H3Br6N3O","COC1=NC(=NC(=N1)C(Br)(Br)Br)C(Br)(Br)Br",612.5
+35591,"2-(Diazomethyl)-4,6-bis(methylsulfanyl)-1,3,5-triazine","C6H7N5S2","CSC1=NC(=NC(=N1)C=[N+]=[N-])SC",213.3
+35592,"2,4,6-Tris(phenylsulfanyl)-1,3,5-triazine","C21H15N3S3","C1=CC=C(C=C1)SC2=NC(=NC(=N2)SC3=CC=CC=C3)SC4=CC=CC=C4",405.6
+35593,"2,4-Dipropoxy-6-(trichloromethyl)-1,3,5-triazine","C10H14Cl3N3O2","CCCOC1=NC(=NC(=N1)C(Cl)(Cl)Cl)OCCC",314.6
+35594,"","C4H8N2NaO2+","CC(=C(C)N=O)NO.[Na+]",139.11
+35595,"","C9H13N3O6","C(C1C(C(C(O1)C2=C(C(=NN2)C(=O)N)O)O)O)O",259.22
+35596,"6-Methoxy-s-triazine-2,4(1H,3H)-dione","C4H5N3O3","COC1=NC(=O)NC(=O)N1",143.10
+35597,"6-isopropyl-1,3,5-triazine-2,4(1H,3H)-dione","C6H9N3O2","CC(C)C1=NC(=O)NC(=O)N1",155.15
+35598,"6-(4-chlorophenyl)-1H-1,3,5-triazine-2,4-dione","C9H6ClN3O2","C1=CC(=CC=C1C2=NC(=O)NC(=O)N2)Cl",223.61
+35599,"","C5H7N3O","CC1=NC(=O)N=C(N1)C",125.13
+35600,"","C7H10Cl3N5O","C(C1=NC(=O)N=C(N1)CCl)Cl.C(C(=N)N)Cl",286.5

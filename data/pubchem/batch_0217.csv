@@ -1,0 +1,101 @@
+"CID","Title","MolecularFormula","ConnectivitySMILES","MolecularWeight"
+21701,"5,9,12,15-Tetrahydroxy-17-{hydroxy[(1-hydroxy-1-imino-3-phenylpropan-2-yl)imino]methyl}-11-[(1H-indol-3-yl)methyl]-2-methyl-14-[2-(methylsulfanyl)ethyl]-4-oxa-6,10,13,16-tetraazanonadeca-5,9,12,15-tetraen-19-oic acid","C37H49N7O9S","CC(C)COC(=O)NCCC(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(CCSC)C(=O)NC(CC(=O)O)C(=O)NC(CC3=CC=CC=C3)C(=O)N",767.9
+21702,"((2-Chloroethyl)thio)benzene","C8H9ClS","C1=CC=C(C=C1)SCCCl",172.68
+21703,"1-Chloro-4-(ethenylsulfonyl)benzene","C8H7ClO2S","C=CS(=O)(=O)C1=CC=C(C=C1)Cl",202.66
+21704,"Vidarabine","C10H13N5O4","C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)O)O)N",267.24
+21705,"","C4H5NaO2","CC(=C)C(=O)[O-].[Na+]",108.07
+21706,"Ap4A","C20H28N10O19P4","C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)OP(=O)(O)OCC4C(C(C(O4)N5C=NC6=C(N=CN=C65)N)O)O)O)O)N",836.4
+21707,"Cephalandole A","C16H10N2O2","C1=CC=C2C(=C1)C(=CN2)C3=NC4=CC=CC=C4OC3=O",262.26
+21708,"","C19H15IO4","CC(=O)CC(C1=CC=C(C=C1)I)C2=C(OC3=CC=CC=C3C2=O)O",434.2
+21709,"6H-Cyclohepta(b)quinoline, 4-chloro-11-(3-(dimethylamino)propoxy)-7,8,9,10-tetrahydro-, dihydrochloride","C19H27Cl3N2O","C[NH+](C)CCCOC1=C2CCCCCC2=[NH+]C3=C1C=CC=C3Cl.[Cl-].[Cl-]",405.8
+21710,"3-[(4-chloro-7,8,9,10-tetrahydro-6H-cyclohepta[b]quinolin-11-yl)oxy]-N,N-dimethylpropan-1-amine","C19H25ClN2O","CN(C)CCCOC1=C2CCCCCC2=NC3=C1C=CC=C3Cl",332.9
+21711,"Methyl 3-(1H-indol-3-yl)propanoate","C12H13NO2","COC(=O)CCC1=CNC2=CC=CC=C21",203.24
+21712,"","C10H12N5Na2O8P","C1=NC2=C(N1C3C(C(C(O3)COP(=O)([O-])[O-])O)O)NC(=NC2=O)N.[Na+].[Na+]",407.18
+21713,"2H-Azepin-2-one, hexahydro-N-lauroyl-","C18H33NO2","CCCCCCCCCCCC(=O)N1CCCCCC1=O",295.5
+21714,"N-(Phenylmethyl)aspartic acid","C11H13NO4","C1=CC=C(C=C1)CNC(CC(=O)O)C(=O)O",223.22
+21715,"Aspartic acid, N-ethyl-, DL-","C6H11NO4","CCNC(CC(=O)O)C(=O)O",161.16
+21716,"1-(4-Hydroxy-3-thienyl)ethanone","C6H6O2S","CC(=O)C1=CSC=C1O",142.18
+21717,"alpha-Pentylbenzeneacetic acid","C13H18O2","CCCCCC(C1=CC=CC=C1)C(=O)O",206.28
+21718,"Alverine Citrate","C26H35NO7","CCN(CCCC1=CC=CC=C1)CCCC2=CC=CC=C2.C(C(=O)O)C(CC(=O)O)(C(=O)O)O",473.6
+21719,"Biphenamine Hydrochloride","C19H24ClNO3","CCN(CC)CCOC(=O)C1=CC=CC(=C1O)C2=CC=CC=C2.Cl",349.8
+21720,"Xenysalate","C19H23NO3","CCN(CC)CCOC(=O)C1=CC=CC(=C1O)C2=CC=CC=C2",313.4
+21721,"Ethyl 3,6-bis(1,1-dimethylethyl)-1-naphthalenesulfonate","C20H28O3S","CCOS(=O)(=O)C1=C2C=CC(=CC2=CC(=C1)C(C)(C)C)C(C)(C)C",348.5
+21722,"Iprindole","C19H28N2","CN(C)CCCN1C2=C(CCCCCC2)C3=CC=CC=C31",284.4
+21723,"Teclozan","C20H28Cl4N2O4","CCOCCN(CC1=CC=C(C=C1)CN(CCOCC)C(=O)C(Cl)Cl)C(=O)C(Cl)Cl",502.3
+21724,"Iem 452","C22H30ClNO4","CC[NH+](CC)CCOC(=O)C(C1=CC=C(C=C1)OC)C2=CC=C(C=C2)OC.[Cl-]",407.9
+21725,"2-(Diethylamino)ethyl 2,2-bis(4-methoxyphenyl)acetate","C22H29NO4","CCN(CC)CCOC(=O)C(C1=CC=C(C=C1)OC)C2=CC=C(C=C2)OC",371.5
+21726,"1-(5-(Benzylsulfanyl)-1H-indol-3-yl)-N-methylpropan-2-amine","C19H22N2S","CC(CC1=CNC2=C1C=C(C=C2)SCC3=CC=CC=C3)NC",310.5
+21727,"Ammonium, (1-(5-dimethylsulfonio-3-indolyl)-2-propyl)trimethyl-, diiodide, hydrate","C16H26I2N2S","CC(CC1=CNC2=C1C=C(C=C2)[S+](C)C)[N+](C)(C)C.[I-].[I-]",532.3
+21728,"1-(5-dimethylsulfonio-1H-indol-3-yl)propan-2-yl-trimethylazanium","C16H26N2S+2","CC(CC1=CNC2=C1C=C(C=C2)[S+](C)C)[N+](C)(C)C",278.5
+21729,"Indole, 3-(1-methylamino-2-propyl)-5-methylthio-","C13H18N2S","CC(CNC)C1=CNC2=C1C=C(C=C2)SC",234.36
+21730,"Indole, 3-(3-(dimethylamino)-2-butyl)-5-methylthio-","C15H22N2S","CC(C1=CNC2=C1C=C(C=C2)SC)C(C)N(C)C",262.4
+21731,"Indole, 3-(2-(methylamino)ethyl)-5-methylthio-","C12H16N2S","CNCCC1=CNC2=C1C=C(C=C2)SC",220.34
+21732,"gamma-Chlordane","C10H6Cl8","C1C2C(CC1(Cl)Cl)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl",409.8
+21733,"C.I. Pigment Yellow 83","C36H32Cl4N6O8","CC(=O)C(C(=O)NC1=CC(=C(C=C1OC)Cl)OC)N=NC2=C(C=C(C=C2)C3=CC(=C(C=C3)N=NC(C(=O)C)C(=O)NC4=CC(=C(C=C4OC)Cl)OC)Cl)Cl",818.5
+21734,"2-Imidazoline, 2-((2-(dimethylamino)ethyl)thio)-, dihydrobromide","C7H17Br2N3S","CN(C)CCSC1=[NH+]CC[NH2+]1.[Br-].[Br-]",335.11
+21735,"2-(4,5-dihydro-1H-imidazol-2-ylsulfanyl)-N,N-dimethylethanamine","C7H15N3S","CN(C)CCSC1=NCCN1",173.28
+21736,"","C12H11NO6","CCOC(=O)CC1=C(OC2=C(N1)C=CC(=O)C2=O)O",265.22
+21737,"Cystine, N,N-bis(2-quinoxaloyl)-, L-","C24H20N6O6S2","C1=CC=C2C(=C1)N=CC(=N2)C(=O)NC(CSSCC(C(=O)O)NC(=O)C3=NC4=CC=CC=C4N=C3)C(=O)O",552.6
+21738,"Glycine, N-(2-quinoxalinylcarbonyl)-","C11H9N3O3","C1=CC=C2C(=C1)N=CC(=N2)C(=O)NCC(=O)O",231.21
+21739,"Isoleucine, N-(2-quinoxalinylcarbonyl)-, L-","C15H17N3O3","CCC(C)C(C(=O)O)NC(=O)C1=NC2=CC=CC=C2N=C1",287.31
+21740,"Potassium Nitrazepate","C16H10KN3O5","C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)[N+](=O)[O-])C(=O)[O-].[K+]",363.37
+21741,"2,3-Dihydro-7-nitro-2-oxo-5-phenyl-1H-1,4-benzodiazepine-3-carboxylic acid","C16H11N3O5","C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)[N+](=O)[O-])C(=O)O",325.27
+21742,"Mansonone C","C15H16O2","CC1=C2C(=C(C=C1)C(C)C)C=C(C(=O)C2=O)C",228.29
+21743,"Cefalonium","C20H18N4O5S2","C1C(=C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CS3)C(=O)[O-])C[N+]4=CC=C(C=C4)C(=O)N",458.5
+21744,"(6R,7R)-3-[(4-carbamoyl-1-pyridin-1-iumyl)methyl]-8-oxo-7-[(1-oxo-2-thiophen-2-ylethyl)amino]-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid","C20H19N4O5S2+","C1C(=C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CS3)C(=O)O)C[N+]4=CC=C(C=C4)C(=O)N",459.5
+21745,"","C10H7Cl2N5S","C1=CC=C(C=C1)NC(=NC2=NC(=NC(=N2)Cl)Cl)S",300.17
+21746,"2-Hydroxyethyl 10-oxodecanoate","C12H22O4","C(CCCCC(=O)OCCO)CCCC=O",230.30
+21747,"","C10H20N2O2","CCCC(C(C)CC)C(=O)NC(=O)N",200.28
+21748,"Epinal; Epinephrine borate","C9H12BNO4","B1(OC2=C(O1)C=C(C=C2)C(CNC)O)O",209.01
+21749,"Bromchlorenone","C7H3BrClNO2","C1=C2C(=CC(=C1Cl)Br)OC(=O)N2",248.46
+21750,"Hydrazinecarboxamide, 1-ethyl-2-((5-nitro-2-furanyl)methylene)-","C8H10N4O4","CCN(C(=O)N)N=CC1=CC=C(O1)[N+](=O)[O-]",226.19
+21751,"Iopydol","C8H9I2NO3","C1=C(C(=O)C(=CN1CC(CO)O)I)I",420.97
+21752,"Iopydone","C5H3I2NO","C1=C(C(=O)C(=CN1)I)I",346.89
+21753,"Nifurmerone","C6H4ClNO4","C1=C(OC(=C1)[N+](=O)[O-])C(=O)CCl",189.55
+21754,"Carbamic acid, bis(2-chloropropyl)-, ethyl ester","C9H17Cl2NO2","CCOC(=O)N(CC(C)Cl)CC(C)Cl",242.14
+21755,"3,4-Dimethylbenzamide","C9H11NO","CC1=C(C=C(C=C1)C(=O)N)C",149.19
+21756,"Indole, 3-(2-pyridylmethyl)-","C14H12N2","C1=CC=C2C(=C1)C(=CN2)CC3=CC=CC=N3",208.26
+21757,"2,3,4,5-Tetrafluoroaniline","C6H3F4N","C1=C(C(=C(C(=C1F)F)F)F)N",165.09
+21758,"Cytosine, 5-bromo-1-(tetrahydropyran-2-yl)-","C9H12BrN3O2","C1CCOC(C1)N2C=C(C(=NC2=O)N)Br",274.11
+21759,"alpha-Methyl-N-(2,2,2-trichloroethylidene)benzeneethanamine","C11H12Cl3N","CC(CC1=CC=CC=C1)N=CC(Cl)(Cl)Cl",264.6
+21760,"Dimefadane","C17H19N","CN(C)C1CC(C2=CC=CC=C12)C3=CC=CC=C3",237.34
+21761,"Metoclopramide Dihydrochloride","C14H24Cl3N3O2","CCN(CC)CCNC(=O)C1=CC(=C(C=C1OC)N)Cl.Cl.Cl",372.7
+21762,"","C9H8N8O2S","CN1C=NC(=C1SC2=NC(=N)N=C3C2=NC=N3)N(O)O",292.28
+21763,"Propyl thioarsenite","C9H21AsS3","CC(C)S[As](SC(C)C)SC(C)C",300.4
+21764,"","C12H34Ge2Te","CC[GeH](CC)CC.CC[GeH](CC)CC.[TeH2]",451.3
+21765,"Hydrogen telluride","H2Te","[TeH2]",129.6
+21766,"1,3-Dioxolo(4,5-g)isoquinolinium, 7,8-dihydro-6-(7,8-dihydro-5-hydroxy-4-methoxy-1,3-dioxolo(4,5-g)isoquinolin-6(5H)-yl)-4-methoxy-, chloride","C22H23ClN2O7","COC1=C2C=[N+](CCC2=CC3=C1OCO3)N4CCC5=CC6=C(C(=C5C4O)OC)OCO6.[Cl-]",462.9
+21767,"4-methoxy-6-(4-methoxy-7,8-dihydro-[1,3]dioxolo[4,5-g]isoquinolin-6-ium-6-yl)-7,8-dihydro-5H-[1,3]dioxolo[4,5-g]isoquinolin-5-ol","C22H23N2O7+","COC1=C2C=[N+](CCC2=CC3=C1OCO3)N4CCC5=CC6=C(C(=C5C4O)OC)OCO6",427.4
+21768,"Geranyl nitrile","C10H15N","CC(=CCCC(=CC#N)C)C",149.23
+21769,"Benzindopyrinehydrochlorid","C22H21ClN2","C1=CC=C(C=C1)C[NH+]2C=C(C3=CC=CC=C32)CCC4=CC=NC=C4.[Cl-]",348.9
+21770,"Benzindopyrine","C22H20N2","C1=CC=C(C=C1)CN2C=C(C3=CC=CC=C32)CCC4=CC=NC=C4",312.4
+21771,"5H-Dibenzo(a,d)cycloheptene-5-propanamine, 10,11-dihydro-N,N,beta-trimethyl-, HCl, (+,-)-","C21H28ClN","CC(CC1C2=CC=CC=C2CCC3=CC=CC=C13)C[NH+](C)C.[Cl-]",329.9
+21772,"Butriptyline","C21H27N","CC(CC1C2=CC=CC=C2CCC3=CC=CC=C13)CN(C)C",293.4
+21773,"(4-Hydroxy-4-phenylhexan-3-yl) carbamate","C13H19NO3","CCC(C(CC)(C1=CC=CC=C1)O)OC(=O)N",237.29
+21774,"3-Hydroxy-3-phenylpentane-2-carbamate","C12H17NO3","CCC(C1=CC=CC=C1)(C(C)OC(=O)N)O",223.27
+21775,"Hexamethylene diisothiocyanate","C8H12N2S2","C(CCCN=C=S)CCN=C=S",200.3
+21776,"Mefenorex Hydrochloride","C12H19Cl2N","CC(CC1=CC=CC=C1)NCCCCl.Cl",248.19
+21777,"Mefenorex","C12H18ClN","CC(CC1=CC=CC=C1)NCCCCl",211.73
+21778,"Pyrazinecarboxylic acid, 3,5-diamino-6-chloro-, 2-(aminoiminomethyl)hydrazide","C6H9ClN8O","C1(=C(N=C(C(=N1)Cl)N)N)C(=O)NN=C(N)N",244.64
+21779,"Ampyrimine","C12H11N7","C1=CC=C(C=C1)C2=C3C(=NC(=NC3=NC(=N2)N)N)N",253.26
+21780,"SQ 3242","C12H13N3O","CC1=CC=C(N1NC(=O)C2=CC=NC=C2)C",215.25
+21781,"2-Imidazolidinone, 4,5-dibutoxy-","C11H22N2O3","CCCCOC1C(NC(=O)N1)OCCCC",230.30
+21782,"Chlordantoin","C11H17Cl3N2O2S","CCCCC(CC)C1C(=O)N(C(=O)N1)SC(Cl)(Cl)Cl",347.7
+21783,"3-(3,4,5-Trimethoxyphenyl)prop-2-enamide","C12H15NO4","COC1=CC(=CC(=C1OC)OC)C=CC(=O)N",237.25
+21784,"Clorprenaline Hydrochloride","C11H19Cl2NO2","CC(C)NCC(C1=CC=CC=C1Cl)O.O.Cl",268.18
+21785,"Cypenamine Hydrochloride","C11H16ClN","C1CC(C(C1)N)C2=CC=CC=C2.Cl",197.70
+21786,"Cypenamine","C11H15N","C1CC(C(C1)N)C2=CC=CC=C2",161.24
+21787,"2-Piperidin-1-ium-1-ylethyl 1-cyclohexylcyclohexane-1-carboxylate;chloride","C20H36ClNO2","C1CCC(CC1)C2(CCCCC2)C(=O)OCC[NH+]3CCCCC3.[Cl-]",358.0
+21788,"Dihexyverine","C20H35NO2","C1CCC(CC1)C2(CCCCC2)C(=O)OCCN3CCCCC3",321.5
+21789,"5-Methyl-6-phenyl-3-morpholinone","C11H13NO2","CC1C(OCC(=O)N1)C2=CC=CC=C2",191.23
+21790,"1,2-Ethanediamine, N-(2-chloroethyl)-, dihydrochloride","C4H13Cl3N2","C(C[NH2+]CCCl)[NH3+].[Cl-].[Cl-]",195.51
+21791,"N1-(2-Chloroethyl)ethane-1,2-diamine","C4H11ClN2","C(CNCCCl)N",122.60
+21792,"5H-Dibenzo(a,d)cycloheptene, 10,11-dihydro-5-(3-morpholinopropylidene)-","C22H25NO","C1CC2=CC=CC=C2C(=CCCN3CCOCC3)C4=CC=CC=C41",319.4
+21793,"Becanthone","C22H28N2O2S","CCN(CCNC1=C2C(=C(C=C1)C)SC3=CC=CC=C3C2=O)CC(C)(C)O",384.5
+21794,"CID 21794","C22H31ClO2","CC1CC2C3CC(C4=CC(=O)CCC4(C3CCC2(C1C(=O)C)C)C)Cl",362.9
+21795,"Iosefamic Acid","C28H28I6N4O8","CNC(=O)C1=C(C(=C(C(=C1I)NC(=O)CCCCCCCCC(=O)NC2=C(C(=C(C(=C2I)C(=O)O)I)C(=O)NC)I)I)C(=O)O)I",1310.0
+21796,"CID 21796","C26H31N3O9","COC1=CC=CC=C1N2CCN(CC2)CCC3=CNC4=CC5=C(C=C43)OCO5.C(C(C(=O)O)O)(C(=O)O)O",529.5
+21797,"Pyrrolifene","C23H29NO2","CC(CN1CCCC1)C(CC2=CC=CC=C2)(C3=CC=CC=C3)OC(=O)C",351.5
+21798,"Anilamate","C15H14N2O3","CNC(=O)OC1=CC=CC=C1C(=O)NC2=CC=CC=C2",270.28
+21799,"6H-Cyclohepta(b)quinoline, 7,8,9,10-tetrahydro-11-amino-4-methoxy-","C15H18N2O","COC1=CC=CC2=C(C3=C(CCCCC3)N=C21)N",242.32
+21800,"Betamethasone Dipropionate","C28H37FO7","CCC(=O)OCC(=O)C1(C(CC2C1(CC(C3(C2CCC4=CC(=O)C=CC43C)F)O)C)C)OC(=O)CC",504.6

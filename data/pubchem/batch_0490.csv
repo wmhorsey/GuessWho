@@ -1,0 +1,101 @@
+"CID","Title","MolecularFormula","ConnectivitySMILES","MolecularWeight"
+49001,"Benzoic acid, p-(1-methylpentoxy)-, 3-(2-methylpiperidino)propyl ester, hydrochloride","C22H36ClNO3","CCCCC(C)OC1=CC=C(C=C1)C(=O)OCCC[NH+]2CCCCC2C.[Cl-]",398.0
+49002,"Benzoic acid, 2-(cyclopentylamino)butyl ester, hydrochloride","C16H24ClNO2","CCC(COC(=O)C1=CC=CC=C1)[NH2+]C2CCCC2.[Cl-]",297.82
+49003,"2-(Cyclopentylamino)butyl benzoate","C16H23NO2","CCC(COC(=O)C1=CC=CC=C1)NC2CCCC2",261.36
+49004,"1-(Cyclopentylamino)-2-methylpropan-2-yl benzoate--hydrogen chloride (1/1)","C16H24ClNO2","CC(C)(C[NH2+]C1CCCC1)OC(=O)C2=CC=CC=C2.[Cl-]",297.82
+49005,"[1-(Cyclopentylamino)-2-methylpropan-2-yl] benzoate","C16H23NO2","CC(C)(CNC1CCCC1)OC(=O)C2=CC=CC=C2",261.36
+49006,"Benzoic acid, (2-(cyclopentylamino)-1-methyl)ethyl ester, hydrochloride","C15H22ClNO2","CC(C[NH2+]C1CCCC1)OC(=O)C2=CC=CC=C2.[Cl-]",283.79
+49007,"1-(Cyclopentylamino)propan-2-yl benzoate","C15H21NO2","CC(CNC1CCCC1)OC(=O)C2=CC=CC=C2",247.33
+49008,"Benzoic acid, 2-(cyclopentylamino)propyl ester, hydrochloride","C15H22ClNO2","CC(COC(=O)C1=CC=CC=C1)[NH2+]C2CCCC2.[Cl-]",283.79
+49009,"2-(Cyclopentylamino)propyl benzoate","C15H21NO2","CC(COC(=O)C1=CC=CC=C1)NC2CCCC2",247.33
+49010,"","C7H7N2NaO2","C1=C(C=C(C=C1N)N)C(=O)[O-].[Na+]",174.13
+49011,"","C7H4I3N2NaO2","C1(=C(C(=C(C(=C1I)N)I)N)I)C(=O)[O-].[Na+]",551.82
+49012,"Benzoic acid, 2-(dibenzylamino)ethyl ester, hydrochloride","C23H24ClNO2","C1=CC=C(C=C1)C[NH+](CCOC(=O)C2=CC=CC=C2)CC3=CC=CC=C3.[Cl-]",381.9
+49013,"2-(Dibenzylamino)ethyl benzoate","C23H23NO2","C1=CC=C(C=C1)CN(CCOC(=O)C2=CC=CC=C2)CC3=CC=CC=C3",345.4
+49014,"Benzoic acid, 3,5-dibutyramido-2,4,6-triiodo-","C15H17I3N2O4","CCCC(=O)NC1=C(C(=C(C(=C1I)C(=O)O)I)NC(=O)CCC)I",670.02
+49015,"3,5-Bis(hexanoylamino)-2,4,6-triiodobenzoic acid","C19H25I3N2O4","CCCCCC(=O)NC1=C(C(=C(C(=C1I)C(=O)O)I)NC(=O)CCCCC)I",726.1
+49016,"Ethyl 4-(2,3-dihydroxypropoxy)benzoate","C12H16O5","CCOC(=O)C1=CC=C(C=C1)OCC(CO)O",240.25
+49017,"Benzoic acid, m-(2,3-dihydroxypropoxy)-, methyl ester","C11H14O5","COC(=O)C1=CC(=CC=C1)OCC(CO)O",226.23
+49018,"Benzoic acid, p-(2,3-dihydroxypropoxy)-, propyl ester","C13H18O5","CCCOC(=O)C1=CC=C(C=C1)OCC(CO)O",254.28
+49019,"1-(3,4-Dimethoxyphenyl)-2-(dimethylamino)ethyl benzoate","C19H23NO4","CN(C)CC(C1=CC(=C(C=C1)OC)OC)OC(=O)C2=CC=CC=C2",329.4
+49020,"2-(Dimethylamino)-1-(4-methoxyphenyl)ethyl benzoate","C18H21NO3","CN(C)CC(C1=CC=C(C=C1)OC)OC(=O)C2=CC=CC=C2",299.4
+49021,"3-(2-Methylpiperidin-1-yl)propyl 4-bromobenzoate--hydrogen chloride (1/1)","C16H23BrClNO2","CC1CCCC[NH+]1CCCOC(=O)C2=CC=C(C=C2)Br.[Cl-]",376.7
+49022,"2,2-Dimethyl-3-(4-methylpiperidin-1-yl)propyl 4-butoxybenzoate--hydrogen chloride (1/1)","C22H36ClNO3","CCCCOC1=CC=C(C=C1)C(=O)OCC(C)(C)C[NH+]2CCC(CC2)C.[Cl-]",398.0
+49023,"[2,2-Dimethyl-3-(4-methylpiperidin-1-yl)propyl] 4-butoxybenzoate","C22H35NO3","CCCCOC1=CC=C(C=C1)C(=O)OCC(C)(C)CN2CCC(CC2)C",361.5
+49024,"3-(2,6-Dimethylpiperidin-1-yl)propyl 4-butoxybenzoate--hydrogen chloride (1/1)","C21H34ClNO3","CCCCOC1=CC=C(C=C1)C(=O)OCCC[NH+]2C(CCCC2C)C.[Cl-]",384.0
+49025,"3-(2,6-Dimethylpiperidin-1-yl)propyl 4-butoxybenzoate","C21H33NO3","CCCCOC1=CC=C(C=C1)C(=O)OCCCN2C(CCCC2C)C",347.5
+49026,"3-(2-Methylpiperidin-1-yl)propyl 4-butoxy-2-hydroxybenzoate--hydrogen chloride (1/1)","C20H32ClNO4","CCCCOC1=CC(=C(C=C1)C(=O)OCCC[NH+]2CCCCC2C)O.[Cl-]",385.9
+49027,"3-(2-Methylpiperidin-1-yl)propyl 4-butoxy-2-hydroxybenzoate","C20H31NO4","CCCCOC1=CC(=C(C=C1)C(=O)OCCCN2CCCCC2C)O",349.5
+49028,"Benzoic acid, 4-butoxy-3-methyl-, 3-(dimethylamino)propyl ester, hydrochloride","C17H28ClNO3","CCCCOC1=C(C=C(C=C1)C(=O)OCCC[NH+](C)C)C.[Cl-]",329.9
+49029,"Benzoic acid, 4-butoxy-3-methyl-, 3-(dimethylamino)propyl ester","C17H27NO3","CCCCOC1=C(C=C(C=C1)C(=O)OCCCN(C)C)C",293.4
+49030,"Benzoic acid, p-butoxy-, 1-methyl-2-(2-methylpiperidino)ethyl ester, hydrochloride","C20H32ClNO3","CCCCOC1=CC=C(C=C1)C(=O)OC(C)C[NH+]2CCCCC2C.[Cl-]",369.9
+49031,"1-(2-Methylpiperidin-1-yl)propan-2-yl 4-butoxybenzoate","C20H31NO3","CCCCOC1=CC=C(C=C1)C(=O)OC(C)CN2CCCCC2C",333.5
+49032,"3-(3-Methylpiperidin-1-yl)butyl 4-butoxybenzoate--hydrogen chloride (1/1)","C21H34ClNO3","CCCCOC1=CC=C(C=C1)C(=O)OCCC(C)[NH+]2CCCC(C2)C.[Cl-]",384.0
+49033,"3-(3-Methylpiperidin-1-yl)butyl 4-butoxybenzoate","C21H33NO3","CCCCOC1=CC=C(C=C1)C(=O)OCCC(C)N2CCCC(C2)C",347.5
+49034,"3-(2-Methylpiperidin-1-yl)propyl 2-butoxybenzoate--hydrogen chloride (1/1)","C20H32ClNO3","CCCCOC1=CC=CC=C1C(=O)OCCC[NH+]2CCCCC2C.[Cl-]",369.9
+49035,"3-(2-Methylpiperidin-1-yl)propyl 2-butoxybenzoate","C20H31NO3","CCCCOC1=CC=CC=C1C(=O)OCCCN2CCCCC2C",333.5
+49036,"3-(2-Methylpiperidin-1-yl)propyl 4-butoxybenzoate--hydrogen chloride (1/1)","C20H32ClNO3","CCCCOC1=CC=C(C=C1)C(=O)OCCC[NH+]2CCCCC2C.[Cl-]",369.9
+49037,"3-(3-Methylpiperidin-1-yl)propyl 4-butoxybenzoate--hydrogen chloride (1/1)","C20H32ClNO3","CCCCOC1=CC=C(C=C1)C(=O)OCCC[NH+]2CCCC(C2)C.[Cl-]",369.9
+49038,"3-(3-Methylpiperidin-1-yl)propyl 4-butoxybenzoate","C20H31NO3","CCCCOC1=CC=C(C=C1)C(=O)OCCCN2CCCC(C2)C",333.5
+49039,"3-(4-Methylpiperidin-1-yl)propyl 4-butoxybenzoate--hydrogen chloride (1/1)","C20H32ClNO3","CCCCOC1=CC=C(C=C1)C(=O)OCCC[NH+]2CCC(CC2)C.[Cl-]",369.9
+49040,"3-(4-Methylpiperidin-1-yl)propyl 4-butoxybenzoate","C20H31NO3","CCCCOC1=CC=C(C=C1)C(=O)OCCCN2CCC(CC2)C",333.5
+49041,"Benzoic acid, p-sec-butoxy-, 3-(2-methylpiperidino)propyl ester, hydrochloride","C20H32ClNO3","CCC(C)OC1=CC=C(C=C1)C(=O)OCCC[NH+]2CCCCC2C.[Cl-]",369.9
+49042,"Benzoic acid, m-(butylthio)-, 2-(diethylamino)ethyl ester","C17H27NO2S","CCCCSC1=CC=CC(=C1)C(=O)OCCN(CC)CC",309.5
+49043,"Benzoic acid, o-(butylthio)-, 2-(diethylamino)ethyl ester","C17H27NO2S","CCCCSC1=CC=CC=C1C(=O)OCCN(CC)CC",309.5
+49044,"Benzoic acid, m-(butylthio)-, 3-(diethylamino)propyl ester","C18H29NO2S","CCCCSC1=CC=CC(=C1)C(=O)OCCCN(CC)CC",323.5
+49045,"Benzoic acid, o-(butylthio)-, 3-(diethylamino)propyl ester","C18H29NO2S","CCCCSC1=CC=CC=C1C(=O)OCCCN(CC)CC",323.5
+49046,"Benzoic acid, o-(butylthio)-, 2-piperidinoethyl ester","C18H27NO2S","CCCCSC1=CC=CC=C1C(=O)OCCN2CCCCC2",321.5
+49047,"Benzoic acid, p-(butylthio)-, 2-piperidinoethyl ester","C18H27NO2S","CCCCSC1=CC=C(C=C1)C(=O)OCCN2CCCCC2",321.5
+49048,"2-(Cyclohexylamino)butyl benzoate--hydrogen chloride (1/1)","C17H26ClNO2","CCC(COC(=O)C1=CC=CC=C1)[NH2+]C2CCCCC2.[Cl-]",311.8
+49049,"2-(Cyclohexylamino)butyl benzoate","C17H25NO2","CCC(COC(=O)C1=CC=CC=C1)NC2CCCCC2",275.4
+49050,"1-(Cyclohexylamino)-2-methylpropan-2-yl benzoate--hydrogen chloride (1/1)","C17H26ClNO2","CC(C)(C[NH2+]C1CCCCC1)OC(=O)C2=CC=CC=C2.[Cl-]",311.8
+49051,"[1-(Cyclohexylamino)-2-methylpropan-2-yl] benzoate","C17H25NO2","CC(C)(CNC1CCCCC1)OC(=O)C2=CC=CC=C2",275.4
+49052,"","C4H9Cl4N","C(CCl)[NH+](CCCl)Cl.[Cl-]",212.9
+49053,"Benzoic acid, p-phenoxy-, 3-(2,6-dimethylpiperidino)propyl ester, hydrochloride","C23H30ClNO3","CC1CCCC([NH+]1CCCOC(=O)C2=CC=C(C=C2)OC3=CC=CC=C3)C.[Cl-]",403.9
+49054,"3-(2,6-Dimethylpiperidin-1-yl)propyl 4-phenoxybenzoate","C23H29NO3","CC1CCCC(N1CCCOC(=O)C2=CC=C(C=C2)OC3=CC=CC=C3)C",367.5
+49055,"Benzoic acid, p-(ethylthio)-, 2-(diethylamino)ethyl ester","C15H23NO2S","CCN(CC)CCOC(=O)C1=CC=C(C=C1)SCC",281.4
+49056,"BENZOIC ACID, m-(ETHYLTHIO)-, 3-(DIETHYLAMINO)PROPYL ESTER","C16H25NO2S","CCN(CC)CCCOC(=O)C1=CC(=CC=C1)SCC",295.4
+49057,"BENZOIC ACID, o-(ETHYLTHIO)-, 3-(DIETHYLAMINO)PROPYL ESTER","C16H25NO2S","CCN(CC)CCCOC(=O)C1=CC=CC=C1SCC",295.4
+49058,"BENZOIC ACID, p-(ETHYLTHIO)-, 3-(DIETHYLAMINO)PROPYL ESTER","C16H25NO2S","CCN(CC)CCCOC(=O)C1=CC=C(C=C1)SCC",295.4
+49059,"Benzoic acid, m-(ethylthio)-, 2-piperidinoethyl ester","C16H23NO2S","CCSC1=CC=CC(=C1)C(=O)OCCN2CCCCC2",293.4
+49060,"Benzoic acid, o-(ethylthio)-, 2-piperidinoethyl ester","C16H23NO2S","CCSC1=CC=CC=C1C(=O)OCCN2CCCCC2",293.4
+49061,"2-(Diethylamino)butan-2-yl 4-fluoro-3-iodobenzoate--hydrogen chloride (1/1)","C15H22ClFINO2","CCC(C)([NH+](CC)CC)OC(=O)C1=CC(=C(C=C1)F)I.[Cl-]",429.69
+49062,"2-(Diethylamino)butan-2-yl 4-fluoro-3-iodobenzoate","C15H21FINO2","CCC(C)(N(CC)CC)OC(=O)C1=CC(=C(C=C1)F)I",393.24
+49063,"3-(2-Methylpiperidin-1-yl)propyl 4-(heptyloxy)benzoate--hydrogen chloride (1/1)","C23H38ClNO3","CCCCCCCOC1=CC=C(C=C1)C(=O)OCCC[NH+]2CCCCC2C.[Cl-]",412.0
+49064,"3-(2-Methylpiperidin-1-yl)propyl 4-heptoxybenzoate","C23H37NO3","CCCCCCCOC1=CC=C(C=C1)C(=O)OCCCN2CCCCC2C",375.5
+49065,"3-(2,6-Dimethylpiperidin-1-yl)propyl 4-(hexyloxy)benzoate--hydrogen chloride (1/1)","C23H38ClNO3","CCCCCCOC1=CC=C(C=C1)C(=O)OCCC[NH+]2C(CCCC2C)C.[Cl-]",412.0
+49066,"3-(2,6-Dimethylpiperidin-1-yl)propyl 4-hexoxybenzoate","C23H37NO3","CCCCCCOC1=CC=C(C=C1)C(=O)OCCCN2C(CCCC2C)C",375.5
+49067,"Benzoic acid, 3-(2-hexylpiperidino)propyl ester, hydrochloride","C21H34ClNO2","CCCCCCC1CCCC[NH+]1CCCOC(=O)C2=CC=CC=C2.[Cl-]",368.0
+49068,"3-(2,3-Dimethylpiperidin-1-yl)propyl 2-hydroxybenzoate--hydrogen chloride (1/1)","C17H26ClNO3","CC1CCC[NH+](C1C)CCCOC(=O)C2=CC=CC=C2O.[Cl-]",327.8
+49069,"3-(2,3-Dimethylpiperidin-1-yl)propyl 2-hydroxybenzoate","C17H25NO3","CC1CCCN(C1C)CCCOC(=O)C2=CC=CC=C2O",291.4
+49070,"Benzoic acid, o-hydroxy-, 3-(2,4-dimethylpiperidino)propyl ester, hydrochloride","C17H26ClNO3","CC1CC[NH+](C(C1)C)CCCOC(=O)C2=CC=CC=C2O.[Cl-]",327.8
+49071,"3-(2,4-Dimethylpiperidin-1-yl)propyl 2-hydroxybenzoate","C17H25NO3","CC1CCN(C(C1)C)CCCOC(=O)C2=CC=CC=C2O",291.4
+49072,"Benzoic acid, 2-(dimethylamino)-1-(3,4-methylenedioxyphenyl)ethyl ester","C18H19NO4","CN(C)CC(C1=CC2=C(C=C1)OCO2)OC(=O)C3=CC=CC=C3",313.3
+49073,"2,2-Dimethyl-3-(morpholin-4-yl)propyl benzoate--hydrogen chloride (1/1)","C16H24ClNO3","CC(C)(C[NH+]1CCOCC1)COC(=O)C2=CC=CC=C2.[Cl-]",313.82
+49074,"(2,2-Dimethyl-3-morpholin-4-ylpropyl) benzoate","C16H23NO3","CC(C)(CN1CCOCC1)COC(=O)C2=CC=CC=C2",277.36
+49075,"3-(2,3-Dimethylpiperidin-1-yl)propyl benzoate--hydrogen chloride (1/1)","C17H26ClNO2","CC1CCC[NH+](C1C)CCCOC(=O)C2=CC=CC=C2.[Cl-]",311.8
+49076,"3-(2,3-Dimethylpiperidin-1-yl)propyl benzoate","C17H25NO2","CC1CCCN(C1C)CCCOC(=O)C2=CC=CC=C2",275.4
+49077,"3-(2,4-Dimethylpiperidin-1-yl)propyl benzoate--hydrogen chloride (1/1)","C17H26ClNO2","CC1CC[NH+](C(C1)C)CCCOC(=O)C2=CC=CC=C2.[Cl-]",311.8
+49078,"3-(2,4-Dimethylpiperidin-1-yl)propyl benzoate","C17H25NO2","CC1CCN(C(C1)C)CCCOC(=O)C2=CC=CC=C2",275.4
+49079,"Benzoic acid, 3,5-divaleramido-2,4,6-triiodo-","C17H21I3N2O4","CCCCC(=O)NC1=C(C(=C(C(=C1I)C(=O)O)I)NC(=O)CCCC)I",698.07
+49080,"Benzoic acid, 3-(3-ethoxycarbonylpiperidino)propyl ester, hydrochloride","C18H26ClNO4","CCOC(=O)C1CCC[NH+](C1)CCCOC(=O)C2=CC=CC=C2.[Cl-]",355.9
+49081,"Ethyl 1-(3-benzoyloxypropyl)piperidine-3-carboxylate","C18H25NO4","CCOC(=O)C1CCCN(C1)CCCOC(=O)C2=CC=CC=C2",319.4
+49082,"3-(Diethylamino)-2,2-dimethylpropyl 4-ethoxybenzoate--hydrogen chloride (1/1)","C18H30ClNO3","CC[NH+](CC)CC(C)(C)COC(=O)C1=CC=C(C=C1)OCC.[Cl-]",343.9
+49083,"3-(Diethylamino)-2,2-dimethylpropyl 4-ethoxybenzoate","C18H29NO3","CCN(CC)CC(C)(C)COC(=O)C1=CC=C(C=C1)OCC",307.4
+49084,"Benzoic acid, p-ethoxy-, 3-(diethylamino)propyl ester, hydrochloride","C16H26ClNO3","CC[NH+](CC)CCCOC(=O)C1=CC=C(C=C1)OCC.[Cl-]",315.83
+49085,"Benzoic acid, 4-ethoxy, 3-(diethylamino)propyl ester","C16H25NO3","CCN(CC)CCCOC(=O)C1=CC=C(C=C1)OCC",279.37
+49086,"3-(2-Methylpiperidin-1-yl)propyl 4-ethoxybenzoate--hydrogen chloride (1/1)","C18H28ClNO3","CCOC1=CC=C(C=C1)C(=O)OCCC[NH+]2CCCCC2C.[Cl-]",341.9
+49087,"Benzoic acid, 3-(2-(1-ethylpropyl)piperidino)propyl ester, hydrochloride","C20H32ClNO2","CCC(CC)C1CCCC[NH+]1CCCOC(=O)C2=CC=CC=C2.[Cl-]",353.9
+49088,"3-(2-Pentan-3-ylpiperidin-1-yl)propyl benzoate","C20H31NO2","CCC(CC)C1CCCCN1CCCOC(=O)C2=CC=CC=C2",317.5
+49089,"Benzoic acid, o-(ethylthio)-, 2-(dibutylamino)ethyl ester","C19H31NO2S","CCCCN(CCCC)CCOC(=O)C1=CC=CC=C1SCC",337.5
+49090,"BENZOIC ACID, m-(ETHYLTHIO)-, 2-(DIETHYLAMINO)ETHYL ESTER","C15H23NO2S","CCN(CC)CCOC(=O)C1=CC(=CC=C1)SCC",281.4
+49091,"1-(3,4-Dihydroxyphenyl)-2-methylbutan-1-one","C11H14O3","CCC(C)C(=O)C1=CC(=C(C=C1)O)O",194.23
+49092,"1-(3,4-Dimethoxyphenyl)-2-methylbutan-1-one","C13H18O3","CCC(C)C(=O)C1=CC(=C(C=C1)OC)OC",222.28
+49093,"Camphane-2-carboxylic acid, (2-morpholinoethyl) ester, hydrochloride","C17H30ClNO3","CC1(C2CCC1(C(C2)C(=O)OCC[NH+]3CCOCC3)C)C.[Cl-]",331.9
+49094,"2-Morpholin-4-ylethyl 1,7,7-trimethylbicyclo[2.2.1]heptane-2-carboxylate","C17H29NO3","CC1(C2CCC1(C(C2)C(=O)OCCN3CCOCC3)C)C",295.4
+49095,"Carbamic acid, N-(2-chloroethyl)-N-nitro-, methyl ester","C4H7ClN2O4","COC(=O)N(CCCl)[N+](=O)[O-]",182.56
+49096,"Carbamic acid, 3-(o-chlorophenyl)propyl ester","C10H12ClNO2","C1=CC=C(C(=C1)CCCOC(=O)N)Cl",213.66
+49097,"Carbamic acid, 2,2-dichloroethyl-, butyl ester","C7H13Cl2NO2","CCCCOC(=O)NCC(Cl)Cl",214.09
+49098,"Carbamic acid, 2,2-dichloroethyl-, ethyl ester","C5H9Cl2NO2","CCOC(=O)NCC(Cl)Cl",186.03
+49099,"Carbamic acid, 2,2-dichloroethyl-, methyl ester","C4H7Cl2NO2","COC(=O)NCC(Cl)Cl",172.01
+49100,"Carbamic acid, 2,2-dichloroethyl-, propyl ester","C6H11Cl2NO2","CCCOC(=O)NCC(Cl)Cl",200.06

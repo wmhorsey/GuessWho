@@ -1,0 +1,101 @@
+"CID","Title","MolecularFormula","ConnectivitySMILES","MolecularWeight"
+9801,"Prenylamine","C24H27N","CC(CC1=CC=CC=C1)NCCC(C2=CC=CC=C2)C3=CC=CC=C3",329.5
+9802,"Acetamide, N,N'-fluoren-2,7-ylenebis(trifluoro-","C17H10F6N2O2","C1C2=C(C=CC(=C2)NC(=O)C(F)(F)F)C3=C1C=C(C=C3)NC(=O)C(F)(F)F",388.26
+9803,"Triethyl-2-(3,4,5-trimethoxybenzoyloxy)ethylammonium tosylate","C25H37NO8S","CC[N+](CC)(CC)CCOC(=O)C1=C(C(=C(C=C1)OC)OC)OC.CC1=CC=C(C=C1)S(=O)(=O)[O-]",511.6
+9804,"Triethyl(2-hydroxyethyl)ammonium 3,4,5-trimethoxybenzoate","C18H30NO5+","CC[N+](CC)(CC)CCOC(=O)C1=C(C(=C(C=C1)OC)OC)OC",340.4
+9805,"Hexafluorobenzene","C6F6","C1(=C(C(=C(C(=C1F)F)F)F)F)F",186.05
+9806,"Benzene, 1-bromo-2-(trifluoromethyl)-","C7H4BrF3","C1=CC=C(C(=C1)C(F)(F)F)Br",225.01
+9807,"Benzene, 1-fluoro-2-(trifluoromethyl)-","C7H4F4","C1=CC=C(C(=C1)C(F)(F)F)F",164.10
+9808,"2-Fluorobenzoyl chloride","C7H4ClFO","C1=CC=C(C(=C1)C(=O)Cl)F",158.56
+9809,"4-Chloro-3,5-dinitrobenzotrifluoride","C7H2ClF3N2O4","C1=C(C=C(C(=C1[N+](=O)[O-])Cl)[N+](=O)[O-])C(F)(F)F",270.55
+9810,"p-Fluorotripelennamine","C16H20FN3","CN(C)CCN(CC1=CC=C(C=C1)F)C2=CC=CC=N2",273.35
+9811,"4,4'-Difluoro-1,1'-biphenyl","C12H8F2","C1=CC(=CC=C1C2=CC=C(C=C2)F)F",190.19
+9812,"N-(4'-fluoro(1,1'-biphenyl)-4-yl)acetamide","C14H12FNO","CC(=O)NC1=CC=C(C=C1)C2=CC=C(C=C2)F",229.25
+9813,"5'-Chloro-2'-fluoroacetanilide","C8H7ClFNO","CC(=O)NC1=C(C=CC(=C1)Cl)F",187.60
+9814,"2,6-Bis(trifluoromethyl)-1H-benzimidazole","C9H4F6N2","C1=CC2=C(C=C1C(F)(F)F)NC(=N2)C(F)(F)F",254.13
+9815,"2-Chloro-1,1,1,4,4,4-hexafluoro-2-butene","C4HClF6","C(=C(C(F)(F)F)Cl)C(F)(F)F",198.49
+9816,"2-Nitro-4-(trifluoromethyl)phenol","C7H4F3NO3","C1=CC(=C(C=C1C(F)(F)F)[N+](=O)[O-])O",207.11
+9817,"Benzene, 1-bromo-3-(trifluoromethyl)-","C7H4BrF3","C1=CC(=CC(=C1)Br)C(F)(F)F",225.01
+9818,"1,2-Bis(trifluoromethyl)benzene","C8H4F6","C1=CC=C(C(=C1)C(F)(F)F)C(F)(F)F",214.11
+9819,"3-Isocyanatobenzenesulfonyl fluoride","C7H4FNO3S","C1=CC(=CC(=C1)S(=O)(=O)F)N=C=O",201.18
+9820,"4,4'-(3-Oxo-1,5-pentanediyl)bis(N,N-dimethyl-N-2-propenylbenzenaminium) dibromide","C27H38Br2N2O","C[N+](C)(CC=C)C1=CC=C(C=C1)CCC(=O)CCC2=CC=C(C=C2)[N+](C)(C)CC=C.[Br-].[Br-]",566.4
+9821,"P-Nitrobenzotrifluoride","C7H4F3NO2","C1=CC(=CC=C1C(F)(F)F)[N+](=O)[O-]",191.11
+9822,"5-methyl-1H-pyrazole-3-carboxylic acid","C5H6N2O2","CC1=CC(=NN1)C(=O)O",126.11
+9823,"1-Fluoro-3-nitrobenzene","C6H4FNO2","C1=CC(=CC(=C1)F)[N+](=O)[O-]",141.10
+9824,"N-(3-Chloro-2-oxo-1-(phenylmethyl)propyl)-4-methylbenzenesulfonamide","C17H18ClNO3S","CC1=CC=C(C=C1)S(=O)(=O)NC(CC2=CC=CC=C2)C(=O)CCl",351.8
+9825,"2-Fluoro-4-nitrophenol","C6H4FNO3","C1=CC(=C(C=C1[N+](=O)[O-])F)O",157.10
+9826,"2-Amino-1-(4-fluorophenyl)ethan-1-ol--hydrogen chloride (1/1)","C8H11ClFNO","C1=CC(=CC=C1C(CN)O)F.Cl",191.63
+9827,"2-Amino-1-(4-fluorophenyl)ethan-1-ol","C8H10FNO","C1=CC(=CC=C1C(CN)O)F",155.17
+9828,"4'-Fluoroacetophenone","C8H7FO","CC(=O)C1=CC=C(C=C1)F",138.14
+9829,"Phenyl fluoroacetate","C8H7FO2","C1=CC=C(C=C1)OC(=O)CF",154.14
+9830,"N-(4-Chlorophenyl)-2,2,2-trifluoroacetamide","C8H5ClF3NO","C1=CC(=CC=C1NC(=O)C(F)(F)F)Cl",223.58
+9831,"p-Acetotoluidide, 2-fluoro-","C9H10FNO","CC1=CC=C(C=C1)NC(=O)CF",167.18
+9832,"Acetanilide, 4'-chloro-2-fluoro-","C8H7ClFNO","C1=CC(=CC=C1NC(=O)CF)Cl",187.60
+9833,"Acetanilide, 2,4'-difluoro-","C8H7F2NO","C1=CC(=CC=C1NC(=O)CF)F",171.14
+9834,"3-Fluorophenyl isothiocyanate","C7H4FNS","C1=CC(=CC(=C1)F)N=C=S",153.18
+9835,"Hydrazinecarboxamide,1-(2-hydroxyethyl)-2-[(5-nitro-2-furanyl)methylene]-","C8H10N4O5","C1=C(OC(=C1)[N+](=O)[O-])C=NN(CCO)C(=O)N",242.19
+9836,"Fluorbenside","C13H10ClFS","C1=CC(=CC=C1CSC2=CC=C(C=C2)F)Cl",252.73
+9837,"2-(4-Fluorophenyl)acetic acid","C8H7FO2","C1=CC(=CC=C1CC(=O)O)F",154.14
+9838,"4-Dimethylamino-4'-trifluoromethylazobenzene","C15H14F3N3","CN(C)C1=CC=C(C=C1)N=NC2=CC=C(C=C2)C(F)(F)F",293.29
+9839,"Acetic acid, fluoro-, isopropyl ester","C5H9FO2","CC(C)OC(=O)CF",120.12
+9840,"Ethanol, 2-fluoro-, 1,1'-carbonate","C5H8F2O3","C(CF)OC(=O)OCCF",154.11
+9841,"Butyric acid, 4-fluoro-, methyl ester","C5H9FO2","COC(=O)CCCF",120.12
+9842,"Acetic acid, fluoro-, allyl ester","C5H7FO2","C=CCOC(=O)CF",118.11
+9843,"Acetic acid, fluorothio-, S-(2-chloroethyl) ester","C4H6ClFOS","C(CCl)SC(=O)CF",156.61
+9844,"Fluroxene","C4H5F3O","C=COCC(F)(F)F",126.08
+9845,"Trifluoroacetic anhydride","C4F6O3","C(=O)(C(F)(F)F)OC(=O)C(F)(F)F",210.03
+9846,"Hexanoic acid, 6-bromo-, 2-fluoroethyl ester","C8H14BrFO2","C(CCC(=O)OCCF)CCBr",241.10
+9847,"(E)-1,4-difluorobut-2-ene","C4H6F2","C(C=CCF)F",92.09
+9848,"Butyronitrile, 4-fluoro-","C4H6FN","C(CC#N)CF",87.10
+9849,"1,1-Difluoroheptane","C7H14F2","CCCCCCC(F)F",136.18
+9850,"Isocyanic acid, 3-fluoropropyl ester","C4H6FNO","C(CN=C=O)CF",103.09
+9851,"Hexadecanoic acid, 16-fluoro-, ethyl ester","C18H35FO2","CCOC(=O)CCCCCCCCCCCCCCCF",302.5
+9852,"Hexane, 6-fluoro-1-nitro-","C6H12FNO2","C(CCCF)CC[N+](=O)[O-]",149.16
+9853,"Hexanethiol, 6-fluoro-","C6H13FS","C(CCCS)CCF",136.23
+9854,"1-Octyne, 8-fluoro-","C8H13F","C#CCCCCCCF",128.19
+9855,"Heptanol, 7-fluoro-","C7H15FO","C(CCCO)CCCF",134.19
+9856,"1-Octanol, 8-fluoro-","C8H17FO","C(CCCCF)CCCO",148.22
+9857,"","C16H31NaO2","CCCCCCCCCCCCCCCC(=O)[O-].[Na+]",278.41
+9858,"Octadecanoic acid, 18-fluoro-","C18H35FO2","C(CCCCCCCCC(=O)O)CCCCCCCCF",302.5
+9859,"Hexadecane, 1,16-difluoro-","C16H32F2","C(CCCCCCCCF)CCCCCCCF",262.42
+9860,"Octadecane, 1,18-difluoro-","C18H36F2","C(CCCCCCCCCF)CCCCCCCCF",290.5
+9861,"Octadecanol, 18-fluoro-","C18H37FO","C(CCCCCCCCCF)CCCCCCCCO",288.5
+9862,"6-Methyl-5-hepten-2-one","C8H14O","CC(=CCCC(=O)C)C",126.20
+9863,"Silicon carbide","CSi","[C-]#[Si+]",40.096
+9864,"Cyanamide","CH2N2","C(#N)N",42.040
+9865,"Thiirane","C2H4S","C1CS1",60.12
+9866,"Arsine, difluoromethyl","CH3AsF2","C[As](F)F",127.953
+9867,"2-Fluoropropane","C3H7F","CC(C)F",62.09
+9868,"1,1,1-Trifluoroethane","C2H3F3","CC(F)(F)F",84.04
+9869,"Fluorotrimethylsilane","C3H9FSi","C[Si](C)(C)F",92.19
+9870,"Methyl fluorosulfate","CH3FO3S","COS(=O)(=O)F",114.10
+9871,"Methyl trifluoromethyl ketone","C3H3F3O","CC(=O)C(F)(F)F",112.05
+9872,"2,2,3,3,3-Pentafluoropropanol","C3H3F5O","C(C(C(F)(F)F)(F)F)O",150.05
+9873,"Perfluorooctyl bromide","C8BrF17","C(C(C(C(C(F)(F)Br)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F",498.96
+9874,"Diethyl hexafluoroglutarate","C9H10F6O4","CCOC(=O)C(C(C(C(=O)OCC)(F)F)(F)F)(F)F",296.16
+9875,"[(9S,14S,16R,17R)-17-acetyl-6-chloro-10,13,16-trimethyl-3-oxo-2,8,9,11,12,14,15,16-octahydro-1H-cyclopenta[a]phenanthren-17-yl] acetate","C24H31ClO4","CC1CC2C3C=C(C4=CC(=O)CCC4(C3CCC2(C1(C(=O)C)OC(=O)C)C)C)Cl",419.0
+9876,"1-Chloro-1,2,2-trifluoro-1,2-dinitroethane","C2ClF3N2O4","C(C([N+](=O)[O-])(F)Cl)([N+](=O)[O-])(F)F",208.48
+9877,"2-Chloro-1,1,2-trifluoroethyl methyl ether","C3H4ClF3O","COC(C(F)Cl)(F)F",148.51
+9878,"Fluorometholone","C22H29FO4","CC1CC2C3CCC(C3(CC(C2(C4(C1=CC(=O)C=C4)C)F)O)C)(C(=O)C)O",376.5
+9879,"BARBITURIC ACID, 5-(p-CHLOROPHENYL)-5-ETHYL-","C12H11ClN2O3","CCC1(C(=O)NC(=O)NC1=O)C2=CC=C(C=C2)Cl",266.68
+9880,"Cyproterone Acetate","C24H29ClO4","CC(=O)C1(CCC2C1(CCC3C2C=C(C4=CC(=O)C5CC5C34C)Cl)C)OC(=O)C",416.9
+9881,"Acetic acid, difluoronitro-, methyl ester","C3H3F2NO4","COC(=O)C([N+](=O)[O-])(F)F",155.06
+9882,"Profadol","C14H21NO","CCCC1(CCN(C1)C)C2=CC(=CC=C2)O",219.32
+9883,"Hexafluoropropylene oxide","C3F6O","C1(C(O1)(F)F)(C(F)(F)F)F",166.02
+9884,"Ethane, 2-chloro-1,1-difluoro-1-methoxy-","C3H5ClF2O","COC(CCl)(F)F",130.52
+9885,"Ammonium, tetraethyl-, hexafluorophosphate(1-)","C8H20F6NP","CC[N+](CC)(CC)CC.F[P-](F)(F)(F)(F)F",275.22
+9886,"Hexafluorophosphate","F6P-","F[P-](F)(F)(F)(F)F",144.9641810
+9887,"Ammonium, (2-fluoroethyl)triethyl-, bromide","C8H19BrFN","CC[N+](CC)(CC)CCF.[Br-]",228.15
+9888,"Triethyl(2-fluoroethyl)azanium","C8H19FN+","CC[N+](CC)(CC)CCF",148.24
+9889,"Fluoroacetone","C3H5FO","CC(=O)CF",76.07
+9890,"1,1,2-Trifluoroethane","C2H3F3","C(C(F)F)F",84.04
+9891,"N,N-Dimethylcarbamic fluoride","C3H6FNO","CN(C)C(=O)F",91.08
+9892,"2,2,2-Trifluoro-1-methoxyethanol","C3H5F3O2","COC(C(F)(F)F)O",130.07
+9893,"Methyl trifluoroacetate","C3H3F3O2","COC(=O)C(F)(F)F",128.05
+9894,"2-Chloro-1,1,1,3,3,3-hexafluoropropane","C3HClF6","C(C(F)(F)F)(C(F)(F)F)Cl",186.48
+9895,"beta-Cyclocitral","C10H16O","CC1=C(C(CCC1)(C)C)C=O",152.23
+9896,"17-alpha-Allylestr-4-en-17-beta-ol","C21H32O","CC12CCC3C(C1CCC2(CC=C)O)CCC4=CCCCC34",300.5
+9897,"Ethanol, 1-ethoxy-2,2,2-trifluoro-","C4H7F3O2","CCOC(C(F)(F)F)O",144.09
+9898,"2-Fluorobutanoic acid","C4H7FO2","CCC(C(=O)O)F",106.10
+9899,"2-(Trifluoromethyl)benzoic acid","C8H5F3O2","C1=CC=C(C(=C1)C(=O)O)C(F)(F)F",190.12
+9900,"Dihydroxyfluoroprogesterone","C21H29FO4","CC12CCC(=O)C=C1CCC3C2C(CC4(C3CCC4(C(=O)CF)O)C)O",364.4

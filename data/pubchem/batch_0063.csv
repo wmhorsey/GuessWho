@@ -1,0 +1,101 @@
+"CID","Title","MolecularFormula","ConnectivitySMILES","MolecularWeight"
+6301,"Chlorquinaldol","C10H7Cl2NO","CC1=NC2=C(C=C1)C(=CC(=C2O)Cl)Cl",228.07
+6302,"S-[2-[3-[[4-[[[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-4-hydroxy-3-phosphonooxyoxolan-2-yl]methoxy-hydroxyphosphoryl]oxy-hydroxyphosphoryl]oxy-2-hydroxy-3,3-dimethylbutanoyl]amino]propanoylamino]ethyl] ethanethioate","C23H38N7O17P3S","CC(=O)SCCNC(=O)CCNC(=O)C(C(C)(C)COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)(O)O)O",809.6
+6303,"Cordycepin","C10H13N5O3","C1C(OC(C1O)N2C=NC3=C(N=CN=C32)N)CO",251.24
+6304,"Ethyl 2-(3-methyl-4-oxo-5-piperidin-1-yl-1,3-thiazolidin-2-ylidene)acetate","C13H20N2O3S","CCOC(=O)C=C1N(C(=O)C(S1)N2CCCCC2)C",284.38
+6305,"L-Tryptophan","C11H12N2O2","C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)N",204.22
+6306,"L-Isoleucine","C6H13NO2","CCC(C)C(C(=O)O)N",131.17
+6307,"Quinethazone","C10H12ClN3O3S","CCC1NC2=CC(=C(C=C2C(=O)N1)S(=O)(=O)N)Cl",289.74
+6308,"(1,1'-Biphenyl)-4,4'-diethanaminium, N,N'-bis(2-hydroxyethyl)-N,N,N',N'-tetramethyl-beta,beta'-dioxo-, dibromide","C24H34Br2N2O4","C[N+](C)(CCO)C(=O)CC1=CC=C(C=C1)C2=CC=C(C=C2)CC(=O)[N+](C)(C)CCO.[Br-].[Br-]",574.3
+6309,"2-Hydroxyethyl-[2-[4-[4-[2-[2-hydroxyethyl(dimethyl)azaniumyl]-2-oxoethyl]phenyl]phenyl]acetyl]-dimethylazanium","C24H34N2O4+2","C[N+](C)(CCO)C(=O)CC1=CC=C(C=C1)C2=CC=C(C=C2)CC(=O)[N+](C)(C)CCO",414.5
+6310,"Phthalanilide 6","C28H30Cl2N6O2","C1CNC(=NC1)C2=CC=C(C=C2)NC(=O)C3=CC=C(C=C3)C(=O)NC4=CC=C(C=C4)C5=NCCCN5.Cl.Cl",553.5
+6311,"N,N'-Bis(4-(1,4,5,6-tetrahydro-2-pyrimidinyl)phenyl)-1,4-benzenedicarboxamide","C28H28N6O2","C1CNC(=NC1)C2=CC=C(C=C2)NC(=O)C3=CC=C(C=C3)C(=O)NC4=CC=C(C=C4)C5=NCCCN5",480.6
+6312,"o-Chlorobetanidine sulfate","C20H30Cl2N6O4S","CNC(=NC)NCC1=CC=CC=C1Cl.CNC(=NC)NCC1=CC=CC=C1Cl.OS(=O)(=O)O",521.5
+6313,"N-((2-Chlorophenyl)methyl)-N',N''-dimethylguanidine","C10H14ClN3","CNC(=NC)NCC1=CC=CC=C1Cl",211.69
+6314,"Lidocaine Hydrochloride","C14H23ClN2O","CCN(CC)CC(=O)NC1=C(C=CC=C1C)C.Cl",270.80
+6315,"1-Carboxyethenyl hydrogen phosphate","C3H4O6P-","C=C(C(=O)O)OP(=O)(O)[O-]",167.03
+6316,"Benzenemethanol, alpha-(((1-methylethyl)amino)methyl)-4-nitro-, monohydrochloride","C11H17ClN2O3","CC(C)NCC(C1=CC=C(C=C1)[N+](=O)[O-])O.Cl",260.72
+6317,"(RS)-Nifenalol","C11H16N2O3","CC(C)NCC(C1=CC=C(C=C1)[N+](=O)[O-])O",224.26
+6318,"4-Chlorobenzoic Acid","C7H5ClO2","C1=CC(=CC=C1C(=O)O)Cl",156.56
+6319,"N,N'-Diphenyl-P-Phenylenediamine","C18H16N2","C1=CC=C(C=C1)NC2=CC=C(C=C2)NC3=CC=CC=C3",260.3
+6320,"Magneson","C12H9N3O4","C1=CC(=CC=C1N=NC2=C(C=C(C=C2)O)O)[N+](=O)[O-]",259.22
+6321,"2,3-Dimercapto-1-Propanesulfonic Acid","C3H8O3S3","C(C(CS(=O)(=O)O)S)S",188.3
+6322,"L-Arginine","C6H14N4O2","C(CC(C(=O)O)N)CN=C(N)N",174.20
+6323,"Methyl Bromide","CH3Br","CBr",94.94
+6324,"Ethane","C2H6","CC",30.07
+6325,"Ethylene","C2H4","C=C",28.05
+6326,"Acetylene","C2H2","C#C",26.04
+6327,"Methyl Chloride","CH3Cl","CCl",50.49
+6328,"Methyl iodide","CH3I","CI",141.939
+6329,"Methylamine","CH5N","CN",31.057
+6330,"borane;N-methylmethanamine","C2H10BN","B.CNC",58.92
+6331,"Borane","BH3","B",13.84
+6332,"Ethyl Bromide","C2H5Br","CCBr",108.97
+6333,"Bromochloromethane","CH2BrCl","C(Cl)Br",129.38
+6334,"Propane","C3H8","CCC",44.10
+6335,"Propyne","C3H4","CC#C",40.06
+6336,"Myclobutanil","C15H17ClN4","CCCCC(CN1C=NC=N1)(C#N)C2=CC=C(C=C2)Cl",288.77
+6337,"Chloroethane","C2H5Cl","CCCl",64.51
+6338,"Vinyl Chloride","C2H3Cl","C=CCl",62.50
+6339,"Vinyl Fluoride","C2H3F","C=CF",46.04
+6340,"Iodoethane","C2H5I","CCI",155.97
+6341,"Ethylamine","C2H7N","CCN",45.08
+6342,"Acetonitrile","C2H3N","CC#N",41.05
+6343,"Ethanethiol","C2H6S","CCS",62.14
+6344,"Dichloromethane","CH2Cl2","C(Cl)Cl",84.93
+6345,"Difluoromethane","CH2F2","C(F)F",52.023
+6346,"Diiodomethane","CH2I2","C(I)I",267.835
+6347,"Isocyanic acid","CHNO","C(=N)=O",43.025
+6348,"Carbon Disulfide","CS2","C(=S)=S",76.15
+6349,"Methyl magnesium bromide","CH3BrMg","[CH3-].[Mg+2].[Br-]",119.24
+6350,"Nitrone","CH3NO","C=NO",45.041
+6351,"Cyclopropane","C3H6","C1CC1",42.08
+6352,"","C2Ca","[C-]#[C-].[Ca+2]",64.10
+6353,"","C2-2","[C-]#[C-]",24.02
+6354,"Ethylene Oxide","C2H4O","C1CO1",44.05
+6355,"Boron, (ethanamine)trifluoro-, (T-4)-","C2H7BF3N","B(F)(F)F.CCN",112.89
+6356,"Boron trifluoride","BF3","B(F)(F)F",67.81
+6357,"Aluminum carbanide","C3H9Al","[CH3-].[CH3-].[CH3-].[Al+3]",72.09
+6358,"2-Bromopropane","C3H7Br","CC(C)Br",122.99
+6359,"Bromodichloromethane","CHBrCl2","C(Cl)(Cl)Br",163.83
+6360,"Isobutane","C4H10","CC(C)C",58.12
+6361,"2-Chloropropane","C3H7Cl","CC(C)Cl",78.54
+6362,"Isopropyl iodide","C3H7I","CC(C)I",169.99
+6363,"Isopropylamine","C3H9N","CC(C)N",59.11
+6364,"2-Propanethiol","C3H8S","CC(C)S",76.16
+6365,"1,1-Dichloroethane","C2H4Cl2","CC(Cl)Cl",98.96
+6366,"Vinylidene chloride","C2H2Cl2","C=C(Cl)Cl",96.94
+6367,"Acetyl chloride","C2H3ClO","CC(=O)Cl",78.50
+6368,"1,1-Difluoroethane","C2H4F2","CC(F)F",66.05
+6369,"Vinylidene fluoride","C2H2F2","C=C(F)F",64.03
+6370,"Dichlorofluoromethane","CHCl2F","C(F)(Cl)Cl",102.92
+6371,"Phosgene","CCl2O","C(=O)(Cl)Cl",98.91
+6372,"Chlorodifluoromethane","CHClF2","C(F)(F)Cl",86.47
+6373,"Trifluoromethane","CHF3","C(F)(F)F",70.014
+6374,"Iodoform","CHI3","C(I)(I)I",393.732
+6375,"Nitromethane","CH3NO2","C[N+](=O)[O-]",61.040
+6376,"Methyldichlorosilane","CH4Cl2Si","C[SiH](Cl)Cl",115.03
+6377,"2-Methylaziridine","C3H7N","CC1CN1",57.09
+6378,"Propylene Oxide","C3H6O","CC1CO1",58.08
+6379,"Tetramethylammonium chloride","C4H12ClN","C[N+](C)(C)C.[Cl-]",109.60
+6380,"Tetramethylammonium","C4H12N+","C[N+](C)(C)C",74.14
+6381,"Tetramethylammonium iodide","C4H12IN","C[N+](C)(C)C.[I-]",201.05
+6382,"Dibromodifluoromethane","CBr2F2","C(F)(F)(Br)Br",209.82
+6383,"Bromotrichloromethane","CBrCl3","C(Cl)(Cl)(Cl)Br",198.27
+6384,"Bromotrifluoromethane","CBrF3","C(F)(F)(F)Br",148.91
+6385,"Tert-Butylamine","C4H11N","CC(C)(C)N",73.14
+6386,"tert-Butanol","C4H10O","CC(C)(C)O",74.12
+6387,"tert-Butyl mercaptan","C4H10S","CC(C)(C)S",90.19
+6388,"1-Chloro-1,1-difluoroethane","C2H3ClF2","CC(F)(F)Cl",100.49
+6389,"Trichlorofluoromethane","CCl3F","C(F)(Cl)(Cl)Cl",137.36
+6390,"Trichloromethanethiol","CHCl3S","C(S)(Cl)(Cl)Cl",151.4
+6391,"Dichlorodifluoromethane","CCl2F2","C(F)(F)(Cl)Cl",120.91
+6392,"Chlorotrifluoromethane","CClF3","C(F)(F)(F)Cl",104.46
+6393,"Carbon tetrafluoride","CF4","C(F)(F)(F)F",88.004
+6394,"Tetramethyllead","C4H12Pb","C[Pb](C)(C)C",267
+6395,"Methanesulfonic Acid","CH4O3S","CS(=O)(=O)O",96.11
+6396,"Tetramethylsilane","C4H12Si","C[Si](C)(C)C",88.22
+6397,"Chlorotrimethylsilane","C3H9ClSi","C[Si](C)(C)Cl",108.64
+6398,"Dichlorodimethylsilane","C2H6Cl2Si","C[Si](C)(Cl)Cl",129.06
+6399,"Trichloromethylsilane","CH3Cl3Si","C[Si](Cl)(Cl)Cl",149.47
+6400,"Tribromoethanol","C2H3Br3O","C(C(Br)(Br)Br)O",282.76

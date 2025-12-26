@@ -1,0 +1,101 @@
+"CID","Title","MolecularFormula","ConnectivitySMILES","MolecularWeight"
+3301,"Ethylenediamine","C2H8N2","C(CN)N",60.10
+3302,"Estr-4-en-17beta-ol, 17-ethyl-","C20H32O","CCC1(CCC2C1(CCC3C2CCC4=CCCCC34)C)O",288.5
+3303,"Morphinan-6alpha-ol, 7,8-didehydro-4,5alpha-epoxy-3-ethoxy-17-methyl-","C19H23NO3","CCOC1=C2C3=C(CC4C5C3(CCN4C)C(O2)C(C=C5)O)C=C1",313.4
+3304,"Ovulen 50","C24H32O4","CC(=O)OC1CCC2C3CCC4(C(C3CCC2=C1)CCC4(C#C)OC(=O)C)C",384.5
+3305,"Etidronic Acid","C2H8O7P2","CC(O)(P(=O)(O)O)P(=O)(O)O",206.03
+3306,"Etilefrine","C10H15NO2","CCNCC(C1=CC(=CC=C1)O)O",181.23
+3307,"Etizolam","C17H15ClN4S","CCC1=CC2=C(S1)N3C(=NN=C3CN=C2C4=CC=CC=C4Cl)C",342.8
+3308,"Etodolac","C17H21NO3","CCC1=C2C(=CC=C1)C3=C(N2)C(OCC3)(CC)CC(=O)O",287.35
+3309,"Etomidoline","C23H29N3O2","CCN1C(C2=CC=CC=C2C1=O)NC3=CC=C(C=C3)OCCN4CCCCC4",379.5
+3310,"Furo(3',4':6,7)naphtho(2,3-d)-1,3-dioxol-6(5aH)-one, 9-((4,6-O-ethylidene-beta-D-glucopyranosyl)oxy)-5,8,8a,9-tetrahydro-5-(4-hydroxy-3,5-dimethoxyphenyl)-, (5R-(5alpha,5abeta,8aalpha,9beta(R*)))-","C29H32O13","CC1OCC2C(O1)C(C(C(O2)OC3C4COC(=O)C4C(C5=CC6=C(C=C35)OCO6)C7=CC(=C(C(=C7)OC)O)OC)O)O",588.6
+3311,"S-Ethyl N-(4-(trifluoromethyl)phenyl)isothiourea","C10H11F3N2S","CCSC(=NC1=CC=C(C=C1)C(F)(F)F)N",248.27
+3312,"9-(4-Methoxy-2,3,6-trimethylphenyl)-3,7-dimethylnona-2,4,6,8-tetraenoic acid ethyl ester","C23H30O3","CCOC(=O)C=C(C)C=CC=C(C)C=CC1=C(C(=C(C=C1C)OC)C)C",354.5
+3313,"2-Hydroxy-2-phenylacetic acid (1,2,6,6-tetramethyl-3-piperidinyl) ester","C17H25NO3","CC1C(CCC(N1C)(C)C)OC(=O)C(C2=CC=CC=C2)O",291.4
+3314,"Eugenol","C10H12O2","COC1=C(C=CC(=C1)CC=C)O",164.20
+3315,"6,6'-[(3,3'-Dimethyl[1,1'-biphenyl]-4,4'-diyl)bis(2,1-diazenediyl)]bis[4-amino-5-hydroxy-1,3-naphthalenedisulfonic acid]","C34H28N6O14S4","CC1=C(C=CC(=C1)C2=CC(=C(C=C2)N=NC3=C(C4=C(C=C3)C(=CC(=C4N)S(=O)(=O)O)S(=O)(=O)O)O)C)N=NC5=C(C6=C(C=C5)C(=CC(=C6N)S(=O)(=O)O)S(=O)(=O)O)O",872.9
+3316,"Exalamide","C13H19NO2","CCCCCCOC1=CC=CC=C1C(=O)N",221.29
+3317,"[1,6-Dihydroxy-8-(hydroxymethyl)-4,12,12,15-tetramethyl-5-oxo-13-tetracyclo[8.5.0.02,6.011,13]pentadeca-3,8-dienyl] deca-3,5-dienoate","C30H42O6","CCCCC=CC=CCC(=O)OC12CC(C3(C(C1C2(C)C)C=C(CC4(C3C=C(C4=O)C)O)CO)O)C",498.6
+3318,"N-(2-fluoroethyl)-2-methylicosa-5,8,11,14-tetraenamide","C23H38FNO","CCCCCC=CCC=CCC=CCC=CCCC(C)C(=O)NCCF",363.6
+3319,"3-[5-(2-Amino-2-oxoethyl)-4,22-bis(2-carboxyethyl)-18,29-bis(carboxymethyl)-5,23-dimethyl-14,25-dioxo-26,30-diaza-9,27,28-triazanidaheptacyclo[19.5.1.13,6.18,11.116,19.01,23.010,15]triaconta-6(30),8(29),10,15,19-pentaen-17-yl]propanoic acid;nickel(3+)","C42H49N6NiO13","CC12CC(=O)NC13CC4C(C(C(=N4)CC5=C(C6=C([N-]5)C(=C7C(C(C(=CC(C2CCC(=O)O)[N-]3)[N-]7)CC(=O)O)CCC(=O)O)C(=O)CC6)CC(=O)O)(C)CC(=O)N)CCC(=O)O.[Ni+3]",904.6
+3320,"3-[5-(2-Amino-2-oxoethyl)-4,22-bis(2-carboxyethyl)-18,29-bis(carboxymethyl)-5,23-dimethyl-14,25-dioxo-9,26,27,28,30-pentazaheptacyclo[19.5.1.13,6.18,11.116,19.01,23.010,15]triaconta-6(30),8(29),10,15,19-pentaen-17-yl]propanoic acid","C42H52N6O13","CC12CC(=O)NC13CC4C(C(C(=N4)CC5=C(C6=C(N5)C(=C7C(C(C(=CC(C2CCC(=O)O)N3)N7)CC(=O)O)CCC(=O)O)C(=O)CC6)CC(=O)O)(C)CC(=O)N)CCC(=O)O",848.9
+3321,"Falcalindiol","C17H24O2","CCCCCCCC=CC(C#CC#CC(C=C)O)O",260.4
+3322,"Heptadeca-1,9-dien-4,6-diyn-3-ol","C17H24O","CCCCCCCC=CCC#CC#CC(C=C)O",244.37
+3323,"5-[2-[7a-methyl-1-[7,7,7-trifluoro-6-hydroxy-6-(trifluoromethyl)heptan-2-yl]-2,3,3a,5,6,7-hexahydro-1H-inden-4-ylidene]ethylidene]-4-methylidenecyclohexane-1,3-diol","C27H38F6O3","CC(CCCC(C(F)(F)F)(C(F)(F)F)O)C1CCC2C1(CCCC2=CC=C3CC(CC(C3=C)O)O)C",524.6
+3324,"Famciclovir","C14H19N5O4","CC(=O)OCC(CCN1C=NC2=CN=C(N=C21)N)COC(=O)C",321.33
+3325,"Gastro","C8H15N7O2S3","C1=C(N=C(S1)N=C(N)N)CSCCC(=NS(=O)(=O)N)N",337.5
+3326,"Famprofazone","C24H31N3O","CC(C)C1=C(N(N(C1=O)C2=CC=CC=C2)C)CN(C)C(C)CC3=CC=CC=C3",377.5
+3327,"a Farnesol","C15H26O","CC(=CCCC(=CCCC(=CCO)C)C)C",222.37
+3328,"2-(3,7,11-Trimethyldodeca-2,6,10-trienylthio)acetic acid","C17H28O2S","CC(=CCCC(=CCCC(=CCSCC(=O)O)C)C)C",296.5
+3329,"6-(1-Hydroxyethyl)-7-oxo-3-(oxolan-2-yl)-4-thia-1-azabicyclo[3.2.0]hept-2-ene-2-carboxylic acid","C12H15NO5S","CC(C1C2N(C1=O)C(=C(S2)C3CCCO3)C(=O)O)O",285.32
+3330,"Carbonyl cyanide p-trifluoromethoxyphenylhydrazone","C10H5F3N4O","C1=CC(=CC=C1NN=C(C#N)C#N)OC(F)(F)F",254.17
+3331,"Felbamate","C11H14N2O4","C1=CC=C(C=C1)C(COC(=O)N)COC(=O)N",238.24
+3332,"Felbinac","C14H12O2","C1=CC=C(C=C1)C2=CC=C(C=C2)CC(=O)O",212.24
+3333,"Felodipine","C18H19Cl2NO4","CCOC(=O)C1=C(NC(=C(C1C2=C(C(=CC=C2)Cl)Cl)C(=O)OC)C)C",384.2
+3334,"Fenbendazole","C15H13N3O2S","COC(=O)NC1=NC2=C(N1)C=C(C=C2)SC3=CC=CC=C3",299.3
+3335,"Fenbufen","C16H14O3","C1=CC=C(C=C1)C2=CC=C(C=C2)C(=O)CCC(=O)O",254.28
+3336,"Fendiline","C23H25N","CC(C1=CC=CC=C1)NCCC(C2=CC=CC=C2)C3=CC=CC=C3",315.5
+3337,"Fenfluramine","C12H16F3N","CCNC(C)CC1=CC(=CC=C1)C(F)(F)F",231.26
+3338,"Fenipentol","C11H16O","CCCCC(C1=CC=CC=C1)O",164.24
+3339,"Fenofibrate","C20H21ClO4","CC(C)OC(=O)C(C)(C)OC1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)Cl",360.8
+3340,"9-chloro-5-(4-hydroxyphenyl)-2,3,4,5-tetrahydro-1H-3-benzazepin-3-ium-7,8-diol","C16H17ClNO3+","C1C[NH2+]CC(C2=CC(=C(C(=C21)Cl)O)O)C3=CC=C(C=C3)O",306.76
+3341,"Fenoldopam","C16H16ClNO3","C1CNCC(C2=CC(=C(C(=C21)Cl)O)O)C3=CC=C(C=C3)O",305.75
+3342,"Fenoprofen","C15H14O3","CC(C1=CC(=CC=C1)OC2=CC=CC=C2)C(=O)O",242.27
+3343,"Fenoterol","C17H21NO4","CC(CC1=CC=C(C=C1)O)NCC(C2=CC(=CC(=C2)O)O)O",303.35
+3344,"Fenspiride","C15H20N2O2","C1CN(CCC12CNC(=O)O2)CCC3=CC=CC=C3",260.33
+3345,"Fentanyl","C22H28N2O","CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3",336.5
+3346,"Fenthion","C10H15O3PS2","CC1=C(C=CC(=C1)OP(=S)(OC)OC)SC",278.3
+3347,"Fenvalerate","C25H22ClNO3","CC(C)C(C1=CC=C(C=C1)Cl)C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3",419.9
+3348,"Fexofenadine","C32H39NO4","CC(C)(C1=CC=C(C=C1)C(CCCN2CCC(CC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O)O)C(=O)O",501.7
+3349,"6-Fluoro-2',5'-dioxo-2,3-dihydrospiro[chromene-4,4'-imidazolidine]-2-carboxamide","C12H10FN3O4","C1C(OC2=C(C13C(=O)NC(=O)N3)C=C(C=C2)F)C(=O)N",279.22
+3350,"4a,6a-Dimethyl-2-oxo-2,4a,4b,5,6,6a,7,8,9,9a,9b,10,11,11a-tetradecahydro-1H-indeno(5,4-f)quinoline-7-carboxylic acid tert-butylamide","C23H36N2O2","CC12CCC3C(C1CCC2C(=O)NC(C)(C)C)CCC4C3(C=CC(=O)N4)C",372.5
+3351,"Fipexide","C20H21ClN2O4","C1CN(CCN1CC2=CC3=C(C=C2)OCO3)C(=O)COC4=CC=C(C=C4)Cl",388.8
+3352,"Fipronil","C12H4Cl2F6N4OS","C1=C(C=C(C(=C1Cl)N2C(=C(C(=N2)C#N)S(=O)C(F)(F)F)N)Cl)C(F)(F)F",437.1
+3353,"2-[1,14-dihydroxy-12-[1-(4-hydroxy-3-methoxycyclohexyl)prop-1-en-2-yl]-23,25-dimethoxy-13,19,21,27-tetramethyl-2,3,10,16-tetraoxo-11,28-dioxa-4-azatricyclo[22.3.1.04,9]octacos-18-en-17-yl]ethyl N-benzylcarbamate","C51H76N2O14","CC1CC(C2C(CC(C(O2)(C(=O)C(=O)N3CCCCC3C(=O)OC(C(C(CC(=O)C(C=C(C1)C)CCOC(=O)NCC4=CC=CC=C4)O)C)C(=CC5CCC(C(C5)OC)O)C)O)C)OC)OC",941.2
+3354,"Flavoxate","C24H25NO4","CC1=C(OC2=C(C1=O)C=CC=C2C(=O)OCCN3CCCCC3)C4=CC=CC=C4",391.5
+3355,"[2,5-Bis(2,2,2-trifluoroethoxy)benzoyl]-(piperidin-2-ylmethyl)azanium","C17H21F6N2O3+","C1CCNC(C1)C[NH2+]C(=O)C2=C(C=CC(=C2)OCC(F)(F)F)OCC(F)(F)F",415.35
+3356,"Flecainide","C17H20F6N2O3","C1CCNC(C1)CNC(=O)C2=C(C=CC(=C2)OCC(F)(F)F)OCC(F)(F)F",414.34
+3357,"Fleroxacin","C17H18F3N3O3","CN1CCN(CC1)C2=C(C=C3C(=C2F)N(C=C(C3=O)C(=O)O)CCF)F",369.34
+3358,"Bis-(N-ethylpyridinium-(3-methoxycarbazole))hexane-1,6-diamine","C42H48N6O2+4","COC1=CC2=C(C=C1)NC3=C2C4=C(C=C3)C=C[N+](=C4)CC[NH2+]CCCCCC[NH2+]CC[N+]5=CC6=C(C=CC7=C6C8=C(N7)C=CC(=C8)OC)C=C5",668.9
+3359,"N,N'-bis[2-(10-methoxy-7H-pyrido[4,3-c]carbazol-2-ium-2-yl)ethyl]hexane-1,6-diamine","C42H46N6O2+2","COC1=CC2=C(C=C1)NC3=C2C4=C(C=C3)C=C[N+](=C4)CCNCCCCCCNCC[N+]5=CC6=C(C=CC7=C6C8=C(N7)C=CC(=C8)OC)C=C5",666.9
+3360,"Floctafenine","C20H17F3N2O4","C1=CC=C(C(=C1)C(=O)OCC(CO)O)NC2=C3C=CC=C(C3=NC=C2)C(F)(F)F",406.4
+3361,"7-[[2-(Fluoromethylsulfanyl)acetyl]amino]-3-[[1-(2-hydroxyethyl)tetrazol-5-yl]sulfanylmethyl]-7-methoxy-8-oxo-5-oxa-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid","C15H19FN6O7S2","COC1(C2N(C1=O)C(=C(CO2)CSC3=NN=NN3CCO)C(=O)O)NC(=O)CSCF",478.5
+3362,"Flopropione","C9H10O4","CCC(=O)C1=C(C=C(C=C1O)O)O",182.17
+3363,"5-Fluoro-2'-deoxyuridine","C9H11FN2O5","C1C(C(OC1N2C=C(C(=O)NC2=O)F)CO)O",246.19
+3364,"6-(((3-(2-Chloro-6-fluorophenyl)-5-methyl-4-isoxazolyl)carbonyl)amino)-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid","C19H17ClFN3O5S","CC1=C(C(=NO1)C2=C(C=CC=C2Cl)F)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)O",453.9
+3365,"Fluconazole","C13H12F2N6O","C1=CC(=C(C=C1F)F)C(CN2C=NC=N2)(CN3C=NC=N3)O",306.27
+3366,"Flucytosine","C4H4FN3O","C1=NC(=O)NC(=C1F)N",129.09
+3367,"Fludarabine Base","C10H12FN5O4","C1=NC2=C(N=C(N=C2N1C3C(C(C(O3)CO)O)O)F)N",285.23
+3368,"9-beta-Arabinofuranosyl-2-fluoroadenine-5'-phosphate","C10H13FN5O7P","C1=NC2=C(N=C(N=C2N1C3C(C(C(O3)COP(=O)(O)O)O)O)F)N",365.21
+3369,"Fludiazepam","C16H12ClFN2O","CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3F",302.73
+3370,"9-Fluorohydrocortisone acetate","C23H31FO6","CC(=O)OCC(=O)C1(CCC2C1(CC(C3(C2CCC4=CC(=O)CCC43C)F)O)C)O",422.5
+3371,"Flufenamic Acid","C14H10F3NO2","C1=CC=C(C(=C1)C(=O)O)NC2=CC=CC(=C2)C(F)(F)F",281.23
+3372,"Fluphenazine","C22H26F3N3OS","C1CN(CCN1CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C(F)(F)F)CCO",437.5
+3373,"Flumazenil","C15H14FN3O3","CCOC(=O)C1=C2CN(C(=O)C3=C(N2C=N1)C=CC(=C3)F)C",303.29
+3374,"Flumequine","C14H12FNO3","CC1CCC2=C3N1C=C(C(=O)C3=CC(=C2)F)C(=O)O",261.25
+3375,"6,9-Difluoro-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13,16-trimethyl-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren-3-one","C22H28F2O5","CC1CC2C3CC(C4=CC(=O)C=CC4(C3(C(CC2(C1(C(=O)CO)O)C)O)F)C)F",410.5
+3376,"Locacorten","C27H36F2O6","CC1CC2C3CC(C4=CC(=O)C=CC4(C3(C(CC2(C1(C(=O)COC(=O)C(C)(C)C)O)C)O)F)C)F",494.6
+3377,"1-[Bis(4-fluorophenyl)methyl]-4-(3-phenylprop-2-enyl)piperazine-1,4-diium","C26H28F2N2+2","C1C[NH+](CC[NH+]1CC=CC2=CC=CC=C2)C(C3=CC=C(C=C3)F)C4=CC=C(C=C4)F",406.5
+3378,"1-(Bis(4-fluorophenyl)methyl)-4-(3-phenyl-2-propen-1-yl)piperazine","C26H26F2N2","C1CN(CCN1CC=CC2=CC=CC=C2)C(C3=CC=C(C=C3)F)C4=CC=C(C=C4)F",404.5
+3379,"12-Fluoro-5-hydroxy-6b-(hydroxyacetyl)-4a,6a,8,8-tetramethyl-4a,4b,5,6,6a,6b,9a,10,10a,10b,11,12-dodecahydro-2H,8H-naphtho(2',1':4,5)indeno(1,2-d)(1,3)dioxol-2-one","C24H31FO6","CC1(OC2CC3C4CC(C5=CC(=O)C=CC5(C4C(CC3(C2(O1)C(=O)CO)C)O)C)F)C",434.5
+3380,"Flunitrazepam","C16H12FN3O3","CN1C(=O)CN=C(C2=C1C=CC(=C2)[N+](=O)[O-])C3=CC=CC=C3F",313.28
+3381,"Dermatin (steroid)","C24H30F2O6","CC1(OC2CC3C4CC(C5=CC(=O)C=CC5(C4(C(CC3(C2(O1)C(=O)CO)C)O)F)C)F)C",452.5
+3382,"Metosyn","C26H32F2O7","CC(=O)OCC(=O)C12C(CC3C1(CC(C4(C3CC(C5=CC(=O)C=CC54C)F)F)O)C)OC(O2)(C)C",494.5
+3383,"2-(6-Hydroxy-3-oxo-3H-xanthen-9-yl)benzoic acid","C20H12O5","C1=CC=C(C(=C1)C2=C3C=CC(=O)C=C3OC4=C2C=CC(=C4)O)C(=O)O",332.3
+3384,"9-Fluoro-11,17-dihydroxy-6-methylpregna-1,4-diene-3,20-dione","C22H29FO4","CC1CC2C3CCC(C3(CC(C2(C4(C1=CC(=O)C=C4)C)F)O)C)(C(=O)C)O",376.5
+3385,"5-Fluorouracil","C4H3FN2O2","C1=C(C(=O)NC(=O)N1)F",130.08
+3386,"Fluoxetine","C17H18F3NO","CNCCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F",309.33
+3387,"9-Fluoro-11,17-dihydroxy-10,13,17-trimethyl-1,2,6,7,8,11,12,14,15,16-decahydrocyclopenta[a]phenanthren-3-one","C20H29FO3","CC12CCC(=O)C=C1CCC3C2(C(CC4(C3CCC4(C)O)C)O)F",336.4
+3388,"Fluphenazine Decanoate","C32H44F3N3O2S","CCCCCCCCCC(=O)OCCN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C(F)(F)F",591.8
+3389,"Fluphenazine Enanthate","C29H38F3N3O2S","CCCCCCC(=O)OCCN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C(F)(F)F",549.7
+3390,"6alpha-Fluoro-11beta,17,21-trihydroxypregna-1,4-diene-3,20-dione","C21H27FO5","CC12CC(C3C(C1CCC2(C(=O)CO)O)CC(C4=CC(=O)C=CC34C)F)O",378.4
+3391,"15(S)-Fluprostenol","C23H29F3O6","C1C(C(C(C1O)C=CC(COC2=CC=CC(=C2)C(F)(F)F)O)CC=CCCCC(=O)O)O",458.5
+3392,"Pregn-4-ene-3,20-dione, 6-fluoro-11,21-dihydroxy-16,17-[(1-methylethylidene)bis(oxy)]-, (6alpha,11beta,16alpha)-","C24H33FO6","CC1(OC2CC3C4CC(C5=CC(=O)CCC5(C4C(CC3(C2(O1)C(=O)CO)C)O)C)F)C",436.5
+3393,"Flurazepam","C21H23ClFN3O","CCN(CC)CCN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3F",387.9
+3394,"Flurbiprofen","C15H13FO2","CC(C1=CC(=C(C=C1)C2=CC=CC=C2)F)C(=O)O",244.26
+3395,"Flurbiprofen Axetil","C19H19FO4","CC(C1=CC(=C(C=C1)C2=CC=CC=C2)F)C(=O)OC(C)OC(=O)C",330.3
+3396,"Fluspirilene","C29H31F2N3O","C1CN(CCC12C(=O)NCN2C3=CC=CC=C3)CCCC(C4=CC=C(C=C4)F)C5=CC=C(C=C5)F",475.6
+3397,"Flutamide","C11H11F3N2O3","CC(C)C(=O)NC1=CC(=C(C=C1)[N+](=O)[O-])C(F)(F)F",276.21
+3398,"Flutazolam","C19H18ClFN2O3","C1COC2(N1CC(=O)N(C3=C2C=C(C=C3)Cl)CCO)C4=CC=CC=C4F",376.8
+3399,"[6,9-Difluoro-17-(fluoromethylsulfanylcarbonyl)-11-hydroxy-10,13,16-trimethyl-3-oxo-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren-17-yl] propanoate","C25H31F3O5S","CCC(=O)OC1(C(CC2C1(CC(C3(C2CC(C4=CC(=O)C=CC43C)F)F)O)C)C)C(=O)SCF",500.6
+3400,"Flutoprazepam","C19H16ClFN2O","C1CC1CN2C(=O)CN=C(C3=C2C=CC(=C3)Cl)C4=CC=CC=C4F",342.8

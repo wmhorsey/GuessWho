@@ -1,0 +1,101 @@
+"CID","Title","MolecularFormula","ConnectivitySMILES","MolecularWeight"
+24501,"Calcium arsenate","As2Ca3O8","[O-][As](=O)([O-])[O-].[O-][As](=O)([O-])[O-].[Ca+2].[Ca+2].[Ca+2]",398.07
+24502,"Potassium Dichromate","Cr2K2O7","[O-][Cr](=O)(=O)O[Cr](=O)(=O)[O-].[K+].[K+]",294.18
+24503,"Dichromate ion","Cr2O7-2","[O-][Cr](=O)(=O)O[Cr](=O)(=O)[O-]",215.99
+24504,"Calcium hypochlorite","CaCl2O2","[O-]Cl.[O-]Cl.[Ca+2]",142.98
+24505,"CID 24505","ClKO4","[O-]Cl(=O)(=O)=O.[K+]",138.55
+24506,"CID 24506","H2KO4P","OP(=O)(O)[O-].[K+]",136.086
+24507,"Potassium Sulfate","K2O4S","[O-]S(=O)(=O)[O-].[K+].[K+]",174.26
+24508,"Propyl 3-phenylprop-2-enoate","C12H14O2","CCCOC(=O)C=CC1=CC=CC=C1",190.24
+24509,"Propylene glycol dimethyl ether","C5H12O2","CC(COC)OC",104.15
+24510,"Cyclohexyl anthranilate","C13H17NO2","C1CCC(CC1)OC(=O)C2=CC=CC=C2N",219.28
+24511,"1,2,3-propanetricarboxylic acid, 2-hydroxy-, magnesium salt","C6H5MgO7-","C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[Mg+2]",213.40
+24512,"1,3,5-Triethylhexahydro-1,3,5-triazine","C9H21N3","CCN1CN(CN(C1)CC)CC",171.28
+24513,"Decanal dimethyl acetal","C12H26O2","CCCCCCCCCC(OC)OC",202.33
+24514,"4-Hydroxy-undecanoic acid","C11H22O3","CCCCCCCC(CCC(=O)O)O",202.29
+24515,"Isobutyl anthranilate","C11H15NO2","CC(C)COC(=O)C1=CC=CC=C1N",193.24
+24516,"Isobutyl heptanoate","C11H22O2","CCCCCCC(=O)OCC(C)C",186.29
+24517,"Zinc dithionite","O4S2Zn","[O-]S(=O)S(=O)[O-].[Zn+2]",193.5
+24518,"Zinc Nitrate","N2O6Zn","[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Zn+2]",189.4
+24519,"Zinc Phosphate","O8P2Zn3","[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Zn+2].[Zn+2].[Zn+2]",386.1
+24520,"5-Hydroxydodecanoic acid","C12H24O3","CCCCCCCC(CCCC(=O)O)O",216.32
+24521,"Cinnamic Acid Isopropyl Ester","C12H14O2","CC(C)OC(=O)C=CC1=CC=CC=C1",190.24
+24522,"Ethyl 3-hydroxybenzoate","C9H10O3","CCOC(=O)C1=CC(=CC=C1)O",166.17
+24523,"Deuterium","H2","[HH]",4.0282035557
+24524,"Fluorine","F2","FF",37.99680632
+24525,"","C76H116","CC1C(C2C(C3C(C(C4C(C5C6C(C(C7C(C(C8C(C9C(C(C%10C(C(C%11C(C%12C(C%13C(C%14C(C(C1C)C2C1C3C4C2C5C3C4C6C7C8C5C9C%10C%11C(C54)C%12C3C%13C2C%141)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C)C",1029.7
+24526,"Chlorine","Cl2","ClCl",70.90
+24527,"Iron(3+);tris(nitric acid);nonahydrate","FeH21N3O18+3","[N+](=O)(O)[O-].[N+](=O)(O)[O-].[N+](=O)(O)[O-].O.O.O.O.O.O.O.O.O.[Fe+3]",407.02
+24528,"Manganese difluoride","F2Mn","F[Mn]F",92.93485
+24529,"Nitrous Acid","HNO2","N(=O)O",47.014
+24530,"Hydrazoic acid","HN3","N=[N+]=[N-]",43.029
+24531,"","KO2P","[O-]P=O.[K+]",102.071
+24532,"Lithium amide","H2LiN","[Li+].[NH2-]",23.0
+24533,"Sodium amide","H2NNa","[NH2-].[Na+]",39.013
+24534,"Nitramide","H2N2O2","N[N+](=O)[O-]",62.028
+24535,"Disodium dihydrogen hypophosphate","H2Na2O6P2","OP(=O)([O-])P(=O)(O)[O-].[Na+].[Na+]",205.94
+24536,"Hypophosphoric acid","H4O6P2","OP(=O)(O)P(=O)(O)O",161.98
+24537,"","H8N2O3S2","N.N.OS(=O)(=O)S",148.21
+24538,"Ammonium sulfate, ACS reagent","H8N2O4S","N.N.OS(=O)(=O)O",132.14
+24539,"Zinc ammonium sulfate","H20N2O14S2Zn","[NH4+].[NH4+].O.O.O.O.O.O.[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Zn+2]",401.7
+24540,"Diammonium hydrogen phosphate","H9N2O4P","[NH4+].[NH4+].OP(=O)([O-])[O-]",132.06
+24541,"Mercury iodide (HgI)","HgI","I[Hg]",327.50
+24542,"Potassium mercuric iodide","HgI4K2","[K+].[K+].I[Hg-2](I)(I)I",786.41
+24543,"Tetraiodomercurate(2-)","HgI4-2","I[Hg-2](I)(I)I",708.21
+24544,"Mercuric sulfate","HgO4S","[O-]S(=O)(=O)[O-].[Hg+2]",296.66
+24545,"Mercurous sulfate","Hg2O4S","[O-]S(=O)(=O)[O-].[Hg+].[Hg+]",497.25
+24546,"Magnesium fluoride","F2Mg","[F-].[F-].[Mg+2]",62.302
+24547,"Oxygen difluoride","F2O","O(F)F",53.996
+24548,"Thionyl fluoride","F2OS","O=S(F)F",86.06
+24549,"Lead fluoride","F2Pb","F[Pb]F",245
+24550,"Stop","F2Sn","F[Sn]F",156.71
+24551,"Zinc fluoride","F2Zn","F[Zn]F",103.4
+24552,"Iron fluoride (FeF3)","F3Fe","F[Fe](F)F",112.84
+24553,"Nitrogen trifluoride","F3N","N(F)(F)F",71.002
+24554,"Antimony trifluoride","F3Sb","F[Sb](F)F",178.755
+24555,"Sulfur tetrafluoride","F4S","FS(F)(F)F",108.06
+24556,"Silicon tetrafluoride","F4Si","F[Si](F)(F)F",104.079
+24557,"Antimony pentafluoride","F5Sb","F[Sb](F)(F)(F)F",216.752
+24558,"Selenium Hexafluoride","F6Se","F[Se](F)(F)(F)(F)F",192.96
+24559,"Tellurium hexafluoride","F6Te","F[Te](F)(F)(F)(F)F",241.6
+24560,"Uranium hexafluoride","F6U","F[U](F)(F)(F)(F)F",352.0193
+24561,"Silver Chloride","AgCl","Cl[Ag]",143.32
+24562,"Silver perchlorate","AgClO4","[O-]Cl(=O)(=O)=O.[Ag+]",207.32
+24563,"Silver iodide","AgI","[Ag]I",234.773
+24564,"Aluminum chloride, hexahydrate","AlCl3H12O6","O.O.O.O.O.O.[Al](Cl)(Cl)Cl",241.43
+24565,"Ammonium hexafluoroaluminate","AlF6H12N3","[NH4+].[NH4+].[NH4+].F[Al-3](F)(F)(F)(F)F",195.09
+24566,"Sulfuric acid,aluminum ammonium salt(2:1:1)","AlH4NO8S2","N.OS(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Al+3]",237.15
+24567,"Aluminum nitrate nonahydrate","AlH18N3O18","[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].O.O.O.O.O.O.O.O.O.[Al+3]",375.13
+24568,"Aluminum sodium sulfate dodecahydrate","AlH24NaO20S2","O.O.O.O.O.O.O.O.O.O.O.O.[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Na+].[Al+3]",458.3
+24569,"Arsenic tribromide","AsBr3","[As](Br)(Br)Br",314.63
+24570,"Arsenic chloride (AsCl3)","AsCl3","Cl[As](Cl)Cl",181.28
+24571,"Arsenic trifluoride","AsF3","F[As](F)F",131.91680
+24572,"Lead arsenate (PbHAsO4)","AsHO4Pb","O[As](=O)([O-])[O-].[Pb+2]",347
+24573,"","AsH2KO4","O[As](=O)(O)[O-].[K+]",180.033
+24574,"Ammonium arsenate","AsH9N2O4","[NH4+].[NH4+].O[As](=O)([O-])[O-]",176.00
+24575,"Arsenic iodide (AsI3)","AsI3","[As](I)(I)I",455.6350
+24576,"","AsNaO2","[O-][As]=O.[Na+]",129.910
+24577,"Arsenenous acid","AsHO2","O[As]=O",107.928
+24578,"2-Butenoic acid, 2(or 3)-methyl-, (2E)-3,7-dimethyl-2,6-octadienyl ester","C15H24O2","CC=C(C)C(=O)OCC=C(C)CCC=C(C)C",236.35
+24579,"Sodium Trimetaphosphate","Na3O9P3","[O-]P1(=O)OP(=O)(OP(=O)(O1)[O-])[O-].[Na+].[Na+].[Na+]",305.89
+24580,"Manganese Sulfate","MnO4S","[O-]S(=O)(=O)[O-].[Mn+2]",151.00
+24581,"","Al3Na3O16P4","[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Na+].[Na+].[Na+].[Al+3].[Al+3].[Al+3]",529.80
+24582,"2,2'-Methylenebis(4-methyl-6-nonylphenol)","C33H52O2","CCCCCCCCCC1=C(C(=CC(=C1)C)CC2=CC(=CC(=C2O)CCCCCCCCC)C)O",480.8
+24583,"2-Methyloctanal","C9H18O","CCCCCCC(C)C=O",142.24
+24584,"Magnogene","Cl2Mg","[Mg+2].[Cl-].[Cl-]",95.21
+24585,"Cyclohexanol, 5-methyl-2-(1-methylethenyl)-","C10H18O","CC1CCC(C(C1)O)C(=C)C",154.25
+24586,"Nickel Sulfate","NiO4S","[O-]S(=O)(=O)[O-].[Ni+2]",154.76
+24587,"Barium permanganate","BaMn2O8","[O-][Mn](=O)(=O)=O.[O-][Mn](=O)(=O)=O.[Ba+2]",375.20
+24588,"Beryllium Chloride","BeCl2","[Be+2].[Cl-].[Cl-]",79.92
+24589,"Beryllium Fluoride","BeF2","[Be+2].[F-].[F-]",47.008989
+24590,"","BiClH2O","O=[BiH].Cl",262.45
+24591,"Bismuth trichloride","BiCl3","Cl[Bi](Cl)Cl",315.33
+24592,"Cesium bromide","BrCs","[Br-].[Cs+]",212.81
+24593,"copper(I) bromide","BrCu","[Cu]Br",143.45
+24594,"Bromine trifluoride","BrF3","FBr(F)F",136.90
+24595,"Ammonium chromate","CrH8N2O4","[NH4+].[NH4+].[O-][Cr](=O)(=O)[O-]",152.07
+24596,"Chromic potassium sulfate dodecahydrate","CrH24KO20S2","O.O.O.O.O.O.O.O.O.O.O.O.[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[K+].[Cr+3]",499.4
+24597,"Potassium Chromate","CrK2O4","[O-][Cr](=O)(=O)[O-].[K+].[K+]",194.190
+24598,"Chromic nitrate","CrN3O9","[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Cr+3]",238.01
+24599,"Strontium Chromate","CrO4Sr","[O-][Cr](=O)(=O)[O-].[Sr+2]",203.61
+24600,"Ammonium dichromate","Cr2H8N2O7","[NH4+].[NH4+].[O-][Cr](=O)(=O)O[Cr](=O)(=O)[O-]",252.07

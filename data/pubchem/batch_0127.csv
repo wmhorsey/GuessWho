@@ -1,0 +1,101 @@
+"CID","Title","MolecularFormula","ConnectivitySMILES","MolecularWeight"
+12701,"Methyl perfluoromethacrylate","C5H3F5O2","COC(=O)C(=C(F)F)C(F)(F)F",190.07
+12702,"Diethyl fluoromalonate","C7H11FO4","CCOC(=O)C(C(=O)OCC)F",178.16
+12703,"N,N-Diethylacetamide","C6H13NO","CCN(CC)C(=O)C",115.17
+12704,"Methyl N,N-diethyldithiocarbamate","C6H13NS2","CCN(CC)C(=S)SC",163.3
+12705,"Arsine, chlorodiethyl-","C4H10AsCl","CC[As](CC)Cl",168.50
+12706,"Dihydroxyurea","CH4N2O3","C(=O)(NO)NO",92.05
+12707,"Glycine, N-(trifluoroacetyl)-, vinyl ester","C6H6F3NO3","C=COC(=O)CNC(=O)C(F)(F)F",197.11
+12708,"Ethyl 2-chloro-2-propenoate","C5H7ClO2","CCOC(=O)C(=C)Cl",134.56
+12709,"Carbamic acid, N,N-dimethyl-, ethyl ester","C5H11NO2","CCOC(=O)N(C)C",117.15
+12710,"Aluminum tris(octadec-9-enoate)","C54H99AlO6","CCCCCCCCC=CCCCCCCCC(=O)[O-].CCCCCCCCC=CCCCCCCCC(=O)[O-].CCCCCCCCC=CCCCCCCCC(=O)[O-].[Al+3]",871.3
+12711,"Boric acid (H3BO3), tripropyl ester","C9H21BO3","B(OCCC)(OCCC)OCCC",188.07
+12712,"Tributyl borate","C12H27BO3","B(OCCCC)(OCCCC)OCCCC",230.15
+12713,"2-Ethylhexyl methacrylate","C12H22O2","CCCCC(CC)COC(=O)C(=C)C",198.30
+12714,"Arsine, chloroethylpropyl-","C5H12AsCl","CCC[As](CC)Cl",182.52
+12715,"sec-Butylurea","C5H12N2O","CCC(C)NC(=O)N",116.16
+12716,"Isopropyl acrylate","C6H10O2","CC(C)OC(=O)C=C",114.14
+12717,"N-Formyl-N-hydroxyglycine","C3H5NO4","C(C(=O)O)N(C=O)O",119.08
+12718,"Methyl 2-thiocyanatoacetate","C4H5NO2S","COC(=O)CSC#N",131.16
+12719,"2-Heptanone, 1-fluoro-","C7H13FO","CCCCCC(=O)CF",132.18
+12720,"Vinyl acetylene","C4H4","C=CC#C",52.07
+12721,"2-Pentene, 4,4-dimethyl-","C7H14","CC=CC(C)(C)C",98.19
+12722,"1,1,1,3,3,3-Hexafluoropropane","C3H2F6","C(C(F)(F)F)C(F)(F)F",152.04
+12723,"5-Hexen-3-yn-2-ol, 2-methyl-","C7H10O","CC(C)(C#CC=C)O",110.15
+12724,"4-Methyl-1-pentene","C6H12","CC(C)CC=C",84.16
+12725,"Isopropylurea","C4H10N2O","CC(C)NC(=O)N",102.14
+12726,"Bis(1-methylpropyl)mercury","C8H18Hg","CCC(C)[Hg]C(C)CC",314.82
+12727,"Arsine, butyldichloro-","C4H9AsCl2","CCCC[As](Cl)Cl",202.94
+12728,"Diethylarsane","C4H11As","CC[AsH]CC",134.05
+12729,"Ethyl 10-undecenoate","C13H24O2","CCOC(=O)CCCCCCCCC=C",212.33
+12730,"Arsine, amyldichloro-","C5H11AsCl2","CCCCC[As](Cl)Cl",216.97
+12731,"Pentylarsane","C5H13As","CCCCC[AsH2]",148.08
+12732,"1-Hexyne","C6H10","CCCCC#C",82.14
+12733,"2-Chloroethyl ethyl sulfide","C4H9ClS","CCSCCCl",124.63
+12734,"Diisopropylcarbodiimide","C7H14N2","CC(C)N=C=NC(C)C",126.20
+12735,"2-Octylamine","C8H19N","CCCCCCC(C)N",129.24
+12736,"Dodecanedioic Acid","C12H22O4","C(CCCCCC(=O)O)CCCCC(=O)O",230.30
+12737,"2-((2-Chloroethyl)thio)ethanol","C4H9ClOS","C(CSCCCl)O",140.63
+12738,"Distearyl Thiodipropionate","C42H82O4S","CCCCCCCCCCCCCCCCCCOC(=O)CCSCCC(=O)OCCCCCCCCCCCCCCCCCC",683.2
+12739,"Heptane, 1,7-difluoro-","C7H14F2","C(CCCF)CCCF",136.18
+12740,"Heptanal, 7-fluoro-","C7H13FO","C(CCCF)CCC=O",132.18
+12741,"2-Decanone","C10H20O","CCCCCCCCC(=O)C",156.26
+12742,"1-Bromononane","C9H19Br","CCCCCCCCCBr",207.15
+12743,"Pentyl ether","C10H22O","CCCCCOCCCCC",158.28
+12744,"1-Bromoundecane","C11H23Br","CCCCCCCCCCCBr",235.20
+12745,"10-Octadecenoic acid","C18H34O2","CCCCCCCC=CCCCCCCCCC(=O)O",282.5
+12746,"1-Methylcyclopentene","C6H10","CC1=CCCC1",82.14
+12747,"3-Methylisothiazole","C4H5NS","CC1=NSC=C1",99.16
+12748,"4-Methylthiazole","C4H5NS","CC1=CSC=N1",99.16
+12749,"2-Methylimidazole","C4H6N2","CC1=NC=CN1",82.10
+12750,"1,2,3,6-Tetrahydropyridine","C5H9N","C1CNCC=C1",83.13
+12751,"2-Chlorocyclopentanone","C5H7ClO","C1CC(C(=O)C1)Cl",118.56
+12752,"Phenylsilane","C6H8Si","C1=CC=C(C=C1)[SiH3]",108.21
+12753,"Pyridine N-Oxide","C5H5NO","C1=CC=[N+](C=C1)[O-]",95.10
+12754,"1-Bromo-2-chlorobenzene","C6H4BrCl","C1=CC=C(C(=C1)Cl)Br",191.45
+12755,"1-Methyl-2(1H)-pyridinone","C6H7NO","CN1C=CC=CC1=O",109.13
+12756,"gamma-Hexalactone","C6H10O2","CCC1CCC(=O)O1",114.14
+12757,"Vinylcyclohexane","C8H14","C=CC1CCCCC1",110.20
+12758,"Tetrachlorocyclopentadiene","C5H2Cl4","C1C(=C(C(=C1Cl)Cl)Cl)Cl",203.9
+12759,"2,3,5-Trimethylpyridine","C8H11N","CC1=CC(=C(N=C1)C)C",121.18
+12760,"2-Methyl-5-nitroimidazole","C4H5N3O2","CC1=NC=C(N1)[N+](=O)[O-]",127.10
+12761,"As-Phenylarsonous dibromide","C6H5AsBr2","C1=CC=C(C=C1)[As](Br)Br",311.83
+12762,"Phenyldichloroarsine","C6H5AsCl2","C1=CC=C(C=C1)[As](Cl)Cl",222.93
+12763,"Isopropylcyclohexane","C9H18","CC(C)C1CCCCC1",126.24
+12764,"4-Pyridinecarbaldehyde oxime","C6H6N2O","C1=CN=CC=C1C=NO",122.12
+12765,"4-Methoxybenzenethiol","C7H8OS","COC1=CC=C(C=C1)S",140.20
+12766,"Cyclooctanol","C8H16O","C1CCCC(CCC1)O",128.21
+12767,"Hexafluorocyclobutene","C4F6","C1(=C(C(C1(F)F)(F)F)F)F",162.03
+12768,"1-Bromo-4-methylbicyclo(2.2.2)octane","C9H15Br","CC12CCC(CC1)(CC2)Br",203.12
+12769,"2,3,5-Trimethylphenol","C9H12O","CC1=CC(=C(C(=C1)O)C)C",136.19
+12770,"2,6-Dichloro-4-iodobenzenamine","C6H4Cl2IN","C1=C(C=C(C(=C1Cl)N)Cl)I",287.91
+12771,"2,6-Dichloro-1,4-benzoquinone","C6H2Cl2O2","C1=C(C(=O)C(=CC1=O)Cl)Cl",176.98
+12772,"Aniline, o-chloro-N,N-dimethyl-","C8H10ClN","CN(C)C1=CC=CC=C1Cl",155.62
+12773,"2,4,6-Cycloheptatrien-1-one, 4-amino-2-hydroxy-","C7H7NO2","C1=CC(=CC(=O)C(=C1)O)N",137.14
+12774,"5-Nitrofurfural","C5H3NO4","C1=C(OC(=C1)[N+](=O)[O-])C=O",141.08
+12775,"3-Ethyl-5-methylphenol","C9H12O","CCC1=CC(=CC(=C1)C)O",136.19
+12776,"2,4-Dichloro-6-ethyl-1,3,5-triazine","C5H5Cl2N3","CCC1=NC(=NC(=N1)Cl)Cl",178.02
+12777,"Delta-Octalactone","C8H14O2","CCCC1CCCC(=O)O1",142.20
+12778,"4-(Nitrosomethylidene)pyridin-1(4H)-ol","C6H6N2O2","C1=CN(C=CC1=CN=O)O",138.12
+12779,"Benzyl methyl disulfide","C8H10S2","CSSCC1=CC=CC=C1",170.3
+12780,"4-(2-Furyl)-2-butanone","C8H10O2","CC(=O)CCC1=CC=CO1",138.16
+12781,"2-(2-Nitroethenyl)furan","C6H5NO3","C1=COC(=C1)C=C[N+](=O)[O-]",139.11
+12782,"4,5-Dihydro-2-pentyl-1H-imidazole","C8H16N2","CCCCCC1=NCCN1",140.23
+12783,"1-Oxaspiro[4.5]decan-2-one","C9H14O2","C1CCC2(CC1)CCC(=O)O2",154.21
+12784,"Pentamethylbenzene","C11H16","CC1=CC(=C(C(=C1C)C)C)C",148.24
+12785,"Trimethylhydroquinone","C9H12O2","CC1=CC(=C(C(=C1O)C)C)O",152.19
+12786,"2,3,5,6-Tetrafluoroaniline","C6H3F4N","C1=C(C(=C(C(=C1F)F)N)F)F",165.09
+12787,"2,3,5,6-Tetrahydroxytoluene","C7H8O4","CC1=C(C(=CC(=C1O)O)O)O",156.14
+12788,"6-Nitro-m-cresol","C7H7NO3","CC1=CC(=C(C=C1)[N+](=O)[O-])O",153.14
+12789,"","C6H4N4O","C1=CN=C2C(=NC=NC2=O)N1",148.12
+12790,"2-Fluoroadenine","C5H4FN5","C1=NC2=NC(=NC(=C2N1)N)F",153.12
+12791,"2-Amino-2-phenylacetamide","C8H10N2O","C1=CC=C(C=C1)C(C(=O)N)N",150.18
+12792,"2-Furamide, 5-nitro-","C5H4N2O4","C1=C(OC(=C1)[N+](=O)[O-])C(=O)N",156.10
+12793,"Phenyl phosphate","C6H7O4P","C1=CC=C(C=C1)OP(=O)(O)O",174.09
+12794,"","C8H9NS2","CSC(=NC1=CC=CC=C1)S",183.3
+12795,"2-Chloro-4,6-diethyl-1,3,5-triazine","C7H10ClN3","CCC1=NC(=NC(=N1)Cl)CC",171.63
+12796,"m-Hydroxyphenylurea","C7H8N2O2","C1=CC(=CC(=C1)O)NC(=O)N",152.15
+12797,"Cyclopropylamine, 2-phenoxy-, trans-","C9H11NO","C1C(C1OC2=CC=CC=C2)N",149.19
+12798,"Diethadione","C8H13NO3","CCC1(COC(=O)NC1=O)CC",171.19
+12799,"1,3-Diazaspiro[4.5]decane-2,4-dione","C8H12N2O2","C1CCC2(CC1)C(=O)NC(=O)N2",168.19
+12800,"1,3-Dimethyladamantane","C12H20","CC12CC3CC(C1)CC(C3)(C2)C",164.29

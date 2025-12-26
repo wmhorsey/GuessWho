@@ -1,0 +1,101 @@
+"CID","Title","MolecularFormula","ConnectivitySMILES","MolecularWeight"
+7801,"Quinhydrone","C12H10O4","C1=CC(=O)C=CC1=O.C1=CC(=CC=C1O)O",218.20
+7802,"3-Heptanone","C7H14O","CCCCC(=O)CC",114.19
+7803,"Propyl propionate","C6H12O2","CCCOC(=O)CC",116.16
+7804,"1,4-Dibromobenzene","C6H4Br2","C1=CC(=CC=C1Br)Br",235.90
+7805,"4-Bromotoluene","C7H7Br","CC1=CC=C(C=C1)Br",171.03
+7806,"p-Bromochlorobenzene","C6H4BrCl","C1=CC(=CC=C1Cl)Br",191.45
+7807,"4-Bromoaniline","C6H6BrN","C1=CC(=CC=C1N)Br",172.02
+7808,"4-Bromophenol","C6H5BrO","C1=CC(=CC=C1O)Br",173.01
+7809,"P-Xylene","C8H10","CC1=CC=C(C=C1)C",106.16
+7810,"4-Chlorotoluene","C7H7Cl","CC1=CC=C(C=C1)Cl",126.58
+7811,"4-Methylbenzenethiol","C7H8S","CC1=CC=C(C=C1)S",124.21
+7812,"4-Chloroaniline","C6H6ClN","C1=CC(=CC=C1N)Cl",127.57
+7813,"p-Toluidine","C7H9N","CC1=CC=C(C=C1)N",107.15
+7814,"P-Phenylenediamine","C6H8N2","C1=CC(=CC=C1N)N",108.14
+7815,"p-Chlorothiophenol","C6H5ClS","C1=CC(=CC=C1S)Cl",144.62
+7816,"2,5-Dimethylpiperazine","C6H14N2","CC1CNC(CN1)C",114.19
+7817,"2,5-Piperazinedione","C4H6N2O2","C1C(=O)NCC(=O)N1",114.10
+7818,"1,4-Dimethylpiperazine","C6H14N2","CN1CCN(CC1)C",114.19
+7819,"Isobutyl acrylate","C7H12O2","CC(C)COC(=O)C=C",128.17
+7820,"Dimethyl Succinate","C6H10O4","COC(=O)CCC(=O)OC",146.14
+7821,"2-Ethyl-4-methylpentanol","C8H18O","CCC(CC(C)C)CO",130.23
+7822,"5-Methyl-3-heptanone","C8H16O","CCC(C)CC(=O)CC",128.21
+7823,"1,2,6-Hexanetriol","C6H14O3","C(CCO)CC(CO)O",134.17
+7824,"Methyl hexanoate","C7H14O2","CCCCCC(=O)OC",130.18
+7825,"2-Cyanoethyl acrylate","C6H7NO2","C=CC(=O)OCCC#N",125.13
+7826,"Methyl heptanoate","C8H16O2","CCCCCCC(=O)OC",144.21
+7827,"2-Ethoxyethyl acrylate","C7H12O3","CCOCCOC(=O)C=C",144.17
+7828,"Diethylene glycol, bischloroformate","C6H8Cl2O5","C(COC(=O)Cl)OCCOC(=O)Cl",231.03
+7829,"Dimethyl sebacate","C12H22O4","COC(=O)CCCCCCCCC(=O)OC",230.30
+7830,"Butyl 9,10-epoxystearate","C22H42O3","CCCCCCCCC1C(O1)CCCCCCCC(=O)OCCCC",354.6
+7831,"Oxiraneoctanoic acid, 3-octyl-, octyl ester","C26H50O3","CCCCCCCCC1C(O1)CCCCCCCC(=O)OCCCCCCCC",410.7
+7832,"7-Oxabicyclo(4.1.0)heptane, 3-ethenyl-","C8H12O","C=CC1CCC2C(C1)O2",124.18
+7833,"Vinyl cyclohexene dioxide","C8H12O2","C1CC2C(O2)CC1C3CO3",140.18
+7834,"1,2-Epoxybutane","C4H8O","CCC1CO1",72.11
+7835,"Epichlorohydrin","C3H5ClO","C1C(O1)CCl",92.52
+7836,"Glycidyl acrylate","C6H8O3","C=CC(=O)OCC1CO1",128.13
+7837,"Glycidyl methacrylate","C7H10O3","CC(=C)C(=O)OCC1CO1",142.15
+7838,"Allyl glycidyl ether","C6H10O2","C=CCOCC1CO1",114.14
+7839,"1,2-Dibromoethane","C2H4Br2","C(CBr)Br",187.86
+7840,"1-Bromopropane","C3H7Br","CCCBr",122.99
+7841,"Allyl bromide","C3H5Br","C=CCBr",120.98
+7842,"Propargyl bromide","C3H3Br","C#CCBr",118.96
+7843,"Butane","C4H10","CCCC",58.12
+7844,"1-Butene","C4H8","CCC=C",56.11
+7845,"1,3-Butadiene","C4H6","C=CC=C",54.09
+7846,"1-Butyne","C4H6","CCC#C",54.09
+7847,"Acrolein","C3H4O","C=CC=O",56.06
+7848,"Propyl mercaptan","C3H8S","CCCS",76.16
+7849,"1-Bromo-2-Chloroethane","C2H4BrCl","C(CBr)Cl",143.41
+7850,"Allyl chloride","C3H5Cl","C=CCCl",76.52
+7851,"2-Bromoethylamine","C2H6BrN","C(CBr)N",123.98
+7852,"Propylamine","C3H9N","CCCN",59.11
+7853,"Allylamine","C3H7N","C=CCN",57.09
+7854,"Propionitrile","C3H5N","CCC#N",55.08
+7855,"Acrylonitrile","C3H3N","C=CC#N",53.06
+7856,"Chloroacetonitrile","C2H2ClN","C(C#N)Cl",75.50
+7857,"Hydroxyacetonitrile","C2H3NO","C(C#N)O",57.05
+7858,"Allyl Alcohol","C3H6O","C=CCO",58.08
+7859,"Propargyl alcohol","C3H4O","C#CCO",56.06
+7860,"Glyoxal","C2H2O2","C(=O)C=O",58.04
+7861,"Methyl vinyl ether","C3H6O","COC=C",58.08
+7862,"Ethylmercury Chloride","C2H5ClHg","CC[Hg]Cl",265.10
+7863,"Aldoxime","C2H5NO","CC=NO",59.07
+7864,"Chloromethyl Methyl Ether","C2H5ClO","COCCl",80.51
+7865,"Methyl formate","C2H4O2","COC=O",60.05
+7866,"Isethionic Acid","C2H6O4S","C(CS(=O)(=O)O)O",126.13
+7867,"Trichloro-2-propen-1-ylsilane","C3H5Cl3Si","C=CC[Si](Cl)(Cl)Cl",175.51
+7868,"2,4,4-Trimethyl-1-pentene","C8H16","CC(=C)CC(C)(C)C",112.21
+7869,"2,4,4-Trimethyl-2-pentene","C8H16","CC(=CC(C)(C)C)C",112.21
+7870,"Hexylene Glycol","C6H14O2","CC(CC(C)(C)O)O",118.17
+7871,"Sarin","C4H10FO2P","CC(C)OP(=O)(C)F",140.09
+7872,"Propane, 2,2'-thiobis(2-methyl-","C8H18S","CC(C)(C)SC(C)(C)C",146.30
+7873,"Tetraethyl Pyrophosphate","C8H20O7P2","CCOP(=O)(OCC)OP(=O)(OCC)OCC",290.19
+7874,"Tetradecamethylcycloheptasiloxane","C14H42O7Si7","C[Si]1(O[Si](O[Si](O[Si](O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)(C)C)(C)C)(C)C)C",519.07
+7875,"Tetradecamethylhexasiloxane","C14H42O5Si6","C[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)C",458.99
+7876,"O,O-Bis(1-methylethyl) phosphorodithioate","C6H15O2PS2","CC(C)OP(=S)(OC(C)C)S",214.3
+7877,"tert-Butylacrylamide","C7H13NO","CC(C)(C)NC(=O)C=C",127.18
+7878,"1,4-Oxathiane, 4,4-dioxide","C4H8O3S","C1CS(=O)(=O)CCO1",136.17
+7879,"Distearyldimethylammonium chloride","C38H80ClN","CCCCCCCCCCCCCCCCCC[N+](C)(C)CCCCCCCCCCCCCCCCCC.[Cl-]",586.5
+7880,"Distearyldimonium","C38H80N+","CCCCCCCCCCCCCCCCCC[N+](C)(C)CCCCCCCCCCCCCCCCCC",551.0
+7881,"Dibutyl phosphate","C8H19O4P","CCCCOP(=O)(O)OCCCC",210.21
+7882,"N-Methyltaurine","C3H9NO3S","CNCCS(=O)(=O)O",139.18
+7883,"Trichlorourethan","C3H4Cl3NO2","C(C(Cl)(Cl)Cl)OC(=O)N",192.42
+7884,"4-Methoxy-4-methyl-2-pentanone","C7H14O2","CC(=O)CC(C)(C)OC",130.18
+7885,"Trichloropentylsilane","C5H11Cl3Si","CCCCC[Si](Cl)(Cl)Cl",205.6
+7886,"Phosphorylcholine Chloride","C5H15ClNO4P","C[N+](C)(C)CCOP(=O)(O)O.[Cl-]",219.60
+7887,"3,7-Dimethyloctane-1,2-diol","C10H22O2","CC(C)CCCC(C)C(CO)O",174.28
+7888,"Hydroxycitronellal","C10H20O2","CC(CCCC(C)(C)O)CC=O",172.26
+7889,"1,3-Dibromobutane","C4H8Br2","CC(CCBr)Br",215.91
+7890,"2-Bromopentane","C5H11Br","CCCC(C)Br",151.04
+7891,"1-Bromo-3-methylbutane","C5H11Br","CC(C)CCBr",151.04
+7892,"2-Methylpentane","C6H14","CCCC(C)C",86.18
+7893,"1-Chloro-3-methylbutane","C5H11Cl","CC(C)CCCl",106.59
+7894,"Isoamylamine","C5H13N","CC(C)CCN",87.16
+7895,"2-Pentanone","C5H10O","CCCC(=O)C",86.13
+7896,"1,3-Butanediol","C4H10O2","CC(CCO)O",90.12
+7897,"3-Hydroxybutanal","C4H8O2","CC(CC=O)O",88.11
+7898,"Cyanoacetamide","C3H4N2O","C(C#N)C(=O)N",84.08
+7899,"3-Chloropropionic acid","C3H5ClO2","C(CCl)C(=O)O",108.52
+7900,"1-Methoxy-2-propanol","C4H10O2","CC(COC)O",90.12

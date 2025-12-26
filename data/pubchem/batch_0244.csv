@@ -1,0 +1,101 @@
+"CID","Title","MolecularFormula","ConnectivitySMILES","MolecularWeight"
+24401,"Permanganate","MnO4-","[O-][Mn](=O)(=O)=O",118.936
+24402,"Ammonium dihydrogen phosphate","H6NO4P","[NH4+].OP(=O)(O)[O-]",115.03
+24403,"Tetrasodium Pyrophosphate","Na4O7P2","[O-]P(=O)([O-])OP(=O)([O-])[O-].[Na+].[Na+].[Na+].[Na+]",265.90
+24404,"Phosphine","H3P","P",33.998
+24405,"Isopentenyladenosine","C15H21N5O4","CC(=CCNC1=C2C(=NC=N1)N(C=N2)C3C(C(C(O3)CO)O)O)C",335.36
+24406,"","C6H7NOS2","CC1=C(SC(=N1)S)C(=O)C",173.3
+24407,"Isopentyl sulfoxide","C10H22OS","CC(C)CCS(=O)CCC(C)C",190.35
+24408,"Bromine","Br2","BrBr",159.81
+24409,"Aluminum bromide","AlBr3","[Al](Br)(Br)Br",266.69
+24410,"Vanadium trichloride oxide","Cl3H3OV","O=[V].Cl.Cl.Cl",176.32
+24411,"Vanadium(II) oxide","OV","O=[V]",66.941
+24412,"Potassium Persulfate","K2O8S2","[O-]S(=O)(=O)OOS(=O)(=O)[O-].[K+].[K+]",270.33
+24413,"Peroxydisulfuric acid","H2O8S2","OS(=O)(=O)OOS(=O)(=O)O",194.15
+24414,"Barium Sulfate","BaO4S","[O-]S(=O)(=O)[O-].[Ba+2]",233.39
+24415,"Monoethylglycinexylidide","C12H18N2O","CCNCC(=O)NC1=C(C=CC=C1C)C",206.28
+24416,"(3-Amino-3-carboxypropyl)dimethylselenonium","C6H14NO2Se+","C[Se+](C)CCC(C(=O)O)N",211.15
+24417,"(-)-S-Methyl-L-cysteine","C4H9NO2S","CSCC(C(=O)O)N",135.19
+24418,"Piprocurarium Iodide","C23H40I2N2O3","CC[N+](C)(CC)CCOCCOC(=O)C(C1=CC=CC=C1)[N+]2(CCCCC2)C.[I-].[I-]",646.4
+24419,"Piprocurarium","C23H40N2O3+2","CC[N+](C)(CC)CCOCCOC(=O)C(C1=CC=CC=C1)[N+]2(CCCCC2)C",392.6
+24420,"Estra-1(10),2,4-triene-3,17-diyl diheptanoate","C32H48O4","CCCCCCC(=O)OC1CCC2C1(CCC3C2CCC4=C3C=CC(=C4)OC(=O)CCCCCC)C",496.7
+24421,"Hexane-1-selenol","C6H14Se","CCCCCC[SeH]",165.15
+24422,"Cadmium(2+);bis(1-oxidopyridin-1-ium-2-thiolate)","C10H8CdN2O2S2","C1=CC=[N+](C(=C1)[S-])[O-].C1=CC=[N+](C(=C1)[S-])[O-].[Cd+2]",364.7
+24423,"N-Isopropyl-N-methylaniline","C10H15N","CC(C)N(C)C1=CC=CC=C1",149.23
+24424,"Zinc Sulfate","O4SZn","[O-]S(=O)(=O)[O-].[Zn+2]",161.4
+24425,"Chromic Acid","CrH2O4","O[Cr](=O)(=O)O",118.010
+24426,"3-Ethoxy-3-methyl-1-butyne","C7H12O","CCOC(C)(C)C#C",112.17
+24427,"1-Chloroprop-1-yne","C3H3Cl","CC#CCl",74.51
+24428,"Hydantoin, 3-(bis(2-chloroethyl)aminomethyl)-","C8H13Cl2N3O2","C1C(=O)N(C(=O)N1)CN(CCCl)CCCl",254.11
+24429,"2-Benzoxazolinone, 3-(bis(2-chloroethyl)aminomethyl)-","C12H14Cl2N2O2","C1=CC=C2C(=C1)N(C(=O)O2)CN(CCCl)CCCl",289.15
+24430,"2-(2-Furyl)-4,6-diphenyl-1,3,5-triazine","C19H13N3O","C1=CC=C(C=C1)C2=NC(=NC(=N2)C3=CC=CO3)C4=CC=CC=C4",299.3
+24431,"2-(3-Nitrophenyl)-4,6-diphenyl-1,3,5-triazine","C21H14N4O2","C1=CC=C(C=C1)C2=NC(=NC(=N2)C3=CC(=CC=C3)[N+](=O)[O-])C4=CC=CC=C4",354.4
+24432,"2,4,6-Tris(4-methoxyphenyl)-1,3,5-triazine","C24H21N3O3","COC1=CC=C(C=C1)C2=NC(=NC(=N2)C3=CC=C(C=C3)OC)C4=CC=C(C=C4)OC",399.4
+24433,"Butyl anthranilate","C11H15NO2","CCCCOC(=O)C1=CC=CC=C1N",193.24
+24434,"Potassium Nitrate","KNO3","[N+](=O)([O-])[O-].[K+]",101.103
+24435,"","C6H7NaO2","CC=CC=CC(=O)[O-].[Na+]",134.11
+24436,"Sodium Sulfate","Na2O4S","[O-]S(=O)(=O)[O-].[Na+].[Na+]",142.04
+24437,"Sodium Sulfite","Na2O3S","[O-]S(=O)[O-].[Na+].[Na+]",126.05
+24438,"Cyclamate magnesium dihydrate","C6H13MgNO3S+2","C1CCC(CC1)NS(=O)(=O)O.[Mg+2]",203.55
+24439,"Magnesium Phosphate","Mg3O8P2","[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Mg+2].[Mg+2].[Mg+2]",262.86
+24440,"O-Methylhomoserine calcium salt (2:1)","C5H10CaNO3+","COCCC(C(=O)[O-])N.[Ca+2]",172.22
+24441,"Calcium hydrogen phosphate","CaHO4P","OP(=O)([O-])[O-].[Ca+2]",136.06
+24442,"3-Octenylsuccinic anhydride","C12H18O3","CCCCCCC=CC1CC(=O)OC1=O",210.27
+24443,"Pantothenamide","C9H18N2O4","CC(C)(CO)C(C(=O)NCCC(=O)N)O",218.25
+24444,"","BrKO3","[O-]Br(=O)=O.[K+]",167.00
+24445,"Bromic acid","BrHO3","OBr(=O)=O",128.91
+24446,"","BrK","[K+].[Br-]",119.00
+24447,"","C6H12KNO3S","C1CCC(CC1)NS(=O)(=O)[O-].[K+]",217.33
+24448,"","IKO3","[O-]I(=O)=O.[K+]",214.001
+24449,"","KNO2","N(=O)[O-].[K+]",85.104
+24450,"Potassium Phosphate, Dibasic","HK2O4P","OP(=O)([O-])[O-].[K+].[K+]",174.176
+24451,"Disodium Pyrophosphate","H2Na2O7P2","OP(=O)([O-])OP(=O)(O)[O-].[Na+].[Na+]",221.94
+24452,"CID 24452","ClNaO2","[O-]Cl=O.[Na+]",90.44
+24453,"Chlorous acid","ClHO2","OCl=O",68.46
+24454,"Calcium Dihydrogen Phosphate","CaH4O8P2","OP(=O)(O)[O-].OP(=O)(O)[O-].[Ca+2]",234.05
+24455,"Sodium Tripolyphosphate","Na5O10P3","[O-]P(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-].[Na+].[Na+].[Na+].[Na+].[Na+]",367.86
+24456,"Tricalcium Phosphate","Ca3O8P2","[O-]P(=O)([O-])[O-].[O-]P(=O)([O-])[O-].[Ca+2].[Ca+2].[Ca+2]",310.18
+24457,"Cerium trifluoride","CeF3","[F-].[F-].[F-].[Ce+3]",197.111
+24458,"Ferrous Chloride","Cl2Fe","Cl[Fe]Cl",126.75
+24459,"Lead chloride","Cl2Pb","Cl[Pb]Cl",278
+24460,"Lead Chromate","CrO4Pb","[O-][Cr](=O)(=O)[O-].[Pb+2]",323
+24461,"Chromate","CrO4-2","[O-][Cr](=O)(=O)[O-]",115.994
+24462,"Copper Sulfate","CuO4S","[O-]S(=O)(=O)[O-].[Cu+2]",159.61
+24463,"Copper sulfate pentahydrate","CuH10O9S","O.O.O.O.O.[O-]S(=O)(=O)[O-].[Cu+2]",249.69
+24464,"Lead tungsten oxide (PbWO4)","O4PbW","[O-][W](=O)(=O)[O-].[Pb+2]",455
+24465,"Tungstate","O4W-2","[O-][W](=O)(=O)[O-]",247.84
+24466,"Metoprine","C11H10Cl2N4","CC1=C(C(=NC(=N1)N)N)C2=CC(=C(C=C2)Cl)Cl",269.13
+24467,"1'-Acetonaphthone, 4'-(2-hydroxypropoxy)-","C15H16O3","CC(COC1=CC=C(C2=CC=CC=C21)C(=O)C)O",244.28
+24468,"1'-Acetonaphthone, 4'-(2-hydroxybutoxy)-","C16H18O3","CCC(COC1=CC=C(C2=CC=CC=C21)C(=O)C)O",258.31
+24469,"1'-Acetonaphthone, 4'-(2-hydroxy-3-isopropoxypropoxy)-","C18H22O4","CC(C)OCC(COC1=CC=C(C2=CC=CC=C21)C(=O)C)O",302.4
+24470,"Silver Nitrate","AgNO3","[N+](=O)([O-])[O-].[Ag+]",169.873
+24471,"Guanidine, (2-(N-methylanilino)ethyl)-","C10H16N4","CN(CCN=C(N)N)C1=CC=CC=C1",192.26
+24472,"Chlorooxirane","C2H3ClO","C1C(O1)Cl",78.50
+24473,"1,6-Dihydrocarvone","C10H16O","CC1CCC(CC1=O)C(=C)C",152.23
+24474,"1H-Indole, 1-methyl-3-(2-(4-pyridinyl)ethyl)-, hydrochloride (1:1)","C16H17ClN2","CN1C=C(C2=CC=CC=C21)CCC3=CC=[NH+]C=C3.[Cl-]",272.77
+24475,"1-Methyl-3-[2-(4-pyridyl)ethyl]-1H-indole","C16H16N2","CN1C=C(C2=CC=CC=C21)CCC3=CC=NC=C3",236.31
+24476,"1'-Acetonaphthone, 4'-(2-hydroxyethoxy)-","C14H14O3","CC(=O)C1=CC=C(C2=CC=CC=C21)OCCO",230.26
+24477,"Sodium Thiosulfate","Na2O3S2","[O-]S(=O)(=S)[O-].[Na+].[Na+]",158.11
+24478,"Thiosulfuric acid","H2O3S2","OS(=O)(=S)O",114.15
+24479,"Stannous Chloride","Cl2Sn","Cl[Sn]Cl",189.61
+24480,"Manganese (II) chloride","Cl2Mn","Cl[Mn]Cl",125.84
+24481,"","HKO3S","OS(=O)[O-].[K+]",120.17
+24482,"Ammonium sulfamate","H6N2O3S","[NH4+].NS(=O)(=O)[O-]",114.13
+24483,"1-[(1E)-1-Ethyl-2-(4-methoxyphenyl)-1-butenyl]-4-methoxybenzene","C20H24O2","CCC(=C(CC)C1=CC=C(C=C1)OC)C2=CC=C(C=C2)OC",296.4
+24484,"Guanidine, 4,4'-methylenediphenyldi-","C15H18N6","C1=CC(=CC=C1CC2=CC=C(C=C2)N=C(N)N)N=C(N)N",282.34
+24485,"Mercuric Iodide","HgI2","I[Hg]I",454.40
+24486,"Calcium;dichloride;hexahydrate","CaCl2H12O6","O.O.O.O.O.O.[Cl-].[Cl-].[Ca+2]",219.07
+24487,"CID 24487","ClNaO3","[O-]Cl(=O)=O.[Na+]",106.44
+24488,"Sodium Chromate","CrNa2O4","[O-][Cr](=O)(=O)[O-].[Na+].[Na+]",161.973
+24489,"Sodium Dithionite","Na2O4S2","[O-]S(=O)S(=O)[O-].[Na+].[Na+]",174.11
+24490,"Dithionous acid","H2O4S2","OS(=O)S(=O)O",130.15
+24491,"","BNaO2","B(=O)[O-].[Na+]",65.80
+24492,"Boric acid (HBO2)","BHO2","B(=O)O",43.82
+24493,"Tristearyl Citrate","C60H116O7","CCCCCCCCCCCCCCCCCCOC(=O)CC(CC(=O)OCCCCCCCCCCCCCCCCCC)(C(=O)OCCCCCCCCCCCCCCCCCC)O",949.6
+24494,"Thioridazine-5-sulfoxide","C21H26N2OS2","CN1CCCCC1CCN2C3=CC=CC=C3S(=O)C4=C2C=C(C=C4)SC",386.6
+24495,"Hexacalcium cyclohexane-1,2,3,4,5,6-hexayl hexakis(phosphate)","C6H6Ca6O24P6","C1(C(C(C(C(C1OP(=O)([O-])[O-])OP(=O)([O-])[O-])OP(=O)([O-])[O-])OP(=O)([O-])[O-])OP(=O)([O-])[O-])OP(=O)([O-])[O-].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2].[Ca+2]",888.4
+24496,"4,4'-Diselenobis(2-aminobutanoic acid)","C8H16N2O4Se2","C(C[Se][Se]CCC(C(=O)O)N)C(C(=O)O)N",362.2
+24497,"Calcium Sulfate","CaO4S","[O-]S(=O)(=O)[O-].[Ca+2]",136.14
+24498,"(1) Penethamate hydriodide","C22H31N3O4S","CCN(CC)CCOC(=O)C1C(SC2N1C(=O)C2NC(=O)CC3=CC=CC=C3)(C)C",433.6
+24499,"Chlorosulfamic acid","ClH2NO2S","NS(=O)(=O)Cl",115.54
+24500,"Sodium arsenate, dibasic","AsHNa2O4","O[As](=O)([O-])[O-].[Na+].[Na+]",185.907

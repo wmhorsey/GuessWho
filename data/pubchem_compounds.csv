@@ -1,0 +1,42 @@
+"CID","Title","MolecularFormula","ConnectivitySMILES","MolecularWeight"
+2519,"Caffeine","C8H10N4O2","CN1C=NC2=C1C(=O)N(C(=O)N2C)C",194.19
+2244,"Aspirin","C9H8O4","CC(=O)OC1=CC=CC=C1C(=O)O",180.16
+3672,"Ibuprofen, (+-)-","C13H18O2","CC(C)CC1=CC=C(C=C1)C(C)C(=O)O",206.28
+1983,"Acetaminophen","C8H9NO2","CC(=O)NC1=CC=C(C=C1)O",151.16
+5988,"Sucrose","C12H22O11","C(C1C(C(C(C(O1)OC2(C(C(C(O2)CO)O)O)CO)O)O)O)O",342.30
+5793,"D-Glucose","C6H12O6","C(C1C(C(C(C(O1)O)O)O)O)O",180.16
+6134,"beta-Lactose","C12H22O11","C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O",342.30
+5960,"L-Aspartic Acid","C4H7NO4","C(C(C(=O)O)N)C(=O)O",133.10
+6106,"L-Leucine","C6H13NO2","CC(C)CC(C(=O)O)N",131.17
+750,"Glycine","C2H5NO2","C(C(=O)O)N",75.07
+6137,"L-Methionine","C5H11NO2S","CSCCC(C(=O)O)N",149.21
+6306,"L-Isoleucine","C6H13NO2","CCC(C)C(C(=O)O)N",131.17
+54670067,"L-Ascorbic Acid","C6H8O6","C(C(C1C(=C(C(=O)O1)O)O)O)O",176.12
+2520,"Verapamil","C27H38N2O4","CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC",454.6
+702,"Ethanol","C2H6O","CCO",46.07
+887,"Methanol","CH4O","CO",32.042
+180,"Acetone","C3H6O","CC(=O)C",58.08
+8030,"Thiophene","C4H4S","C1=CSC=C1",84.14
+1140,"Toluene","C7H8","CC1=CC=CC=C1",92.14
+5862,"L-(+)-Cysteine","C3H7NO2S","C(C(C(=O)O)N)S",121.16
+5816,"Epinephrine","C9H13NO3","CNCC(C1=CC(=C(C=C1)O)O)O",183.20
+1054,"Pyridoxine","C8H11NO3","CC1=NC=C(C(=C1O)CO)CO",169.18
+962,"Water","H2O","O",18.015
+176,"Acetic Acid","C2H4O2","CC(=O)O",60.05
+6047,"Levodopa","C9H11NO4","C1=CC(=C(C=C1CC(C(=O)O)N)O)O",197.19
+5950,"L-Alanine","C3H7NO2","CC(C(=O)O)N",89.09
+6057,"L-Tyrosine","C9H11NO3","C1=CC(=CC=C1CC(C(=O)O)N)O",181.19
+5962,"L-Lysine","C6H14N2O2","C(CCN)CC(C(=O)O)N",146.19
+6047,"Levodopa","C9H11NO4","C1=CC(=C(C=C1CC(C(=O)O)N)O)O",197.19
+6305,"L-Tryptophan","C11H12N2O2","C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)N",204.22
+6287,"L-Valine","C5H11NO2","CC(C)C(C(=O)O)N",117.15
+5961,"L-Glutamine","C5H10N2O3","C(CC(=O)N)C(C(=O)O)N",146.14
+6274,"L-Histidine","C6H9N3O2","C1=C(NC=N1)CC(C(=O)O)N",155.15
+6267,"(-)-Asparagine","C4H8N2O3","C(C(C(=O)O)N)C(=O)N",132.12
+5951,"L-Serine","C3H7NO3","C(C(C(=O)O)N)O",105.09
+6322,"L-Arginine","C6H14N4O2","C(CC(C(=O)O)N)CN=C(N)N",174.20
+6274,"L-Histidine","C6H9N3O2","C1=C(NC=N1)CC(C(=O)O)N",155.15
+6140,"L-Phenylalanine","C9H11NO2","C1=CC=C(C=C1)CC(C(=O)O)N",165.19
+5950,"L-Alanine","C3H7NO2","CC(C(=O)O)N",89.09
+6288,"L-Threonine","C4H9NO3","CC(C(C(=O)O)N)O",119.12
+5961,"L-Glutamine","C5H10N2O3","C(CC(=O)N)C(C(=O)O)N",146.14
