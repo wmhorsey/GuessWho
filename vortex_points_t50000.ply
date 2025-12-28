@@ -1,0 +1,24 @@
+ply
+format ascii 1.0
+comment Vortex field at tick 50000
+comment Color = frequency (rainbow), brightness = energy
+element vertex 12
+property float x
+property float y
+property float z
+property uchar red
+property uchar green
+property uchar blue
+end_header
+0.381 -1.089 1.995 0 32 76
+143.619 229.126 131.450 115 0 0
+-0.787 -2.075 1.196 0 76 50
+-93.581 -145.528 -84.542 0 148 99
+-0.092 0.648 0.124 0 38 90
+-11.987 -13.131 -11.036 68 0 85
+0.654 -0.169 2.229 0 101 67
+-1.510 2.222 -2.579 92 0 115
+0.031 -0.004 1.238 0 67 159
+1.142 0.039 1.911 0 76 50
+10.352 9.028 10.561 40 100 0
+-0.667 -0.207 -0.121 0 152 101

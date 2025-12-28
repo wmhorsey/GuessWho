@@ -12,6 +12,11 @@
 //! - `Switchboard`: Central registry for lookup, release, and garbage collection
 //! - `Universe`: The cosmic container with CMB boundary, scaled to memory
 //! - `Semantic`: Content-to-resonance mapping — the quantum tunneling mechanism
+//!
+//! ## NEW: Vortex Physics (Primitives)
+//! - `Vortex`: Spinning energy pattern - the fundamental unit
+//! - `Field`: Space where vortices dance, attract, orbit, merge
+//! - `Genesis`: Primordial simulation - what does energy become?
 
 mod resonance;
 mod packet;
@@ -19,10 +24,14 @@ mod node;
 mod supernode;
 mod switchboard;
 mod field;
+mod gpu_field;
 mod universe;
 mod semantic;
 mod pipeline;
 mod loaders;
+mod vortex;
+mod genesis;
+mod aptik;  // THE KEY: Physics Engine for Void/Spike Architecture
 
 use universe::{Universe, UniverseConfig};
 use packet::PacketType;
@@ -48,8 +57,195 @@ fn count_chemistry_files(dir: &Path) -> usize {
 }
 
 fn main() {
+    // Check for command line args
+    let args: Vec<String> = std::env::args().collect();
+    
+    if args.len() > 1 && args[1] == "genesis" {
+        // Check for count argument: genesis 500
+        if args.len() > 2 {
+            if let Ok(count) = args[2].parse::<usize>() {
+                genesis::run_genesis_scaled(count);
+                return;
+            }
+        }
+        // Default genesis run
+        genesis::run_genesis();
+        println!("\n--- Additional tests ---");
+        genesis::run_harmonic_test();
+        genesis::run_spin_test();
+        return;
+    }
+    
+    // GPU-accelerated genesis mode
+    // Usage: gpu <count> [ticks]
+    if args.len() > 1 && args[1] == "gpu" {
+        let count = if args.len() > 2 {
+            args[2].parse::<usize>().unwrap_or(5000)
+        } else {
+            5000
+        };
+        let ticks = if args.len() > 3 {
+            Some(args[3].parse::<usize>().unwrap_or(2000))
+        } else {
+            None
+        };
+        genesis::run_genesis_gpu_with_ticks(count, ticks);
+        return;
+    }
+    
+    // GPU with frame recording for animation
+    // Usage: record <count> <start_tick> <end_tick> <interval>
+    // Example: record 1000 0 2000 10  (1000 vortices, record ticks 0-2000, save every 10 ticks = 200 frames)
+    if args.len() > 1 && args[1] == "record" {
+        let count = args.get(2).and_then(|s| s.parse().ok()).unwrap_or(1000);
+        let start_tick = args.get(3).and_then(|s| s.parse().ok()).unwrap_or(0);
+        let end_tick = args.get(4).and_then(|s| s.parse().ok()).unwrap_or(2000);
+        let interval = args.get(5).and_then(|s| s.parse().ok()).unwrap_or(10);
+        
+        genesis::run_genesis_gpu_record(count, start_tick, end_tick, interval);
+        return;
+    }
+    
+    // Hadron simulation - seed voids (up quarks) and spikes (down quarks)
+    // Usage: hadron <type>
+    // Types: proton (uud), neutron (udd), delta (uuu), deuteron (proton+neutron)
+    if args.len() > 1 && args[1] == "hadron" {
+        let hadron_type = args.get(2).map(|s| s.as_str()).unwrap_or("proton");
+        genesis::run_hadron_simulation(hadron_type);
+        return;
+    }
+    
+    // Atomic-scale simulation - nuclear density in femtometer space
+    // Usage: atom <vortices> [ticks]
+    // Simulates nuclear-scale physics where field_size = 2.7 fm
+    if args.len() > 1 && args[1] == "atom" {
+        let count = args.get(2).and_then(|s| s.parse().ok()).unwrap_or(100);
+        let ticks = args.get(3).and_then(|s| s.parse().ok()).unwrap_or(5000);
+        genesis::run_atom_simulation(count, ticks);
+        return;
+    }
+    
+    // Aptik language analyzer - extract dictionary from simulation data
+    // Usage: aptik [csv_file]
+    // Analyzes bond patterns and builds the Aptik Rosetta Stone
+    if args.len() > 1 && args[1] == "aptik" {
+        let csv_file = args.get(2).map(|s| s.as_str()).unwrap_or("vortex_data_t50000.csv");
+        let ply_file = args.get(3).map(|s| s.as_str()).unwrap_or("vortex_bonds_t50000.ply");
+        genesis::analyze_aptik_dictionary(csv_file, ply_file);
+        return;
+    }
+    
+    // Element Aptik signature predictor
+    // Usage: element <atomic_number>
+    // Predicts the Aptik signature for any element
+    if args.len() > 1 && args[1] == "element" {
+        let z = args.get(2).and_then(|s| s.parse().ok()).unwrap_or(79); // Default to Gold!
+        genesis::predict_element_aptik(z);
+        return;
+    }
+    
+    // Full periodic table Aptik analysis
+    // Usage: periodic
+    // Sorts the entire periodic table by resonance signature
+    if args.len() > 1 && args[1] == "periodic" {
+        genesis::analyze_periodic_table_aptik();
+        return;
+    }
+    
+    // Predict bond between two elements
+    // Usage: bond <z1> <z2>
+    // Example: bond 11 17 (sodium + chlorine = salt?)
+    if args.len() > 1 && args[1] == "bond" {
+        let z1 = args.get(2).and_then(|s| s.parse().ok()).unwrap_or(1);
+        let z2 = args.get(3).and_then(|s| s.parse().ok()).unwrap_or(8);
+        genesis::predict_aptik_bond(z1, z2);
+        return;
+    }
+    
+    // Validate Aptik against known chemistry
+    // Usage: validate
+    // Tests predictions against known bond types and strengths
+    if args.len() > 1 && args[1] == "validate" {
+        genesis::validate_aptik_predictions();
+        return;
+    }
+    
+    // THE KEY: Nuclear Aptik → Electron Orbitals
+    // Usage: key <atomic_number>
+    // Shows how nuclear structure predicts electron behavior
+    if args.len() > 1 && args[1] == "key" {
+        let z = args.get(2).and_then(|s| s.parse().ok()).unwrap_or(79);
+        genesis::aptik_orbital_key(z);
+        return;
+    }
+    
+    // Validate the key across multiple elements
+    // Usage: keytest
+    // Tests if nuclear Aptik correctly predicts orbital types
+    if args.len() > 1 && args[1] == "keytest" {
+        genesis::validate_aptik_key();
+        return;
+    }
+    
+    // Analyze PubChem compounds with the void/spike key
+    // Usage: pubchem [cid]
+    // Analyzes molecular void/spike architecture
+    if args.len() > 1 && args[1] == "pubchem" {
+        let cid = args.get(2).and_then(|s| s.parse().ok());
+        genesis::analyze_pubchem_compound(cid);
+        return;
+    }
+    
+    // Analyze famous molecules
+    // Usage: molecules
+    if args.len() > 1 && args[1] == "molecules" {
+        genesis::analyze_famous_molecules();
+        return;
+    }
+    
+    // Analyze a specific molecule by formula
+    // Usage: mol <formula> [name]
+    if args.len() > 2 && args[1] == "mol" {
+        let formula = &args[2];
+        let name = args.get(3).map(|s| s.as_str()).unwrap_or("Custom molecule");
+        genesis::analyze_molecule(name, formula);
+        return;
+    }
+    
+    // Analyze isotopes of an element
+    // Usage: isotope <Z>
+    if args.len() > 2 && args[1] == "isotope" {
+        if let Ok(z) = args[2].parse::<usize>() {
+            genesis::analyze_isotopes(z);
+        } else {
+            println!("Usage: isotope <Z> (e.g., isotope 6 for Carbon)");
+        }
+        return;
+    }
+    
+    // Analyze quark charge stacking - THE fundamental mechanism
+    // Usage: quark <particle>
+    // Shows how +2/3 and -1/3 charges stack to create void/spike architecture
+    if args.len() > 1 && (args[1] == "quark" || args[1] == "quarks") {
+        let particle = args.get(2).map(|s| s.as_str()).unwrap_or("proton");
+        genesis::analyze_quark_charges(particle);
+        return;
+    }
+    
     println!("╔══════════════════════════════════════════════════════════╗");
     println!("║     RESONANT UNIVERSE — Space-Time Energy Model          ║");
+    println!("║                                                          ║");
+    println!("║  Run with 'genesis' for vortex physics test              ║");
+    println!("║  Run with 'genesis 500' for 500 vortices                 ║");
+    println!("║  Run with 'gpu 25000 2000' for 25k vortices, 2k ticks    ║");
+    println!("║  Run with 'record 1000 0 2000 10' for animation frames   ║");
+    println!("║           (count start end interval)                     ║");
+    println!("║  Run with 'hadron proton' for quark simulation           ║");
+    println!("║           (proton/neutron/delta/deuteron)                ║");
+    println!("║  Run with 'quark proton' for quark charge analysis       ║");
+    println!("║           (proton/neutron/delta++/sigma/omega/kaon...)   ║");
+    println!("║  Run with 'atom 100 5000' for nuclear-scale sim          ║");
+    println!("║           (field=2.7fm, 100 vortices, 5k ticks)          ║");
     println!("╚══════════════════════════════════════════════════════════╝\n");
 
     // Create universe with custom config for demo

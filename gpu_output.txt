@@ -1,0 +1,991 @@
+
+ΓòöΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòù
+Γòæ       G E N E S I S   3 D   (GPU ACCELERATED)             Γòæ
+Γòæ     What does energy want to become? (in 3D SPACE)        Γòæ
+ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥
+
+Creating 500 primordial energy fluctuations in 3D...
+Field size: 447 (spherical)
+≡ƒÄ« GPU: NVIDIA GeForce RTX 2070 SUPER
+   Backend: Vulkan
+GPU initialized in 0.48s
+  Vortex 1: E=3.35, f=0.67, pos=(5.9,72.0,-46.2), spin=Γå║
+  Vortex 2: E=3.34, f=1.50, pos=(17.4,-156.8,37.0), spin=Γå║
+  Vortex 3: E=3.42, f=2.00, pos=(2.3,19.9,161.1), spin=Γå╗
+  Vortex 4: E=3.34, f=0.67, pos=(109.4,52.4,-2.9), spin=Γå║
+  Vortex 5: E=1.01, f=0.50, pos=(-52.8,-2.8,92.6), spin=Γå╗
+  ... and 495 more
+
+GPU Field State (tick 0)
+  Vortices: 500
+  Orbital pairs: 0
+  Total energy: 1003.92
+  Merges: 0
+  Orbits formed: 0
+
+ΓÅ│ Running GPU simulation (5000 ticks)...
+
+  tick 200 | 734.8 t/s | 500 vortices | 241 pairs
+  tick 400 | 750.7 t/s | 500 vortices | 445 pairs
+  tick 600 | 756.0 t/s | 499 vortices | 904 pairs
+  tick 800 | 752.5 t/s | 498 vortices | 3057 pairs
+
+ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+Γòæ  CHECKPOINT: Tick 1000 (713.0 ticks/sec)
+ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+GPU Field State (tick 1000)
+  Vortices: 497
+  Orbital pairs: 18365
+  Total energy: 1003.92
+  Merges: 3
+  Orbits formed: 18525
+
+ΓòöΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòù
+Γòæ               THE ALPHABET OF ENERGY                       Γòæ
+Γòæ   Bond types (pair-wise relationships) = primitive letters Γòæ
+ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥
+
+  BOND TYPES (the letters of energy's language):
+
+      Freq     Spin      Count   Meaning
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ   ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+      2:1         +-       1068   OCTAVE (parent-child) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      2:1         --       1054   OCTAVE (parent-child) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      2:1         -+       1036   OCTAVE (parent-child) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      2:1         ++       1025   OCTAVE (parent-child) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      1:1         +-       1019   MIRROR (antimatter pair?) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      4:3         --       1018   FOURTH (stable harmony) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      1:1         -+       1003   MIRROR (antimatter pair?) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      3:2         ++        980   FIFTH (most consonant) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      4:3         -+        975   FOURTH (stable harmony) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      3:2         +-        946   FIFTH (most consonant) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      1:1         --        943   UNISON (identical twins) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      4:3         +-        921   FOURTH (stable harmony) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      3:2         --        895   FIFTH (most consonant) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      3:2         -+        863   FIFTH (most consonant) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      4:3         ++        852   FOURTH (stable harmony) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      1:1         ++        846   UNISON (identical twins) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      O/╧å         ++        316   OCTAVE/GOLDEN (compound) ΓûêΓûêΓûêΓûêΓûê
+      O/╧å         -+        312   OCTAVE/GOLDEN (compound) ΓûêΓûêΓûêΓûêΓûê
+      ╧å:1         +-        297   GOLDEN (growth spiral) ΓûêΓûêΓûêΓûêΓûê
+      O/╧å         +-        289   OCTAVE/GOLDEN (compound) ΓûêΓûêΓûêΓûêΓûê
+      ╧å:1         --        260   GOLDEN (growth spiral) ΓûêΓûêΓûêΓûê
+      ╧å/F         ++        249   GOLDEN/FOURTH (compound) ΓûêΓûêΓûêΓûê
+      ╧å:1         ++        227   GOLDEN (growth spiral) ΓûêΓûêΓûêΓûê
+      O/╧å         --        223   OCTAVE/GOLDEN (compound) ΓûêΓûêΓûêΓûê
+      ╧å:1         -+        209   GOLDEN (growth spiral) ΓûêΓûêΓûê
+      ╧å/F         -+        209   GOLDEN/FOURTH (compound) ΓûêΓûêΓûê
+      ╧å/F         +-        193   GOLDEN/FOURTH (compound) ΓûêΓûêΓûê
+      ╧å/F         --        137   GOLDEN/FOURTH (compound) ΓûêΓûê
+
+  Γ£º INSIGHTS:
+    Most common harmonic: 2:1 (4183 bonds)
+    Same-spin bonds: 9025  |  Opposite-spin: 9340
+    ΓåÆ Spin balance suggests NO PREFERENCE (or balance required)
+
+ΓòöΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòù
+Γòæ           SPATIAL STRUCTURE ANALYSIS                       Γòæ
+Γòæ   Where bonds form ΓÇó What shapes emerge ΓÇó Unicorn check    Γòæ
+ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥
+
+  ≡ƒôè CONNECTIVITY (bond count per vortex):
+      Bonds   Vortices   Description
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+         1         16   end points (chain ends) Γûê
+         2         11   chain links (linear) 
+         3          9   forks (branching) 
+         4          4   hubs (tetrahedron vertex) 
+         5          5   5-hubs (pentagon center) 
+         6         10   6-hubs (hexagon/octahedron) 
+         7          4   super-connectors 
+         8          3   super-connectors 
+        10          6   super-connectors 
+        12          1   super-connectors 
+      ... and 151 more degree levels
+
+    Range: 1 to 217 bonds per vortex
+
+  ≡ƒöù CHAIN DETECTION:
+    Chain endpoints (degree 1): 16
+    Chain links (degree 2): 11
+    Sample of 15 chains:
+      Average length: 2.4 vortices
+      Longest chain: 5 vortices
+      Shortest chain: 2 vortices
+    Potential 'words' (fixed-length chains):
+      3-letter words: 1
+      4-letter words: 1
+      5-letter words: 1
+
+  ≡ƒö╖ CLOSED SHAPES:
+    Triangles detected (sampled): 278281
+    ΓåÆ Triangles forming! This is STRUCTURE!
+
+  ≡ƒîÉ CLUSTER ANALYSIS (connected components):
+    Components found: 28
+    Average size: 16.8 vortices
+    Largest cluster: 101 vortices
+    Size distribution:
+      Singles: 16
+      Pairs: 2
+      Small (3-10): 5
+      Medium (11-50): 1
+      Large (50+): 4
+
+  ≡ƒôì 3D SPATIAL DISTRIBUTION:
+    Center of mass: (-5.0, 7.2, 0.3)
+    Spread (std dev): X=39.1, Y=35.1, Z=30.8
+    Shape anisotropy: 1.27
+    ΓåÆ Slightly ELONGATED
+
+  Γ₧í∩╕Å BOND ORIENTATIONS (sample of 10000):
+    X-aligned: 2046 (20.5%)
+    Y-aligned: 1623 (16.2%)
+    Z-aligned: 1578 (15.8%)
+    ΓåÆ Some DIRECTIONAL preference detected!
+
+  ≡ƒªä UNICORN CHECK:
+    Found 409 super-hubs (10+ connections)
+    These could be the 'body' of larger structures!
+    No obvious unicorn shapes... yet.
+
+  ≡ƒîî FIELD STATE ANALYSIS (Three States of Reality):
+    ΓöîΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÉ
+    Γöé MATTER  = Field excited (vortices)    ΓåÆ Visible matter Γöé
+    Γöé VACUUM  = Field at rest (low tension) ΓåÆ Dark matter    Γöé
+    Γöé VOID    = No field exists (absence)   ΓåÆ Black holes    Γöé
+    ΓööΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÿ
+
+    Space: 12┬│ = 1728 cells (cell size: 43.5┬│)
+
+    ΓòöΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòù
+    Γòæ  STATE      CELLS      %       PHYSICAL ANALOG            Γòæ
+    ΓòáΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòú
+    Γòæ  ΓÜ¢∩╕Å  MATTER    102      5.9%    Visible matter (vortices)  Γòæ
+    Γòæ  ≡ƒî½∩╕Å  VACUUM    855     49.5%    Dark matter (field at rest) Γòæ
+    Γòæ  ≡ƒò│∩╕Å  VOID      771     44.6%    Black holes (no field)      Γòæ
+    ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥
+    Peak density: 46 vortices in one cell
+
+    ≡ƒôè Comparison to observable universe:
+       Our simulation      Real universe
+       ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ   ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+       Matter:   5.9%       Ordinary matter: ~5%
+       Vacuum:  49.5%       Dark matter: ~27%
+       Void:    44.6%       Dark energy: ~68%
+
+    Dark-to-visible ratio: 15.9:1
+    ≡ƒÄ» Remarkably close to real universe ratio (~19:1)!
+
+    ≡ƒò│∩╕Å VOID TOPOLOGY (potential black hole regions):
+       1 distinct void regions detected
+
+       Large void regions (ΓëÑ3 cells):
+         #1: 771 cells (44.6%) centered at (-30, 136, 65)
+
+  ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+  tick 1200 | 646.6 t/s | 496 vortices | 25964 pairs
+  tick 1400 | 622.5 t/s | 496 vortices | 27259 pairs
+  tick 1600 | 604.0 t/s | 496 vortices | 27818 pairs
+  tick 1800 | 581.1 t/s | 496 vortices | 28567 pairs
+
+ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+Γòæ  CHECKPOINT: Tick 2000 (546.0 ticks/sec)
+ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+GPU Field State (tick 2000)
+  Vortices: 495
+  Orbital pairs: 29147
+  Total energy: 1003.92
+  Merges: 5
+  Orbits formed: 29927
+
+ΓòöΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòù
+Γòæ               THE ALPHABET OF ENERGY                       Γòæ
+Γòæ   Bond types (pair-wise relationships) = primitive letters Γòæ
+ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥
+
+  BOND TYPES (the letters of energy's language):
+
+      Freq     Spin      Count   Meaning
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ   ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+      2:1         --       1670   OCTAVE (parent-child) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      2:1         -+       1650   OCTAVE (parent-child) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      1:1         -+       1647   MIRROR (antimatter pair?) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      2:1         +-       1635   OCTAVE (parent-child) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      1:1         +-       1633   MIRROR (antimatter pair?) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      4:3         -+       1607   FOURTH (stable harmony) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      2:1         ++       1593   OCTAVE (parent-child) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      4:3         --       1582   FOURTH (stable harmony) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      3:2         ++       1532   FIFTH (most consonant) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      1:1         --       1481   UNISON (identical twins) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      3:2         +-       1471   FIFTH (most consonant) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      4:3         +-       1429   FOURTH (stable harmony) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      3:2         --       1404   FIFTH (most consonant) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      3:2         -+       1402   FIFTH (most consonant) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      1:1         ++       1392   UNISON (identical twins) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      4:3         ++       1387   FOURTH (stable harmony) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      O/╧å         ++        501   OCTAVE/GOLDEN (compound) ΓûêΓûêΓûêΓûêΓûêΓûê
+      O/╧å         -+        464   OCTAVE/GOLDEN (compound) ΓûêΓûêΓûêΓûêΓûê
+      ╧å:1         +-        461   GOLDEN (growth spiral) ΓûêΓûêΓûêΓûêΓûê
+      O/╧å         +-        443   OCTAVE/GOLDEN (compound) ΓûêΓûêΓûêΓûêΓûê
+      ╧å:1         --        416   GOLDEN (growth spiral) ΓûêΓûêΓûêΓûê
+      ╧å/F         ++        409   GOLDEN/FOURTH (compound) ΓûêΓûêΓûêΓûê
+      ╧å:1         ++        360   GOLDEN (growth spiral) ΓûêΓûêΓûêΓûê
+      ╧å:1         -+        360   GOLDEN (growth spiral) ΓûêΓûêΓûêΓûê
+      ╧å/F         -+        344   GOLDEN/FOURTH (compound) ΓûêΓûêΓûêΓûê
+      O/╧å         --        332   OCTAVE/GOLDEN (compound) ΓûêΓûêΓûê
+      ╧å/F         +-        312   GOLDEN/FOURTH (compound) ΓûêΓûêΓûê
+      ╧å/F         --        230   GOLDEN/FOURTH (compound) ΓûêΓûê
+
+  Γ£º INSIGHTS:
+    Most common harmonic: 2:1 (6548 bonds)
+    Same-spin bonds: 14289  |  Opposite-spin: 14858
+    ΓåÆ Spin balance suggests NO PREFERENCE (or balance required)
+
+ΓòöΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòù
+Γòæ           SPATIAL STRUCTURE ANALYSIS                       Γòæ
+Γòæ   Where bonds form ΓÇó What shapes emerge ΓÇó Unicorn check    Γòæ
+ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥
+
+  ≡ƒôè CONNECTIVITY (bond count per vortex):
+      Bonds   Vortices   Description
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+         3          2   forks (branching) 
+         6          1   6-hubs (hexagon/octahedron) 
+         8          1   super-connectors 
+        13          1   super-connectors 
+        14          2   super-connectors 
+        17          2   super-connectors 
+        18          3   super-connectors 
+        19          1   super-connectors 
+        20          1   super-connectors 
+        21          3   super-connectors 
+      ... and 195 more degree levels
+
+    Range: 3 to 297 bonds per vortex
+
+  ≡ƒöù CHAIN DETECTION:
+    Chain endpoints (degree 1): 0
+    Chain links (degree 2): 0
+
+  ≡ƒö╖ CLOSED SHAPES:
+    Triangles detected (sampled): 628395
+    ΓåÆ Triangles forming! This is STRUCTURE!
+
+  ≡ƒîÉ CLUSTER ANALYSIS (connected components):
+    Components found: 11
+    Average size: 44.9 vortices
+    Largest cluster: 101 vortices
+    Size distribution:
+      Singles: 6
+      Pairs: 0
+      Small (3-10): 0
+      Medium (11-50): 0
+      Large (50+): 5
+
+  ≡ƒôì 3D SPATIAL DISTRIBUTION:
+    Center of mass: (-3.9, 8.4, 6.7)
+    Spread (std dev): X=98.0, Y=93.4, Z=90.7
+    Shape anisotropy: 1.08
+    ΓåÆ Roughly SPHERICAL (isotropic)
+
+  Γ₧í∩╕Å BOND ORIENTATIONS (sample of 10000):
+    X-aligned: 1930 (19.3%)
+    Y-aligned: 1946 (19.5%)
+    Z-aligned: 1231 (12.3%)
+    ΓåÆ Some DIRECTIONAL preference detected!
+
+  ≡ƒªä UNICORN CHECK:
+    Found 490 super-hubs (10+ connections)
+    These could be the 'body' of larger structures!
+    No obvious unicorn shapes... yet.
+
+  ≡ƒîî FIELD STATE ANALYSIS (Three States of Reality):
+    ΓöîΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÉ
+    Γöé MATTER  = Field excited (vortices)    ΓåÆ Visible matter Γöé
+    Γöé VACUUM  = Field at rest (low tension) ΓåÆ Dark matter    Γöé
+    Γöé VOID    = No field exists (absence)   ΓåÆ Black holes    Γöé
+    ΓööΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÿ
+
+    Space: 12┬│ = 1728 cells (cell size: 58.5┬│)
+
+    ΓòöΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòù
+    Γòæ  STATE      CELLS      %       PHYSICAL ANALOG            Γòæ
+    ΓòáΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòú
+    Γòæ  ΓÜ¢∩╕Å  MATTER    192     11.1%    Visible matter (vortices)  Γòæ
+    Γòæ  ≡ƒî½∩╕Å  VACUUM   1279     74.0%    Dark matter (field at rest) Γòæ
+    Γòæ  ≡ƒò│∩╕Å  VOID      257     14.9%    Black holes (no field)      Γòæ
+    ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥
+    Peak density: 68 vortices in one cell
+
+    ≡ƒôè Comparison to observable universe:
+       Our simulation      Real universe
+       ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ   ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+       Matter:  11.1%       Ordinary matter: ~5%
+       Vacuum:  74.0%       Dark matter: ~27%
+       Void:    14.9%       Dark energy: ~68%
+
+    Dark-to-visible ratio: 8.0:1
+    ΓåÆ More dark than visible (universe-like)
+
+    ≡ƒò│∩╕Å VOID TOPOLOGY (potential black hole regions):
+       5 distinct void regions detected
+
+       Large void regions (ΓëÑ3 cells):
+         #1: 227 cells (13.1%) centered at (30, 59, -239)
+         #2: 11 cells (0.6%) centered at (-321, 237, 229)
+         #3: 10 cells (0.6%) centered at (-321, -297, 229)
+         #4: 8 cells (0.5%) centered at (264, -297, 229)
+
+  ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+  tick 2200 | 495.4 t/s | 495 vortices | 30104 pairs
+  tick 2400 | 470.8 t/s | 494 vortices | 30405 pairs
+  tick 2600 | 452.8 t/s | 493 vortices | 30718 pairs
+  tick 2800 | 438.0 t/s | 493 vortices | 31222 pairs
+
+ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+Γòæ  CHECKPOINT: Tick 3000 (423.1 ticks/sec)
+ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+GPU Field State (tick 3000)
+  Vortices: 493
+  Orbital pairs: 31758
+  Total energy: 1003.92
+  Merges: 7
+  Orbits formed: 33314
+
+ΓòöΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòù
+Γòæ               THE ALPHABET OF ENERGY                       Γòæ
+Γòæ   Bond types (pair-wise relationships) = primitive letters Γòæ
+ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥
+
+  BOND TYPES (the letters of energy's language):
+
+      Freq     Spin      Count   Meaning
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ   ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+      2:1         +-       1799   OCTAVE (parent-child) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      1:1         +-       1796   MIRROR (antimatter pair?) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      2:1         ++       1788   OCTAVE (parent-child) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      2:1         -+       1770   OCTAVE (parent-child) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      2:1         --       1769   OCTAVE (parent-child) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      1:1         -+       1741   MIRROR (antimatter pair?) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      4:3         --       1734   FOURTH (stable harmony) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      4:3         -+       1725   FOURTH (stable harmony) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      3:2         ++       1713   FIFTH (most consonant) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      1:1         --       1611   UNISON (identical twins) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      3:2         +-       1601   FIFTH (most consonant) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      4:3         +-       1591   FOURTH (stable harmony) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      1:1         ++       1533   UNISON (identical twins) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      3:2         --       1514   FIFTH (most consonant) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      4:3         ++       1513   FOURTH (stable harmony) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      3:2         -+       1499   FIFTH (most consonant) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      O/╧å         ++        570   OCTAVE/GOLDEN (compound) ΓûêΓûêΓûêΓûêΓûêΓûê
+      O/╧å         -+        508   OCTAVE/GOLDEN (compound) ΓûêΓûêΓûêΓûêΓûê
+      ╧å:1         +-        491   GOLDEN (growth spiral) ΓûêΓûêΓûêΓûêΓûê
+      O/╧å         +-        488   OCTAVE/GOLDEN (compound) ΓûêΓûêΓûêΓûêΓûê
+      ╧å/F         ++        446   GOLDEN/FOURTH (compound) ΓûêΓûêΓûêΓûê
+      ╧å:1         --        436   GOLDEN (growth spiral) ΓûêΓûêΓûêΓûê
+      ╧å:1         ++        404   GOLDEN (growth spiral) ΓûêΓûêΓûêΓûê
+      ╧å/F         -+        389   GOLDEN/FOURTH (compound) ΓûêΓûêΓûêΓûê
+      ╧å:1         -+        380   GOLDEN (growth spiral) ΓûêΓûêΓûêΓûê
+      O/╧å         --        358   OCTAVE/GOLDEN (compound) ΓûêΓûêΓûê
+      ╧å/F         +-        331   GOLDEN/FOURTH (compound) ΓûêΓûêΓûê
+      ╧å/F         --        259   GOLDEN/FOURTH (compound) ΓûêΓûê
+
+  Γ£º INSIGHTS:
+    Most common harmonic: 2:1 (7126 bonds)
+    Same-spin bonds: 15648  |  Opposite-spin: 16109
+    ΓåÆ Spin balance suggests NO PREFERENCE (or balance required)
+
+ΓòöΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòù
+Γòæ           SPATIAL STRUCTURE ANALYSIS                       Γòæ
+Γòæ   Where bonds form ΓÇó What shapes emerge ΓÇó Unicorn check    Γòæ
+ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥
+
+  ≡ƒôè CONNECTIVITY (bond count per vortex):
+      Bonds   Vortices   Description
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+         1          1   end points (chain ends) 
+         3          1   forks (branching) 
+         5          1   5-hubs (pentagon center) 
+        14          2   super-connectors 
+        15          1   super-connectors 
+        17          1   super-connectors 
+        18          4   super-connectors 
+        21          2   super-connectors 
+        22          1   super-connectors 
+        23          3   super-connectors 
+      ... and 202 more degree levels
+
+    Range: 1 to 329 bonds per vortex
+
+  ≡ƒöù CHAIN DETECTION:
+    Chain endpoints (degree 1): 1
+    Chain links (degree 2): 0
+    Sample of 1 chains:
+      Average length: 2.0 vortices
+      Longest chain: 2 vortices
+      Shortest chain: 2 vortices
+
+  ≡ƒö╖ CLOSED SHAPES:
+    Triangles detected (sampled): 822977
+    ΓåÆ Triangles forming! This is STRUCTURE!
+
+  ≡ƒîÉ CLUSTER ANALYSIS (connected components):
+    Components found: 7
+    Average size: 70.4 vortices
+    Largest cluster: 101 vortices
+    Size distribution:
+      Singles: 2
+      Pairs: 0
+      Small (3-10): 0
+      Medium (11-50): 0
+      Large (50+): 5
+
+  ≡ƒôì 3D SPATIAL DISTRIBUTION:
+    Center of mass: (-1.9, 5.0, 9.6)
+    Spread (std dev): X=120.9, Y=113.1, Z=105.6
+    Shape anisotropy: 1.15
+    ΓåÆ Roughly SPHERICAL (isotropic)
+
+  Γ₧í∩╕Å BOND ORIENTATIONS (sample of 10000):
+    X-aligned: 1786 (17.9%)
+    Y-aligned: 1979 (19.8%)
+    Z-aligned: 1458 (14.6%)
+    ΓåÆ Some DIRECTIONAL preference detected!
+
+  ≡ƒªä UNICORN CHECK:
+    Found 490 super-hubs (10+ connections)
+    These could be the 'body' of larger structures!
+    No obvious unicorn shapes... yet.
+
+  ≡ƒîî FIELD STATE ANALYSIS (Three States of Reality):
+    ΓöîΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÉ
+    Γöé MATTER  = Field excited (vortices)    ΓåÆ Visible matter Γöé
+    Γöé VACUUM  = Field at rest (low tension) ΓåÆ Dark matter    Γöé
+    Γöé VOID    = No field exists (absence)   ΓåÆ Black holes    Γöé
+    ΓööΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÿ
+
+    Space: 12┬│ = 1728 cells (cell size: 61.9┬│)
+
+    ΓòöΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòù
+    Γòæ  STATE      CELLS      %       PHYSICAL ANALOG            Γòæ
+    ΓòáΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòú
+    Γòæ  ΓÜ¢∩╕Å  MATTER    201     11.6%    Visible matter (vortices)  Γòæ
+    Γòæ  ≡ƒî½∩╕Å  VACUUM   1423     82.3%    Dark matter (field at rest) Γòæ
+    Γòæ  ≡ƒò│∩╕Å  VOID      104      6.0%    Black holes (no field)      Γòæ
+    ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥
+    Peak density: 52 vortices in one cell
+
+    ≡ƒôè Comparison to observable universe:
+       Our simulation      Real universe
+       ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ   ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+       Matter:  11.6%       Ordinary matter: ~5%
+       Vacuum:  82.3%       Dark matter: ~27%
+       Void:     6.0%       Dark energy: ~68%
+
+    Dark-to-visible ratio: 7.6:1
+    ΓåÆ More dark than visible (universe-like)
+
+    ≡ƒò│∩╕Å VOID TOPOLOGY (potential black hole regions):
+       9 distinct void regions detected
+
+       Large void regions (ΓëÑ3 cells):
+         #1: 39 cells (2.3%) centered at (-356, -361, 214)
+         #2: 21 cells (1.2%) centered at (-356, 260, 271)
+         #3: 15 cells (0.9%) centered at (263, -361, -240)
+         #4: 9 cells (0.5%) centered at (201, 260, 271)
+         #5: 7 cells (0.4%) centered at (-356, -361, -297)
+
+  ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+  tick 3200 | 396.9 t/s | 493 vortices | 32433 pairs
+  tick 3400 | 384.0 t/s | 493 vortices | 32946 pairs
+  tick 3600 | 379.8 t/s | 493 vortices | 33424 pairs
+  tick 3800 | 377.5 t/s | 493 vortices | 33834 pairs
+
+ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+Γòæ  CHECKPOINT: Tick 4000 (375.5 ticks/sec)
+ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+GPU Field State (tick 4000)
+  Vortices: 493
+  Orbital pairs: 34230
+  Total energy: 1003.92
+  Merges: 7
+  Orbits formed: 35786
+
+ΓòöΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòù
+Γòæ               THE ALPHABET OF ENERGY                       Γòæ
+Γòæ   Bond types (pair-wise relationships) = primitive letters Γòæ
+ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥
+
+  BOND TYPES (the letters of energy's language):
+
+      Freq     Spin      Count   Meaning
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ   ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+      2:1         +-       1940   OCTAVE (parent-child) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      2:1         --       1934   OCTAVE (parent-child) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      1:1         +-       1921   MIRROR (antimatter pair?) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      2:1         -+       1906   OCTAVE (parent-child) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      2:1         ++       1898   OCTAVE (parent-child) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      1:1         -+       1886   MIRROR (antimatter pair?) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      4:3         --       1883   FOURTH (stable harmony) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      4:3         -+       1854   FOURTH (stable harmony) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      3:2         ++       1842   FIFTH (most consonant) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      1:1         --       1746   UNISON (identical twins) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      3:2         +-       1708   FIFTH (most consonant) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      4:3         +-       1692   FOURTH (stable harmony) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      3:2         --       1672   FIFTH (most consonant) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      3:2         -+       1633   FIFTH (most consonant) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      1:1         ++       1632   UNISON (identical twins) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      4:3         ++       1612   FOURTH (stable harmony) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      O/╧å         ++        630   OCTAVE/GOLDEN (compound) ΓûêΓûêΓûêΓûêΓûêΓûê
+      O/╧å         -+        547   OCTAVE/GOLDEN (compound) ΓûêΓûêΓûêΓûêΓûê
+      O/╧å         +-        523   OCTAVE/GOLDEN (compound) ΓûêΓûêΓûêΓûêΓûê
+      ╧å:1         +-        519   GOLDEN (growth spiral) ΓûêΓûêΓûêΓûêΓûê
+      ╧å/F         ++        492   GOLDEN/FOURTH (compound) ΓûêΓûêΓûêΓûêΓûê
+      ╧å:1         --        471   GOLDEN (growth spiral) ΓûêΓûêΓûêΓûê
+      ╧å:1         ++        440   GOLDEN (growth spiral) ΓûêΓûêΓûêΓûê
+      ╧å:1         -+        423   GOLDEN (growth spiral) ΓûêΓûêΓûêΓûê
+      ╧å/F         -+        411   GOLDEN/FOURTH (compound) ΓûêΓûêΓûêΓûê
+      O/╧å         --        383   OCTAVE/GOLDEN (compound) ΓûêΓûêΓûê
+      ╧å/F         +-        357   GOLDEN/FOURTH (compound) ΓûêΓûêΓûê
+      ╧å/F         --        274   GOLDEN/FOURTH (compound) ΓûêΓûê
+
+  Γ£º INSIGHTS:
+    Most common harmonic: 2:1 (7678 bonds)
+    Same-spin bonds: 16909  |  Opposite-spin: 17320
+    ΓåÆ Spin balance suggests NO PREFERENCE (or balance required)
+
+ΓòöΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòù
+Γòæ           SPATIAL STRUCTURE ANALYSIS                       Γòæ
+Γòæ   Where bonds form ΓÇó What shapes emerge ΓÇó Unicorn check    Γòæ
+ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥
+
+  ≡ƒôè CONNECTIVITY (bond count per vortex):
+      Bonds   Vortices   Description
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+         1          1   end points (chain ends) 
+         3          1   forks (branching) 
+        14          1   super-connectors 
+        15          1   super-connectors 
+        17          1   super-connectors 
+        18          4   super-connectors 
+        21          1   super-connectors 
+        22          1   super-connectors 
+        23          1   super-connectors 
+        25          1   super-connectors 
+      ... and 212 more degree levels
+
+    Range: 1 to 347 bonds per vortex
+
+  ≡ƒöù CHAIN DETECTION:
+    Chain endpoints (degree 1): 1
+    Chain links (degree 2): 0
+    Sample of 1 chains:
+      Average length: 2.0 vortices
+      Longest chain: 2 vortices
+      Shortest chain: 2 vortices
+
+  ≡ƒö╖ CLOSED SHAPES:
+    Triangles detected (sampled): 1010331
+    ΓåÆ Triangles forming! This is STRUCTURE!
+
+  ≡ƒîÉ CLUSTER ANALYSIS (connected components):
+    Components found: 9
+    Average size: 54.9 vortices
+    Largest cluster: 101 vortices
+    Size distribution:
+      Singles: 4
+      Pairs: 0
+      Small (3-10): 0
+      Medium (11-50): 0
+      Large (50+): 5
+
+  ≡ƒôì 3D SPATIAL DISTRIBUTION:
+    Center of mass: (-0.2, 3.2, 15.0)
+    Spread (std dev): X=104.0, Y=93.2, Z=86.9
+    Shape anisotropy: 1.20
+    ΓåÆ Roughly SPHERICAL (isotropic)
+
+  Γ₧í∩╕Å BOND ORIENTATIONS (sample of 10000):
+    X-aligned: 1834 (18.3%)
+    Y-aligned: 1715 (17.1%)
+    Z-aligned: 1706 (17.1%)
+    ΓåÆ Some DIRECTIONAL preference detected!
+
+  ≡ƒªä UNICORN CHECK:
+    Found 492 super-hubs (10+ connections)
+    These could be the 'body' of larger structures!
+    No obvious unicorn shapes... yet.
+
+  ≡ƒîî FIELD STATE ANALYSIS (Three States of Reality):
+    ΓöîΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÉ
+    Γöé MATTER  = Field excited (vortices)    ΓåÆ Visible matter Γöé
+    Γöé VACUUM  = Field at rest (low tension) ΓåÆ Dark matter    Γöé
+    Γöé VOID    = No field exists (absence)   ΓåÆ Black holes    Γöé
+    ΓööΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÿ
+
+    Space: 12┬│ = 1728 cells (cell size: 60.7┬│)
+
+    ΓòöΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòù
+    Γòæ  STATE      CELLS      %       PHYSICAL ANALOG            Γòæ
+    ΓòáΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòú
+    Γòæ  ΓÜ¢∩╕Å  MATTER    184     10.6%    Visible matter (vortices)  Γòæ
+    Γòæ  ≡ƒî½∩╕Å  VACUUM   1247     72.2%    Dark matter (field at rest) Γòæ
+    Γòæ  ≡ƒò│∩╕Å  VOID      297     17.2%    Black holes (no field)      Γòæ
+    ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥
+    Peak density: 52 vortices in one cell
+
+    ≡ƒôè Comparison to observable universe:
+       Our simulation      Real universe
+       ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ   ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+       Matter:  10.6%       Ordinary matter: ~5%
+       Vacuum:  72.2%       Dark matter: ~27%
+       Void:    17.2%       Dark energy: ~68%
+
+    Dark-to-visible ratio: 8.4:1
+    ΓåÆ More dark than visible (universe-like)
+
+    ≡ƒò│∩╕Å VOID TOPOLOGY (potential black hole regions):
+       4 distinct void regions detected
+
+       Large void regions (ΓëÑ3 cells):
+         #1: 196 cells (11.3%) centered at (-177, -162, -209)
+         #2: 87 cells (5.0%) centered at (-117, 297, 185)
+         #3: 13 cells (0.8%) centered at (66, -359, 241)
+
+  ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+  tick 4200 | 362.9 t/s | 493 vortices | 34690 pairs
+  tick 4400 | 357.9 t/s | 492 vortices | 35227 pairs
+  tick 4600 | 352.8 t/s | 490 vortices | 36057 pairs
+  tick 4800 | 346.7 t/s | 490 vortices | 36857 pairs
+
+ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+Γòæ  CHECKPOINT: Tick 5000 (346.7 ticks/sec)
+ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+GPU Field State (tick 5000)
+  Vortices: 490
+  Orbital pairs: 37482
+  Total energy: 1003.92
+  Merges: 10
+  Orbits formed: 39913
+
+ΓòöΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòù
+Γòæ               THE ALPHABET OF ENERGY                       Γòæ
+Γòæ   Bond types (pair-wise relationships) = primitive letters Γòæ
+ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥
+
+  BOND TYPES (the letters of energy's language):
+
+      Freq     Spin      Count   Meaning
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ   ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+      1:1         -+       2130   MIRROR (antimatter pair?) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      2:1         --       2107   OCTAVE (parent-child) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      2:1         +-       2101   OCTAVE (parent-child) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      1:1         +-       2085   MIRROR (antimatter pair?) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      4:3         -+       2078   FOURTH (stable harmony) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      4:3         --       2066   FOURTH (stable harmony) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      2:1         -+       2061   OCTAVE (parent-child) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      2:1         ++       2023   OCTAVE (parent-child) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      3:2         ++       1997   FIFTH (most consonant) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      1:1         --       1906   UNISON (identical twins) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      3:2         +-       1861   FIFTH (most consonant) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      4:3         +-       1854   FOURTH (stable harmony) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      3:2         --       1811   FIFTH (most consonant) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      3:2         -+       1790   FIFTH (most consonant) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      4:3         ++       1782   FOURTH (stable harmony) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      1:1         ++       1761   UNISON (identical twins) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      O/╧å         ++        690   OCTAVE/GOLDEN (compound) ΓûêΓûêΓûêΓûêΓûêΓûê
+      O/╧å         +-        593   OCTAVE/GOLDEN (compound) ΓûêΓûêΓûêΓûêΓûê
+      O/╧å         -+        593   OCTAVE/GOLDEN (compound) ΓûêΓûêΓûêΓûêΓûê
+      ╧å:1         +-        592   GOLDEN (growth spiral) ΓûêΓûêΓûêΓûêΓûê
+      ╧å/F         ++        566   GOLDEN/FOURTH (compound) ΓûêΓûêΓûêΓûêΓûê
+      ╧å:1         --        500   GOLDEN (growth spiral) ΓûêΓûêΓûêΓûê
+      ╧å:1         ++        495   GOLDEN (growth spiral) ΓûêΓûêΓûêΓûê
+      ╧å:1         -+        476   GOLDEN (growth spiral) ΓûêΓûêΓûêΓûê
+      ╧å/F         -+        448   GOLDEN/FOURTH (compound) ΓûêΓûêΓûêΓûê
+      O/╧å         --        431   OCTAVE/GOLDEN (compound) ΓûêΓûêΓûêΓûê
+      ╧å/F         +-        396   GOLDEN/FOURTH (compound) ΓûêΓûêΓûê
+      ╧å/F         --        288   GOLDEN/FOURTH (compound) ΓûêΓûê
+
+  Γ£º INSIGHTS:
+    Most common harmonic: 2:1 (8292 bonds)
+    Same-spin bonds: 18423  |  Opposite-spin: 19058
+    ΓåÆ Spin balance suggests NO PREFERENCE (or balance required)
+
+ΓòöΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòù
+Γòæ           SPATIAL STRUCTURE ANALYSIS                       Γòæ
+Γòæ   Where bonds form ΓÇó What shapes emerge ΓÇó Unicorn check    Γòæ
+ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥
+
+  ≡ƒôè CONNECTIVITY (bond count per vortex):
+      Bonds   Vortices   Description
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+         1          1   end points (chain ends) 
+        16          1   super-connectors 
+        17          1   super-connectors 
+        18          2   super-connectors 
+        20          1   super-connectors 
+        21          1   super-connectors 
+        23          1   super-connectors 
+        26          2   super-connectors 
+        27          1   super-connectors 
+        28          2   super-connectors 
+      ... and 219 more degree levels
+
+    Range: 1 to 368 bonds per vortex
+
+  ≡ƒöù CHAIN DETECTION:
+    Chain endpoints (degree 1): 1
+    Chain links (degree 2): 0
+    Sample of 1 chains:
+      Average length: 2.0 vortices
+      Longest chain: 2 vortices
+      Shortest chain: 2 vortices
+
+  ≡ƒö╖ CLOSED SHAPES:
+    Triangles detected (sampled): 1232821
+    ΓåÆ Triangles forming! This is STRUCTURE!
+
+  ≡ƒîÉ CLUSTER ANALYSIS (connected components):
+    Components found: 7
+    Average size: 70.0 vortices
+    Largest cluster: 101 vortices
+    Size distribution:
+      Singles: 2
+      Pairs: 0
+      Small (3-10): 0
+      Medium (11-50): 0
+      Large (50+): 5
+
+  ≡ƒôì 3D SPATIAL DISTRIBUTION:
+    Center of mass: (1.2, 2.5, 15.6)
+    Spread (std dev): X=84.9, Y=76.7, Z=79.9
+    Shape anisotropy: 1.11
+    ΓåÆ Roughly SPHERICAL (isotropic)
+
+  Γ₧í∩╕Å BOND ORIENTATIONS (sample of 10000):
+    X-aligned: 1814 (18.1%)
+    Y-aligned: 1681 (16.8%)
+    Z-aligned: 1729 (17.3%)
+    ΓåÆ Some DIRECTIONAL preference detected!
+
+  ≡ƒªä UNICORN CHECK:
+    Found 489 super-hubs (10+ connections)
+    These could be the 'body' of larger structures!
+    No obvious unicorn shapes... yet.
+
+  ≡ƒîî FIELD STATE ANALYSIS (Three States of Reality):
+    ΓöîΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÉ
+    Γöé MATTER  = Field excited (vortices)    ΓåÆ Visible matter Γöé
+    Γöé VACUUM  = Field at rest (low tension) ΓåÆ Dark matter    Γöé
+    Γöé VOID    = No field exists (absence)   ΓåÆ Black holes    Γöé
+    ΓööΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÿ
+
+    Space: 12┬│ = 1728 cells (cell size: 57.5┬│)
+
+    ΓòöΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòù
+    Γòæ  STATE      CELLS      %       PHYSICAL ANALOG            Γòæ
+    ΓòáΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòú
+    Γòæ  ΓÜ¢∩╕Å  MATTER    177     10.2%    Visible matter (vortices)  Γòæ
+    Γòæ  ≡ƒî½∩╕Å  VACUUM   1223     70.8%    Dark matter (field at rest) Γòæ
+    Γòæ  ≡ƒò│∩╕Å  VOID      328     19.0%    Black holes (no field)      Γòæ
+    ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥
+    Peak density: 55 vortices in one cell
+
+    ≡ƒôè Comparison to observable universe:
+       Our simulation      Real universe
+       ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ   ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+       Matter:  10.2%       Ordinary matter: ~5%
+       Vacuum:  70.8%       Dark matter: ~27%
+       Void:    19.0%       Dark energy: ~68%
+
+    Dark-to-visible ratio: 8.8:1
+    ΓåÆ More dark than visible (universe-like)
+
+    ≡ƒò│∩╕Å VOID TOPOLOGY (potential black hole regions):
+       5 distinct void regions detected
+
+       Large void regions (ΓëÑ3 cells):
+         #1: 214 cells (12.4%) centered at (-65, 48, 166)
+         #2: 100 cells (5.8%) centered at (108, 98, -309)
+         #3: 11 cells (0.6%) centered at (-7, -256, 284)
+
+  ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+
+ΓòöΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòù
+Γòæ                  GPU SIMULATION COMPLETE                   Γòæ
+ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥
+
+GPU Field State (tick 5000)
+  Vortices: 490
+  Orbital pairs: 37482
+  Total energy: 1003.92
+  Merges: 10
+  Orbits formed: 39913
+
+ΓÅ▒∩╕Å  Total time: 14.66s (341.0 ticks/sec)
+
+ΓòöΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòù
+Γòæ               THE ALPHABET OF ENERGY                       Γòæ
+Γòæ   Bond types (pair-wise relationships) = primitive letters Γòæ
+ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥
+
+  BOND TYPES (the letters of energy's language):
+
+      Freq     Spin      Count   Meaning
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ   ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+      1:1         -+       2130   MIRROR (antimatter pair?) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      2:1         --       2107   OCTAVE (parent-child) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      2:1         +-       2101   OCTAVE (parent-child) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      1:1         +-       2085   MIRROR (antimatter pair?) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      4:3         -+       2078   FOURTH (stable harmony) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      4:3         --       2066   FOURTH (stable harmony) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      2:1         -+       2061   OCTAVE (parent-child) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      2:1         ++       2023   OCTAVE (parent-child) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      3:2         ++       1997   FIFTH (most consonant) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      1:1         --       1906   UNISON (identical twins) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      3:2         +-       1861   FIFTH (most consonant) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      4:3         +-       1854   FOURTH (stable harmony) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      3:2         --       1811   FIFTH (most consonant) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      3:2         -+       1790   FIFTH (most consonant) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      4:3         ++       1782   FOURTH (stable harmony) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      1:1         ++       1761   UNISON (identical twins) ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê
+      O/╧å         ++        690   OCTAVE/GOLDEN (compound) ΓûêΓûêΓûêΓûêΓûêΓûê
+      O/╧å         +-        593   OCTAVE/GOLDEN (compound) ΓûêΓûêΓûêΓûêΓûê
+      O/╧å         -+        593   OCTAVE/GOLDEN (compound) ΓûêΓûêΓûêΓûêΓûê
+      ╧å:1         +-        592   GOLDEN (growth spiral) ΓûêΓûêΓûêΓûêΓûê
+      ╧å/F         ++        566   GOLDEN/FOURTH (compound) ΓûêΓûêΓûêΓûêΓûê
+      ╧å:1         --        500   GOLDEN (growth spiral) ΓûêΓûêΓûêΓûê
+      ╧å:1         ++        495   GOLDEN (growth spiral) ΓûêΓûêΓûêΓûê
+      ╧å:1         -+        476   GOLDEN (growth spiral) ΓûêΓûêΓûêΓûê
+      ╧å/F         -+        448   GOLDEN/FOURTH (compound) ΓûêΓûêΓûêΓûê
+      O/╧å         --        431   OCTAVE/GOLDEN (compound) ΓûêΓûêΓûêΓûê
+      ╧å/F         +-        396   GOLDEN/FOURTH (compound) ΓûêΓûêΓûê
+      ╧å/F         --        288   GOLDEN/FOURTH (compound) ΓûêΓûê
+
+  Γ£º INSIGHTS:
+    Most common harmonic: 2:1 (8292 bonds)
+    Same-spin bonds: 18423  |  Opposite-spin: 19058
+    ΓåÆ Spin balance suggests NO PREFERENCE (or balance required)
+
+ΓòöΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòù
+Γòæ           SPATIAL STRUCTURE ANALYSIS                       Γòæ
+Γòæ   Where bonds form ΓÇó What shapes emerge ΓÇó Unicorn check    Γòæ
+ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥
+
+  ≡ƒôè CONNECTIVITY (bond count per vortex):
+      Bonds   Vortices   Description
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+         1          1   end points (chain ends) 
+        16          1   super-connectors 
+        17          1   super-connectors 
+        18          2   super-connectors 
+        20          1   super-connectors 
+        21          1   super-connectors 
+        23          1   super-connectors 
+        26          2   super-connectors 
+        27          1   super-connectors 
+        28          2   super-connectors 
+      ... and 219 more degree levels
+
+    Range: 1 to 368 bonds per vortex
+
+  ≡ƒöù CHAIN DETECTION:
+    Chain endpoints (degree 1): 1
+    Chain links (degree 2): 0
+    Sample of 1 chains:
+      Average length: 2.0 vortices
+      Longest chain: 2 vortices
+      Shortest chain: 2 vortices
+
+  ≡ƒö╖ CLOSED SHAPES:
+    Triangles detected (sampled): 1232821
+    ΓåÆ Triangles forming! This is STRUCTURE!
+
+  ≡ƒîÉ CLUSTER ANALYSIS (connected components):
+    Components found: 8
+    Average size: 61.2 vortices
+    Largest cluster: 101 vortices
+    Size distribution:
+      Singles: 3
+      Pairs: 0
+      Small (3-10): 0
+      Medium (11-50): 0
+      Large (50+): 5
+
+  ≡ƒôì 3D SPATIAL DISTRIBUTION:
+    Center of mass: (1.2, 2.5, 15.6)
+    Spread (std dev): X=84.9, Y=76.7, Z=79.9
+    Shape anisotropy: 1.11
+    ΓåÆ Roughly SPHERICAL (isotropic)
+
+  Γ₧í∩╕Å BOND ORIENTATIONS (sample of 10000):
+    X-aligned: 1814 (18.1%)
+    Y-aligned: 1681 (16.8%)
+    Z-aligned: 1729 (17.3%)
+    ΓåÆ Some DIRECTIONAL preference detected!
+
+  ≡ƒªä UNICORN CHECK:
+    Found 489 super-hubs (10+ connections)
+    These could be the 'body' of larger structures!
+    No obvious unicorn shapes... yet.
+
+  ≡ƒîî FIELD STATE ANALYSIS (Three States of Reality):
+    ΓöîΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÉ
+    Γöé MATTER  = Field excited (vortices)    ΓåÆ Visible matter Γöé
+    Γöé VACUUM  = Field at rest (low tension) ΓåÆ Dark matter    Γöé
+    Γöé VOID    = No field exists (absence)   ΓåÆ Black holes    Γöé
+    ΓööΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÿ
+
+    Space: 12┬│ = 1728 cells (cell size: 57.5┬│)
+
+    ΓòöΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòù
+    Γòæ  STATE      CELLS      %       PHYSICAL ANALOG            Γòæ
+    ΓòáΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòú
+    Γòæ  ΓÜ¢∩╕Å  MATTER    177     10.2%    Visible matter (vortices)  Γòæ
+    Γòæ  ≡ƒî½∩╕Å  VACUUM   1223     70.8%    Dark matter (field at rest) Γòæ
+    Γòæ  ≡ƒò│∩╕Å  VOID      328     19.0%    Black holes (no field)      Γòæ
+    ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥
+    Peak density: 55 vortices in one cell
+
+    ≡ƒôè Comparison to observable universe:
+       Our simulation      Real universe
+       ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ   ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+       Matter:  10.2%       Ordinary matter: ~5%
+       Vacuum:  70.8%       Dark matter: ~27%
+       Void:    19.0%       Dark energy: ~68%
+
+    Dark-to-visible ratio: 8.8:1
+    ΓåÆ More dark than visible (universe-like)
+
+    ≡ƒò│∩╕Å VOID TOPOLOGY (potential black hole regions):
+       5 distinct void regions detected
+
+       Large void regions (ΓëÑ3 cells):
+         #1: 214 cells (12.4%) centered at (-65, 48, 166)
+         #2: 100 cells (5.8%) centered at (108, 98, -309)
+         #3: 11 cells (0.6%) centered at (-7, -256, 284)
+
+  ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+
+ΓòöΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòù
+Γòæ              EXPORTING FOR VISUALIZATION                   Γòæ
+ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥
+  ≡ƒÆ╛ Exported 490 vortices to vortex_points_t5000.ply
+  ≡ƒöù Exported 37481 bonds to vortex_bonds_t5000.ply
+  ≡ƒôè Exported full data to vortex_data_t5000.csv
+
+  ≡ƒôé Open vortex_points_t5000.ply in:
+     ΓÇó MeshLab (free) - best for point clouds
+     ΓÇó CloudCompare (free) - great for large datasets
+     ΓÇó Blender (free) - import as PLY
+     ΓÇó Windows 3D Viewer (built-in)
+
+  ≡ƒöù Bonds are in vortex_bonds_t5000.ply (load separately)
+  ≡ƒôè Full data in vortex_data_t5000.csv
+
+Γ£º OBSERVATIONS:
+  - Started with 500 independent vortices
+  - Ended with 490 vortices (10 merged)
+  - 37482 orbital pairs formed (stable relationships)
+  ≡ƒîÇ MANY ORBITS FORMED - stable structures emerge from missed collisions!

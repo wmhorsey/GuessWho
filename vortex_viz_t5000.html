@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Vortex Field Visualization - Tick 5000</title>
+    <style>
+        body { margin: 0; overflow: hidden; background: #000; }
+        #info { 
+            position: absolute; top: 10px; left: 10px; 
+            color: #0ff; font-family: monospace; font-size: 14px;
+            background: rgba(0,0,0,0.7); padding: 10px; border-radius: 5px;
+        }
+        #controls {
+            position: absolute; bottom: 10px; left: 10px;
+            color: #fff; font-family: monospace; font-size: 12px;
+            background: rgba(0,0,0,0.7); padding: 10px; border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div id="info">Loading vortex field...</div>
+    <div id="controls">
+        🖱️ Drag to rotate | Scroll to zoom | Right-drag to pan<br>
+        🎨 Color = frequency | Size = energy | Lines = bonds
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+    <script>
+        // Scene setup
+        const scene = new THREE.Scene();
+        scene.background = new THREE.Color(0x000011);
+        
+        const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 10000);
+        camera.position.set(300, 300, 300);
+        
+        const renderer = new THREE.WebGLRenderer({ antialias: true });
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        document.body.appendChild(renderer.domElement);
+        
+        const controls = new THREE.OrbitControls(camera, renderer.domElement);
+        controls.enableDamping = true;
+        
+        // Frequency to color mapping (rainbow based on musical intervals)
+        function freqToColor(freq) {
+            const hue = (freq - 0.5) / 1.5;  // Map 0.5-2.0 to 0-1
+            return new THREE.Color().setHSL(hue * 0.8, 1.0, 0.5);
+        }
+        
+        // Load and render the vortex field
+        fetch('vortex_field_t5000.json')
+            .then(r => r.json())
+            .then(data => {
+                document.getElementById('info').innerHTML = 
+                    `<b>🌀 VORTEX FIELD - Tick 5000</b><br>` +
+                    `Vortices: ${data.vortices.length}<br>` +
+                    `Bonds: ${data.bonds.length}`;
+                
+                // Create vortex ID -> index map
+                const idToIdx = {};
+                const positions = [];
+                
+                // Create vortex spheres
+                data.vortices.forEach((v, i) => {
+                    idToIdx[v.id] = i;
+                    positions.push(new THREE.Vector3(v.x, v.y, v.z));
+                    
+                    const size = Math.max(1, v.energy * 0.5);
+                    const geometry = new THREE.SphereGeometry(size, 8, 8);
+                    const material = new THREE.MeshBasicMaterial({ 
+                        color: freqToColor(v.freq),
+                        transparent: true,
+                        opacity: 0.8
+                    });
+                    const sphere = new THREE.Mesh(geometry, material);
+                    sphere.position.set(v.x, v.y, v.z);
+                    scene.add(sphere);
+                });
+                
+                // Create bond lines
+                const bondGeometry = new THREE.BufferGeometry();
+                const bondPositions = [];
+                
+                data.bonds.forEach(bond => {
+                    const i1 = idToIdx[bond[0]];
+                    const i2 = idToIdx[bond[1]];
+                    if (i1 !== undefined && i2 !== undefined) {
+                        bondPositions.push(positions[i1].x, positions[i1].y, positions[i1].z);
+                        bondPositions.push(positions[i2].x, positions[i2].y, positions[i2].z);
+                    }
+                });
+                
+                bondGeometry.setAttribute('position', 
+                    new THREE.Float32BufferAttribute(bondPositions, 3));
+                
+                const bondMaterial = new THREE.LineBasicMaterial({ 
+                    color: 0x4488ff, 
+                    transparent: true, 
+                    opacity: 0.3 
+                });
+                const bonds = new THREE.LineSegments(bondGeometry, bondMaterial);
+                scene.add(bonds);
+                
+                // Add axes helper
+                const axes = new THREE.AxesHelper(100);
+                scene.add(axes);
+                
+                // Add ambient light glow
+                const ambientLight = new THREE.AmbientLight(0x404040);
+                scene.add(ambientLight);
+            });
+        
+        // Animation loop
+        function animate() {
+            requestAnimationFrame(animate);
+            controls.update();
+            renderer.render(scene, camera);
+        }
+        animate();
+        
+        // Handle resize
+        window.addEventListener('resize', () => {
+            camera.aspect = window.innerWidth / window.innerHeight;
+            camera.updateProjectionMatrix();
+            renderer.setSize(window.innerWidth, window.innerHeight);
+        });
+    </script>
+</body>
+</html>
